@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HackRadar India — Real-Time Indian Hackathon Tracker | Powered by TYC</title>
+  <meta name="description" content="Automated aggregator for upcoming hackathons across India. Real-time updates, online/offline venues, banner posters, prize pools, and deadline countdowns. Powered by TYC.">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="tyc-logo.png">
+  
+  <!-- Modern Typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+  
+  <!-- Lucide Icons CDN -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lucide-static@0.263.1/font/lucide.min.css">
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark-theme">
+  <!-- Dynamic Background Glow -->
+  <div class="bg-mesh" aria-hidden="true"></div>
+  <div class="bg-noise" aria-hidden="true"></div>
+  <div class="bg-grid" aria-hidden="true"></div>
+
+  <!-- Top Announcement Bar -->
+  <div class="announcement-bar">
+    <div class="announcement-content">
+      <span class="announcement-badge">NEW</span>
+      <span>🚀 Auto-synced from Devfolio, Unstop & Devpost every 6 hours — never miss a deadline</span>
+    </div>
+  </div>
+
+  <!-- Navigation Bar -->
+  <header class="navbar">
+    <div class="nav-container">
+      <div class="logo-group">
+        <img src="tyc-logo.png" alt="TYC Logo" class="tyc-logo-img">
+        <div class="logo-divider"></div>
+        <div class="logo-text">
+          <span class="logo-title">HackRadar<span class="india-badge">IN</span></span>
+          <span class="logo-sub">by TYC • India Hackathon Tracker</span>
+        </div>
+      </div>
+
+      <nav class="nav-center-links">
+        <a href="#" class="nav-link active">Dashboard</a>
+        <a href="#cardsGrid" class="nav-link">Events</a>
+        <a href="#" class="nav-link" id="syncNowLink">Sync</a>
+      </nav>
+
+      <div class="nav-actions">
+        <div class="sync-indicator" id="syncStatus">
+          <span class="sync-dot"></span>
+          <span class="sync-text">Live Synced</span>
+        </div>
+        <button class="btn-primary" id="openSubmitModalBtn">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+          <span>Submit Event</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section with Live Stats -->
+  <main class="main-wrapper">
+    <section class="hero-section">
+      <div class="hero-glow-orb hero-glow-1" aria-hidden="true"></div>
+      <div class="hero-glow-orb hero-glow-2" aria-hidden="true"></div>
+      
+      <div class="hero-badge">
+        <span class="badge-dot-pulse"></span>
+        <span>Live tracking active — updated every 6 hours</span>
+      </div>
+      <h1 class="hero-title">
+        Discover Every Major<br>Hackathon in <span class="gradient-text">India</span>
+      </h1>
+      <p class="hero-description">
+        The most comprehensive, auto-synced platform tracking coding competitions, college hackathons, and global virtual tracks across India — with real-time deadlines, venues, and prize pools.
+      </p>
+
+      <!-- CTA Buttons -->
+      <div class="hero-cta-group">
+        <a href="#cardsGrid" class="btn-hero-primary">
+          <span>Browse Hackathons</span>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+        </a>
+        <button class="btn-hero-secondary" onclick="document.getElementById('openSubmitModalBtn').click()">
+          <span>Submit Your Event</span>
+        </button>
+      </div>
+
+      <!-- Metric Cards / Live Counters -->
+      <div class="metrics-grid">
+        <div class="metric-card">
+          <div class="metric-icon-wrap metric-icon-blue">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
+          </div>
+          <span class="metric-val" id="totalCount">--</span>
+          <span class="metric-lbl">Active Hackathons</span>
+        </div>
+        <div class="metric-card">
+          <div class="metric-icon-wrap metric-icon-emerald">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+          </div>
+          <span class="metric-val" id="onlineCount">--</span>
+          <span class="metric-lbl">Virtual / Online</span>
+        </div>
+        <div class="metric-card">
+          <div class="metric-icon-wrap metric-icon-violet">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+          </div>
+          <span class="metric-val" id="offlineCount">--</span>
+          <span class="metric-lbl">In-Person Campuses</span>
+        </div>
+        <div class="metric-card">
+          <div class="metric-icon-wrap metric-icon-amber">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
+          </div>
+          <span class="metric-val" id="totalPrizeEst">₹1.5+ Cr</span>
+          <span class="metric-lbl">Combined Prize Pool</span>
+        </div>
+      </div>
+
+      <!-- Trusted By Section -->
+      <div class="trusted-by-section">
+        <span class="trusted-label">Aggregating from</span>
+        <div class="trusted-logos">
+          <span class="trusted-logo-pill">Devfolio</span>
+          <span class="trusted-logo-pill">Unstop</span>
+          <span class="trusted-logo-pill">Devpost</span>
+          <span class="trusted-logo-pill">Google DSC</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Controls & Filter Toolbar -->
+    <section class="controls-section" id="controls">
+      <div class="controls-header">
+        <h2 class="controls-title">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon></svg>
+          Filter & Search
+        </h2>
+      </div>
+      
+      <!-- Search Input -->
+      <div class="search-box-wrapper">
+        <span class="search-icon">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        </span>
+        <input 
+          type="text" 
+          id="searchInput" 
+          placeholder="Search by hackathon name, college (IIT, SRM, NIT), organizer, or tech stack..."
+          aria-label="Search hackathons"
+        >
+        <button class="clear-search-btn" id="clearSearchBtn" aria-label="Clear search">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+        </button>
+      </div>
+
+      <!-- Filter Rows -->
+      <div class="filter-row">
+        <!-- Mode Pills -->
+        <div class="mode-tabs" role="tablist" aria-label="Filter by Mode">
+          <button class="mode-tab active" data-mode="ALL">All Events</button>
+          <button class="mode-tab" data-mode="Online">🌐 Online</button>
+          <button class="mode-tab" data-mode="Offline">📍 In-Person</button>
+          <button class="mode-tab" data-mode="Hybrid">🔀 Hybrid</button>
+        </div>
+
+        <!-- Secondary Dropdowns -->
+        <div class="filter-dropdowns">
+          <div class="select-wrapper">
+            <select id="citySelect" aria-label="Filter by City">
+              <option value="ALL">All Cities & Regions</option>
+              <option value="Bengaluru">Bengaluru</option>
+              <option value="Hyderabad">Hyderabad</option>
+              <option value="Amaravati">Amaravati / AP</option>
+              <option value="Rourkela">Rourkela</option>
+              <option value="Gandhinagar">Gandhinagar</option>
+              <option value="Online">Online Only</option>
+            </select>
+            <span class="select-chevron">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+            </span>
+          </div>
+
+          <div class="select-wrapper">
+            <select id="sortSelect" aria-label="Sort Hackathons">
+              <option value="deadline_asc">⏰ Deadline: Urgent First</option>
+              <option value="start_asc">📅 Start Date: Nearest</option>
+              <option value="title_asc">🔤 Name: A to Z</option>
+            </select>
+            <span class="select-chevron">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tag Filter Pills -->
+      <div class="tags-container" id="tagsContainer">
+        <span class="tag-pill active" data-tag="ALL">All Tags</span>
+        <span class="tag-pill" data-tag="AI/ML">AI / ML</span>
+        <span class="tag-pill" data-tag="Web3">Web3 & DeFi</span>
+        <span class="tag-pill" data-tag="FinTech">FinTech</span>
+        <span class="tag-pill" data-tag="EdTech">EdTech</span>
+        <span class="tag-pill" data-tag="GovTech">GovTech & SIH</span>
+        <span class="tag-pill" data-tag="IoT">IoT & Cloud</span>
+        <span class="tag-pill" data-tag="Student Track">Students</span>
+      </div>
+    </section>
+
+    <!-- Hackathons Grid Display -->
+    <section class="events-section">
+      <div class="events-header">
+        <h2 class="section-title">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+          Available Competitions (<span id="resultsCount">0</span>)
+        </h2>
+        <div class="view-toggles">
+          <span class="active-filter-badge" id="activeFilterBadge" style="display:none;">Filtered</span>
+        </div>
+      </div>
+
+      <!-- Loading State -->
+      <div id="loadingState" class="state-card">
+        <div class="spinner"></div>
+        <p>Fetching real-time hackathon data from Indian platforms...</p>
+      </div>
+
+      <!-- Empty State -->
+      <div id="emptyState" class="state-card" style="display:none;">
+        <span class="empty-icon">🔎</span>
+        <h3>No matching hackathons found</h3>
+        <p>Try clearing your filters or search keyword to see all available opportunities.</p>
+        <button class="btn-secondary" id="resetFiltersBtn">Reset All Filters</button>
+      </div>
+
+      <!-- Card Grid -->
+      <div class="cards-grid" id="cardsGrid">
+        <!-- Rendered via JavaScript -->
+      </div>
+    </section>
+  </main>
+
+  <!-- Submit Event Modal -->
+  <div class="modal-backdrop" id="submitModal" aria-hidden="true">
+    <div class="modal-dialog" role="dialog" aria-modal="true">
+      <div class="modal-header">
+        <div>
+          <h3 class="modal-title">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+            Submit a Hackathon
+          </h3>
+          <p class="modal-subtitle">Organizing a college or community hackathon? Get listed on HackRadar.</p>
+        </div>
+        <button class="close-modal-btn" id="closeSubmitModalBtn">&times;</button>
+      </div>
+      
+      <form id="submitEventForm" class="modal-form">
+        <div class="form-group">
+          <label for="eventTitle">Event Title *</label>
+          <input type="text" id="eventTitle" placeholder="e.g. HackOdisha 2026" required>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label for="eventOrganizer">Organizer / University *</label>
+            <input type="text" id="eventOrganizer" placeholder="e.g. SRM University AP / NIT" required>
+          </div>
+          <div class="form-group">
+            <label for="eventMode">Mode *</label>
+            <select id="eventMode" required>
+              <option value="Online">Online / Virtual</option>
+              <option value="Offline">In-Person (Offline)</option>
+              <option value="Hybrid">Hybrid</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="eventVenue">Venue Address / Location *</label>
+          <input type="text" id="eventVenue" placeholder="e.g. University Campus, Amaravati, AP or Virtual Platform" required>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label for="eventDeadline">Registration Deadline *</label>
+            <input type="date" id="eventDeadline" required>
+          </div>
+          <div class="form-group">
+            <label for="eventPrize">Prize Pool</label>
+            <input type="text" id="eventPrize" placeholder="e.g. ₹2,00,000">
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="eventBanner">Poster / Banner Image URL</label>
+          <input type="url" id="eventBanner" placeholder="https://example.com/banner.png">
+        </div>
+
+        <div class="form-group">
+          <label for="eventUrl">Registration / Website Link *</label>
+          <input type="url" id="eventUrl" placeholder="https://hackathon.devfolio.co" required>
+        </div>
+
+        <div class="modal-actions">
+          <button type="button" class="btn-secondary" id="cancelSubmitModalBtn">Cancel</button>
+          <button type="submit" class="btn-primary">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+            Submit for Review
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="toast"></div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-container">
+      <div class="footer-brand">
+        <img src="tyc-logo.png" alt="TYC Logo" class="footer-logo">
+        <div class="footer-brand-text">
+          <span class="footer-brand-title">HackRadar India</span>
+          <span class="footer-brand-sub">Powered by TYC</span>
+        </div>
+      </div>
+      <p class="footer-copy">© 2026 HackRadar India. Automated open aggregator for developers, engineers, and students.</p>
+      <div class="footer-links">
+        <a href="https://github.com" target="_blank" rel="noopener">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+          GitHub
+        </a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
