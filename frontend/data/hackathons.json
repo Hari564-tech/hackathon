@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-21T15:45:36.048915+00:00",
-  "total_count": 29,
+  "last_synced_at": "2026-08-21T18:24:37.856333+00:00",
+  "total_count": 34,
   "hackathons": [
     {
       "source": "Unstop",
@@ -52,6 +52,25 @@
       "start_date": null,
       "end_date": "2026-08-28T00:00:00+05:30",
       "deadline": "2026-08-28T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-product-hackathon-product-space-1742507",
+      "title": "AI Product Hackathon",
+      "organizer": "Product Space",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8837376b670_ai_product_hackathon_post.png",
+      "start_date": null,
+      "end_date": "2026-08-30T23:59:00+05:30",
+      "deadline": "2026-08-30T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -252,6 +271,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/data-analytics-hackathon-gradient-1742481",
+      "title": "Data Analytics Hackathon",
+      "organizer": "Gradient Learnings",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8827a099c60_ai_product_hackathon_post_02_1.png",
+      "start_date": null,
+      "end_date": "2026-09-07T14:00:00+05:30",
+      "deadline": "2026-09-07T14:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/identity-under-attack-amrita-vishwa-vidyapeetham-avv-chennai-1736594",
       "title": "Identity under Attack",
       "organizer": "Amrita Vishwa Vidyapeetham (AVV), Chennai",
@@ -412,10 +450,29 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a87e1784a993_organisation_image-h1hlrAIK6Y1539650042r4300g5nuQ.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a887a0822fb9_organisation_image-h1hlrAIK6Y1539650042r4300g5nuQ.png",
       "start_date": null,
       "end_date": "2026-09-20T01:53:42+05:30",
       "deadline": "2026-09-20T01:53:42+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/eureka-x-devengers-devengers-1740270",
+      "title": "Eureka x Devengers",
+      "organizer": "Devengers",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a855c678b55d_devengers_nec_logo.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-22T23:59:00+05:30",
+      "deadline": "2026-09-22T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -460,6 +517,25 @@
         "Cloud Native",
         "EdTech",
         "IoT"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codearambh-20-24-hour-national-level-hackathon-dare-to-code-dare-to-create-hi-tech-institute-of-engineering-a-1742494",
+      "title": "Codearambh 2.0 – 24-Hour National-Level Hackathon: Dare to Code, Dare to Create",
+      "organizer": "HI-Tech Institute Of Engineering And Technology (HIET), Ghaziabad",
+      "mode": "Offline",
+      "venue_address": "HI-Tech Institute Of Engineering And Technology (HIET), Ghaziabad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8837a0ea46b_6a88318004473_organisation_image-mnlzhvmpnt1497287694moljr4p8zk.webp",
+      "start_date": null,
+      "end_date": "2026-09-30T23:59:00+05:30",
+      "deadline": "2026-09-30T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
@@ -519,6 +595,25 @@
         "Google Cloud",
         "UN SDGs",
         "Mobile/Flutter"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/horizon-hoollow-1726596",
+      "title": "Horizon",
+      "organizer": "Hoollow",
+      "mode": "Offline",
+      "venue_address": "Hoollow, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a67344a596fa_hoollow-white-logo-with-black-bg.png",
+      "start_date": null,
+      "end_date": "2026-10-19T10:00:00+05:30",
+      "deadline": "2026-10-19T10:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
