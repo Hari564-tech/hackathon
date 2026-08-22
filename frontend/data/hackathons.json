@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-22T00:45:44.278779+00:00",
+  "last_synced_at": "2026-08-22T06:25:11.669182+00:00",
   "total_count": 38,
   "hackathons": [
     {
@@ -163,6 +163,25 @@
       "venue_address": "Thakur Ramnarayan College of Arts and Commerce, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a85908b4aeee_screenshot_2026-08-19_164601.png",
+      "start_date": null,
+      "end_date": "2026-09-02T00:00:00+05:30",
+      "deadline": "2026-09-02T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/eureka-x-devengers-devengers-1740270",
+      "title": "Eureka x Devengers",
+      "organizer": "Devengers",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a855c678b55d_devengers_nec_logo.jpeg",
       "start_date": null,
       "end_date": "2026-09-02T00:00:00+05:30",
       "deadline": "2026-09-02T00:00:00+05:30",
@@ -511,25 +530,6 @@
       "start_date": null,
       "end_date": "2026-09-20T01:53:42+05:30",
       "deadline": "2026-09-20T01:53:42+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/eureka-x-devengers-devengers-1740270",
-      "title": "Eureka x Devengers",
-      "organizer": "Devengers",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a855c678b55d_devengers_nec_logo.jpeg",
-      "start_date": null,
-      "end_date": "2026-09-22T23:59:00+05:30",
-      "deadline": "2026-09-22T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
