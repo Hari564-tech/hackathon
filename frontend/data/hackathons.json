@@ -1,26 +1,7 @@
 {
-  "last_synced_at": "2026-08-21T18:24:37.856333+00:00",
-  "total_count": 34,
+  "last_synced_at": "2026-08-22T00:45:44.278779+00:00",
+  "total_count": 38,
   "hackathons": [
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/cloudforge-atal-bihari-vajpayee-indian-institute-of-information-technology-and-management-1741840",
-      "title": "Cloudforge",
-      "organizer": "Atal Bihari Vajpayee-Indian Institute of Information Technology and Management",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a86fa596ea40_aws_student_builder_group_1.png",
-      "start_date": null,
-      "end_date": "2026-08-23T00:01:00+05:30",
-      "deadline": "2026-08-23T00:01:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/deepsprint-hackathon-chennai-insitute-of-technology-1742000",
@@ -68,6 +49,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8837376b670_ai_product_hackathon_post.png",
+      "start_date": null,
+      "end_date": "2026-08-30T23:59:00+05:30",
+      "deadline": "2026-08-30T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-o-fiesta-prelims-vellore-institute-of-technology-vit-chennai-1742593",
+      "title": "Code O' Fiesta Prelims",
+      "organizer": "Vellore Institute of Technology (VIT), Chennai",
+      "mode": "Offline",
+      "venue_address": "Vellore Institute of Technology (VIT), Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a88a5736b68d_codechef_logo.png",
       "start_date": null,
       "end_date": "2026-08-30T23:59:00+05:30",
       "deadline": "2026-08-30T23:59:00+05:30",
@@ -137,6 +137,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/innovation-unbound-prelims-vellore-institute-of-technology-vit-chennai-1742601",
+      "title": "Innovation Unbound Prelims",
+      "organizer": "Vellore Institute of Technology (VIT), Chennai",
+      "mode": "Offline",
+      "venue_address": "Vellore Institute of Technology (VIT), Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a88a568841e3_codechef_logo.png",
+      "start_date": null,
+      "end_date": "2026-08-31T23:59:00+05:30",
+      "deadline": "2026-08-31T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/the-agents-bounty-ai-agent-build-challenge-thakur-ramnarayan-college-of-arts-and-commerce-1740490",
       "title": "The Agents' Bounty – AI Agent Build Challenge",
       "organizer": "Thakur Ramnarayan College of Arts and Commerce",
@@ -163,6 +182,25 @@
       "venue_address": "Concept2Action, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a86e02562d69_c2a_logo_final_svg_1200x800.png",
+      "start_date": null,
+      "end_date": "2026-09-03T00:00:00+05:30",
+      "deadline": "2026-09-03T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/innov8-40-a-hackathon-by-eightfold-ai-x-aries-iit-delhi-iit-delhi-1742230",
+      "title": "Innov8 4.0: A Hackathon by Eightfold Ai X Aries IIT Delhi",
+      "organizer": "Indian Institute of Technology (IIT), Delhi",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a88a84e5d0f3_IIT_Delhi.jpg",
       "start_date": null,
       "end_date": "2026-09-03T00:00:00+05:30",
       "deadline": "2026-09-03T00:00:00+05:30",
@@ -248,6 +286,25 @@
         "Web3",
         "FinTech",
         "Student Track"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cloudforge-atal-bihari-vajpayee-indian-institute-of-information-technology-and-management-1741840",
+      "title": "Cloudforge",
+      "organizer": "Atal Bihari Vajpayee-Indian Institute of Information Technology and Management",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a86fa596ea40_aws_student_builder_group_1.png",
+      "start_date": null,
+      "end_date": "2026-09-06T12:00:00+05:30",
+      "deadline": "2026-09-06T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
@@ -473,6 +530,25 @@
       "start_date": null,
       "end_date": "2026-09-22T23:59:00+05:30",
       "deadline": "2026-09-22T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackronyx-20-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1741857",
+      "title": "HackRonyX 2.0",
+      "organizer": "St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur",
+      "mode": "Offline",
+      "venue_address": "St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8699258a3a6_2.png",
+      "start_date": null,
+      "end_date": "2026-09-27T13:00:00+05:30",
+      "deadline": "2026-09-27T13:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
