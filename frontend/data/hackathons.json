@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-22T12:22:08.082169+00:00",
-  "total_count": 46,
+  "last_synced_at": "2026-08-22T18:17:22.573733+00:00",
+  "total_count": 49,
   "hackathons": [
     {
       "source": "Unstop",
@@ -539,6 +539,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/turtlebot-pursuit-evasion-challenge-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742795",
+      "title": "TurtleBot Pursuit & Evasion Challenge",
+      "organizer": "Indian Institute Of Technology Bhubaneswar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8949633f710_screenshot_2026-08-22_110856.png",
+      "start_date": null,
+      "end_date": "2026-09-13T23:59:00+05:30",
+      "deadline": "2026-09-13T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cadathon-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742714",
+      "title": "CADathon",
+      "organizer": "Indian Institute Of Technology Bhubaneswar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a89483a4c4f7_screenshot_2026-08-22_110856.png",
+      "start_date": null,
+      "end_date": "2026-09-13T23:59:00+05:30",
+      "deadline": "2026-09-13T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ec-council-hackai-challenge-racex360-reva-academy-for-corporate-excellence-bangalore-karnataka-1739884",
       "title": "EC-Council HackAI Challenge: RACEx360",
       "organizer": "REVA Academy for Corporate Excellence, Bangalore, Karnataka",
@@ -856,6 +894,25 @@
       "start_date": null,
       "end_date": "2026-11-01T10:00:00+05:30",
       "deadline": "2026-11-01T10:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/agentic-ai-hackathon-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742838",
+      "title": "Agentic AI Hackathon",
+      "organizer": "Indian Institute Of Technology Bhubaneswar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a895df91880a_screenshot_2026-08-22_110856.png",
+      "start_date": null,
+      "end_date": "2026-11-01T23:59:00+05:30",
+      "deadline": "2026-11-01T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
