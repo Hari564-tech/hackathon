@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-23T06:26:46.416952+00:00",
-  "total_count": 49,
+  "last_synced_at": "2026-08-23T12:22:49.086157+00:00",
+  "total_count": 53,
   "hackathons": [
     {
       "source": "Unstop",
@@ -307,6 +307,25 @@
       ]
     },
     {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code2create-70-gravitas26-vit-vellore-1736086",
+      "title": "Code2Create 7.0",
+      "organizer": "Vellore Institute of Technology (VIT), Vellore",
+      "mode": "Offline",
+      "venue_address": "Vellore Institute of Technology (VIT), Vellore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7f728a5f891_c2c.png",
+      "start_date": null,
+      "end_date": "2026-09-05T23:59:00+05:30",
+      "deadline": "2026-09-05T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
       "source": "Devfolio",
       "source_url": "https://hackodisha.devfolio.co",
       "title": "HackOdisha 5.0",
@@ -335,6 +354,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a86fa596ea40_aws_student_builder_group_1.png",
+      "start_date": null,
+      "end_date": "2026-09-06T12:00:00+05:30",
+      "deadline": "2026-09-06T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/init26-hackathon-mukesh-patel-college-of-engineering-and-management-mpstme-1743123",
+      "title": "INIT'26 - Hackathon",
+      "organizer": "Mukesh Patel college of engineering and management, (MPSTME )",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8aaf14eee91_screenshot_2026-08-23_135748.png",
       "start_date": null,
       "end_date": "2026-09-06T12:00:00+05:30",
       "deadline": "2026-09-06T12:00:00+05:30",
@@ -577,6 +615,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codearena-2026-quizcred-1742930",
+      "title": "CodeArena 2026",
+      "organizer": "QuizCred",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8ab473989b8_organisation_image-2Pxi1Ngubr1605046168sLrAlIJLK.png",
+      "start_date": null,
+      "end_date": "2026-09-15T17:49:00+05:30",
+      "deadline": "2026-09-15T17:49:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ec-council-hackai-challenge-racex360-reva-academy-for-corporate-excellence-bangalore-karnataka-1739884",
       "title": "EC-Council HackAI Challenge: RACEx360",
       "organizer": "REVA Academy for Corporate Excellence, Bangalore, Karnataka",
@@ -625,6 +682,25 @@
       "start_date": null,
       "end_date": "2026-09-20T01:53:42+05:30",
       "deadline": "2026-09-20T01:53:42+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/stjudes-code-arena-st-judes-public-schoolsjps-nilgiris-1743110",
+      "title": "St.Jude's Code Arena",
+      "organizer": "St. Jude's Public School(SJPS), Nilgiris",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8aa04c36122_images_4.png",
+      "start_date": null,
+      "end_date": "2026-09-20T12:45:00+05:30",
+      "deadline": "2026-09-20T12:45:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
