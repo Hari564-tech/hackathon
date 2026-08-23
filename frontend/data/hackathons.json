@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-23T12:22:49.086157+00:00",
-  "total_count": 53,
+  "last_synced_at": "2026-08-23T18:17:48.818313+00:00",
+  "total_count": 56,
   "hackathons": [
     {
       "source": "Unstop",
@@ -423,6 +423,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/anveshan26-24-hr-hackathon-amrita-vishwa-vidyapeetham-avv-chennai-1736358",
+      "title": "Anveshan'26 -  24 Hr Hackathon",
+      "organizer": "Amrita Vishwa Vidyapeetham (AVV), Chennai",
+      "mode": "Offline",
+      "venue_address": "Amrita Vishwa Vidyapeetham (AVV), Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7eb51276826_acn_logo_black.png",
+      "start_date": null,
+      "end_date": "2026-09-08T12:00:00+05:30",
+      "deadline": "2026-09-08T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/identity-under-attack-amrita-vishwa-vidyapeetham-avv-chennai-1736594",
       "title": "Identity under Attack",
       "organizer": "Amrita Vishwa Vidyapeetham (AVV), Chennai",
@@ -644,6 +663,25 @@
       "start_date": null,
       "end_date": "2026-09-17T00:00:00+05:30",
       "deadline": "2026-09-17T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/fusion-x-10-24-hour-hackathon-paavai-engineering-college-pec-namakkal-1743196",
+      "title": "FUSION X 1.0 – 24-Hour Hackathon",
+      "organizer": "Paavai Engineering College (PEC), Namakkal",
+      "mode": "Offline",
+      "venue_address": "Paavai Engineering College (PEC), Namakkal, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8b064ca6db9_",
+      "start_date": null,
+      "end_date": "2026-09-19T09:00:00+05:30",
+      "deadline": "2026-09-19T09:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -1014,6 +1052,25 @@
         "Solidity",
         "Zero Knowledge",
         "DeFi"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/slay-ctf-jalpaiguri-government-engineering-college-jgec-west-bengal-1743206",
+      "title": "Slay CTF",
+      "organizer": "Jalpaiguri Government Engineering College (JGEC), West Bengal",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8b03df4dd32_logo1.png",
+      "start_date": null,
+      "end_date": "2026-11-30T00:00:00+05:30",
+      "deadline": "2026-11-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     }
   ]
