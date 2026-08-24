@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-24T12:31:54.192133+00:00",
-  "total_count": 60,
+  "last_synced_at": "2026-08-24T18:28:40.496461+00:00",
+  "total_count": 63,
   "hackathons": [
     {
       "source": "Unstop",
@@ -105,7 +105,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8b479ee56bf_organisation_image-OtLUMwtowX727546308ousYksA6qi.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8c815ac6f32_organisation_image-OtLUMwtowX727546308ousYksA6qi.png",
       "start_date": null,
       "end_date": "2026-08-30T23:59:00+05:30",
       "deadline": "2026-08-30T23:59:00+05:30",
@@ -296,6 +296,25 @@
       "venue_address": "KPR Institute of Engineering and Technology Coimbatore, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a87d7cd28f82_kpriet-logo.png",
+      "start_date": null,
+      "end_date": "2026-09-04T00:00:00+05:30",
+      "deadline": "2026-09-04T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/buildsprint-latentforceai-1742504",
+      "title": "BuildSprint",
+      "organizer": "LatentForce.ai",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8c20a010d75_buildsprint.png",
       "start_date": null,
       "end_date": "2026-09-04T00:00:00+05:30",
       "deadline": "2026-09-04T00:00:00+05:30",
@@ -653,6 +672,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-quest-2026-21-day-competitive-coding-challenge-k-j-somaiya-institute-of-technology-kjsit-1743505",
+      "title": "Code Quest 2026 – 21-Day Competitive Coding Challenge",
+      "organizer": "K. J. Somaiya Institute of Technology (KJSIT)",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8c06df030ec_chatgpt_image_aug_24_2026_02_24_29_pm.png",
+      "start_date": null,
+      "end_date": "2026-09-13T00:00:00+05:30",
+      "deadline": "2026-09-13T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/the-frontend-odyssey-2026-frontend-arena-1740316",
       "title": "The Frontend Odyssey 2026",
       "organizer": "Frontend Arena",
@@ -663,44 +701,6 @@
       "start_date": null,
       "end_date": "2026-09-13T10:01:00+05:30",
       "deadline": "2026-09-13T10:01:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/turtlebot-pursuit-evasion-challenge-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742795",
-      "title": "TurtleBot Pursuit & Evasion Challenge",
-      "organizer": "Indian Institute Of Technology Bhubaneswar",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8949633f710_screenshot_2026-08-22_110856.png",
-      "start_date": null,
-      "end_date": "2026-09-13T23:59:00+05:30",
-      "deadline": "2026-09-13T23:59:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/cadathon-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742714",
-      "title": "CADathon",
-      "organizer": "Indian Institute Of Technology Bhubaneswar",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a89483a4c4f7_screenshot_2026-08-22_110856.png",
-      "start_date": null,
-      "end_date": "2026-09-13T23:59:00+05:30",
-      "deadline": "2026-09-13T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -767,25 +767,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/graviton-iste-cgc-university-1742794",
-      "title": "Graviton",
-      "organizer": "ISTE CGC UNIVERSITY",
-      "mode": "Offline",
-      "venue_address": "ISTE CGC UNIVERSITY, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a89eae4560f3_graviton_logo.png",
-      "start_date": null,
-      "end_date": "2026-09-20T00:00:00+05:30",
-      "deadline": "2026-09-20T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/elucode-2-edulinkup-1740124",
       "title": "ELUCode-2",
       "organizer": "EduLinkUp",
@@ -815,6 +796,25 @@
       "start_date": null,
       "end_date": "2026-09-20T12:45:00+05:30",
       "deadline": "2026-09-20T12:45:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/yc-fall-2026-x-moss-the-zero-latency-builder-sprint-hidevs-1743636",
+      "title": "YC Fall 2026 x Moss: The Zero Latency Builder Sprint",
+      "organizer": "HiDevs",
+      "mode": "Offline",
+      "venue_address": "HiDevs, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8c35963b498_99275b4d-caa5-46d9-8c5b-eeb00cf9c7c5_1.jpg",
+      "start_date": null,
+      "end_date": "2026-09-26T18:00:00+05:30",
+      "deadline": "2026-09-26T18:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -978,6 +978,25 @@
       ]
     },
     {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/graviton-iste-cgc-university-1742794",
+      "title": "Graviton",
+      "organizer": "ISTE CGC UNIVERSITY",
+      "mode": "Offline",
+      "venue_address": "ISTE CGC UNIVERSITY, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a89eae4560f3_graviton_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-20T00:00:00+05:30",
+      "deadline": "2026-10-20T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
       "source": "Devfolio",
       "source_url": "https://hackthisfall.devfolio.co",
       "title": "Hack This Fall 2026",
@@ -1027,6 +1046,44 @@
       "start_date": null,
       "end_date": "2026-10-31T22:15:00+05:30",
       "deadline": "2026-10-31T22:15:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/turtlebot-pursuit-evasion-challenge-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742795",
+      "title": "TurtleBot Pursuit & Evasion Challenge",
+      "organizer": "Indian Institute Of Technology Bhubaneswar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8949633f710_screenshot_2026-08-22_110856.png",
+      "start_date": null,
+      "end_date": "2026-11-01T10:00:00+05:30",
+      "deadline": "2026-11-01T10:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cadathon-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742714",
+      "title": "CADathon",
+      "organizer": "Indian Institute Of Technology Bhubaneswar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a89483a4c4f7_screenshot_2026-08-22_110856.png",
+      "start_date": null,
+      "end_date": "2026-11-01T10:00:00+05:30",
+      "deadline": "2026-11-01T10:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -1138,7 +1195,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8b03df4dd32_logo1.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8c5d2835449_logo1.png",
       "start_date": null,
       "end_date": "2026-11-30T00:00:00+05:30",
       "deadline": "2026-11-30T00:00:00+05:30",
