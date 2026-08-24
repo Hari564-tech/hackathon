@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-23T18:17:48.818313+00:00",
-  "total_count": 56,
+  "last_synced_at": "2026-08-24T00:48:05.318392+00:00",
+  "total_count": 57,
   "hackathons": [
     {
       "source": "Unstop",
@@ -87,6 +87,25 @@
       "venue_address": "Vellore Institute of Technology (VIT), Chennai, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a88a5736b68d_codechef_logo.png",
+      "start_date": null,
+      "end_date": "2026-08-30T23:59:00+05:30",
+      "deadline": "2026-08-30T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-minute-lv8-tech-video-editor-hackathon-lv8-tech-1743164",
+      "title": "The Minute - LV8 Tech Video Editor Hackathon",
+      "organizer": "LV8 Tech",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8b479ee56bf_organisation_image-OtLUMwtowX727546308ousYksA6qi.png",
       "start_date": null,
       "end_date": "2026-08-30T23:59:00+05:30",
       "deadline": "2026-08-30T23:59:00+05:30",
