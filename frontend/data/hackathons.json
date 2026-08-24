@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-24T06:39:51.945571+00:00",
-  "total_count": 59,
+  "last_synced_at": "2026-08-24T12:31:54.192133+00:00",
+  "total_count": 60,
   "hackathons": [
     {
       "source": "Unstop",
@@ -280,6 +280,25 @@
       "start_date": null,
       "end_date": "2026-09-03T15:47:00+05:30",
       "deadline": "2026-09-03T15:47:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-the-horizon-20-24-hour-hackathon-hack-the-horizon-20-24-hour-hackathon-kpr-institute-of-engineering-and--1742320",
+      "title": "Hack The Horizon 2.0 – 24-Hour Hackathon",
+      "organizer": "KPR Institute of Engineering and Technology Coimbatore",
+      "mode": "Offline",
+      "venue_address": "KPR Institute of Engineering and Technology Coimbatore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a87d7cd28f82_kpriet-logo.png",
+      "start_date": null,
+      "end_date": "2026-09-04T00:00:00+05:30",
+      "deadline": "2026-09-04T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -735,7 +754,7 @@
       "mode": "Offline",
       "venue_address": "Paavai Engineering College (PEC), Namakkal, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8b064ca6db9_",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8c26ba4a155_",
       "start_date": null,
       "end_date": "2026-09-19T09:00:00+05:30",
       "deadline": "2026-09-19T09:00:00+05:30",
