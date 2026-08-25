@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-25T00:47:33.216723+00:00",
-  "total_count": 67,
+  "last_synced_at": "2026-08-25T06:32:16.627907+00:00",
+  "total_count": 68,
   "hackathons": [
     {
       "source": "Unstop",
@@ -720,6 +720,25 @@
       "start_date": null,
       "end_date": "2026-09-13T10:01:00+05:30",
       "deadline": "2026-09-13T10:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/anakin-forge-hackathon-anakin-skywalker-pvt-ltd-1742485",
+      "title": "Anakin Forge Hackathon",
+      "organizer": "Anakin Skywalker Pvt. Ltd.",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a882954059be_just_logo_anakin.png",
+      "start_date": null,
+      "end_date": "2026-09-13T11:59:00+05:30",
+      "deadline": "2026-09-13T11:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
