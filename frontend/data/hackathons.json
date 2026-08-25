@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-25T12:32:01.166123+00:00",
-  "total_count": 69,
+  "last_synced_at": "2026-08-25T18:27:26.583060+00:00",
+  "total_count": 71,
   "hackathons": [
     {
       "source": "Unstop",
@@ -651,6 +651,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackbattle-gravitas26-vit-vellore-1744064",
+      "title": "Hackbattle",
+      "organizer": "Vellore Institute of Technology (VIT), Vellore",
+      "mode": "Offline",
+      "venue_address": "Vellore Institute of Technology (VIT), Vellore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8d7b3458e0d_hackbattle.jpg",
+      "start_date": null,
+      "end_date": "2026-09-10T23:59:00+05:30",
+      "deadline": "2026-09-10T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/smart-india-hackathon-2026",
       "title": "Smart India Hackathon (SIH 2026)",
       "organizer": "Ministry of Education & AICTE",
@@ -935,6 +954,25 @@
         "Cloud Native",
         "EdTech",
         "IoT"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-the-hardware-india-20-hth-india-20-build-innovate-win-suryodaya-college-of-engineering-technology-nagpur-1730720",
+      "title": "Hack the Hardware India 2.0 (HTH India 2.0) — Build. Innovate. Win.",
+      "organizer": "Suryodaya College of Engineering & Technology, Nagpur",
+      "mode": "Offline",
+      "venue_address": "Suryodaya College of Engineering & Technology, Nagpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7290ae16144_file_00000000e6c08211a5ca8e9e3d8f221e__1_.png",
+      "start_date": null,
+      "end_date": "2026-09-29T12:00:00+05:30",
+      "deadline": "2026-09-29T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
