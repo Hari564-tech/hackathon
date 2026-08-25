@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-25T06:32:16.627907+00:00",
-  "total_count": 68,
+  "last_synced_at": "2026-08-25T12:32:01.166123+00:00",
+  "total_count": 69,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1089,6 +1089,25 @@
         "Open Innovation",
         "Inclusive Tech",
         "Web & Mobile"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codeslayer-20-2k26-national-institute-of-technology-nit-delhi-1743965",
+      "title": "CodeSlayer 2.0 2k26",
+      "organizer": "National Institute of Technology (NIT), Delhi",
+      "mode": "Offline",
+      "venue_address": "National Institute of Technology (NIT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8d5da4c095a_codeslayer_2_0_logo_1.png",
+      "start_date": null,
+      "end_date": "2026-10-25T18:00:00+05:30",
+      "deadline": "2026-10-25T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
