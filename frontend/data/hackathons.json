@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-24T18:28:40.496461+00:00",
-  "total_count": 63,
+  "last_synced_at": "2026-08-25T00:47:33.216723+00:00",
+  "total_count": 67,
   "hackathons": [
     {
       "source": "Unstop",
@@ -109,6 +109,25 @@
       "start_date": null,
       "end_date": "2026-08-30T23:59:00+05:30",
       "deadline": "2026-08-30T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/iridescence-10-srm-insitute-of-science-and-technology-1739836",
+      "title": "Iridescence 1.0",
+      "organizer": "SRM Insitute of Science and Technology",
+      "mode": "Offline",
+      "venue_address": "SRM Insitute of Science and Technology, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a848906a7b6c_gdc_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-08-31T00:01:00+05:30",
+      "deadline": "2026-08-31T00:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -805,6 +824,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/geeks2code-geeksforgeeks-campus-body-miet-1740788",
+      "title": "Geeks2Code",
+      "organizer": "GeeksForGeeks Campus Body MIET",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8713c70eb62_gfg_geeks2code_2.png",
+      "start_date": null,
+      "end_date": "2026-09-21T23:59:00+05:30",
+      "deadline": "2026-09-21T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/yc-fall-2026-x-moss-the-zero-latency-builder-sprint-hidevs-1743636",
       "title": "YC Fall 2026 x Moss: The Zero Latency Builder Sprint",
       "organizer": "HiDevs",
@@ -878,6 +916,25 @@
         "Cloud Native",
         "EdTech",
         "IoT"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/knsit-tech-community-kns-institute-of-technology-karnataka-1743721",
+      "title": "KNSIT Tech Community",
+      "organizer": "KNS Institute of Technology, Karnataka",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8c6409a26f3_kns_logo.png",
+      "start_date": null,
+      "end_date": "2026-09-30T00:00:00+05:30",
+      "deadline": "2026-09-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
@@ -1027,6 +1084,25 @@
       "start_date": null,
       "end_date": "2026-10-31T22:00:00+05:30",
       "deadline": "2026-10-31T22:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/agentic-ai-hackathon-sarcathon-2026-iit-bombay-1743750",
+      "title": "Agentic AI Hackathon",
+      "organizer": "Indian Institute of Technology (IIT), Bombay",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8c8c4954595_",
+      "start_date": null,
+      "end_date": "2026-10-31T22:09:00+05:30",
+      "deadline": "2026-10-31T22:09:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
