@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-26T12:35:05.245902+00:00",
-  "total_count": 75,
+  "last_synced_at": "2026-08-26T19:39:38.910533+00:00",
+  "total_count": 79,
   "hackathons": [
     {
       "source": "Unstop",
@@ -109,25 +109,6 @@
       "start_date": null,
       "end_date": "2026-08-30T23:59:00+05:30",
       "deadline": "2026-08-30T23:59:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/iridescence-10-srm-insitute-of-science-and-technology-1739836",
-      "title": "Iridescence 1.0",
-      "organizer": "SRM Insitute of Science and Technology",
-      "mode": "Offline",
-      "venue_address": "SRM Insitute of Science and Technology, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a848906a7b6c_gdc_logo.jpg",
-      "start_date": null,
-      "end_date": "2026-08-31T00:01:00+05:30",
-      "deadline": "2026-08-31T00:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -556,6 +537,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/iridescence-10-srm-insitute-of-science-and-technology-1739836",
+      "title": "Iridescence 1.0",
+      "organizer": "SRM Insitute of Science and Technology",
+      "mode": "Offline",
+      "venue_address": "SRM Insitute of Science and Technology, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a848906a7b6c_gdc_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-09-08T17:00:00+05:30",
+      "deadline": "2026-09-08T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/identity-under-attack-amrita-vishwa-vidyapeetham-avv-chennai-1736594",
       "title": "Identity under Attack",
       "organizer": "Amrita Vishwa Vidyapeetham (AVV), Chennai",
@@ -563,6 +563,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7ff782b530b_acn_logo_black_1.png",
+      "start_date": null,
+      "end_date": "2026-09-09T00:00:00+05:30",
+      "deadline": "2026-09-09T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vj-hackathon-2026-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-technology-telangana-1744669",
+      "title": "VJ Hackathon 2026",
+      "organizer": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana",
+      "mode": "Offline",
+      "venue_address": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8ef7859038f_images__19_.jpeg",
       "start_date": null,
       "end_date": "2026-09-09T00:00:00+05:30",
       "deadline": "2026-09-09T00:00:00+05:30",
@@ -786,6 +805,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/caspian-ai-agent-caspian-1744069",
+      "title": "Caspian AI Agent",
+      "organizer": "Caspian",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8f292bcf6fe_organisation_image-dXk0Dai6PO2094872066GeYOWgiIH8.png",
+      "start_date": null,
+      "end_date": "2026-09-14T00:00:42+05:30",
+      "deadline": "2026-09-14T00:00:42+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codearena-2026-quizcred-1742930",
       "title": "CodeArena 2026",
       "organizer": "QuizCred",
@@ -796,6 +834,25 @@
       "start_date": null,
       "end_date": "2026-09-15T17:49:00+05:30",
       "deadline": "2026-09-15T17:49:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/2nd-washington-hackathon-2026-washington-university-of-science-and-technology-1743516",
+      "title": "2nd Washington Hackathon 2026",
+      "organizer": "Washington University of Science and Technology",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8c082fa2225_wust-logo.png",
+      "start_date": null,
+      "end_date": "2026-09-16T14:23:50+05:30",
+      "deadline": "2026-09-16T14:23:50+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -1217,6 +1274,25 @@
       "start_date": null,
       "end_date": "2026-10-25T18:00:00+05:30",
       "deadline": "2026-10-25T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/semicon-hackathon-explore-innovate-build-with-semiconductors-sarcathon-2026-iit-bombay-1744747",
+      "title": "SemiCon Hackathon - Explore, Innovate & Build with Semiconductors",
+      "organizer": "Indian Institute of Technology (IIT), Bombay",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8f31fc56ef9_",
+      "start_date": null,
+      "end_date": "2026-10-31T00:01:00+05:30",
+      "deadline": "2026-10-31T00:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
