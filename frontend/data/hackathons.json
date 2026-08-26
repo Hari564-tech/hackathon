@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-25T18:27:26.583060+00:00",
-  "total_count": 71,
+  "last_synced_at": "2026-08-26T00:49:04.331483+00:00",
+  "total_count": 73,
   "hackathons": [
     {
       "source": "Unstop",
@@ -824,6 +824,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/decarbonix-10-dr-ss-bhatnagar-university-institute-of-chemical-engineering-technology-panjab-university-chand-1743102",
+      "title": "Decarbonix 1.0",
+      "organizer": "Dr SS Bhatnagar  University Institute of Chemical Engineering & Technology, Panjab University, Chandigarh",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8a9532d7f15_logo_4.png",
+      "start_date": null,
+      "end_date": "2026-09-19T19:00:00+05:30",
+      "deadline": "2026-09-19T19:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/elucode-2-edulinkup-1740124",
       "title": "ELUCode-2",
       "organizer": "EduLinkUp",
@@ -1127,6 +1146,25 @@
         "Open Innovation",
         "Inclusive Tech",
         "Web & Mobile"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/bit-n-build-around-the-world-2026-fr-conceicao-rodrigues-college-of-engineering-frcrce-bandra-1743581",
+      "title": "Bit N Build - Around the World 2026",
+      "organizer": "Fr. Conceicao Rodrigues College of Engineering (FRCRCE), Bandra",
+      "mode": "Offline",
+      "venue_address": "Fr. Conceicao Rodrigues College of Engineering (FRCRCE), Bandra, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8c2db5be40b_whatsapp_image_2026-08-21_at_15_27_32.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-21T15:53:36+05:30",
+      "deadline": "2026-10-21T15:53:36+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
