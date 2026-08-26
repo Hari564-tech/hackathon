@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-26T00:49:04.331483+00:00",
-  "total_count": 73,
+  "last_synced_at": "2026-08-26T06:34:10.000592+00:00",
+  "total_count": 74,
   "hackathons": [
     {
       "source": "Unstop",
@@ -891,6 +891,25 @@
       "start_date": null,
       "end_date": "2026-09-21T23:59:00+05:30",
       "deadline": "2026-09-21T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/promptothon-2026-ai-edition-24-hour-hackathon-avn-institute-of-engineering-and-technology-avn-iet-ramdaspally-1744294",
+      "title": "PROMPTOTHON 2026: AI Edition | 24-Hour Hackathon",
+      "organizer": "AVN Institute of Engineering and Technology (AVN IET), Ramdaspally, Telangana",
+      "mode": "Offline",
+      "venue_address": "AVN Institute of Engineering and Technology (AVN IET), Ramdaspally, Telangana, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8e6110429d7_avn_logo.png",
+      "start_date": null,
+      "end_date": "2026-09-25T00:00:00+05:30",
+      "deadline": "2026-09-25T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
