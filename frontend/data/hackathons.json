@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-26T06:34:10.000592+00:00",
-  "total_count": 74,
+  "last_synced_at": "2026-08-26T12:35:05.245902+00:00",
+  "total_count": 75,
   "hackathons": [
     {
       "source": "Unstop",
@@ -758,6 +758,25 @@
       "start_date": null,
       "end_date": "2026-09-13T11:59:00+05:30",
       "deadline": "2026-09-13T11:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/engineers-2047-vishva-tech-26-samrat-ashok-technological-institute-1744263",
+      "title": "Engineers 2047",
+      "organizer": "SAMRAT ASHOK TECHNOLOGICAL INSTITUTE",
+      "mode": "Offline",
+      "venue_address": "SAMRAT ASHOK TECHNOLOGICAL INSTITUTE, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8de7b0a26f2_logo_1_1.jpg",
+      "start_date": null,
+      "end_date": "2026-09-13T17:30:00+05:30",
+      "deadline": "2026-09-13T17:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
