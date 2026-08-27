@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-27T06:20:14.752121+00:00",
-  "total_count": 79,
+  "last_synced_at": "2026-08-27T21:29:50.182385+00:00",
+  "total_count": 89,
   "hackathons": [
     {
       "source": "Unstop",
@@ -52,6 +52,44 @@
       "start_date": null,
       "end_date": "2026-08-28T00:00:00+05:30",
       "deadline": "2026-08-28T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/mca-coding-assessment-aditya-university-1745099",
+      "title": "MCA Coding Assessment",
+      "organizer": "Aditya University",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a904ef736a1c_organisation_image-cFY1a2Gc7v18610759187oC7r4aiP8.png",
+      "start_date": null,
+      "end_date": "2026-08-28T14:30:00+05:30",
+      "deadline": "2026-08-28T14:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/pitch-the-idea-win-the-prize-iit-guwahati-1745074",
+      "title": "Pitch the idea, Win the prize",
+      "organizer": "Indian Institute of Technology (IIT), Guwahati",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a909215dce81_",
+      "start_date": null,
+      "end_date": "2026-08-29T20:00:00+05:30",
+      "deadline": "2026-08-29T20:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -318,6 +356,25 @@
       "start_date": null,
       "end_date": "2026-09-04T00:00:00+05:30",
       "deadline": "2026-09-04T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/iste-crypt-online-assessment-national-institute-of-technology-nit-1744953",
+      "title": "ISTE Crypt Online Assessment",
+      "organizer": "National Institute of Technology (NIT)",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8fe6da0de4c_whatsapp_image_2026-08-27_at_12_56_56_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-04T13:00:00+05:30",
+      "deadline": "2026-09-04T13:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -651,6 +708,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/game-athon-anviksha-the-epoch-2026-narsee-monjee-institute-of-management-studies-nmims-chandigarh-1745439",
+      "title": "GAME-ATHON",
+      "organizer": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh",
+      "mode": "Offline",
+      "venue_address": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a907f4a1ae3f_organisation_image-RyV1iJLy6L1603418917MEUeDxnRjV.png",
+      "start_date": null,
+      "end_date": "2026-09-10T00:00:00+05:30",
+      "deadline": "2026-09-10T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/tech-zephyr-40-design-marathon-indian-institute-of-technology-iit-bhubaneswar-1736628",
       "title": "Tech Zephyr 4.0 Design Marathon",
       "organizer": "Indian Institute of Technology (IIT), Bhubaneswar",
@@ -705,6 +781,25 @@
         "GovTech",
         "Hardware & Software",
         "Smart Cities"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/markathon-20-indias-biggest-marketing-innovation-challenge-icypluto-1745028",
+      "title": "MARKATHON 2.0 – India's Biggest Marketing Innovation Challenge",
+      "organizer": "IcyPluto",
+      "mode": "Offline",
+      "venue_address": "IcyPluto, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9074006826b_organisation_image-4qutmX645h1981493827KMZ16kJHOZ.png",
+      "start_date": null,
+      "end_date": "2026-09-11T18:00:00+05:30",
+      "deadline": "2026-09-11T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
@@ -834,6 +929,44 @@
       "start_date": null,
       "end_date": "2026-09-15T17:49:00+05:30",
       "deadline": "2026-09-15T17:49:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/navachar-code-fest-2026-meerut-institute-of-technology-mit-meerut-uttar-pradesh-1635968",
+      "title": "Navachar - Code Fest 2026",
+      "organizer": "Meerut Institute of Technology (MIT), Meerut, Uttar Pradesh",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68c0fad20daec_e_cell_black_logo_enlarged.png",
+      "start_date": null,
+      "end_date": "2026-09-15T23:59:00+05:30",
+      "deadline": "2026-09-15T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/void-hacks-80-shri-vaishnav-vidyapeeth-vishwavidyalaya-svvv-indore-1745016",
+      "title": "Void Hacks() 8.0",
+      "organizer": "Shri Vaishnav Vidyapeeth Vishwavidyalaya (SVVV), Indore",
+      "mode": "Offline",
+      "venue_address": "Shri Vaishnav Vidyapeeth Vishwavidyalaya (SVVV), Indore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9052cc6de3c_void_hacks_logo.png",
+      "start_date": null,
+      "end_date": "2026-09-16T00:00:00+05:30",
+      "deadline": "2026-09-16T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -1128,6 +1261,25 @@
       ]
     },
     {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/promptcraft-10-24-hour-national-level-hackathon-meerut-institute-of-technology-mit-meerut-uttar-pradesh-1745416",
+      "title": "PromptCraft 1.0 – 24-Hour National-Level Hackathon",
+      "organizer": "Meerut Institute of Technology (MIT), Meerut, Uttar Pradesh",
+      "mode": "Offline",
+      "venue_address": "Meerut Institute of Technology (MIT), Meerut, Uttar Pradesh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9071f595e60_ecell_logo_brown.png",
+      "start_date": null,
+      "end_date": "2026-09-30T23:59:00+05:30",
+      "deadline": "2026-09-30T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
       "source": "Devfolio",
       "source_url": "https://hackinout.devfolio.co",
       "title": "Hack InOut 2026",
@@ -1164,6 +1316,44 @@
         "Azure",
         "Startup Track",
         "Students"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-2-ignite-gh-raisoini-international-skill-tech-university-1745045",
+      "title": "Hack 2 Ignite",
+      "organizer": "GH Raisoini International Skill Tech University",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8ffacbd4b3f_main-logo.png",
+      "start_date": null,
+      "end_date": "2026-10-03T17:00:00+05:30",
+      "deadline": "2026-10-03T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/gopwnit-ctf-gopwnit-1745426",
+      "title": "GopwnIt CTF",
+      "organizer": "gopwnit",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a90810415c7b_organisation_image-ddVeuyKRlb1280769856Z6k4WWmI2J.png",
+      "start_date": null,
+      "end_date": "2026-10-05T00:00:00+05:30",
+      "deadline": "2026-10-05T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
@@ -1284,12 +1474,12 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/semicon-hackathon-explore-innovate-build-with-semiconductors-sarcathon-2026-iit-bombay-1744747",
-      "title": "SemiCon Hackathon - Explore, Innovate & Build with Semiconductors",
+      "title": "SemiCon Hackathon - Explore, Innovate & Build with Semiconductors | IIT Bombay",
       "organizer": "Indian Institute of Technology (IIT), Bombay",
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8f31fc56ef9_",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a901ccfa35d5_sarc_logo.jpg",
       "start_date": null,
       "end_date": "2026-10-31T00:01:00+05:30",
       "deadline": "2026-10-31T00:01:00+05:30",
