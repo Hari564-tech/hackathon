@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-28T08:12:39.779164+00:00",
-  "total_count": 89,
+  "last_synced_at": "2026-08-28T21:37:08.148692+00:00",
+  "total_count": 91,
   "hackathons": [
     {
       "source": "Unstop",
@@ -714,7 +714,7 @@
       "mode": "Offline",
       "venue_address": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a907f4a1ae3f_organisation_image-RyV1iJLy6L1603418917MEUeDxnRjV.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a91ce0bc3a56_logo-01_jpg.jpeg",
       "start_date": null,
       "end_date": "2026-09-10T00:00:00+05:30",
       "deadline": "2026-09-10T00:00:00+05:30",
@@ -1052,6 +1052,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/forgex-ai-2026-erode-sengunthar-engineering-college-1745613",
+      "title": "ForgeX AI 2026",
+      "organizer": "Erode Sengunthar Engineering College",
+      "mode": "Offline",
+      "venue_address": "Erode Sengunthar Engineering College, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9165a7d0184_whatsapp_image_2026-08-28_at_4_02_35_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-20T00:00:00+05:30",
+      "deadline": "2026-09-20T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/elucode-2-edulinkup-1740124",
       "title": "ELUCode-2",
       "organizer": "EduLinkUp",
@@ -1081,6 +1100,25 @@
       "start_date": null,
       "end_date": "2026-09-20T12:45:00+05:30",
       "deadline": "2026-09-20T12:45:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/promptcraft-10-24-hour-national-level-hackathon-meerut-institute-of-technology-mit-meerut-uttar-pradesh-1745416",
+      "title": "PromptCraft 1.0 – 24-Hour National-Level Hackathon",
+      "organizer": "Meerut Institute of Technology (MIT), Meerut, Uttar Pradesh",
+      "mode": "Offline",
+      "venue_address": "Meerut Institute of Technology (MIT), Meerut, Uttar Pradesh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9071f595e60_ecell_logo_brown.png",
+      "start_date": null,
+      "end_date": "2026-09-20T23:59:00+05:30",
+      "deadline": "2026-09-20T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -1261,25 +1299,6 @@
       ]
     },
     {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/promptcraft-10-24-hour-national-level-hackathon-meerut-institute-of-technology-mit-meerut-uttar-pradesh-1745416",
-      "title": "PromptCraft 1.0 – 24-Hour National-Level Hackathon",
-      "organizer": "Meerut Institute of Technology (MIT), Meerut, Uttar Pradesh",
-      "mode": "Offline",
-      "venue_address": "Meerut Institute of Technology (MIT), Meerut, Uttar Pradesh, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9071f595e60_ecell_logo_brown.png",
-      "start_date": null,
-      "end_date": "2026-09-30T23:59:00+05:30",
-      "deadline": "2026-09-30T23:59:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
       "source": "Devfolio",
       "source_url": "https://hackinout.devfolio.co",
       "title": "Hack InOut 2026",
@@ -1349,6 +1368,25 @@
       "start_date": null,
       "end_date": "2026-10-05T00:00:00+05:30",
       "deadline": "2026-10-05T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/lun4r-ctf-2026-rajadhani-institute-of-engineering-and-technology-1745542",
+      "title": "Lun4R CTF 2026",
+      "organizer": "Rajadhani Institute of Engineering and Technology",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9157e79b691_1000147372.png",
+      "start_date": null,
+      "end_date": "2026-10-05T11:00:00+05:30",
+      "deadline": "2026-10-05T11:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
