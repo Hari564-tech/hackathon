@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-29T12:01:46.485263+00:00",
-  "total_count": 94,
+  "last_synced_at": "2026-08-29T20:13:45.368908+00:00",
+  "total_count": 97,
   "hackathons": [
     {
       "source": "Unstop",
@@ -689,6 +689,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/escape-the-server-anviksha-the-epoch-2026-narsee-monjee-institute-of-management-studies-nmims-chandigarh-1745480",
+      "title": "Escape the Server",
+      "organizer": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh",
+      "mode": "Offline",
+      "venue_address": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a91cceca7647_logo-01_jpg.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-09T23:59:00+05:30",
+      "deadline": "2026-09-09T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/crew-assemble-build-battle-conquer-thakur-ramnarayan-college-of-arts-and-commerce-1740745",
       "title": "Crew Assemble — Build, Battle & Conquer",
       "organizer": "Thakur Ramnarayan College of Arts and Commerce",
@@ -804,6 +823,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/powernext-ai-manipal-institute-of-technology-bengaluru-1745296",
+      "title": "Powernext-AI",
+      "organizer": "Manipal Institute of Technology, Bengaluru",
+      "mode": "Offline",
+      "venue_address": "Manipal Institute of Technology, Bengaluru, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a904db6592ec_chatgpt_image_aug_27_2026_08_15_14_p-1mb.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-11T00:00:00+05:30",
+      "deadline": "2026-09-11T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/markathon-20-indias-biggest-marketing-innovation-challenge-icypluto-1745028",
       "title": "MARKATHON 2.0 – India's Biggest Marketing Innovation Challenge",
       "organizer": "IcyPluto",
@@ -910,6 +948,25 @@
       "start_date": null,
       "end_date": "2026-09-13T17:30:00+05:30",
       "deadline": "2026-09-13T17:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/software-engineering-assessment-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-1745852",
+      "title": "Software Engineering Assessment",
+      "organizer": "MKSSS's Cummins College of Engineering for Women (CCOEW), Pune",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a92ce99bfee2_Cummins_Woman_Engineering_College_Pune.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-13T23:59:00+05:30",
+      "deadline": "2026-09-13T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
