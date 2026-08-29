@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-29T04:57:45.339084+00:00",
-  "total_count": 91,
+  "last_synced_at": "2026-08-29T12:01:46.485263+00:00",
+  "total_count": 94,
   "hackathons": [
     {
       "source": "Unstop",
@@ -537,6 +537,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackquest-code-for-communities-20-pantheon26-birla-institution-of-technology-mesra-mesra-1745805",
+      "title": "HackQuest: Code for Communities 2.0",
+      "organizer": "Birla Institution of Technology Mesra , Mesra",
+      "mode": "Offline",
+      "venue_address": "Birla Institution of Technology Mesra , Mesra, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a91d90d3033e_hackquest.png",
+      "start_date": null,
+      "end_date": "2026-09-06T16:00:00+05:30",
+      "deadline": "2026-09-06T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/dataforge-2026-iit-kharagpur-1739346",
       "title": "DataForge 2026",
       "organizer": "Indian Institute of Technology (IIT), Kharagpur",
@@ -651,6 +670,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/game-athon-anviksha-the-epoch-2026-narsee-monjee-institute-of-management-studies-nmims-chandigarh-1745439",
+      "title": "GAME-ATHON",
+      "organizer": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh",
+      "mode": "Offline",
+      "venue_address": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a91ce0bc3a56_logo-01_jpg.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-09T23:59:00+05:30",
+      "deadline": "2026-09-09T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/crew-assemble-build-battle-conquer-thakur-ramnarayan-college-of-arts-and-commerce-1740745",
       "title": "Crew Assemble — Build, Battle & Conquer",
       "organizer": "Thakur Ramnarayan College of Arts and Commerce",
@@ -696,25 +734,6 @@
       "venue_address": "Thakur Ramnarayan College of Arts and Commerce, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a858c52e3202_screenshot_2026-08-19_162705.png",
-      "start_date": null,
-      "end_date": "2026-09-10T00:00:00+05:30",
-      "deadline": "2026-09-10T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/game-athon-anviksha-the-epoch-2026-narsee-monjee-institute-of-management-studies-nmims-chandigarh-1745439",
-      "title": "GAME-ATHON",
-      "organizer": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh",
-      "mode": "Offline",
-      "venue_address": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a91ce0bc3a56_logo-01_jpg.jpeg",
       "start_date": null,
       "end_date": "2026-09-10T00:00:00+05:30",
       "deadline": "2026-09-10T00:00:00+05:30",
@@ -1005,6 +1024,25 @@
       "start_date": null,
       "end_date": "2026-09-17T00:00:00+05:30",
       "deadline": "2026-09-17T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/multipli-hackathon-build-innovate-compete-vit-vellore-1746015",
+      "title": "Multipli Hackathon – Build. Innovate. Compete.",
+      "organizer": "Vellore Institute of Technology (VIT), Vellore",
+      "mode": "Offline",
+      "venue_address": "Vellore Institute of Technology (VIT), Vellore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a92c13d50e86_multipli.png",
+      "start_date": null,
+      "end_date": "2026-09-17T23:59:00+05:30",
+      "deadline": "2026-09-17T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -1692,6 +1730,25 @@
       "start_date": null,
       "end_date": "2026-11-01T23:59:00+05:30",
       "deadline": "2026-11-01T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/crp-et-ai-hackathon-agentic-edition-presented-by-accenture-economic-times-1744885",
+      "title": "ET AI Hackathon: Agentic Edition | Presented by Accenture",
+      "organizer": "Economic Times",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a901addde1d0_et.png",
+      "start_date": null,
+      "end_date": "2026-11-02T18:00:00+05:30",
+      "deadline": "2026-11-02T18:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
