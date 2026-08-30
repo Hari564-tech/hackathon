@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-30T10:58:10.441009+00:00",
-  "total_count": 103,
+  "last_synced_at": "2026-08-30T15:47:10.007694+00:00",
+  "total_count": 105,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1033,6 +1033,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hexacode-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-1746460",
+      "title": "HexaCode",
+      "organizer": "MKSSS's Cummins College of Engineering for Women (CCOEW), Pune",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a944cff04d44_Cummins_Woman_Engineering_College_Pune.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-14T20:13:00+05:30",
+      "deadline": "2026-09-14T20:13:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codearena-2026-quizcred-1742930",
       "title": "CodeArena 2026",
       "organizer": "QuizCred",
@@ -1577,6 +1596,25 @@
       "start_date": null,
       "end_date": "2026-10-05T11:00:00+05:30",
       "deadline": "2026-10-05T11:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/dsaverse-by-elite-her-elite-coders-1746461",
+      "title": "DSAverse by Elite Her",
+      "organizer": "Elite Coders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a943ebad41ed_img_0013.png",
+      "start_date": null,
+      "end_date": "2026-10-07T20:17:00+05:30",
+      "deadline": "2026-10-07T20:17:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
