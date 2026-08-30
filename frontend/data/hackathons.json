@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-30T02:44:36.764527+00:00",
-  "total_count": 98,
+  "last_synced_at": "2026-08-30T10:58:10.441009+00:00",
+  "total_count": 103,
   "hackathons": [
     {
       "source": "Unstop",
@@ -480,6 +480,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/su-hacks-2026-simply-updify-1746359",
+      "title": "SU HACKS 2026",
+      "organizer": "Simply Updify",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a940a9051b28_organisation_image-GA9B5nDzBX3471744738LWVb80HY2.png",
+      "start_date": null,
+      "end_date": "2026-09-06T00:00:00+05:30",
+      "deadline": "2026-09-06T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/cloudforge-atal-bihari-vajpayee-indian-institute-of-information-technology-and-management-1741840",
       "title": "Cloudforge",
       "organizer": "Atal Bihari Vajpayee-Indian Institute of Information Technology and Management",
@@ -670,44 +689,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/game-athon-anviksha-the-epoch-2026-narsee-monjee-institute-of-management-studies-nmims-chandigarh-1745439",
-      "title": "GAME-ATHON",
-      "organizer": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh",
-      "mode": "Offline",
-      "venue_address": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a91ce0bc3a56_logo-01_jpg.jpeg",
-      "start_date": null,
-      "end_date": "2026-09-09T23:59:00+05:30",
-      "deadline": "2026-09-09T23:59:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/escape-the-server-anviksha-the-epoch-2026-narsee-monjee-institute-of-management-studies-nmims-chandigarh-1745480",
-      "title": "Escape the Server",
-      "organizer": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh",
-      "mode": "Offline",
-      "venue_address": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a91cceca7647_logo-01_jpg.jpeg",
-      "start_date": null,
-      "end_date": "2026-09-09T23:59:00+05:30",
-      "deadline": "2026-09-09T23:59:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/crew-assemble-build-battle-conquer-thakur-ramnarayan-college-of-arts-and-commerce-1740745",
       "title": "Crew Assemble — Build, Battle & Conquer",
       "organizer": "Thakur Ramnarayan College of Arts and Commerce",
@@ -852,6 +833,63 @@
       "start_date": null,
       "end_date": "2026-09-11T18:00:00+05:30",
       "deadline": "2026-09-11T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/game-athon-anviksha-the-epoch-2026-narsee-monjee-institute-of-management-studies-nmims-chandigarh-1745439",
+      "title": "GAME-ATHON",
+      "organizer": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh",
+      "mode": "Offline",
+      "venue_address": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a91ce0bc3a56_logo-01_jpg.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-11T23:59:00+05:30",
+      "deadline": "2026-09-11T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/escape-the-server-anviksha-the-epoch-2026-narsee-monjee-institute-of-management-studies-nmims-chandigarh-1745480",
+      "title": "Escape the Server",
+      "organizer": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh",
+      "mode": "Offline",
+      "venue_address": "Narsee Monjee Institute of Management Studies (NMIMS), Chandigarh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a91cceca7647_logo-01_jpg.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-11T23:59:00+05:30",
+      "deadline": "2026-09-11T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/forged-in-fire-2026-bhagwan-parshuram-institute-of-technology-bpit-delhi-1746026",
+      "title": "Forged In Fire 2026",
+      "organizer": "Bhagwan Parshuram Institute of Technology (BPIT), Delhi",
+      "mode": "Offline",
+      "venue_address": "Bhagwan Parshuram Institute of Technology (BPIT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a93acae6ec88_BPIT_delhi_logo.png",
+      "start_date": null,
+      "end_date": "2026-09-12T00:00:00+05:30",
+      "deadline": "2026-09-12T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -1014,6 +1052,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-quest-beyond-the-wrapper-hidevs-1745933",
+      "title": "AI Quest: Beyond the Wrapper",
+      "organizer": "HiDevs",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a92b250e4be4_9316c80e-43dc-4976-80f6-3a89a960f636.jpg",
+      "start_date": null,
+      "end_date": "2026-09-15T22:00:00+05:30",
+      "deadline": "2026-09-15T22:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/navachar-code-fest-2026-meerut-institute-of-technology-mit-meerut-uttar-pradesh-1635968",
       "title": "Navachar - Code Fest 2026",
       "organizer": "Meerut Institute of Technology (MIT), Meerut, Uttar Pradesh",
@@ -1062,6 +1119,25 @@
       "start_date": null,
       "end_date": "2026-09-16T14:23:50+05:30",
       "deadline": "2026-09-16T14:23:50+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cognix-hackathon-2026-cognix-2026-sathyabama-institute-of-science-and-technology-chennai-tamil-nadu-1745574",
+      "title": "Cognix Hackathon 2026",
+      "organizer": "Sathyabama Institute of Science and Technology, Chennai, Tamil Nadu",
+      "mode": "Offline",
+      "venue_address": "Sathyabama Institute of Science and Technology, Chennai, Tamil Nadu, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a94014a274d7_cognix_logo.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-16T23:59:04+05:30",
+      "deadline": "2026-09-16T23:59:04+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -1825,6 +1901,25 @@
       "start_date": null,
       "end_date": "2026-11-02T18:00:00+05:30",
       "deadline": "2026-11-02T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/nasa-space-apps-challenge-2026-national-institute-of-technology-nit-raipur-1745979",
+      "title": "NASA Space Apps Challenge 2026",
+      "organizer": "National Institute of Technology (NIT), Raipur",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a92d255a89b0_create_your_own_local_event_logo_template.jpg",
+      "start_date": null,
+      "end_date": "2026-11-15T23:45:00+05:30",
+      "deadline": "2026-11-15T23:45:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
