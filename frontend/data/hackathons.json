@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-29T20:13:45.368908+00:00",
-  "total_count": 97,
+  "last_synced_at": "2026-08-30T02:44:36.764527+00:00",
+  "total_count": 98,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1081,6 +1081,25 @@
       "start_date": null,
       "end_date": "2026-09-17T00:00:00+05:30",
       "deadline": "2026-09-17T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/quantexa-hackhere-1745790",
+      "title": "Quantexa",
+      "organizer": "Hackhere",
+      "mode": "Offline",
+      "venue_address": "Hackhere, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a926d5972c55_organisation_image-n4FCytWDxs789928907Z9b8i4iU6j.png",
+      "start_date": null,
+      "end_date": "2026-09-17T11:22:40+05:30",
+      "deadline": "2026-09-17T11:22:40+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
