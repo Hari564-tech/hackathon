@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-08-31T02:38:08.438784+00:00",
-  "total_count": 107,
+  "last_synced_at": "2026-08-31T12:17:14.950294+00:00",
+  "total_count": 118,
   "hackathons": [
     {
       "source": "Unstop",
@@ -746,6 +746,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/unfoldd-ctf-2026-unfoldd-technologies-1745588",
+      "title": "Unfoldd CTF 2026",
+      "organizer": "Unfoldd Technologies",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9567204e9a0_organisation_image-kQLD3Y8Lys835677337xaLPYxaVbM.png",
+      "start_date": null,
+      "end_date": "2026-09-10T15:39:22+05:30",
+      "deadline": "2026-09-10T15:39:22+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/tech-zephyr-40-design-marathon-indian-institute-of-technology-iit-bhubaneswar-1736628",
       "title": "Tech Zephyr 4.0 Design Marathon",
       "organizer": "Indian Institute of Technology (IIT), Bhubaneswar",
@@ -995,6 +1014,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/think-code-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-1746057",
+      "title": "Think & Code",
+      "organizer": "MKSSS's Cummins College of Engineering for Women (CCOEW), Pune",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a92d9ce161c6_colorful_modern_infinity_technology_free_logo.png",
+      "start_date": null,
+      "end_date": "2026-09-13T22:09:00+05:30",
+      "deadline": "2026-09-13T22:09:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/software-engineering-assessment-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-1745852",
       "title": "Software Engineering Assessment",
       "organizer": "MKSSS's Cummins College of Engineering for Women (CCOEW), Pune",
@@ -1002,6 +1040,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a92ce99bfee2_Cummins_Woman_Engineering_College_Pune.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-13T23:59:00+05:30",
+      "deadline": "2026-09-13T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/prayas-tech-hackathon-prayas-tech-fest-at-plaksha-university-plaksha-univeristy-1742156",
+      "title": "Prayas - Tech Hackathon",
+      "organizer": "Plaksha Univeristy",
+      "mode": "Offline",
+      "venue_address": "Plaksha Univeristy, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8ac74016272_final_logo.png",
       "start_date": null,
       "end_date": "2026-09-13T23:59:00+05:30",
       "deadline": "2026-09-13T23:59:00+05:30",
@@ -1394,6 +1451,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vibecraft-yuva-srm-institute-of-science-technology-trichy-1746700",
+      "title": "VibeCraft",
+      "organizer": "SRM Institute of Science & Technology, Trichy",
+      "mode": "Offline",
+      "venue_address": "SRM Institute of Science & Technology, Trichy, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a95558a788e9_organisation_image-fiHJwpteIW591153981ZNg5U4oM8M.png",
+      "start_date": null,
+      "end_date": "2026-09-24T00:00:00+05:30",
+      "deadline": "2026-09-24T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/promptothon-2026-ai-edition-24-hour-hackathon-avn-institute-of-engineering-and-technology-avn-iet-ramdaspally-1744294",
       "title": "PROMPTOTHON 2026: AI Edition | 24-Hour Hackathon",
       "organizer": "AVN Institute of Engineering and Technology (AVN IET), Ramdaspally, Telangana",
@@ -1528,6 +1604,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/aven-coding-hackathon-20-kartexa-1745830",
+      "title": "Aven Coding Hackathon 2.0",
+      "organizer": "Kartexa",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a923d507ba2f_b2f7af2a-4b66-4167-afb4-6fe7bdae72c6.png",
+      "start_date": null,
+      "end_date": "2026-09-30T00:00:00+05:30",
+      "deadline": "2026-09-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codearambh-20-24-hour-national-level-hackathon-dare-to-code-dare-to-create-hi-tech-institute-of-engineering-a-1742494",
       "title": "Codearambh 2.0 – 24-Hour National-Level Hackathon: Dare to Code, Dare to Create",
       "organizer": "HI-Tech Institute Of Engineering And Technology (HIET), Ghaziabad",
@@ -1538,6 +1633,25 @@
       "start_date": null,
       "end_date": "2026-09-30T23:59:00+05:30",
       "deadline": "2026-09-30T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/quhack-hackathon-rajiv-gandhi-university-of-knowledge-technologies-rgukt-nuzvid-1746545",
+      "title": "QuHack Hackathon",
+      "organizer": "Rajiv Gandhi University of Knowledge Technologies (RGUKT), Nuzvid",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a955784aec25_images__8_.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-01T18:00:00+05:30",
+      "deadline": "2026-10-01T18:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -1661,6 +1775,82 @@
       ]
     },
     {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/uav-competition-jamraga-26-vijaybhoomi-university-1746249",
+      "title": "UAV Competition",
+      "organizer": "Vijaybhoomi University",
+      "mode": "Offline",
+      "venue_address": "Vijaybhoomi University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a93c79f075f1_jamrang_pfp.png",
+      "start_date": null,
+      "end_date": "2026-10-15T00:00:00+05:30",
+      "deadline": "2026-10-15T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/line-follower-race-lfr-jamraga-26-vijaybhoomi-university-1746264",
+      "title": "Line Follower Race (LFR)",
+      "organizer": "Vijaybhoomi University",
+      "mode": "Offline",
+      "venue_address": "Vijaybhoomi University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a93cbd6dbf38_jamrang_pfp.png",
+      "start_date": null,
+      "end_date": "2026-10-15T00:00:00+05:30",
+      "deadline": "2026-10-15T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackathon-jamraga-26-vijaybhoomi-university-1746247",
+      "title": "Hackathon",
+      "organizer": "Vijaybhoomi University",
+      "mode": "Offline",
+      "venue_address": "Vijaybhoomi University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a93c704e7f0c_jamrang_pfp.png",
+      "start_date": null,
+      "end_date": "2026-10-15T00:00:00+05:30",
+      "deadline": "2026-10-15T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/robo-rcae-jamraga-26-vijaybhoomi-university-1746261",
+      "title": "Robo Race",
+      "organizer": "Vijaybhoomi University",
+      "mode": "Offline",
+      "venue_address": "Vijaybhoomi University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a93cafc71a8d_jamrang_pfp.png",
+      "start_date": null,
+      "end_date": "2026-10-15T00:00:00+05:30",
+      "deadline": "2026-10-15T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
       "source": "Google Developers",
       "source_url": "https://developers.google.com/community/gdsc-solution-challenge",
       "title": "Google Solution Challenge 2026",
@@ -1768,6 +1958,25 @@
       "start_date": null,
       "end_date": "2026-10-25T18:00:00+05:30",
       "deadline": "2026-10-25T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacknexus-mastermind-research-technologies-1746846",
+      "title": "Hacknexus",
+      "organizer": "MASTERMIND RESEARCH TECHNOLOGIES",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9569b491eca_organisation_image-xIa17cg6sc13632134730XG6LUohaF.png",
+      "start_date": null,
+      "end_date": "2026-10-31T00:00:00+05:30",
+      "deadline": "2026-10-31T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
