@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-01T10:51:54.609066+00:00",
-  "total_count": 129,
+  "last_synced_at": "2026-09-01T15:49:41.020999+00:00",
+  "total_count": 130,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1518,6 +1518,25 @@
       "start_date": null,
       "end_date": "2026-09-20T12:45:00+05:30",
       "deadline": "2026-09-20T12:45:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackday-10-decodep-community-1737351",
+      "title": "HACKDAY 1.0",
+      "organizer": "DECODEP community",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a96e7b61b6da_organisation_image-GHkYhx7N6r1906252255xLtz4GL1fh.png",
+      "start_date": null,
+      "end_date": "2026-09-20T19:01:00+05:30",
+      "deadline": "2026-09-20T19:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
