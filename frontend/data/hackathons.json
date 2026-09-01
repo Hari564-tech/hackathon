@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-01T15:49:41.020999+00:00",
-  "total_count": 130,
+  "last_synced_at": "2026-09-01T20:21:04.927480+00:00",
+  "total_count": 132,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1185,6 +1185,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/technical-team-online-assessment-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-1747088",
+      "title": "Technical Team Online Assessment",
+      "organizer": "MKSSS's Cummins College of Engineering for Women (CCOEW), Pune",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a95d4e71811a_Cummins_Woman_Engineering_College_Pune.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-15T00:00:00+05:30",
+      "deadline": "2026-09-15T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/boss-1000-contributor-hackathon-boss-console-1747592",
+      "title": "BOSS $1000 Contributor Hackathon",
+      "organizer": "BOSS Console",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a96d1cb86b5a_image_4_1.png",
+      "start_date": null,
+      "end_date": "2026-09-15T00:00:00+05:30",
+      "deadline": "2026-09-15T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codearena-2026-quizcred-1742930",
       "title": "CodeArena 2026",
       "organizer": "QuizCred",
@@ -1195,25 +1233,6 @@
       "start_date": null,
       "end_date": "2026-09-15T17:49:00+05:30",
       "deadline": "2026-09-15T17:49:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/technical-team-online-assessment-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-1747088",
-      "title": "Technical Team Online Assessment",
-      "organizer": "MKSSS's Cummins College of Engineering for Women (CCOEW), Pune",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a95d4e71811a_Cummins_Woman_Engineering_College_Pune.jpeg",
-      "start_date": null,
-      "end_date": "2026-09-15T21:47:00+05:30",
-      "deadline": "2026-09-15T21:47:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -1804,6 +1823,25 @@
       "start_date": null,
       "end_date": "2026-09-30T23:59:00+05:30",
       "deadline": "2026-09-30T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/prysm26-eshan-group-of-institutions-uttar-pradesh-1747181",
+      "title": "Prysm'26",
+      "organizer": "Eshan Group Of Institutions, Uttar Pradesh",
+      "mode": "Offline",
+      "venue_address": "Eshan Group Of Institutions, Uttar Pradesh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a95e0a402b59_1000272617.jpg",
+      "start_date": null,
+      "end_date": "2026-10-01T19:00:00+05:30",
+      "deadline": "2026-10-01T19:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
