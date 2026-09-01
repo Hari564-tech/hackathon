@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-01T02:51:09.494314+00:00",
-  "total_count": 126,
+  "last_synced_at": "2026-09-01T10:51:54.609066+00:00",
+  "total_count": 129,
   "hackathons": [
     {
       "source": "Unstop",
@@ -842,6 +842,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/megathon26-fusion-for-future-drestein-26-saveetha-engineering-college-sec-chennai-1743412",
+      "title": "Megathon'26 – Fusion For Future",
+      "organizer": "Saveetha Engineering College (SEC), Chennai",
+      "mode": "Offline",
+      "venue_address": "Saveetha Engineering College (SEC), Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a967a3d77c26_images__10_.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-11T12:00:00+05:30",
+      "deadline": "2026-09-11T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/markathon-20-indias-biggest-marketing-innovation-challenge-icypluto-1745028",
       "title": "MARKATHON 2.0 – India's Biggest Marketing Innovation Challenge",
       "organizer": "IcyPluto",
@@ -909,25 +928,6 @@
       "start_date": null,
       "end_date": "2026-09-12T00:00:00+05:30",
       "deadline": "2026-09-12T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/scratch-to-hack-akal-university-talwandi-sabo-1746960",
-      "title": "Scratch to Hack",
-      "organizer": "Akal University, Talwandi Sabo",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9585b726e37_download__45_.png",
-      "start_date": null,
-      "end_date": "2026-09-12T16:00:00+05:30",
-      "deadline": "2026-09-12T16:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -1078,6 +1078,25 @@
       "venue_address": "Plaksha Univeristy, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8ac74016272_final_logo.png",
+      "start_date": null,
+      "end_date": "2026-09-13T23:59:00+05:30",
+      "deadline": "2026-09-13T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/glimpse-trading-hackathon-2026-glimpse-prediction-markets-hackathon-glimpse-trading-1745661",
+      "title": "Glimpse Trading Hackathon 2026",
+      "organizer": "Glimpse Trading",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9652791fd89_organisation_image-KGvc2bdeZc1716870356WTLD7ZcG1O.png",
       "start_date": null,
       "end_date": "2026-09-13T23:59:00+05:30",
       "deadline": "2026-09-13T23:59:00+05:30",
@@ -1290,6 +1309,25 @@
       "start_date": null,
       "end_date": "2026-09-16T14:23:50+05:30",
       "deadline": "2026-09-16T14:23:50+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/scratch-to-hack-akal-university-talwandi-sabo-1746960",
+      "title": "Scratch to Hack",
+      "organizer": "Akal University, Talwandi Sabo",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a969c934402f_download__45_.png",
+      "start_date": null,
+      "end_date": "2026-09-16T15:00:00+05:30",
+      "deadline": "2026-09-16T15:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -1533,7 +1571,7 @@
       "mode": "Offline",
       "venue_address": "SRM Institute of Science & Technology, Trichy, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a95558a788e9_organisation_image-fiHJwpteIW591153981ZNg5U4oM8M.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a96737994b05_whatsapp_image_2026-09-01_at_10_05_03_am.jpeg",
       "start_date": null,
       "end_date": "2026-09-24T00:00:00+05:30",
       "deadline": "2026-09-24T00:00:00+05:30",
@@ -1814,6 +1852,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackiton26-kpr-institute-of-engineering-and-technology-kpriet-coimbatore-1746214",
+      "title": "Hack It On'26",
+      "organizer": "KPR Institute of Engineering and Technology (KPRIET), Coimbatore",
+      "mode": "Offline",
+      "venue_address": "KPR Institute of Engineering and Technology (KPRIET), Coimbatore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a93b7f4e1277_screenshot_2026-08-30_091039.png",
+      "start_date": null,
+      "end_date": "2026-10-04T18:30:09+05:30",
+      "deadline": "2026-10-04T18:30:09+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/gopwnit-ctf-gopwnit-1745426",
       "title": "GopwnIt CTF",
       "organizer": "gopwnit",
@@ -1858,7 +1915,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a955784aec25_images__8_.jpeg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9680140668e_images__8_.jpeg",
       "start_date": null,
       "end_date": "2026-10-07T18:10:00+05:30",
       "deadline": "2026-10-07T18:10:00+05:30",
@@ -2119,25 +2176,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/hacknexus-mastermind-research-technologies-1746846",
-      "title": "Hacknexus",
-      "organizer": "MASTERMIND RESEARCH TECHNOLOGIES",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9569b491eca_organisation_image-xIa17cg6sc13632134730XG6LUohaF.png",
-      "start_date": null,
-      "end_date": "2026-10-31T00:00:00+05:30",
-      "deadline": "2026-10-31T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/semicon-hackathon-explore-innovate-build-with-semiconductors-sarcathon-2026-iit-bombay-1744747",
       "title": "SemiCon Hackathon - Explore, Innovate & Build with Semiconductors | IIT Bombay",
       "organizer": "Indian Institute of Technology (IIT), Bombay",
@@ -2382,6 +2420,25 @@
         "Solidity",
         "Zero Knowledge",
         "DeFi"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacknexus-mastermind-research-technologies-1746846",
+      "title": "Hacknexus",
+      "organizer": "MASTERMIND RESEARCH TECHNOLOGIES",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9569b491eca_organisation_image-xIa17cg6sc13632134730XG6LUohaF.png",
+      "start_date": null,
+      "end_date": "2026-11-30T00:00:00+05:30",
+      "deadline": "2026-11-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
