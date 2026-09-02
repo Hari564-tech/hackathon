@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-02T02:11:08.335274+00:00",
-  "total_count": 132,
+  "last_synced_at": "2026-09-02T10:17:13.453826+00:00",
+  "total_count": 140,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1432,6 +1432,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackosquad-cyber-week-2026-learn-hack-compete-in-7-days-hacksquad-cyber-week-2026-learn-hack-compete-in-7-day-1747788",
+      "title": "Hackosquad Cyber Week 2026: Learn, Hack & Compete in 7 Days",
+      "organizer": "hackosquadCTF",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a97209cd3556_chatgpt_image_sep_2_2026_12_29_00_am.jpg",
+      "start_date": null,
+      "end_date": "2026-09-19T00:00:00+05:30",
+      "deadline": "2026-09-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/fusion-x-10-24-hour-hackathon-paavai-engineering-college-pec-namakkal-1743196",
       "title": "FUSION X 1.0 – 24-Hour Hackathon",
       "organizer": "Paavai Engineering College (PEC), Namakkal",
@@ -1546,6 +1565,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/buildforge-hackathon-invoqe-1746404",
+      "title": "BuildForge Hackathon",
+      "organizer": "invoqe",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a971c4ccacdb_chatgpt_image_sep_1_2026_04_40_53_pm_1_optimized_1000.png",
+      "start_date": null,
+      "end_date": "2026-09-20T17:00:00+05:30",
+      "deadline": "2026-09-20T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackday-10-decodep-community-1737351",
       "title": "HACKDAY 1.0",
       "organizer": "DECODEP community",
@@ -1603,6 +1641,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-with-vizag-40-nadimpalli-satyanarayana-raju-institute-of-technology-nsrit-andhra-pradesh-1746827",
+      "title": "Hack With Vizag 4.0",
+      "organizer": "Nadimpalli Satyanarayana Raju Institute of Technology (NSRIT), Andhra Pradesh",
+      "mode": "Offline",
+      "venue_address": "Nadimpalli Satyanarayana Raju Institute of Technology (NSRIT), Andhra Pradesh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a969ecfe9e8a_hackwithvizag-4_logo.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-22T16:00:00+05:30",
+      "deadline": "2026-09-22T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/vibecraft-yuva-srm-institute-of-science-technology-trichy-1746700",
       "title": "VibeCraft",
       "organizer": "SRM Institute of Science & Technology, Trichy",
@@ -1651,6 +1708,25 @@
       "start_date": null,
       "end_date": "2026-09-25T23:59:00+05:30",
       "deadline": "2026-09-25T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ml-hackathon-polymer-property-prediction-amalgam-2026-iit-madras-1745060",
+      "title": "ML Hackathon: Polymer Property Prediction",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8fff5883097_6439a3c060b21_amalgam_no_bg_red-6b57be54.png",
+      "start_date": null,
+      "end_date": "2026-09-26T17:00:00+05:30",
+      "deadline": "2026-09-26T17:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -1832,6 +1908,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/agentic-graphrag-hackathon-tigergraph-1747871",
+      "title": "Agentic GraphRAG Hackathon",
+      "organizer": "TigerGraph",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a97d83f44d46_press-tiger.jpg",
+      "start_date": null,
+      "end_date": "2026-10-01T00:00:00+05:30",
+      "deadline": "2026-10-01T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/prysm26-eshan-group-of-institutions-uttar-pradesh-1747181",
       "title": "Prysm'26",
       "organizer": "Eshan Group Of Institutions, Uttar Pradesh",
@@ -1928,6 +2023,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/autopilot-hackathon-ahmedabad-edition-supervity-1746507",
+      "title": "AutoPilot Hackathon: Ahmedabad Edition",
+      "organizer": "Supervity",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a957fb55827e_supervity_icon.png",
+      "start_date": null,
+      "end_date": "2026-10-04T23:59:00+05:30",
+      "deadline": "2026-10-04T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/gopwnit-ctf-gopwnit-1745426",
       "title": "GopwnIt CTF",
       "organizer": "gopwnit",
@@ -1995,6 +2109,25 @@
       "start_date": null,
       "end_date": "2026-10-07T20:17:00+05:30",
       "deadline": "2026-10-07T20:17:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-black-box-protocol-stage-03-system-convergence-techhelp4u-1745778",
+      "title": "The Black-Box Protocol: Stage 03 - System Convergence",
+      "organizer": "TECHhelp4U",
+      "mode": "Offline",
+      "venue_address": "TECHhelp4U, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a91c04589d6e_register_be_a_part_of_the_innovation_1.jpg",
+      "start_date": null,
+      "end_date": "2026-10-07T22:30:00+05:30",
+      "deadline": "2026-10-07T22:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -2510,6 +2643,25 @@
       "start_date": null,
       "end_date": "2026-11-30T00:00:00+05:30",
       "deadline": "2026-11-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/samadhan-2026-national-social-innovation-challenge-upay-underprivileged-advancements-by-youth-1724048",
+      "title": "Samadhan 2026( National Social Innovation Challenge)",
+      "organizer": "UPAY (Underprivileged Advancements by Youth)",
+      "mode": "Offline",
+      "venue_address": "UPAY (Underprivileged Advancements by Youth), India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a61fd43e7ee3_upay_logo.jpeg",
+      "start_date": null,
+      "end_date": "2026-12-15T17:02:00+05:30",
+      "deadline": "2026-12-15T17:02:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
