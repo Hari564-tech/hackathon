@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-02T15:42:40.193666+00:00",
-  "total_count": 143,
+  "last_synced_at": "2026-09-02T20:20:21.465982+00:00",
+  "total_count": 148,
   "hackathons": [
     {
       "source": "Unstop",
@@ -327,6 +327,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/talentedge-coding-assessment-01-aditya-university-1748316",
+      "title": "TalentEdge Coding Assessment-01",
+      "organizer": "Aditya University",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9865125e752_organisation_image-cFY1a2Gc7v18610759187oC7r4aiP8.png",
+      "start_date": null,
+      "end_date": "2026-09-03T16:30:00+05:30",
+      "deadline": "2026-09-03T16:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hack-the-horizon-20-24-hour-hackathon-hack-the-horizon-20-24-hour-hackathon-kpr-institute-of-engineering-and--1742320",
       "title": "Hack The Horizon 2.0 – 24-Hour Hackathon",
       "organizer": "KPR Institute of Engineering and Technology Coimbatore",
@@ -506,6 +525,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a940a9051b28_organisation_image-GA9B5nDzBX3471744738LWVb80HY2.png",
+      "start_date": null,
+      "end_date": "2026-09-06T00:00:00+05:30",
+      "deadline": "2026-09-06T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/campusathon-2026-simply-updify-1748322",
+      "title": "Campusathon 2026",
+      "organizer": "Simply Updify",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a986ff20a000_organisation_image-GA9B5nDzBX3471744738LWVb80HY2.png",
       "start_date": null,
       "end_date": "2026-09-06T00:00:00+05:30",
       "deadline": "2026-09-06T00:00:00+05:30",
@@ -1451,6 +1489,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vinhack-vit-vellore-1748351",
+      "title": "VINHACK",
+      "organizer": "Vellore Institute of Technology (VIT), Vellore",
+      "mode": "Offline",
+      "venue_address": "Vellore Institute of Technology (VIT), Vellore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a983ca885018_vinhack.png",
+      "start_date": null,
+      "end_date": "2026-09-17T23:59:00+05:30",
+      "deadline": "2026-09-17T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackosquad-cyber-week-2026-learn-hack-compete-in-7-days-hacksquad-cyber-week-2026-learn-hack-compete-in-7-day-1747788",
       "title": "Hackosquad Cyber Week 2026: Learn, Hack & Compete in 7 Days",
       "organizer": "hackosquadCTF",
@@ -1660,6 +1717,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-pareidolia-paradox-sies-gst-nerul-1743714",
+      "title": "The Pareidolia Paradox",
+      "organizer": "SIES GST Nerul",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8c5c08c8b04_untitled_design_1.png",
+      "start_date": null,
+      "end_date": "2026-09-21T23:59:00+05:30",
+      "deadline": "2026-09-21T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hack-with-vizag-40-nadimpalli-satyanarayana-raju-institute-of-technology-nsrit-andhra-pradesh-1746827",
       "title": "Hack With Vizag 4.0",
       "organizer": "Nadimpalli Satyanarayana Raju Institute of Technology (NSRIT), Andhra Pradesh",
@@ -1803,6 +1879,25 @@
       "start_date": null,
       "end_date": "2026-09-27T13:00:00+05:30",
       "deadline": "2026-09-27T13:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/global-innovation-hackathon-2026-build-for-a-better-future-bharat-academix-1748404",
+      "title": "Global Innovation Hackathon 2026 – Build for a Better Future",
+      "organizer": "Bharat Academix",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9855302d8ab_bharatacademixlogo.png",
+      "start_date": null,
+      "end_date": "2026-09-27T17:30:00+05:30",
+      "deadline": "2026-09-27T17:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
