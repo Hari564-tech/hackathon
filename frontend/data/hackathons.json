@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-03T02:18:15.235984+00:00",
-  "total_count": 148,
+  "last_synced_at": "2026-09-03T10:27:39.931542+00:00",
+  "total_count": 152,
   "hackathons": [
     {
       "source": "Unstop",
@@ -670,6 +670,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/data-analytics-challenge-national-students-space-challenge-2026-iit-kharagpur-1747275",
+      "title": "Data Analytics Challenge",
+      "organizer": "Indian Institute of Technology (IIT), Kharagpur",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68e4f087f0d39_uploadedmanual-66e6af48caec4_nssc_logo1__1_.png",
+      "start_date": null,
+      "end_date": "2026-09-07T23:59:46+05:30",
+      "deadline": "2026-09-07T23:59:46+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/anveshan26-24-hr-hackathon-amrita-vishwa-vidyapeetham-avv-chennai-1736358",
       "title": "Anveshan'26 -  24 Hr Hackathon",
       "organizer": "Amrita Vishwa Vidyapeetham (AVV), Chennai",
@@ -1214,6 +1233,25 @@
       "start_date": null,
       "end_date": "2026-09-14T22:03:00+05:30",
       "deadline": "2026-09-14T22:03:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/redefine-gravitas26-vit-vellore-1748546",
+      "title": "Redefine",
+      "organizer": "Vellore Institute of Technology (VIT), Vellore",
+      "mode": "Offline",
+      "venue_address": "Vellore Institute of Technology (VIT), Vellore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a990d8cb1603_redefine.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-14T23:59:00+05:30",
+      "deadline": "2026-09-14T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -1793,6 +1831,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vibeathon-2026-ac-patil-college-of-engineering-department-of-information-technology-1747384",
+      "title": "Vibeathon 2026",
+      "organizer": "A.C. Patil College of Engineering Department of Information Technology",
+      "mode": "Offline",
+      "venue_address": "A.C. Patil College of Engineering Department of Information Technology, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a96869fad9cb_whatsapp_image_2026-08-31_at_20_46_10.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-25T00:00:00+05:30",
+      "deadline": "2026-09-25T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/coderumble-40-indian-institute-of-information-technology-design-and-manufacturing-iiitdm-jabalpur-1746239",
       "title": "CodeRumble 4.0",
       "organizer": "Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur",
@@ -2162,7 +2219,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a981b1ac3d17_press-tiger.jpg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a991044e6900_press-tiger.jpg",
       "start_date": null,
       "end_date": "2026-10-05T00:00:00+05:30",
       "deadline": "2026-10-05T00:00:00+05:30",
@@ -2762,6 +2819,25 @@
         "Solidity",
         "Zero Knowledge",
         "DeFi"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/seize-da-flaq-cyberonites-club-1724723",
+      "title": "Seize da Flaq",
+      "organizer": "Cyberonites Club",
+      "mode": "Offline",
+      "venue_address": "Cyberonites Club, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a641503dae83_sdf_solo__2_-compressed.jpg",
+      "start_date": null,
+      "end_date": "2026-11-22T12:00:00+05:30",
+      "deadline": "2026-11-22T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
