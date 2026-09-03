@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-03T10:27:39.931542+00:00",
-  "total_count": 152,
+  "last_synced_at": "2026-09-03T15:32:48.597729+00:00",
+  "total_count": 155,
   "hackathons": [
     {
       "source": "Unstop",
@@ -765,6 +765,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/aiml-with-data-science-free-demo-quality-thought-info-systems-1748700",
+      "title": "AI/ML with Data Science - FREE Demo",
+      "organizer": "Quality Thought Info Systems",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a99383005201_quality-thought-logo-software-training-institute-india_jpg.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-09T18:00:00+05:30",
+      "deadline": "2026-09-09T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/crew-assemble-build-battle-conquer-thakur-ramnarayan-college-of-arts-and-commerce-1740745",
       "title": "Crew Assemble — Build, Battle & Conquer",
       "organizer": "Thakur Ramnarayan College of Arts and Commerce",
@@ -1451,6 +1470,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-cortex-30-gravitas26-vit-vellore-1748822",
+      "title": "Code Cortex 3.0",
+      "organizer": "Vellore Institute of Technology (VIT), Vellore",
+      "mode": "Offline",
+      "venue_address": "Vellore Institute of Technology (VIT), Vellore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a99611836d9d_codecortex.webp",
+      "start_date": null,
+      "end_date": "2026-09-16T23:59:00+05:30",
+      "deadline": "2026-09-16T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/cognix-hackathon-2026-cognix-2026-sathyabama-institute-of-science-and-technology-chennai-tamil-nadu-1745574",
       "title": "Cognix Hackathon 2026",
       "organizer": "Sathyabama Institute of Science and Technology, Chennai, Tamil Nadu",
@@ -1841,6 +1879,25 @@
       "start_date": null,
       "end_date": "2026-09-25T00:00:00+05:30",
       "deadline": "2026-09-25T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/dogfood-72-hour-hackathon-hackathon-raptors-1748391",
+      "title": "Dogfood | 72-Hour Hackathon",
+      "organizer": "Hackathon Raptors",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a99512cd0385_chatgpt_image_sep_3_2026_04_14_59_pm_1.png",
+      "start_date": null,
+      "end_date": "2026-09-25T23:30:00+05:30",
+      "deadline": "2026-09-25T23:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
