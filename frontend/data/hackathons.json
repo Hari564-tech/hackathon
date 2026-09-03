@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-03T15:32:48.597729+00:00",
-  "total_count": 155,
+  "last_synced_at": "2026-09-03T20:20:26.541712+00:00",
+  "total_count": 158,
   "hackathons": [
     {
       "source": "Unstop",
@@ -841,6 +841,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/statnova-minecraft-ai-vibe-coding-challenge-vit-bhopal-university-vit-bhopal-1731974",
+      "title": "StatNova – Minecraft AI Vibe Coding Challenge!",
+      "organizer": "VIT Bhopal University (VIT), Bhopal",
+      "mode": "Offline",
+      "venue_address": "VIT Bhopal University (VIT), Bhopal, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a99d4a254720_vit-bhopal-logo-vector.png",
+      "start_date": null,
+      "end_date": "2026-09-10T15:01:00+05:30",
+      "deadline": "2026-09-10T15:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/unfoldd-ctf-2026-unfoldd-technologies-1745588",
       "title": "Unfoldd CTF 2026",
       "organizer": "Unfoldd Technologies",
@@ -1347,6 +1366,25 @@
       "start_date": null,
       "end_date": "2026-09-15T17:49:00+05:30",
       "deadline": "2026-09-15T17:49:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/innovators-day-2026-sri-manakula-vinayagar-engineering-college-smvec-puducherry-1748928",
+      "title": "Innovators Day 2026",
+      "organizer": "Sri Manakula Vinayagar Engineering College (SMVEC), Puducherry",
+      "mode": "Offline",
+      "venue_address": "Sri Manakula Vinayagar Engineering College (SMVEC), Puducherry, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a99aed1ec7af_SMVEC_logo.png",
+      "start_date": null,
+      "end_date": "2026-09-15T21:01:00+05:30",
+      "deadline": "2026-09-15T21:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -2375,6 +2413,25 @@
       "start_date": null,
       "end_date": "2026-10-07T22:30:00+05:30",
       "deadline": "2026-10-07T22:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/competitions/kernel-prime26-24-hour-hackathon-sa-engineering-college-1747854",
+      "title": "Kernel Prime'26 - 24 Hour Hackathon",
+      "organizer": "SA Engineering College",
+      "mode": "Offline",
+      "venue_address": "SA Engineering College, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a97b367990a1_logo_mai.png",
+      "start_date": null,
+      "end_date": "2026-10-09T12:00:00+05:30",
+      "deadline": "2026-10-09T12:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
