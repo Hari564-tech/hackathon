@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-04T10:15:19.824551+00:00",
-  "total_count": 160,
+  "last_synced_at": "2026-09-04T15:30:44.310877+00:00",
+  "total_count": 161,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1023,6 +1023,25 @@
       "start_date": null,
       "end_date": "2026-09-12T00:00:00+05:30",
       "deadline": "2026-09-12T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/constructathon-online-robotics-build-challenge-atumx-1749130",
+      "title": "Constructathon — Online Robotics Build Challenge",
+      "organizer": "AtumX",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9abb4b141e4_organisation_image-9hKnXWxFlc1533339866LDSKUu3tfI.png",
+      "start_date": null,
+      "end_date": "2026-09-12T06:00:00+05:30",
+      "deadline": "2026-09-12T06:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -2594,25 +2613,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/hackcache26-government-college-of-engineering-and-technology-jammu-1744316",
-      "title": "Hackcache'26",
-      "organizer": "Government College of Engineering and Technology, Jammu",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8e71923835a_cachedinfo.png",
-      "start_date": null,
-      "end_date": "2026-10-19T18:30:00+05:30",
-      "deadline": "2026-10-19T18:30:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/graviton-iste-cgc-university-1742794",
       "title": "Graviton",
       "organizer": "ISTE CGC UNIVERSITY",
@@ -2623,6 +2623,25 @@
       "start_date": null,
       "end_date": "2026-10-20T00:00:00+05:30",
       "deadline": "2026-10-20T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackcache26-government-college-of-engineering-and-technology-jammu-1744316",
+      "title": "Hackcache'26",
+      "organizer": "Government College of Engineering and Technology, Jammu",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8e71923835a_cachedinfo.png",
+      "start_date": null,
+      "end_date": "2026-10-20T23:59:00+05:30",
+      "deadline": "2026-10-20T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
