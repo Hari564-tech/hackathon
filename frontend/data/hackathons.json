@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-04T15:30:44.310877+00:00",
-  "total_count": 161,
+  "last_synced_at": "2026-09-04T20:05:43.670035+00:00",
+  "total_count": 165,
   "hackathons": [
     {
       "source": "Unstop",
@@ -451,6 +451,25 @@
       "start_date": null,
       "end_date": "2026-09-05T06:01:00+05:30",
       "deadline": "2026-09-05T06:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codeathon-lakhmi-chand-institute-of-technology-lcit-bilaspur-chattisgarh-1749540",
+      "title": "Codeathon",
+      "organizer": "Lakhmi Chand Institute of Technology (LCIT), Bilaspur, Chattisgarh",
+      "mode": "Offline",
+      "venue_address": "Lakhmi Chand Institute of Technology (LCIT), Bilaspur, Chattisgarh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9b1a55a4d11_0cb89c1bd21d992477c77bd23f06406e.jpg",
+      "start_date": null,
+      "end_date": "2026-09-05T15:10:00+05:30",
+      "deadline": "2026-09-05T15:10:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -937,6 +956,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/industrysolve-idea-thon-product-a-thon-2026-indraprastha-institute-of-information-technology-iiit-delhi-1749452",
+      "title": "IndustrySolve Idea-Thon & Product-a-Thon 2026",
+      "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
+      "mode": "Offline",
+      "venue_address": "Indraprastha Institute of Information Technology (IIIT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9b087d4243a_IIIT_Delhi_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-09-11T00:00:00+05:30",
+      "deadline": "2026-09-11T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/megathon26-fusion-for-future-drestein-26-saveetha-engineering-college-sec-chennai-1743412",
       "title": "Megathon'26 – Fusion For Future",
       "organizer": "Saveetha Engineering College (SEC), Chennai",
@@ -1038,7 +1076,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9abb4b141e4_organisation_image-9hKnXWxFlc1533339866LDSKUu3tfI.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9afc9508994_organisation_image-9hKnXWxFlc1533339866LDSKUu3tfI.png",
       "start_date": null,
       "end_date": "2026-09-12T06:00:00+05:30",
       "deadline": "2026-09-12T06:00:00+05:30",
@@ -1287,6 +1325,25 @@
       "venue_address": "Vellore Institute of Technology (VIT), Vellore, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a990d8cb1603_redefine.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-14T23:59:00+05:30",
+      "deadline": "2026-09-14T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/sensora-20-vit-vellore-1746206",
+      "title": "Sensora 2.0",
+      "organizer": "Vellore Institute of Technology (VIT), Vellore",
+      "mode": "Offline",
+      "venue_address": "Vellore Institute of Technology (VIT), Vellore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a93392741053_sensora.jpg",
       "start_date": null,
       "end_date": "2026-09-14T23:59:00+05:30",
       "deadline": "2026-09-14T23:59:00+05:30",
@@ -1971,6 +2028,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8fff5883097_6439a3c060b21_amalgam_no_bg_red-6b57be54.png",
+      "start_date": null,
+      "end_date": "2026-09-26T17:00:00+05:30",
+      "deadline": "2026-09-26T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-the-future-3o-tulas-university-1748989",
+      "title": "Hack The Future 3.O",
+      "organizer": "Tulas university ",
+      "mode": "Offline",
+      "venue_address": "Tulas university , India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a99c18bbe0a8_htf_3_0_logo_1.png",
       "start_date": null,
       "end_date": "2026-09-26T17:00:00+05:30",
       "deadline": "2026-09-26T17:00:00+05:30",
