@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-05T02:14:13.902794+00:00",
-  "total_count": 165,
+  "last_synced_at": "2026-09-05T09:43:41.172245+00:00",
+  "total_count": 166,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1698,6 +1698,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/zinnovatio-40-chandigarh-university-cu-ajitgarh-punjab-1749579",
+      "title": "Zinnovatio 4.0",
+      "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
+      "mode": "Offline",
+      "venue_address": "Chandigarh University (CU), Ajitgarh, Punjab, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9b9a37bd1ce_Screenshot_2023-12-13_at_12.37.47_PM.png",
+      "start_date": null,
+      "end_date": "2026-09-19T00:00:00+05:30",
+      "deadline": "2026-09-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/fusion-x-10-24-hour-hackathon-paavai-engineering-college-pec-namakkal-1743196",
       "title": "FUSION X 1.0 – 24-Hour Hackathon",
       "organizer": "Paavai Engineering College (PEC), Namakkal",
@@ -2041,7 +2060,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hack-the-future-3o-tulas-university-1748989",
-      "title": "Hack The Future 3.O",
+      "title": "Hack The Future 3.0 – National Hackathon | Tula’s University",
       "organizer": "Tulas university ",
       "mode": "Offline",
       "venue_address": "Tulas university , India",
