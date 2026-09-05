@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-05T14:18:36.761435+00:00",
-  "total_count": 166,
+  "last_synced_at": "2026-09-05T19:45:02.036336+00:00",
+  "total_count": 170,
   "hackathons": [
     {
       "source": "Unstop",
@@ -962,7 +962,7 @@
       "mode": "Offline",
       "venue_address": "Indraprastha Institute of Information Technology (IIIT), Delhi, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9b087d4243a_IIIT_Delhi_logo.jpg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9c6a4c4215a_IIIT_Delhi_logo.jpg",
       "start_date": null,
       "end_date": "2026-09-11T00:00:00+05:30",
       "deadline": "2026-09-11T00:00:00+05:30",
@@ -1356,6 +1356,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/buildonomics-gravitas26-vit-vellore-1749938",
+      "title": "Buildonomics",
+      "organizer": "Vellore Institute of Technology (VIT), Vellore",
+      "mode": "Offline",
+      "venue_address": "Vellore Institute of Technology (VIT), Vellore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9c64d215be2_buildanomics.webp",
+      "start_date": null,
+      "end_date": "2026-09-14T23:59:00+05:30",
+      "deadline": "2026-09-14T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/techsprint-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-1746971",
       "title": "TechSprint",
       "organizer": "MKSSS's Cummins College of Engineering for Women (CCOEW), Pune",
@@ -1584,6 +1603,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/startup-street-11-gravitas26-vit-vellore-1749969",
+      "title": "Startup Street 11",
+      "organizer": "Vellore Institute of Technology (VIT), Vellore",
+      "mode": "Offline",
+      "venue_address": "Vellore Institute of Technology (VIT), Vellore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9c66986e0a6_startup.webp",
+      "start_date": null,
+      "end_date": "2026-09-16T23:59:00+05:30",
+      "deadline": "2026-09-16T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/cognix-hackathon-2026-cognix-2026-sathyabama-institute-of-science-and-technology-chennai-tamil-nadu-1745574",
       "title": "Cognix Hackathon 2026",
       "organizer": "Sathyabama Institute of Science and Technology, Chennai, Tamil Nadu",
@@ -1705,6 +1743,25 @@
       "venue_address": "Chandigarh University (CU), Ajitgarh, Punjab, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9b9a37bd1ce_Screenshot_2023-12-13_at_12.37.47_PM.png",
+      "start_date": null,
+      "end_date": "2026-09-19T00:00:00+05:30",
+      "deadline": "2026-09-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/internhill-code-sprint-internhill-solutions-1749959",
+      "title": "InternHill Code Sprint",
+      "organizer": "InternHill Solutions",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9c6d882a85a_organisation_image-s9ZSMzMu3J6054940470zYJd8PIMp.png",
       "start_date": null,
       "end_date": "2026-09-19T00:00:00+05:30",
       "deadline": "2026-09-19T00:00:00+05:30",
@@ -2183,6 +2240,25 @@
       "start_date": null,
       "end_date": "2026-09-27T23:59:00+05:30",
       "deadline": "2026-09-27T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackindore-40-24hour-national-hackathon-shri-g-s-institute-of-technology-science-indore-1744202",
+      "title": "HackIndore 4.0 – 24‑Hour National Hackathon",
+      "organizer": "Shri G. S. Institute of Technology & Science, Indore",
+      "mode": "Offline",
+      "venue_address": "Shri G. S. Institute of Technology & Science, Indore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8eed9dd7bb3_logo_banner.png",
+      "start_date": null,
+      "end_date": "2026-09-28T11:00:00+05:30",
+      "deadline": "2026-09-28T11:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
