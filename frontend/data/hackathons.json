@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-06T02:09:44.227694+00:00",
-  "total_count": 170,
+  "last_synced_at": "2026-09-06T09:59:09.238785+00:00",
+  "total_count": 173,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2059,6 +2059,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-clash-rv-university-1749224",
+      "title": "Code Clash",
+      "organizer": "RV UNIVERSITY",
+      "mode": "Offline",
+      "venue_address": "RV UNIVERSITY, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9a80f0d864b_yellowlogo.png",
+      "start_date": null,
+      "end_date": "2026-09-25T17:00:00+05:30",
+      "deadline": "2026-09-25T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/dogfood-72-hour-hackathon-hackathon-raptors-1748391",
       "title": "Dogfood | 72-Hour Hackathon",
       "organizer": "Hackathon Raptors",
@@ -2088,6 +2107,25 @@
       "start_date": null,
       "end_date": "2026-09-25T23:59:00+05:30",
       "deadline": "2026-09-25T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/argonyx26-rv-university-1748836",
+      "title": "Argonyx‘26",
+      "organizer": "RV UNIVERSITY",
+      "mode": "Offline",
+      "venue_address": "RV UNIVERSITY, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a996b93139eb_yellowlogo.png",
+      "start_date": null,
+      "end_date": "2026-09-26T14:30:00+05:30",
+      "deadline": "2026-09-26T14:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -2298,6 +2336,25 @@
       "start_date": null,
       "end_date": "2026-09-29T12:00:00+05:30",
       "deadline": "2026-09-29T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/udbhav26-idea-build-pitch-pimpri-chinchwad-college-of-engineering-research-1749090",
+      "title": "Udbhav'26 – Idea. Build. Pitch.",
+      "organizer": "Pimpri Chinchwad College Of Engineering & Research",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9a5bb8b8533_ecell_logo.png",
+      "start_date": null,
+      "end_date": "2026-09-29T18:00:00+05:30",
+      "deadline": "2026-09-29T18:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
