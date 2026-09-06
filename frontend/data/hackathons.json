@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-05T19:45:02.036336+00:00",
+  "last_synced_at": "2026-09-06T02:09:44.227694+00:00",
   "total_count": 170,
   "hackathons": [
     {
@@ -1755,25 +1755,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/internhill-code-sprint-internhill-solutions-1749959",
-      "title": "InternHill Code Sprint",
-      "organizer": "InternHill Solutions",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9c6d882a85a_organisation_image-s9ZSMzMu3J6054940470zYJd8PIMp.png",
-      "start_date": null,
-      "end_date": "2026-09-19T00:00:00+05:30",
-      "deadline": "2026-09-19T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/fusion-x-10-24-hour-hackathon-paavai-engineering-college-pec-namakkal-1743196",
       "title": "FUSION X 1.0 – 24-Hour Hackathon",
       "organizer": "Paavai Engineering College (PEC), Namakkal",
@@ -1936,6 +1917,25 @@
       "start_date": null,
       "end_date": "2026-09-20T23:59:00+05:30",
       "deadline": "2026-09-20T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/internhill-code-sprint-internhill-solutions-1749959",
+      "title": "InternHill Code Sprint",
+      "organizer": "InternHill Solutions",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9c6d882a85a_organisation_image-s9ZSMzMu3J6054940470zYJd8PIMp.png",
+      "start_date": null,
+      "end_date": "2026-09-21T01:48:00+05:30",
+      "deadline": "2026-09-21T01:48:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
