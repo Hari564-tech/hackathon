@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-06T09:59:09.238785+00:00",
-  "total_count": 173,
+  "last_synced_at": "2026-09-06T14:41:41.284731+00:00",
+  "total_count": 176,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1812,6 +1812,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/data-quest-3o-prelims-vellore-institute-of-technology-vit-chennai-1750118",
+      "title": "Data Quest 3.O Prelims",
+      "organizer": "Vellore Institute of Technology (VIT), Chennai",
+      "mode": "Offline",
+      "venue_address": "Vellore Institute of Technology (VIT), Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9d7b1ae2070_download__10_.png",
+      "start_date": null,
+      "end_date": "2026-09-20T00:00:00+05:30",
+      "deadline": "2026-09-20T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/elucode-2-edulinkup-1740124",
       "title": "ELUCode-2",
       "organizer": "EduLinkUp",
@@ -2193,7 +2212,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/sit-flagship-hackathon-2026-8-hour-ai-hackathon-symbiosis-institute-of-technology-sit-pune-1746836",
-      "title": "SIT Flagship Hackathon 2026 | 8-Hour AI Hackathon",
+      "title": "Synapse 1.0 | SIT Flagship Hackathon 2026 | 8-Hour AI Hackathon",
       "organizer": "Symbiosis Institute of Technology (SIT), Pune",
       "mode": "Offline",
       "venue_address": "Symbiosis Institute of Technology (SIT), Pune, India",
@@ -2322,6 +2341,25 @@
         "Cloud Native",
         "EdTech",
         "IoT"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/secura-srm-institute-of-science-technology-trichy-1750028",
+      "title": "Secura",
+      "organizer": "SRM Institute of Science & Technology, Trichy",
+      "mode": "Offline",
+      "venue_address": "SRM Institute of Science & Technology, Trichy, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9ced615a01f_whatsapp_image_2026-09-01_at_10_05_03_am.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-29T00:00:00+05:30",
+      "deadline": "2026-09-29T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
@@ -2679,6 +2717,25 @@
       "start_date": null,
       "end_date": "2026-10-07T22:30:00+05:30",
       "deadline": "2026-10-07T22:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/singularity-hackathon-aj-institute-of-engineering-and-technology-ajiet-mangalore-karnataka-1735180",
+      "title": "Singularity Hackathon",
+      "organizer": "AJ Institute of Engineering and Technology (AJIET), Mangalore, Karnataka",
+      "mode": "Offline",
+      "venue_address": "AJ Institute of Engineering and Technology (AJIET), Mangalore, Karnataka, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7ad1d80932b_whatsapp_image_2026-08-11_at_1_09_20_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-09T09:01:00+05:30",
+      "deadline": "2026-10-09T09:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
