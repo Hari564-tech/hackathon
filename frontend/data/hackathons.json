@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-07T16:56:33.614119+00:00",
-  "total_count": 186,
+  "last_synced_at": "2026-09-07T20:56:55.324535+00:00",
+  "total_count": 189,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1774,6 +1774,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/convergence-2k26-24hr-hardware-hackathon-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-t-1750727",
+      "title": "Convergence 2K26: 24hr Hardware Hackathon",
+      "organizer": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana",
+      "mode": "Offline",
+      "venue_address": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9ef18a17ca5_vnrvjiet_sm_transparent_black.png",
+      "start_date": null,
+      "end_date": "2026-09-19T16:00:00+05:30",
+      "deadline": "2026-09-19T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/decarbonix-10-dr-ss-bhatnagar-university-institute-of-chemical-engineering-technology-panjab-university-chand-1743102",
       "title": "Decarbonix 1.0",
       "organizer": "Dr SS Bhatnagar  University Institute of Chemical Engineering & Technology, Panjab University, Chandigarh",
@@ -2573,6 +2592,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackpulse-university-of-engineering-management-uem-jaipur-1747911",
+      "title": "Hackpulse",
+      "organizer": "University of Engineering & Management (UEM), Jaipur",
+      "mode": "Offline",
+      "venue_address": "University of Engineering & Management (UEM), Jaipur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9e5917cc240_whatsapp_image_2026-08-27_at_10_11_16.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-30T00:00:00+05:30",
+      "deadline": "2026-09-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codearambh-20-24-hour-national-level-hackathon-dare-to-code-dare-to-create-hi-tech-institute-of-engineering-a-1742494",
       "title": "Codearambh 2.0 – 24-Hour National-Level Hackathon: Dare to Code, Dare to Create",
       "organizer": "HI-Tech Institute Of Engineering And Technology (HIET), Ghaziabad",
@@ -2907,6 +2945,25 @@
       "start_date": null,
       "end_date": "2026-10-09T12:00:00+05:30",
       "deadline": "2026-10-09T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/agnitia-2026-36-hours-national-level-hackathon-prestige-institute-of-engineering-management-and-research-pimr-1750621",
+      "title": "Agnitia 2026 : 36 Hours National Level Hackathon",
+      "organizer": "Prestige Institute of Engineering, Management and Research (PIMR), Indore",
+      "mode": "Offline",
+      "venue_address": "Prestige Institute of Engineering, Management and Research (PIMR), Indore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9ea92a65774_agnitia_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-10T10:00:00+05:30",
+      "deadline": "2026-10-10T10:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
