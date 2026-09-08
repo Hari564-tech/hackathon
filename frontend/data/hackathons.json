@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-08T02:18:50.751764+00:00",
-  "total_count": 190,
+  "last_synced_at": "2026-09-08T10:21:06.605467+00:00",
+  "total_count": 191,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1432,6 +1432,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/tejas-india-hackathon-2026-government-engineering-college-gec-sheikhpura-1744276",
+      "title": "Tejas India Hackathon 2026",
+      "organizer": "Government Engineering College (GEC), Sheikhpura",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8dfce31f58e_whatsapp_image_2026-08-13_at_11_52_11_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-15T00:00:00+05:30",
+      "deadline": "2026-09-15T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codearena-2026-quizcred-1742930",
       "title": "CodeArena 2026",
       "organizer": "QuizCred",
@@ -1775,15 +1794,34 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/convergence-2k26-24hr-hardware-hackathon-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-t-1750727",
-      "title": "Convergence 2K26: 24hr Hardware Hackathon",
+      "title": "CONVERGENCE 2k26: 24Hr Hardware Hackathon",
       "organizer": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana",
       "mode": "Offline",
       "venue_address": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9ef18a17ca5_vnrvjiet_sm_transparent_black.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9fa20f167ae_convergence_logo.png",
       "start_date": null,
       "end_date": "2026-09-19T16:00:00+05:30",
       "deadline": "2026-09-19T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/devhack-2026-gdg-on-campus-iimt-meerut-1750208",
+      "title": "DevHack 2026",
+      "organizer": "GDG On Campus IIMT, Meerut",
+      "mode": "Offline",
+      "venue_address": "GDG On Campus IIMT, Meerut, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9dc4746c593_organisation_image-otITZAdRa05060784340jQhco6iyR.png",
+      "start_date": null,
+      "end_date": "2026-09-19T18:00:00+05:30",
+      "deadline": "2026-09-19T18:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -1838,25 +1876,6 @@
       "venue_address": "Vellore Institute of Technology (VIT), Chennai, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9d7b1ae2070_download__10_.png",
-      "start_date": null,
-      "end_date": "2026-09-20T00:00:00+05:30",
-      "deadline": "2026-09-20T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/devhack-2026-gdg-on-campus-iimt-meerut-1750208",
-      "title": "DevHack 2026",
-      "organizer": "GDG On Campus IIMT, Meerut",
-      "mode": "Offline",
-      "venue_address": "GDG On Campus IIMT, Meerut, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a9dc4746c593_organisation_image-otITZAdRa05060784340jQhco6iyR.png",
       "start_date": null,
       "end_date": "2026-09-20T00:00:00+05:30",
       "deadline": "2026-09-20T00:00:00+05:30",
