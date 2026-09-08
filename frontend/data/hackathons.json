@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-07T20:56:55.324535+00:00",
-  "total_count": 189,
+  "last_synced_at": "2026-09-08T02:18:50.751764+00:00",
+  "total_count": 190,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3228,6 +3228,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a982966a29c2_images.png",
+      "start_date": null,
+      "end_date": "2026-10-24T23:59:00+05:30",
+      "deadline": "2026-10-24T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/avishkaar-season-4-hackathon-a-national-level-innovation-challenge-aditya-institute-of-technology-and-managem-1750320",
+      "title": "AVISHKAAR Season 4 Hackathon: A National-Level Innovation Challenge",
+      "organizer": "Aditya Institute of Technology and Management (AITAM), Tekkai, Andhra Pradesh",
+      "mode": "Offline",
+      "venue_address": "Aditya Institute of Technology and Management (AITAM), Tekkai, Andhra Pradesh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9db14feefb0_avishkaar.png",
       "start_date": null,
       "end_date": "2026-10-24T23:59:00+05:30",
       "deadline": "2026-10-24T23:59:00+05:30",
