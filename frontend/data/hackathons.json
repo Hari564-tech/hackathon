@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-08T15:44:37.481541+00:00",
-  "total_count": 191,
+  "last_synced_at": "2026-09-08T20:31:49.353799+00:00",
+  "total_count": 197,
   "hackathons": [
     {
       "source": "Unstop",
@@ -784,6 +784,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/webcmd-campus-hackathon-mait-edition-maharaja-agrasen-institute-of-technology-mait-delhi-1751407",
+      "title": "WebCMD Campus Hackathon - MAIT Edition",
+      "organizer": "Maharaja Agrasen Institute of technology (MAIT), Delhi",
+      "mode": "Offline",
+      "venue_address": "Maharaja Agrasen Institute of technology (MAIT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa02917d3dad_slablogo.png",
+      "start_date": null,
+      "end_date": "2026-09-09T23:30:00+05:30",
+      "deadline": "2026-09-09T23:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/crew-assemble-build-battle-conquer-thakur-ramnarayan-college-of-arts-and-commerce-1740745",
       "title": "Crew Assemble — Build, Battle & Conquer",
       "organizer": "Thakur Ramnarayan College of Arts and Commerce",
@@ -1280,6 +1299,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/renu-innovation-hackathon-2026-shri-phanishwar-nath-renu-engineering-college-araria-1751477",
+      "title": "Renu Innovation Hackathon 2026",
+      "organizer": "Shri Phanishwar Nath Renu Engineering College, Araria",
+      "mode": "Offline",
+      "venue_address": "Shri Phanishwar Nath Renu Engineering College, Araria, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa0522297c9a_whatsapp_image_2026-09-08_at_11_50_06_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-14T00:37:00+05:30",
+      "deadline": "2026-09-14T00:37:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/code-club-round-2-technical-online-assessment-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-1746479",
       "title": "Code Club Round 2 - Technical Online Assessment",
       "organizer": "MKSSS's Cummins College of Engineering for Women (CCOEW), Pune",
@@ -1603,6 +1641,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-skill-sprint-10-chandigarh-university-cu-ajitgarh-punjab-1749909",
+      "title": "AI Skill Sprint 1.0",
+      "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
+      "mode": "Offline",
+      "venue_address": "Chandigarh University (CU), Ajitgarh, Punjab, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa050c04d57d_Screenshot_2023-12-13_at_12.37.47_PM.png",
+      "start_date": null,
+      "end_date": "2026-09-16T16:30:00+05:30",
+      "deadline": "2026-09-16T16:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/code-cortex-30-gravitas26-vit-vellore-1748822",
       "title": "Code Cortex 3.0",
       "organizer": "Vellore Institute of Technology (VIT), Vellore",
@@ -1724,6 +1781,25 @@
       "venue_address": "Vellore Institute of Technology (VIT), Vellore, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a983ca885018_vinhack.png",
+      "start_date": null,
+      "end_date": "2026-09-17T23:59:00+05:30",
+      "deadline": "2026-09-17T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vivekananda-innovation-hackathon-2026-dtu-new-delhi-1751434",
+      "title": "Vivekananda Innovation Hackathon 2026",
+      "organizer": "Delhi Technological University (DTU), New Delhi",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa0436b546b7_DTU_logo.png",
       "start_date": null,
       "end_date": "2026-09-17T23:59:00+05:30",
       "deadline": "2026-09-17T23:59:00+05:30",
@@ -2126,6 +2202,25 @@
       "start_date": null,
       "end_date": "2026-09-22T16:00:00+05:30",
       "deadline": "2026-09-22T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/mst-blockchain-newrro-bmsc-24-hour-buildathon-bms-college-of-engineering-1750981",
+      "title": "MST Blockchain <> Newrro <> BMSC  24-Hour Buildathon",
+      "organizer": "BMS COLLEGE OF ENGINEERING",
+      "mode": "Offline",
+      "venue_address": "BMS COLLEGE OF ENGINEERING, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9fb96486374_mst-logo-1.png",
+      "start_date": null,
+      "end_date": "2026-09-23T00:00:00+05:30",
+      "deadline": "2026-09-23T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -2975,11 +3070,11 @@
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/agnitia-2026-36-hours-national-level-hackathon-prestige-institute-of-engineering-management-and-research-pimr-1750621",
       "title": "Agnitia 2026 : 36 Hours National Level Hackathon",
-      "organizer": "Prestige Institute of Engineering, Management and Research (PIMR), Indore",
+      "organizer": "Prestige Institute of Engineering, Management and Research (PIEMR), Indore",
       "mode": "Offline",
-      "venue_address": "Prestige Institute of Engineering, Management and Research (PIMR), Indore, India",
+      "venue_address": "Prestige Institute of Engineering, Management and Research (PIEMR), Indore, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9ea92a65774_agnitia_logo.jpg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa03dd1c2741_1000066853.png",
       "start_date": null,
       "end_date": "2026-10-10T10:00:00+05:30",
       "deadline": "2026-10-10T10:00:00+05:30",
@@ -3631,6 +3726,25 @@
       "start_date": null,
       "end_date": "2026-12-15T17:02:00+05:30",
       "deadline": "2026-12-15T17:02:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ideation26-sies-graduate-school-of-technology-navi-mumbai-maharashtra-1749736",
+      "title": "Ideation'26",
+      "organizer": "SIES Graduate School of Technology, Navi Mumbai, Maharashtra",
+      "mode": "Offline",
+      "venue_address": "SIES Graduate School of Technology, Navi Mumbai, Maharashtra, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a970f112ad33_107557.png",
+      "start_date": null,
+      "end_date": "2027-09-06T14:27:13+05:30",
+      "deadline": "2027-09-06T14:27:13+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
