@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-09T02:21:56.575226+00:00",
-  "total_count": 197,
+  "last_synced_at": "2026-09-09T10:29:36.891314+00:00",
+  "total_count": 202,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2116,6 +2116,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/agentic-ai-hackathon-product-space-1751529",
+      "title": "Agentic AI Hackathon",
+      "organizer": "Product Space",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa0b28fb7d5b_p_4.png",
+      "start_date": null,
+      "end_date": "2026-09-20T23:59:00+05:30",
+      "deadline": "2026-09-20T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/seattle-givecamp-2026-seattle-givecamp-1750430",
       "title": "Seattle GiveCamp 2026",
       "organizer": "Seattle GiveCamp",
@@ -2212,12 +2231,12 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/mst-blockchain-newrro-bmsc-24-hour-buildathon-bms-college-of-engineering-1750981",
-      "title": "MST Blockchain <> Newrro <> BMSC  24-Hour Buildathon",
+      "title": "MST Blockchain x Newrro 24-Hour Buildathon",
       "organizer": "BMS COLLEGE OF ENGINEERING",
       "mode": "Offline",
       "venue_address": "BMS COLLEGE OF ENGINEERING, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9fb96486374_mst-logo-1.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa0f2d99b33f_661x611_logo.png",
       "start_date": null,
       "end_date": "2026-09-23T00:00:00+05:30",
       "deadline": "2026-09-23T00:00:00+05:30",
@@ -2420,6 +2439,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ideation26-sies-graduate-school-of-technology-navi-mumbai-maharashtra-1749736",
+      "title": "Ideation'26",
+      "organizer": "SIES Graduate School of Technology, Navi Mumbai, Maharashtra",
+      "mode": "Offline",
+      "venue_address": "SIES Graduate School of Technology, Navi Mumbai, Maharashtra, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a970f112ad33_107557.png",
+      "start_date": null,
+      "end_date": "2026-09-26T17:02:06+05:30",
+      "deadline": "2026-09-26T17:02:06+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/yc-fall-2026-x-moss-the-zero-latency-builder-sprint-hidevs-1743636",
       "title": "YC Fall 2026 x Moss: The Zero Latency Builder Sprint",
       "organizer": "HiDevs",
@@ -2534,6 +2572,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/global-sdg-ai-hackathon-2026-bharati-vidyapeeth-college-of-engineering-pune-1748511",
+      "title": "Global SDG & AI Hackathon 2026",
+      "organizer": "Bharati Vidyapeeth College of Engineering Pune",
+      "mode": "Offline",
+      "venue_address": "Bharati Vidyapeeth College of Engineering Pune, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a999187a34be_download.jpg",
+      "start_date": null,
+      "end_date": "2026-09-27T19:00:00+05:30",
+      "deadline": "2026-09-27T19:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808",
       "title": "HackCelestial 3.0",
       "organizer": "Pillai University, Navi Mumbai",
@@ -2621,6 +2678,25 @@
       "start_date": null,
       "end_date": "2026-09-29T12:00:00+05:30",
       "deadline": "2026-09-29T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackthestack-bharati-vidyapeeth-university-institute-of-management-and-research-bvimr-new-delhi-1734963",
+      "title": "HackTheStack",
+      "organizer": "Bharati Vidyapeeth University, Institute of Management and Research (BVIMR), New Delhi",
+      "mode": "Offline",
+      "venue_address": "Bharati Vidyapeeth University, Institute of Management and Research (BVIMR), New Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7a16f524602_whatsapp_image_2026-08-10_at_11_47_17_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-29T16:30:00+05:30",
+      "deadline": "2026-09-29T16:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -3392,6 +3468,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/competitions/hypnexis-2026-manipal-university-mu-jaipur-1711890",
+      "title": "Hypnexis 2026",
+      "organizer": "Manipal University (MU), Jaipur",
+      "mode": "Offline",
+      "venue_address": "Manipal University (MU), Jaipur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a4b96eabeb88_img_0257_2.jpg",
+      "start_date": null,
+      "end_date": "2026-10-25T20:00:00+05:30",
+      "deadline": "2026-10-25T20:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackwave-30-chameli-devi-group-of-institutions-1750278",
       "title": "Hackwave 3.0",
       "organizer": "Chameli Devi Group of Institutions",
@@ -3402,6 +3497,25 @@
       "start_date": null,
       "end_date": "2026-10-26T23:00:28+05:30",
       "deadline": "2026-10-26T23:00:28+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/quant-a-maze-30-nitte-meenakshi-institute-of-technology-nmit-yelahanka-1744287",
+      "title": "Quant-A-Maze 3.0",
+      "organizer": "Nitte Meenakshi Institute of Technology (NMIT), Yelahanka",
+      "mode": "Offline",
+      "venue_address": "Nitte Meenakshi Institute of Technology (NMIT), Yelahanka, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8e3cbbd84f6_whatsapp_image_2026-08-22_at_11_38_47_am.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-30T12:00:00+05:30",
+      "deadline": "2026-10-30T12:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -3726,25 +3840,6 @@
       "start_date": null,
       "end_date": "2026-12-15T17:02:00+05:30",
       "deadline": "2026-12-15T17:02:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/ideation26-sies-graduate-school-of-technology-navi-mumbai-maharashtra-1749736",
-      "title": "Ideation'26",
-      "organizer": "SIES Graduate School of Technology, Navi Mumbai, Maharashtra",
-      "mode": "Offline",
-      "venue_address": "SIES Graduate School of Technology, Navi Mumbai, Maharashtra, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a970f112ad33_107557.png",
-      "start_date": null,
-      "end_date": "2027-09-06T14:27:13+05:30",
-      "deadline": "2027-09-06T14:27:13+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
