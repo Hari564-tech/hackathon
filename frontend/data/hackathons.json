@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-09T15:39:36.340049+00:00",
+  "last_synced_at": "2026-09-09T20:14:43.976493+00:00",
   "total_count": 204,
   "hackathons": [
     {
@@ -1641,25 +1641,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/ai-skill-sprint-10-chandigarh-university-cu-ajitgarh-punjab-1749909",
-      "title": "AI Skill Sprint 1.0",
-      "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
-      "mode": "Offline",
-      "venue_address": "Chandigarh University (CU), Ajitgarh, Punjab, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa050c04d57d_Screenshot_2023-12-13_at_12.37.47_PM.png",
-      "start_date": null,
-      "end_date": "2026-09-16T16:30:00+05:30",
-      "deadline": "2026-09-16T16:30:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/code-cortex-30-gravitas26-vit-vellore-1748822",
       "title": "Code Cortex 3.0",
       "organizer": "Vellore Institute of Technology (VIT), Vellore",
@@ -2316,6 +2297,25 @@
       "start_date": null,
       "end_date": "2026-09-25T00:00:00+05:30",
       "deadline": "2026-09-25T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-skill-sprint-10-chandigarh-university-cu-ajitgarh-punjab-1749909",
+      "title": "AI Skill Sprint 1.0",
+      "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
+      "mode": "Offline",
+      "venue_address": "Chandigarh University (CU), Ajitgarh, Punjab, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa182181b756_Screenshot_2023-12-13_at_12.37.47_PM.png",
+      "start_date": null,
+      "end_date": "2026-09-25T16:30:00+05:30",
+      "deadline": "2026-09-25T16:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
