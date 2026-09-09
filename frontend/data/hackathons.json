@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-09T10:29:36.891314+00:00",
-  "total_count": 202,
+  "last_synced_at": "2026-09-09T15:39:36.340049+00:00",
+  "total_count": 204,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2801,6 +2801,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/startup-sprint-challenge-2026-rajiv-gandhi-proudyogiki-vishwavidyalaya-rgpv-bhopal-1750856",
+      "title": "Startup Sprint Challenge 2026",
+      "organizer": "Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal",
+      "mode": "Offline",
+      "venue_address": "Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9f9cbf0d2bd_e-cell_logo_with_white_bg-removebg-preview_2.png",
+      "start_date": null,
+      "end_date": "2026-09-30T17:00:00+05:30",
+      "deadline": "2026-09-30T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codearambh-20-24-hour-national-level-hackathon-dare-to-code-dare-to-create-hi-tech-institute-of-engineering-a-1742494",
       "title": "Codearambh 2.0 – 24-Hour National-Level Hackathon: Dare to Code, Dare to Create",
       "organizer": "HI-Tech Institute Of Engineering And Technology (HIET), Ghaziabad",
@@ -3154,6 +3173,25 @@
       "start_date": null,
       "end_date": "2026-10-10T10:00:00+05:30",
       "deadline": "2026-10-10T10:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackmatrix-50-pccoes-gfg-student-chapter-1750988",
+      "title": "HackMatrix 5.0",
+      "organizer": "PCCOE'S GFG STUDENT CHAPTER",
+      "mode": "Offline",
+      "venue_address": "PCCOE'S GFG STUDENT CHAPTER, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9fc29fb7f3e_hm_logo.webp",
+      "start_date": null,
+      "end_date": "2026-10-11T11:00:00+05:30",
+      "deadline": "2026-10-11T11:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
