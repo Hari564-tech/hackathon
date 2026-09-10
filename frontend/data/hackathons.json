@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-10T02:21:16.923992+00:00",
-  "total_count": 204,
+  "last_synced_at": "2026-09-10T10:19:29.815197+00:00",
+  "total_count": 207,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1793,6 +1793,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/mst-blockchain-newrro-bmsc-24-hour-buildathon-bms-college-of-engineering-1750981",
+      "title": "MST Blockchain x Newrro 24-Hour Buildathon",
+      "organizer": "BMS COLLEGE OF ENGINEERING",
+      "mode": "Offline",
+      "venue_address": "BMS COLLEGE OF ENGINEERING, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa0f2d99b33f_661x611_logo.png",
+      "start_date": null,
+      "end_date": "2026-09-18T10:14:04+05:30",
+      "deadline": "2026-09-18T10:14:04+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackosquad-cyber-week-2026-learn-hack-compete-in-7-days-hacksquad-cyber-week-2026-learn-hack-compete-in-7-day-1747788",
       "title": "Hackosquad Cyber Week 2026: Learn, Hack & Compete in 7 Days",
       "organizer": "hackosquadCTF",
@@ -2202,25 +2221,6 @@
       "start_date": null,
       "end_date": "2026-09-22T16:00:00+05:30",
       "deadline": "2026-09-22T16:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/mst-blockchain-newrro-bmsc-24-hour-buildathon-bms-college-of-engineering-1750981",
-      "title": "MST Blockchain x Newrro 24-Hour Buildathon",
-      "organizer": "BMS COLLEGE OF ENGINEERING",
-      "mode": "Offline",
-      "venue_address": "BMS COLLEGE OF ENGINEERING, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa0f2d99b33f_661x611_logo.png",
-      "start_date": null,
-      "end_date": "2026-09-23T00:00:00+05:30",
-      "deadline": "2026-09-23T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -2687,25 +2687,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/hackthestack-bharati-vidyapeeth-university-institute-of-management-and-research-bvimr-new-delhi-1734963",
-      "title": "HackTheStack",
-      "organizer": "Bharati Vidyapeeth University, Institute of Management and Research (BVIMR), New Delhi",
-      "mode": "Offline",
-      "venue_address": "Bharati Vidyapeeth University, Institute of Management and Research (BVIMR), New Delhi, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7a16f524602_whatsapp_image_2026-08-10_at_11_47_17_pm.jpeg",
-      "start_date": null,
-      "end_date": "2026-09-29T16:30:00+05:30",
-      "deadline": "2026-09-29T16:30:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/udbhav26-idea-build-pitch-pimpri-chinchwad-college-of-engineering-research-1749090",
       "title": "Udbhav'26 – Idea. Build. Pitch.",
       "organizer": "Pimpri Chinchwad College Of Engineering & Research",
@@ -2868,6 +2849,25 @@
       "start_date": null,
       "end_date": "2026-10-01T19:00:00+05:30",
       "deadline": "2026-10-01T19:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/aether-hackconquest-hackathon-thakur-college-of-engineering-and-technology-tcet-mumbai-1752204",
+      "title": "Aether HackConquest Hackathon",
+      "organizer": "Thakur College of Engineering and Technology (TCET), Mumbai",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa26ac517763_tcetlogo.png",
+      "start_date": null,
+      "end_date": "2026-10-01T21:00:00+05:30",
+      "deadline": "2026-10-01T21:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -3040,6 +3040,25 @@
       "start_date": null,
       "end_date": "2026-10-05T11:00:00+05:30",
       "deadline": "2026-10-05T11:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/wcc-launchpad-30-wecodecoders-1751873",
+      "title": "WCC Launchpad 30",
+      "organizer": "WeCodeCoders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa23a5f8a9c4_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "start_date": null,
+      "end_date": "2026-10-05T16:00:00+05:30",
+      "deadline": "2026-10-05T16:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -3487,6 +3506,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/built-with-talent-s1-iit-delhi-1752112",
+      "title": "Built With Talent S1 | Hiring Hackathon",
+      "organizer": "Indian Institute of Technology (IIT), Delhi",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa27830a4405_enginow-new.png",
+      "start_date": null,
+      "end_date": "2026-10-25T11:01:00+05:30",
+      "deadline": "2026-10-25T11:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codeslayer-20-2k26-national-institute-of-technology-nit-delhi-1743965",
       "title": "CodeSlayer 2.0 2k26",
       "organizer": "National Institute of Technology (NIT), Delhi",
@@ -3573,6 +3611,25 @@
       "start_date": null,
       "end_date": "2026-10-31T00:01:00+05:30",
       "deadline": "2026-10-31T00:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackthestack-bharati-vidyapeeth-university-institute-of-management-and-research-bvimr-new-delhi-1734963",
+      "title": "HackTheStack",
+      "organizer": "Bharati Vidyapeeth University, Institute of Management and Research (BVIMR), New Delhi",
+      "mode": "Offline",
+      "venue_address": "Bharati Vidyapeeth University, Institute of Management and Research (BVIMR), New Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7a16f524602_whatsapp_image_2026-08-10_at_11_47_17_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-31T17:00:00+05:30",
+      "deadline": "2026-10-31T17:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
