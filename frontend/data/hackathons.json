@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-10T10:19:29.815197+00:00",
-  "total_count": 207,
+  "last_synced_at": "2026-09-10T15:35:21.681549+00:00",
+  "total_count": 213,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2382,6 +2382,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codeclash-10-hackkro-1751296",
+      "title": "CodeClash 1.0",
+      "organizer": "HackKro",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa2abb39bfab_organisation_image-o6ymCdgCJX17229445aRZfc4t2KV.png",
+      "start_date": null,
+      "end_date": "2026-09-25T23:59:00+05:30",
+      "deadline": "2026-09-25T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/argonyx26-rv-university-1748836",
       "title": "Argonyx‘26",
       "organizer": "RV UNIVERSITY",
@@ -2392,6 +2411,25 @@
       "start_date": null,
       "end_date": "2026-09-26T14:30:00+05:30",
       "deadline": "2026-09-26T14:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/acm-marketsphere-2026-rv-college-of-enginnering-1752071",
+      "title": "ACM Marketsphere 2026",
+      "organizer": "RV College of Enginnering",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa25e67420c4_logo1745399049788.webp",
+      "start_date": null,
+      "end_date": "2026-09-26T16:00:00+05:30",
+      "deadline": "2026-09-26T16:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -2820,6 +2858,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/portfolio-in-pixels-2026-itsfoliotech-1750960",
+      "title": "Portfolio in Pixels 2026",
+      "organizer": "itsfolio.tech",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa2ce362828c_organisation_image-q4zR8NPSph745186893UsBDskuLJU.png",
+      "start_date": null,
+      "end_date": "2026-09-30T23:59:00+05:30",
+      "deadline": "2026-09-30T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/code-clash-deenbandhu-chhotu-ram-university-of-science-and-technology-dcrust-murthal-haryana-1750453",
       "title": "Code Clash",
       "organizer": "Deenbandhu Chhotu Ram University Of Science And Technology (DCRUST), Murthal, Haryana",
@@ -3068,6 +3125,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/quantumxpo-rajiv-gandhi-university-of-knowledge-technologies-rgukt-iiit-nuzvid-1752247",
+      "title": "QuantumXpo",
+      "organizer": "Rajiv Gandhi University of Knowledge Technologies (RGUKT)-IIIT Nuzvid",
+      "mode": "Offline",
+      "venue_address": "Rajiv Gandhi University of Knowledge Technologies (RGUKT)-IIIT Nuzvid, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa290f662f1a_fall_fest_be10f3ebbf.png",
+      "start_date": null,
+      "end_date": "2026-10-05T17:00:00+05:30",
+      "deadline": "2026-10-05T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/crp-amazon-ml-challenge-2026-amazon-1743604",
       "title": "Amazon ML Challenge 2026",
       "organizer": "Amazon",
@@ -3192,6 +3268,25 @@
       "start_date": null,
       "end_date": "2026-10-10T10:00:00+05:30",
       "deadline": "2026-10-10T10:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacknowa-global-hackathon-2026-innovation-hacks-1752198",
+      "title": "HackNowa Global Hackathon 2026",
+      "organizer": "Innovation Hacks",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa289d728a2b_organisation_image-HXRc6qSVLN27284711IzN783tlQS.png",
+      "start_date": null,
+      "end_date": "2026-10-10T23:45:00+05:30",
+      "deadline": "2026-10-10T23:45:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -3554,6 +3649,25 @@
       "start_date": null,
       "end_date": "2026-10-25T20:00:00+05:30",
       "deadline": "2026-10-25T20:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ideathon-vibrant-2k26-gl-bajaj-institute-of-technology-and-management-delhi-ncr-uttar-pradesh-1752256",
+      "title": "Ideathon",
+      "organizer": "GL Bajaj Institute of Technology and Management, Delhi NCR, Uttar Pradesh",
+      "mode": "Offline",
+      "venue_address": "GL Bajaj Institute of Technology and Management, Delhi NCR, Uttar Pradesh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a95c5c0af5de_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-26T17:06:34+05:30",
+      "deadline": "2026-10-26T17:06:34+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
