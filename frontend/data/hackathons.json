@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-10T15:35:21.681549+00:00",
-  "total_count": 213,
+  "last_synced_at": "2026-09-10T20:16:09.706524+00:00",
+  "total_count": 216,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2249,6 +2249,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ideathon-2026-innovation-for-impact-bharati-vidyapeeths-college-of-engineering-for-women-pune-1752869",
+      "title": "Ideathon 2026 – Innovation for Impact",
+      "organizer": "Bharati Vidyapeeth's College of Engineering for Women, Pune",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa2ff7c69d47_download__3_.png",
+      "start_date": null,
+      "end_date": "2026-09-24T00:00:00+05:30",
+      "deadline": "2026-09-24T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/zerobreach-20-ctf-2026-sanjivani-college-of-engineering-sce-kopargaon-1750241",
       "title": "ZeroBreach 2.0 CTF 2026",
       "organizer": "Sanjivani College of Engineering (SCE), Kopargaon",
@@ -2820,6 +2839,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/herspark-ideathon-2026-thakur-college-of-engineering-and-technology-tcet-mumbai-1752642",
+      "title": "HerSpark Ideathon 2026",
+      "organizer": "Thakur College of Engineering and Technology (TCET), Mumbai",
+      "mode": "Offline",
+      "venue_address": "Thakur College of Engineering and Technology (TCET), Mumbai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa2d8376044a_tcetlogo.png",
+      "start_date": null,
+      "end_date": "2026-09-30T16:00:00+05:30",
+      "deadline": "2026-09-30T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/startup-sprint-challenge-2026-rajiv-gandhi-proudyogiki-vishwavidyalaya-rgpv-bhopal-1750856",
       "title": "Startup Sprint Challenge 2026",
       "organizer": "Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal",
@@ -2864,7 +2902,26 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa2ce362828c_organisation_image-q4zR8NPSph745186893UsBDskuLJU.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa2ce9e3c50e_organisation_image-q4zR8NPSph745186893UsBDskuLJU.png",
+      "start_date": null,
+      "end_date": "2026-09-30T23:59:00+05:30",
+      "deadline": "2026-09-30T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-in-hills-26-galgotias-university-gu-greater-noida-1752595",
+      "title": "Hack in Hills ’26",
+      "organizer": "Galgotias University (GU), Greater Noida",
+      "mode": "Offline",
+      "venue_address": "Galgotias University (GU), Greater Noida, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa302d5e197f_1000714223.jpg",
       "start_date": null,
       "end_date": "2026-09-30T23:59:00+05:30",
       "deadline": "2026-09-30T23:59:00+05:30",
@@ -3112,7 +3169,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa23a5f8a9c4_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa2f97df2e9a_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
       "start_date": null,
       "end_date": "2026-10-05T16:00:00+05:30",
       "deadline": "2026-10-05T16:00:00+05:30",
