@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-11T15:36:57.745592+00:00",
-  "total_count": 221,
+  "last_synced_at": "2026-09-11T20:16:02.362913+00:00",
+  "total_count": 226,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1280,6 +1280,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/paranova-college-of-engineering-kidangoor-1750908",
+      "title": "PARANOVA",
+      "organizer": "College of Engineering Kidangoor",
+      "mode": "Offline",
+      "venue_address": "College of Engineering Kidangoor, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9fb89a14336_paranova.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-14T00:00:00+05:30",
+      "deadline": "2026-09-14T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/caspian-ai-agent-caspian-1744069",
       "title": "Caspian AI Agent",
       "organizer": "Caspian",
@@ -1401,25 +1420,6 @@
       "venue_address": "Vellore Institute of Technology (VIT), Vellore, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9c64d215be2_buildanomics.webp",
-      "start_date": null,
-      "end_date": "2026-09-14T23:59:00+05:30",
-      "deadline": "2026-09-14T23:59:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/astrobit-computational-astronomy-hackathon-indian-institute-of-technology-iit-tirupati-1752655",
-      "title": "AstroBit: Computational Astronomy Hackathon",
-      "organizer": "Indian Institute of Technology (IIT), Tirupati",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa2f6d45fcb3_iit_tiru_logo.webp",
       "start_date": null,
       "end_date": "2026-09-14T23:59:00+05:30",
       "deadline": "2026-09-14T23:59:00+05:30",
@@ -1575,6 +1575,25 @@
       "start_date": null,
       "end_date": "2026-09-15T23:36:00+05:30",
       "deadline": "2026-09-15T23:36:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/astrobit-computational-astronomy-hackathon-indian-institute-of-technology-iit-tirupati-1752655",
+      "title": "AstroBit: Computational Astronomy Hackathon",
+      "organizer": "Indian Institute of Technology (IIT), Tirupati",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa2f6d45fcb3_iit_tiru_logo.webp",
+      "start_date": null,
+      "end_date": "2026-09-15T23:59:00+05:30",
+      "deadline": "2026-09-15T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -2230,6 +2249,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/agenticthon-2026-ai-agentic-technology-hackathon-mahendra-engineering-college-mec-namakkal-1754530",
+      "title": "Agenticthon 2026 – AI & Agentic Technology Hackathon",
+      "organizer": "Mahendra Engineering College (MEC), Namakkal",
+      "mode": "Offline",
+      "venue_address": "Mahendra Engineering College (MEC), Namakkal, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa449fa37b8f_untitled_design.png",
+      "start_date": null,
+      "end_date": "2026-09-22T00:00:00+05:30",
+      "deadline": "2026-09-22T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hack-with-vizag-40-nadimpalli-satyanarayana-raju-institute-of-technology-nsrit-andhra-pradesh-1746827",
       "title": "Hack With Vizag 4.0",
       "organizer": "Nadimpalli Satyanarayana Raju Institute of Technology (NSRIT), Andhra Pradesh",
@@ -2294,6 +2332,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a9d94305e570_chatgpt_image_sep_6_2026_09_55_03_pm_1.png",
+      "start_date": null,
+      "end_date": "2026-09-24T23:59:00+05:30",
+      "deadline": "2026-09-24T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/build-for-billions-nitk-surathkal-1754386",
+      "title": "Build for Billions",
+      "organizer": "National Institute of Technology Karnataka (NITK), Surathkal",
+      "mode": "Offline",
+      "venue_address": "National Institute of Technology Karnataka (NITK), Surathkal, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa437e9ae9db_whatsapp_image_2026-09-11_at_22_24_48.jpeg",
       "start_date": null,
       "end_date": "2026-09-24T23:59:00+05:30",
       "deadline": "2026-09-24T23:59:00+05:30",
@@ -2484,6 +2541,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa25e67420c4_logo1745399049788.webp",
+      "start_date": null,
+      "end_date": "2026-09-26T16:00:00+05:30",
+      "deadline": "2026-09-26T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/acm-marketsphere-2026-rv-college-of-engineering-rvce-bangalore-1752632",
+      "title": "ACM Marketsphere 2026",
+      "organizer": "R.V. College of Engineering (RVCE), Bangalore",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa2d4097498e_logo1745399049788.webp",
       "start_date": null,
       "end_date": "2026-09-26T16:00:00+05:30",
       "deadline": "2026-09-26T16:00:00+05:30",
@@ -2792,25 +2868,6 @@
       "start_date": null,
       "end_date": "2026-09-29T18:00:00+05:30",
       "deadline": "2026-09-29T18:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/navonmesh-26-a-national-level-hackathon-shri-shankaracharya-institute-of-professional-management-and-technolo-1748402",
-      "title": "Navonmesh 26 - A National Level Hackathon",
-      "organizer": "Shri Shankaracharya Institute of Professional Management and Technology, Raipur",
-      "mode": "Offline",
-      "venue_address": "Shri Shankaracharya Institute of Professional Management and Technology, Raipur, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa3cd973222b_download_-_2020-02-28T134953.437.jpg",
-      "start_date": null,
-      "end_date": "2026-09-29T18:30:00+05:30",
-      "deadline": "2026-09-29T18:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -3249,6 +3306,25 @@
       "start_date": null,
       "end_date": "2026-10-05T17:00:00+05:30",
       "deadline": "2026-10-05T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/36-hour-hackathon-vibrant-2026-gl-bajaj-institute-of-management-and-research-1754364",
+      "title": "36-Hour Hackathon",
+      "organizer": "GL Bajaj Institute of Management and Research",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa422645dd6d_logo.webp",
+      "start_date": null,
+      "end_date": "2026-10-06T00:00:00+05:30",
+      "deadline": "2026-10-06T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -4086,6 +4162,25 @@
       "start_date": null,
       "end_date": "2026-11-02T18:00:00+05:30",
       "deadline": "2026-11-02T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/navonmesh-26-a-national-level-hackathon-shri-shankaracharya-institute-of-professional-management-and-technolo-1748402",
+      "title": "Navonmesh 26 - A National Level Hackathon (In Collaboration with Qualcomm)",
+      "organizer": "Shri Shankaracharya Institute of Professional Management and Technology, Raipur",
+      "mode": "Offline",
+      "venue_address": "Shri Shankaracharya Institute of Professional Management and Technology, Raipur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa421bee27a3_download_-_2020-02-28T134953.437.jpg",
+      "start_date": null,
+      "end_date": "2026-11-02T22:05:00+05:30",
+      "deadline": "2026-11-02T22:05:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
