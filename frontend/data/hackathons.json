@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-10T20:16:09.706524+00:00",
-  "total_count": 216,
+  "last_synced_at": "2026-09-11T02:16:46.914230+00:00",
+  "total_count": 217,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3268,6 +3268,25 @@
       "start_date": null,
       "end_date": "2026-10-07T22:30:00+05:30",
       "deadline": "2026-10-07T22:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacknext-20-sns-college-of-technology-snsct-coimbatore-tamil-nadu-1752038",
+      "title": "HackNext'26 Series 2.0",
+      "organizer": "SNS College of Technology (SNSCT), Coimbatore, Tamil Nadu",
+      "mode": "Offline",
+      "venue_address": "SNS College of Technology (SNSCT), Coimbatore, Tamil Nadu, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa2603f1d2cf_images__14_.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-09T09:00:00+05:30",
+      "deadline": "2026-10-09T09:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
