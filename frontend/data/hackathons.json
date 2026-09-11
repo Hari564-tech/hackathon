@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-11T10:19:18.292964+00:00",
+  "last_synced_at": "2026-09-11T15:36:57.745592+00:00",
   "total_count": 221,
   "hackathons": [
     {
@@ -1413,6 +1413,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/astrobit-computational-astronomy-hackathon-indian-institute-of-technology-iit-tirupati-1752655",
+      "title": "AstroBit: Computational Astronomy Hackathon",
+      "organizer": "Indian Institute of Technology (IIT), Tirupati",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa2f6d45fcb3_iit_tiru_logo.webp",
+      "start_date": null,
+      "end_date": "2026-09-14T23:59:00+05:30",
+      "deadline": "2026-09-14T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/techsprint-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-1746971",
       "title": "TechSprint",
       "organizer": "MKSSS's Cummins College of Engineering for Women (CCOEW), Pune",
@@ -1572,25 +1591,6 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68c0fad20daec_e_cell_black_logo_enlarged.png",
-      "start_date": null,
-      "end_date": "2026-09-15T23:59:00+05:30",
-      "deadline": "2026-09-15T23:59:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/astrobit-computational-astronomy-hackathon-indian-institute-of-technology-iit-tirupati-1752655",
-      "title": "AstroBit: Computational Astronomy Hackathon",
-      "organizer": "Indian Institute of Technology (IIT), Tirupati",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa2f6d45fcb3_iit_tiru_logo.webp",
       "start_date": null,
       "end_date": "2026-09-15T23:59:00+05:30",
       "deadline": "2026-09-15T23:59:00+05:30",
@@ -2959,7 +2959,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa2ce9e3c50e_organisation_image-q4zR8NPSph745186893UsBDskuLJU.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa418e269c6d_organisation_image-q4zR8NPSph745186893UsBDskuLJU.png",
       "start_date": null,
       "end_date": "2026-09-30T23:59:00+05:30",
       "deadline": "2026-09-30T23:59:00+05:30",
@@ -3226,7 +3226,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa2f97df2e9a_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa41d38455c2_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
       "start_date": null,
       "end_date": "2026-10-05T16:00:00+05:30",
       "deadline": "2026-10-05T16:00:00+05:30",
@@ -3416,7 +3416,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa289d728a2b_organisation_image-HXRc6qSVLN27284711IzN783tlQS.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa3f3d9656c1_organisation_image-HXRc6qSVLN27284711IzN783tlQS.png",
       "start_date": null,
       "end_date": "2026-10-10T23:45:00+05:30",
       "deadline": "2026-10-10T23:45:00+05:30",
