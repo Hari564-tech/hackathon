@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-12T14:43:03.695667+00:00",
-  "total_count": 229,
+  "last_synced_at": "2026-09-12T19:56:09.400711+00:00",
+  "total_count": 233,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2915,6 +2915,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/innovation-by-code-arya-college-of-engineering-and-information-technology-aceit-jaipur-rajasthan-1754991",
+      "title": "TechRoom Innovation Challenge",
+      "organizer": "Arya College of Engineering and Information Technology (ACEIT), Jaipur, Rajasthan",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa584df3f649_6b52f1cf-a258-4c6a-9710-4558ecd7d4db.png",
+      "start_date": null,
+      "end_date": "2026-09-29T22:40:00+05:30",
+      "deadline": "2026-09-29T22:40:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/knsit-tech-community-kns-institute-of-technology-karnataka-1743721",
       "title": "KNSIT Tech Community",
       "organizer": "KNS Institute of Technology, Karnataka",
@@ -3600,6 +3619,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/kurukshetra-ctf-pimpri-chinchwad-college-of-engineering-pccoe-pune-1754908",
+      "title": "Kurukshetra CTF",
+      "organizer": "Pimpri Chinchwad College of Engineering (PCCOE), Pune",
+      "mode": "Offline",
+      "venue_address": "Pimpri Chinchwad College of Engineering (PCCOE), Pune, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa5894924309_pccoe.jpg",
+      "start_date": null,
+      "end_date": "2026-10-11T18:00:00+05:30",
+      "deadline": "2026-10-11T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/36-hour-hackathon-vibrant-2k26-gl-bajaj-institute-of-technology-and-management-delhi-ncr-uttar-pradesh-1747138",
       "title": "36-Hour Hackathon",
       "organizer": "GL Bajaj Institute of Technology and Management, Delhi NCR, Uttar Pradesh",
@@ -3730,6 +3768,44 @@
         "Google Cloud",
         "UN SDGs",
         "Mobile/Flutter"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ideathon-vibrant-2k26-gl-bajaj-institute-of-technology-and-management-delhi-ncr-uttar-pradesh-1755066",
+      "title": "Ideathon",
+      "organizer": "GL Bajaj Institute of Technology and Management, Delhi NCR, Uttar Pradesh",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa5a3700fefe_logo.webp",
+      "start_date": null,
+      "end_date": "2026-10-16T17:00:00+05:30",
+      "deadline": "2026-10-16T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/36-hour-hackathon-vibrant-2k26-gl-bajaj-institute-of-technology-and-management-delhi-ncr-uttar-pradesh-1755057",
+      "title": "36-Hour Hackathon",
+      "organizer": "GL Bajaj Institute of Technology and Management, Delhi NCR, Uttar Pradesh",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa59d362765d_logo.webp",
+      "start_date": null,
+      "end_date": "2026-10-17T20:00:00+05:30",
+      "deadline": "2026-10-17T20:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
