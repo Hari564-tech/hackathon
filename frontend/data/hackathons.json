@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-12T09:51:28.872629+00:00",
-  "total_count": 228,
+  "last_synced_at": "2026-09-12T14:43:03.695667+00:00",
+  "total_count": 229,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3439,6 +3439,25 @@
       "start_date": null,
       "end_date": "2026-10-07T22:30:00+05:30",
       "deadline": "2026-10-07T22:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/innova-x-2k26-global-online-hackathon-shree-venkateshwara-hi-tech-engineering-college-1754160",
+      "title": "INNOVA X 2K26 Global Online Hackathon",
+      "organizer": "Shree Venkateshwara Hi-Tech Engineering College",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa5419305756_images__12_.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-07T23:56:00+05:30",
+      "deadline": "2026-10-07T23:56:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
