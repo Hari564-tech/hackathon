@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-12T02:23:25.823527+00:00",
-  "total_count": 226,
+  "last_synced_at": "2026-09-12T09:51:28.872629+00:00",
+  "total_count": 228,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1907,6 +1907,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ignitrron26-project-jarvis-24-hr-hackathon-kpr-institute-of-engineering-and-technology-kpriet-coimbatore-1754335",
+      "title": "IGNITRRON'26 - Project J.A.R.V.I.S (24 HR HACKATHON )",
+      "organizer": "KPR Institute of Engineering and Technology (KPRIET), Coimbatore",
+      "mode": "Offline",
+      "venue_address": "KPR Institute of Engineering and Technology (KPRIET), Coimbatore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa51dea6dbed_images__6_.png",
+      "start_date": null,
+      "end_date": "2026-09-19T12:00:00+05:30",
+      "deadline": "2026-09-19T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/convergence-2k26-24hr-hardware-hackathon-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-t-1750727",
       "title": "CONVERGENCE 2k26: 24Hr Hardware Hackathon",
       "organizer": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana",
@@ -2769,6 +2788,25 @@
       "venue_address": "Pillai University, Navi Mumbai, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a82eb2034e41_uploadedmanual-687b9de5a100d_hackcelestial_logo.png",
+      "start_date": null,
+      "end_date": "2026-09-27T23:59:00+05:30",
+      "deadline": "2026-09-27T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/data-analytics-hackathon-gradient-learnings-1754636",
+      "title": "Data Analytics Hackathon",
+      "organizer": "Gradient Learnings",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa4df3a065ef_ai_product_hackathon_post_02_2.png",
       "start_date": null,
       "end_date": "2026-09-27T23:59:00+05:30",
       "deadline": "2026-09-27T23:59:00+05:30",
