@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-13T10:51:23.593621+00:00",
-  "total_count": 243,
+  "last_synced_at": "2026-09-13T15:22:50.852871+00:00",
+  "total_count": 244,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1717,6 +1717,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackem-hex-galgotias-university-gu-greater-noida-1755121",
+      "title": "Hack'em Hex",
+      "organizer": "Galgotias University (GU), Greater Noida",
+      "mode": "Offline",
+      "venue_address": "Galgotias University (GU), Greater Noida, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa68ab8e0d90_image.png",
+      "start_date": null,
+      "end_date": "2026-09-16T23:59:00+05:30",
+      "deadline": "2026-09-16T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/cognix-hackathon-2026-cognix-2026-sathyabama-institute-of-science-and-technology-chennai-tamil-nadu-1745574",
       "title": "Cognix Hackathon 2026",
       "organizer": "Sathyabama Institute of Science and Technology, Chennai, Tamil Nadu",
@@ -1932,7 +1951,7 @@
       "mode": "Offline",
       "venue_address": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa64449c8ed7_images__19_.jpeg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa6a2981e09e_vnr_logo.webp",
       "start_date": null,
       "end_date": "2026-09-19T13:00:00+05:30",
       "deadline": "2026-09-19T13:00:00+05:30",
