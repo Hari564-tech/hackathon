@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-13T02:21:18.167716+00:00",
-  "total_count": 233,
+  "last_synced_at": "2026-09-13T10:51:23.593621+00:00",
+  "total_count": 243,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1926,6 +1926,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/software-hackathon-convergence-2k26-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-techno-1750788",
+      "title": "Software Hackathon Convergence 2k26",
+      "organizer": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana",
+      "mode": "Offline",
+      "venue_address": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa64449c8ed7_images__19_.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-19T13:00:00+05:30",
+      "deadline": "2026-09-19T13:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/convergence-2k26-24hr-hardware-hackathon-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-t-1750727",
       "title": "CONVERGENCE 2k26: 24Hr Hardware Hackathon",
       "organizer": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana",
@@ -2705,6 +2724,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/qiskit-fall-fest-2026-qiskit-fall-fest-srm-university-amaravati-1755078",
+      "title": "Qiskit Fall Fest 2026",
+      "organizer": "SRM University, Amaravati",
+      "mode": "Offline",
+      "venue_address": "SRM University, Amaravati, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa6217d7fe76_download__3_.png",
+      "start_date": null,
+      "end_date": "2026-09-27T00:00:00+05:30",
+      "deadline": "2026-09-27T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/eic-venturex-idea-to-impact-punjab-engineering-college-pec-chandigarh-1750271",
       "title": "EIC VentureX: Idea To Impact Hackathon",
       "organizer": "Punjab Engineering College (PEC), Chandigarh",
@@ -2734,6 +2772,25 @@
       "start_date": null,
       "end_date": "2026-09-27T13:00:00+05:30",
       "deadline": "2026-09-27T13:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/wcpc-2k26-codechef-wce-chapter-1750817",
+      "title": "WCPC 2K26",
+      "organizer": "CodeChef WCE Chapter",
+      "mode": "Offline",
+      "venue_address": "CodeChef WCE Chapter, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6707875f56c47_cwclogo.png",
+      "start_date": null,
+      "end_date": "2026-09-27T16:00:10+05:30",
+      "deadline": "2026-09-27T16:00:10+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -3115,6 +3172,25 @@
       "start_date": null,
       "end_date": "2026-10-01T00:00:00+05:30",
       "deadline": "2026-10-01T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codestorm-2k26-narsimha-reddy-engineering-college-hyderabad-1750877",
+      "title": "Codestorm - 2K26",
+      "organizer": "Narsimha Reddy Engineering College, Hyderabad",
+      "mode": "Offline",
+      "venue_address": "Narsimha Reddy Engineering College, Hyderabad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa675f15b661_nrcm_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-01T00:01:00+05:30",
+      "deadline": "2026-10-01T00:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -3562,6 +3638,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/jugaad-techfest26-annual-technical-festival-of-sliet-sant-longowal-institute-of-engineering-and-technology-lo-1742433",
+      "title": "Jugaad",
+      "organizer": "Sant Longowal Institute of Engineering and Technology, Longowal, Punjab",
+      "mode": "Offline",
+      "venue_address": "Sant Longowal Institute of Engineering and Technology, Longowal, Punjab, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa655e91c054_Sant_Longowal_Institute_of_Engineering_and_Technology_Logo.png",
+      "start_date": null,
+      "end_date": "2026-10-10T12:31:00+05:30",
+      "deadline": "2026-10-10T12:31:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackathon-techfest26-annual-technical-festival-of-sliet-sant-longowal-institute-of-engineering-and-technology-1744227",
+      "title": "Hackathon",
+      "organizer": "Sant Longowal Institute of Engineering and Technology, Longowal, Punjab",
+      "mode": "Offline",
+      "venue_address": "Sant Longowal Institute of Engineering and Technology, Longowal, Punjab, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa6617c7322a_Sant_Longowal_Institute_of_Engineering_and_Technology_Logo.png",
+      "start_date": null,
+      "end_date": "2026-10-10T14:45:00+05:30",
+      "deadline": "2026-10-10T14:45:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacknowa-global-hackathon-2026-innovation-hacks-1752198",
       "title": "HackNowa Global Hackathon 2026",
       "organizer": "Innovation Hacks",
@@ -3625,7 +3739,7 @@
       "mode": "Offline",
       "venue_address": "Pimpri Chinchwad College of Engineering (PCCOE), Pune, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa5894924309_pccoe.jpg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa62c7b9642a_pccoe.jpg",
       "start_date": null,
       "end_date": "2026-10-11T18:00:00+05:30",
       "deadline": "2026-10-11T18:00:00+05:30",
@@ -3791,6 +3905,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/competitive-programming-hackathon-gl-bajaj-institute-of-technology-and-management-delhi-ncr-uttar-pradesh-1755081",
+      "title": "Competitive Programming Hackathon",
+      "organizer": "GL Bajaj Institute of Technology and Management, Delhi NCR, Uttar Pradesh",
+      "mode": "Offline",
+      "venue_address": "GL Bajaj Institute of Technology and Management, Delhi NCR, Uttar Pradesh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa5aedf5674d_whatsapp_image_2026-09-13_at_01_27_27.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-16T17:00:00+05:30",
+      "deadline": "2026-10-16T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/startupathon-gl-bajaj-institute-of-technology-and-management-delhi-ncr-uttar-pradesh-1755082",
+      "title": "Startupathon",
+      "organizer": "GL Bajaj Institute of Technology and Management, Delhi NCR, Uttar Pradesh",
+      "mode": "Offline",
+      "venue_address": "GL Bajaj Institute of Technology and Management, Delhi NCR, Uttar Pradesh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa5b0ec73605_whatsapp_image_2026-09-13_at_01_27_27.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-16T17:00:00+05:30",
+      "deadline": "2026-10-16T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/36-hour-hackathon-vibrant-2k26-gl-bajaj-institute-of-technology-and-management-delhi-ncr-uttar-pradesh-1755057",
       "title": "36-Hour Hackathon",
       "organizer": "GL Bajaj Institute of Technology and Management, Delhi NCR, Uttar Pradesh",
@@ -3801,6 +3953,25 @@
       "start_date": null,
       "end_date": "2026-10-17T20:00:00+05:30",
       "deadline": "2026-10-17T20:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/signalpost-build-an-agent-that-finds-company-information-builderrai-1754883",
+      "title": "Signalpost: Build An Agent That Finds Company Information",
+      "organizer": "builderr.ai",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8b307f36f8b_builderr-logo-mark.png",
+      "start_date": null,
+      "end_date": "2026-10-17T22:29:41+05:30",
+      "deadline": "2026-10-17T22:29:41+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -3953,6 +4124,25 @@
       "start_date": null,
       "end_date": "2026-10-24T23:59:00+05:30",
       "deadline": "2026-10-24T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vit-code-apex-30-vishwakarma-institute-of-technology-pune-maharashtra-1751374",
+      "title": "VIT CODE APEX 3.0",
+      "organizer": "Vishwakarma Institute of Technology, Pune, Maharashtra",
+      "mode": "Offline",
+      "venue_address": "Vishwakarma Institute of Technology, Pune, Maharashtra, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa647d62d325_vca_1.png",
+      "start_date": null,
+      "end_date": "2026-10-25T08:01:00+05:30",
+      "deadline": "2026-10-25T08:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
