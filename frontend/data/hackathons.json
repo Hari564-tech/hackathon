@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-13T15:22:50.852871+00:00",
-  "total_count": 244,
+  "last_synced_at": "2026-09-13T20:03:14.220730+00:00",
+  "total_count": 248,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3771,6 +3771,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-era-10-erazone-1755150",
+      "title": "Hack Era 1.0",
+      "organizer": "Erazone",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa6fca169cf6_organisation_image-p53fif00Bq1930566695Ifa9ATJyBP.png",
+      "start_date": null,
+      "end_date": "2026-10-13T23:59:00+05:30",
+      "deadline": "2026-10-13T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/36-hour-hackathon-vibrant-2k26-gl-bajaj-institute-of-technology-and-management-delhi-ncr-uttar-pradesh-1747138",
       "title": "36-Hour Hackathon",
       "organizer": "GL Bajaj Institute of Technology and Management, Delhi NCR, Uttar Pradesh",
@@ -3905,6 +3924,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/dataheist-ieee-day-2026-dtu-new-delhi-1755310",
+      "title": "DataHeist",
+      "organizer": "Delhi Technological University (DTU), New Delhi",
+      "mode": "Offline",
+      "venue_address": "Delhi Technological University (DTU), New Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa6c54441fe3_DTU_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-16T15:00:00+05:30",
+      "deadline": "2026-10-16T15:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ideathon-vibrant-2k26-gl-bajaj-institute-of-technology-and-management-delhi-ncr-uttar-pradesh-1755066",
       "title": "Ideathon",
       "organizer": "GL Bajaj Institute of Technology and Management, Delhi NCR, Uttar Pradesh",
@@ -3989,8 +4027,8 @@
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8b307f36f8b_builderr-logo-mark.png",
       "start_date": null,
-      "end_date": "2026-10-17T22:29:41+05:30",
-      "deadline": "2026-10-17T22:29:41+05:30",
+      "end_date": "2026-10-17T22:29:48+05:30",
+      "deadline": "2026-10-17T22:29:48+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -4475,6 +4513,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/secleaf-q4-ctf-2026-secleaf-1755320",
+      "title": "SecLeaf Q4 CTF 2026",
+      "organizer": "SecLeaf",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa6c940dc928_organisation_image-PynaxFo046747580480fnHMqzm5wM.png",
+      "start_date": null,
+      "end_date": "2026-11-01T14:00:00+05:30",
+      "deadline": "2026-11-01T14:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/agentic-ai-hackathon-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742838",
       "title": "Agentic AI Hackathon",
       "organizer": "Indian Institute Of Technology Bhubaneswar",
@@ -4482,6 +4539,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a895df91880a_screenshot_2026-08-22_110856.png",
+      "start_date": null,
+      "end_date": "2026-11-01T23:59:00+05:30",
+      "deadline": "2026-11-01T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/epinoia-the-hackathon-event-atharv-ranbhoomi-2026-iim-indore-1755375",
+      "title": "EPINOIA : The Hackathon Event",
+      "organizer": "Indian Institute of Management (IIM), Indore",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Management (IIM), Indore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa6de819e4ac_atharv_ranbhoomi_pages-to-jpg-0002.jpg",
       "start_date": null,
       "end_date": "2026-11-01T23:59:00+05:30",
       "deadline": "2026-11-01T23:59:00+05:30",
