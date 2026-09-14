@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-14T02:38:39.588815+00:00",
-  "total_count": 248,
+  "last_synced_at": "2026-09-14T11:20:38.965553+00:00",
+  "total_count": 249,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3410,6 +3410,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacktopia-2026-pimpri-chinchwad-college-of-engineering-pccoe-pune-1749928",
+      "title": "Hacktopia 2026",
+      "organizer": "Pimpri Chinchwad College of Engineering (PCCOE), Pune",
+      "mode": "Offline",
+      "venue_address": "Pimpri Chinchwad College of Engineering (PCCOE), Pune, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa579f4269fe_uploadedmanual-68e3f190e8d21_amc-pccoe-logo.webp",
+      "start_date": null,
+      "end_date": "2026-10-05T09:00:00+05:30",
+      "deadline": "2026-10-05T09:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/lun4r-ctf-2026-rajadhani-institute-of-engineering-and-technology-1745542",
       "title": "Lun4R CTF 2026",
       "organizer": "Rajadhani Institute of Engineering and Technology",
@@ -4519,7 +4538,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa6c940dc928_organisation_image-PynaxFo046747580480fnHMqzm5wM.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa7858b525fa_organisation_image-PynaxFo046747580480fnHMqzm5wM.png",
       "start_date": null,
       "end_date": "2026-11-01T14:00:00+05:30",
       "deadline": "2026-11-01T14:00:00+05:30",
