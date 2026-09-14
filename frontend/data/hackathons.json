@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-14T11:20:38.965553+00:00",
-  "total_count": 249,
+  "last_synced_at": "2026-09-14T17:19:26.658839+00:00",
+  "total_count": 253,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3296,6 +3296,63 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/bug-bounty-cyber-carnival-srm-university-ramapuram-chennai-1755028",
+      "title": "Bug Bounty",
+      "organizer": "SRM University, Ramapuram, Chennai",
+      "mode": "Offline",
+      "venue_address": "SRM University, Ramapuram, Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa598fd7213f_whatsapp_image_2026-08-22_at_2_28_55_pm_1.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-03T00:00:00+05:30",
+      "deadline": "2026-10-03T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/red-team-vs-blue-team-cyber-carnival-srm-university-ramapuram-chennai-1754914",
+      "title": "Red Team vs Blue Team",
+      "organizer": "SRM University, Ramapuram, Chennai",
+      "mode": "Offline",
+      "venue_address": "SRM University, Ramapuram, Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa5639262abe_whatsapp_image_2026-08-22_at_2_28_55_pm_1.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-03T00:00:00+05:30",
+      "deadline": "2026-10-03T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/capture-the-flag-ctf-cyber-carnival-srm-university-ramapuram-chennai-1754836",
+      "title": "Capture The Flag (CTF)",
+      "organizer": "SRM University, Ramapuram, Chennai",
+      "mode": "Offline",
+      "venue_address": "SRM University, Ramapuram, Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa55be4bf677_whatsapp_image_2026-08-22_at_2_28_55_pm_1.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-03T00:00:00+05:30",
+      "deadline": "2026-10-03T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hack-2-ignite-gh-raisoini-international-skill-tech-university-1745045",
       "title": "Hack 2 Ignite",
       "organizer": "GH Raisoini International Skill Tech University",
@@ -3515,6 +3572,25 @@
       "start_date": null,
       "end_date": "2026-10-07T15:00:50+05:30",
       "deadline": "2026-10-07T15:00:50+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-n-build-srm-university-modinagar-ghaziabad-1751780",
+      "title": "Hack N Build",
+      "organizer": "SRM University, Modinagar, Ghaziabad",
+      "mode": "Offline",
+      "venue_address": "SRM University, Modinagar, Ghaziabad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa7f2e0de508_download__6_.png",
+      "start_date": null,
+      "end_date": "2026-10-07T18:00:00+05:30",
+      "deadline": "2026-10-07T18:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -4538,7 +4614,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa7858b525fa_organisation_image-PynaxFo046747580480fnHMqzm5wM.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa80f49688e2_organisation_image-PynaxFo046747580480fnHMqzm5wM.png",
       "start_date": null,
       "end_date": "2026-11-01T14:00:00+05:30",
       "deadline": "2026-11-01T14:00:00+05:30",
