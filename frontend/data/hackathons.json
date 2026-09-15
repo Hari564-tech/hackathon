@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-15T15:58:21.722977+00:00",
-  "total_count": 265,
+  "last_synced_at": "2026-09-15T20:41:46.175198+00:00",
+  "total_count": 269,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2724,6 +2724,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackdays-20-galgotias-college-of-engineering-technology-gcet-greater-noida-1756226",
+      "title": "HackDays 2.0",
+      "organizer": "Galgotias College of Engineering & Technology (GCET), Greater Noida",
+      "mode": "Offline",
+      "venue_address": "Galgotias College of Engineering & Technology (GCET), Greater Noida, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa97f774a78d_",
+      "start_date": null,
+      "end_date": "2026-09-26T18:00:00+05:30",
+      "deadline": "2026-09-26T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/sit-flagship-hackathon-2026-8-hour-ai-hackathon-symbiosis-institute-of-technology-sit-pune-1746836",
       "title": "Synapse 1.0 | SIT Flagship Hackathon 2026 | 8-Hour AI Hackathon",
       "organizer": "Symbiosis Institute of Technology (SIT), Pune",
@@ -3200,25 +3219,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/build-battle-frontend-arena-1755980",
-      "title": "Build Battle",
-      "organizer": "Frontend Arena",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa8f00c94c5c_whatsapp_image_2026-09-12_at_21_46_34.jpeg",
-      "start_date": null,
-      "end_date": "2026-09-30T19:41:00+05:30",
-      "deadline": "2026-09-30T19:41:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codearambh-20-24-hour-national-level-hackathon-dare-to-code-dare-to-create-hi-tech-institute-of-engineering-a-1742494",
       "title": "Codearambh 2.0 – 24-Hour National-Level Hackathon: Dare to Code, Dare to Create",
       "organizer": "HI-Tech Institute Of Engineering And Technology (HIET), Ghaziabad",
@@ -3486,6 +3486,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/win-500-get-an-agent-passport-hidevs-1755808",
+      "title": "Win $500: Get an Agent Passport?",
+      "organizer": "HiDevs",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa86ba70babe_9203894a-b786-4f6d-9b4f-16aac6f73a7b_1.jpg",
+      "start_date": null,
+      "end_date": "2026-10-03T22:30:00+05:30",
+      "deadline": "2026-10-03T22:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackiton26-kpr-institute-of-engineering-and-technology-kpriet-coimbatore-1746214",
       "title": "Hack It On'26",
       "organizer": "KPR Institute of Engineering and Technology (KPRIET), Coimbatore",
@@ -3610,6 +3629,25 @@
       "start_date": null,
       "end_date": "2026-10-05T11:00:00+05:30",
       "deadline": "2026-10-05T11:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/parallax-2026-reality-reimagined-noida-institute-of-engineering-and-technology-niet-greater-noida-1754985",
+      "title": "Parallax 2026 – Reality, Reimagined",
+      "organizer": "Noida Institute of Engineering And Technology (NIET), Greater Noida",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa5835b1404b_parallax_2026.jpg",
+      "start_date": null,
+      "end_date": "2026-10-05T12:00:00+05:30",
+      "deadline": "2026-10-05T12:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -3809,6 +3847,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/kiln-26-the-hybrid-national-build-gauntlet-cohere-live-1756306",
+      "title": "KILN '26 — The Hybrid National Build Gauntlet",
+      "organizer": "Cohere Live",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa95eecf40cd_kiln-poster.jpg",
+      "start_date": null,
+      "end_date": "2026-10-08T21:00:00+05:30",
+      "deadline": "2026-10-08T21:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacknext-20-sns-college-of-technology-snsct-coimbatore-tamil-nadu-1752038",
       "title": "HackNext'26 Series 2.0",
       "organizer": "SNS College of Technology (SNSCT), Coimbatore, Tamil Nadu",
@@ -3914,6 +3971,25 @@
       "start_date": null,
       "end_date": "2026-10-10T14:45:00+05:30",
       "deadline": "2026-10-10T14:45:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/build-battle-frontend-arena-1755980",
+      "title": "Build Battle",
+      "organizer": "Frontend Arena",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa8f00c94c5c_whatsapp_image_2026-09-12_at_21_46_34.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-10T17:00:00+05:30",
+      "deadline": "2026-10-10T17:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -4804,7 +4880,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa94671c4e8e_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa96dfa0ca34_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
       "start_date": null,
       "end_date": "2026-11-01T18:00:00+05:30",
       "deadline": "2026-11-01T18:00:00+05:30",
