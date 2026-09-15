@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-15T10:45:13.679799+00:00",
-  "total_count": 258,
+  "last_synced_at": "2026-09-15T15:58:21.722977+00:00",
+  "total_count": 265,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2249,6 +2249,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/win-if-you-can-code-the-solution-srm-institute-of-science-and-technology-1756030",
+      "title": "Win, If You Can: Code The Solution X MaVionix India Pvt Ltd ",
+      "organizer": "S.R.M Institute of Science and Technology",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa8ff23c4eeb_1000117877.png",
+      "start_date": null,
+      "end_date": "2026-09-21T17:00:00+05:30",
+      "deadline": "2026-09-21T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/geeks2code-geeksforgeeks-campus-body-miet-1740788",
       "title": "Geeks2Code",
       "organizer": "GeeksForGeeks Campus Body MIET",
@@ -3105,6 +3124,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/next-gen-hackathon-10-shivalik-college-of-engineering-1755936",
+      "title": "Next Gen Hackathon 1.0",
+      "organizer": "Shivalik college of engineering",
+      "mode": "Offline",
+      "venue_address": "Shivalik college of engineering, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa8eb650dcc6_whatsapp_image_2026-09-15_at_12_18_17_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-30T00:00:00+05:30",
+      "deadline": "2026-09-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/biobridge-bio-innovation-hackathon-2026-ks-rangasamy-college-of-technology-ksrct-namakkal-1755864",
       "title": "BioBridge – Bio Innovation Hackathon 2026",
       "organizer": "K.S. Rangasamy College Of Technology (KSRCT), Namakkal",
@@ -3153,6 +3191,25 @@
       "start_date": null,
       "end_date": "2026-09-30T17:00:00+05:30",
       "deadline": "2026-09-30T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/build-battle-frontend-arena-1755980",
+      "title": "Build Battle",
+      "organizer": "Frontend Arena",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa8f00c94c5c_whatsapp_image_2026-09-12_at_21_46_34.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-30T19:41:00+05:30",
+      "deadline": "2026-09-30T19:41:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -3401,6 +3458,25 @@
       "start_date": null,
       "end_date": "2026-10-03T17:00:00+05:30",
       "deadline": "2026-10-03T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/epoch-10-codeai-club-k-j-somaiya-institue-of-technology-1752020",
+      "title": "Epoch 1.0",
+      "organizer": "CodeAI Club, K. J. Somaiya Institue of Technology",
+      "mode": "Offline",
+      "venue_address": "CodeAI Club, K. J. Somaiya Institue of Technology, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa23603e3568_epoch_1_0_logo.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-03T17:30:00+05:30",
+      "deadline": "2026-10-03T17:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -3714,6 +3790,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/build-for-bharat-20-chandigarh-university-cu-ajitgarh-punjab-1742848",
+      "title": "Build For Bharat 2.0",
+      "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
+      "mode": "Offline",
+      "venue_address": "Chandigarh University (CU), Ajitgarh, Punjab, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa24d5cc7393_whatsapp_image_2026-09-10_at_11_54_39_am.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-08T16:30:00+05:30",
+      "deadline": "2026-10-08T16:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacknext-20-sns-college-of-technology-snsct-coimbatore-tamil-nadu-1752038",
       "title": "HackNext'26 Series 2.0",
       "organizer": "SNS College of Technology (SNSCT), Coimbatore, Tamil Nadu",
@@ -3895,6 +3990,25 @@
       "start_date": null,
       "end_date": "2026-10-11T18:00:00+05:30",
       "deadline": "2026-10-11T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/setu-bridge-the-gap-build-the-fix-forge-realm-1754670",
+      "title": "Setu - Bridge the Gap. Build the Fix",
+      "organizer": "Forge Realm",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa7d6ff6c399_1000124365.png",
+      "start_date": null,
+      "end_date": "2026-10-12T23:59:00+05:30",
+      "deadline": "2026-10-12T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -4675,6 +4789,25 @@
       "start_date": null,
       "end_date": "2026-11-01T14:00:00+05:30",
       "deadline": "2026-11-01T14:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/wcc-forge-48-wecodecoders-1756040",
+      "title": "WCC Forge 48",
+      "organizer": "WeCodeCoders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa94671c4e8e_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "start_date": null,
+      "end_date": "2026-11-01T18:00:00+05:30",
+      "deadline": "2026-11-01T18:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
