@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-15T02:42:13.579117+00:00",
-  "total_count": 256,
+  "last_synced_at": "2026-09-15T10:45:13.679799+00:00",
+  "total_count": 258,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3105,6 +3105,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/biobridge-bio-innovation-hackathon-2026-ks-rangasamy-college-of-technology-ksrct-namakkal-1755864",
+      "title": "BioBridge – Bio Innovation Hackathon 2026",
+      "organizer": "K.S. Rangasamy College Of Technology (KSRCT), Namakkal",
+      "mode": "Offline",
+      "venue_address": "K.S. Rangasamy College Of Technology (KSRCT), Namakkal, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa9050d155a8_whatsapp_image_2026-09-15_at_11_33_10_am.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-30T11:34:00+05:30",
+      "deadline": "2026-09-30T11:34:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/herspark-ideathon-2026-thakur-college-of-engineering-and-technology-tcet-mumbai-1752642",
       "title": "HerSpark Ideathon 2026",
       "organizer": "Thakur College of Engineering and Technology (TCET), Mumbai",
@@ -4044,7 +4063,7 @@
       "mode": "Offline",
       "venue_address": "Delhi Technological University (DTU), New Delhi, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa6c54441fe3_DTU_logo.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa8d0974c769_images.png",
       "start_date": null,
       "end_date": "2026-10-16T15:00:00+05:30",
       "deadline": "2026-10-16T15:00:00+05:30",
@@ -4656,6 +4675,25 @@
       "start_date": null,
       "end_date": "2026-11-01T14:00:00+05:30",
       "deadline": "2026-11-01T14:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ride-hack-26-jaypee-institute-of-information-technology-jiit-noida-1755652",
+      "title": "Ride Hack-26",
+      "organizer": "Jaypee Institute of Information Technology (JIIT), Noida",
+      "mode": "Offline",
+      "venue_address": "Jaypee Institute of Information Technology (JIIT), Noida, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa7dd47c2ce8_uploadedmanual-68b352a173594_ride_logo_final.jpg",
+      "start_date": null,
+      "end_date": "2026-11-01T18:01:00+05:30",
+      "deadline": "2026-11-01T18:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
