@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-16T02:36:44.059308+00:00",
-  "total_count": 269,
+  "last_synced_at": "2026-09-16T10:33:39.225980+00:00",
+  "total_count": 271,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3847,25 +3847,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/kiln-26-the-hybrid-national-build-gauntlet-cohere-live-1756306",
-      "title": "KILN '26 — The Hybrid National Build Gauntlet",
-      "organizer": "Cohere Live",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa95eecf40cd_kiln-poster.jpg",
-      "start_date": null,
-      "end_date": "2026-10-08T21:00:00+05:30",
-      "deadline": "2026-10-08T21:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacknext-20-sns-college-of-technology-snsct-coimbatore-tamil-nadu-1752038",
       "title": "HackNext'26 Series 2.0",
       "organizer": "SNS College of Technology (SNSCT), Coimbatore, Tamil Nadu",
@@ -4075,6 +4056,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/grevix-aftercode-grevix-1755080",
+      "title": "Grevix AfterCode",
+      "organizer": "GREVIX",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa5afd94ab66_chatgpt_image_aug_8_2026_10_58_28_pm.png",
+      "start_date": null,
+      "end_date": "2026-10-12T02:00:00+05:30",
+      "deadline": "2026-10-12T02:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/setu-bridge-the-gap-build-the-fix-forge-realm-1754670",
       "title": "Setu - Bridge the Gap. Build the Fix",
       "organizer": "Forge Realm",
@@ -4218,6 +4218,25 @@
       "start_date": null,
       "end_date": "2026-10-15T11:00:00+05:30",
       "deadline": "2026-10-15T11:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/kiln-26-the-hybrid-national-build-gauntlet-cohere-live-1756306",
+      "title": "KILN '26 — The Hybrid National Build Gauntlet",
+      "organizer": "Cohere Live",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa95eecf40cd_kiln-poster.jpg",
+      "start_date": null,
+      "end_date": "2026-10-15T21:00:00+05:30",
+      "deadline": "2026-10-15T21:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -5037,6 +5056,25 @@
       "start_date": null,
       "end_date": "2026-11-22T12:00:00+05:30",
       "deadline": "2026-11-22T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/avishkaar-season-4-virtual-hackathon-a-national-level-innovation-challenge-aditya-institute-of-technology-and-1756262",
+      "title": "Avishkaar Season 4 (Virtual) Hackathon: A National-Level Innovation Challenge",
+      "organizer": "Aditya Institute of technology and management,tekkali",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa94f2cb0f5b_avishkaar_logo.webp",
+      "start_date": null,
+      "end_date": "2026-11-28T11:00:00+05:30",
+      "deadline": "2026-11-28T11:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
