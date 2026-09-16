@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-16T10:33:39.225980+00:00",
-  "total_count": 271,
+  "last_synced_at": "2026-09-16T15:51:06.358134+00:00",
+  "total_count": 277,
   "hackathons": [
     {
       "source": "Unstop",
@@ -1945,6 +1945,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/optiquest-rvr-jc-college-of-engineering-rvrjcce-guntur-1756763",
+      "title": "Optiquest",
+      "organizer": "R.V.R & J.C College Of Engineering (RVRJCCE), Guntur",
+      "mode": "Offline",
+      "venue_address": "R.V.R & J.C College Of Engineering (RVRJCCE), Guntur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaa87d1e489b_",
+      "start_date": null,
+      "end_date": "2026-09-19T12:30:00+05:30",
+      "deadline": "2026-09-19T12:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/convergence-2k26-24hr-hardware-hackathon-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-t-1750727",
       "title": "CONVERGENCE 2k26: 24Hr Hardware Hackathon",
       "organizer": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana",
@@ -2496,6 +2515,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/invente26-project-showcase-40-shiv-nadar-university-snu-chennai-1756925",
+      "title": "Invente'26 - Department of CSE(SNUC) - Project Showcase 4.0",
+      "organizer": "Shiv Nadar University (SNU), Chennai",
+      "mode": "Offline",
+      "venue_address": "Shiv Nadar University (SNU), Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaab7f56a7fb_images__11_.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-25T15:00:00+05:30",
+      "deadline": "2026-09-25T15:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ai-skill-sprint-10-chandigarh-university-cu-ajitgarh-punjab-1749909",
       "title": "AI Skill Sprint 1.0",
       "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
@@ -2810,6 +2848,25 @@
       "start_date": null,
       "end_date": "2026-09-27T01:39:00+05:30",
       "deadline": "2026-09-27T01:39:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/gdg-kalakriti-the-designathon-nmims-1756453",
+      "title": "GDG KalaKriti: The Designathon",
+      "organizer": "Narsee Monjee Institute of Management Studies",
+      "mode": "Offline",
+      "venue_address": "Narsee Monjee Institute of Management Studies, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaa04ef52b0b_kalakritilogo.jpg",
+      "start_date": null,
+      "end_date": "2026-09-27T12:00:00+05:30",
+      "deadline": "2026-09-27T12:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -3739,7 +3796,7 @@
       "mode": "Offline",
       "venue_address": "SRM University, Modinagar, Ghaziabad, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa7f2e0de508_download__6_.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaab9f3ac598_download__6_.png",
       "start_date": null,
       "end_date": "2026-10-07T18:00:00+05:30",
       "deadline": "2026-10-07T18:00:00+05:30",
@@ -3895,6 +3952,25 @@
       "start_date": null,
       "end_date": "2026-10-09T12:00:00+05:30",
       "deadline": "2026-10-09T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/datathon-26-27-pccoe-inns-student-chapter-1756708",
+      "title": "Datathon 26–27",
+      "organizer": "PCCOE INNS STUDENT CHAPTER",
+      "mode": "Offline",
+      "venue_address": "PCCOE INNS STUDENT CHAPTER, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaa885041878_pccoe.png",
+      "start_date": null,
+      "end_date": "2026-10-09T17:00:00+05:30",
+      "deadline": "2026-10-09T17:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -4494,6 +4570,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/infothon-70-vidyavardhaka-college-of-engineering-mysore-1754844",
+      "title": "Infothon 7.0",
+      "organizer": "Vidyavardhaka College of Engineering, Mysore",
+      "mode": "Offline",
+      "venue_address": "Vidyavardhaka College of Engineering, Mysore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa8dc5c9a443_infothonlogo.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-24T21:00:00+05:30",
+      "deadline": "2026-10-24T21:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/qiskit-fall-fest-mukesh-patel-school-of-technology-management-and-engineering-nmims-mumbai-1748182",
       "title": "Qiskit Fall Fest",
       "organizer": "Mukesh Patel School of Technology Management and Engineering (NMIMS), Mumbai",
@@ -4523,6 +4618,25 @@
       "start_date": null,
       "end_date": "2026-10-24T23:59:00+05:30",
       "deadline": "2026-10-24T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/h7ctf-2026-srm-institute-of-science-and-technology-kattankulathur-chennai-1755619",
+      "title": "H7CTF 2026",
+      "organizer": "SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai",
+      "mode": "Offline",
+      "venue_address": "SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaa8da9908cf_Srmseal.png",
+      "start_date": null,
+      "end_date": "2026-10-25T05:00:00+05:30",
+      "deadline": "2026-10-25T05:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
