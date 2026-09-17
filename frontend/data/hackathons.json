@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-17T15:57:01.025971+00:00",
-  "total_count": 287,
+  "last_synced_at": "2026-09-17T20:48:01.616415+00:00",
+  "total_count": 290,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2401,6 +2401,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/orbion-8-hour-hackathon-institute-of-engineering-and-managemet-1756946",
+      "title": "ORBION: 8-Hour Hackathon",
+      "organizer": "Institute of Engineering and Management",
+      "mode": "Offline",
+      "venue_address": "Institute of Engineering and Management, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaad41439ee4_organisation_image-b7YTCxCvln1004312414toHzRHVr1K.png",
+      "start_date": null,
+      "end_date": "2026-09-23T22:59:00+05:30",
+      "deadline": "2026-09-23T22:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/vibecraft-yuva-srm-institute-of-science-technology-trichy-1746700",
       "title": "VibeCraft",
       "organizer": "SRM Institute of Science & Technology, Trichy",
@@ -2648,13 +2667,13 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/orbion-8-hour-hackathon-institute-of-engineering-and-managemet-1756946",
-      "title": "ORBION: 8-Hour Hackathon",
-      "organizer": "Institute of Engineering and Management",
-      "mode": "Offline",
-      "venue_address": "Institute of Engineering and Management, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaad41439ee4_organisation_image-b7YTCxCvln1004312414toHzRHVr1K.png",
+      "source_url": "https://unstop.com/hackathons/hackathons/evox-10-detox-1757577",
+      "title": "EVOX 1.0",
+      "organizer": "DETOX",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aac1185e35dc_picsart_26-06-20_21-34-02-71.jpeg",
       "start_date": null,
       "end_date": "2026-09-26T00:00:00+05:30",
       "deadline": "2026-09-26T00:00:00+05:30",
@@ -2981,6 +3000,25 @@
       "start_date": null,
       "end_date": "2026-09-27T17:30:00+05:30",
       "deadline": "2026-09-27T17:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/build-your-fest-stall-brand-it-pitch-it-launch-it-skythink-tech-1757410",
+      "title": "Build Your Fest Stall: Brand It, Pitch It, Launch It",
+      "organizer": "SkyThink Tech",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aabd49dec605_e2a4ebb9-f56b-467a-bf1f-c0a57cb514c4.png",
+      "start_date": null,
+      "end_date": "2026-09-27T18:30:00+05:30",
+      "deadline": "2026-09-27T18:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -5360,6 +5398,25 @@
       "start_date": null,
       "end_date": "2026-11-22T12:00:00+05:30",
       "deadline": "2026-11-22T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/solve-a-thon-national-hackathon-swami-rama-himalayan-university-srhu-baksar-wala-uttarakhand-1755466",
+      "title": "Solve - a - Thon | National Hackathon",
+      "organizer": "Swami Rama Himalayan University (SRHU), Baksar Wala, Uttarakhand",
+      "mode": "Offline",
+      "venue_address": "Swami Rama Himalayan University (SRHU), Baksar Wala, Uttarakhand, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa921de4bea2_chatgpt_image_sep_15_2026_03_36_28_pm_1_1.png",
+      "start_date": null,
+      "end_date": "2026-11-28T10:00:00+05:30",
+      "deadline": "2026-11-28T10:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
