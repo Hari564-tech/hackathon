@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-18T02:28:09.900612+00:00",
-  "total_count": 290,
+  "last_synced_at": "2026-09-18T10:18:59.661767+00:00",
+  "total_count": 292,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3314,6 +3314,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/yuva-megathon-2026-yuva-srm-institute-of-science-technology-trichy-1754766",
+      "title": "YUVA Megathon 2026",
+      "organizer": "SRM Institute of Science & Technology, Trichy",
+      "mode": "Offline",
+      "venue_address": "SRM Institute of Science & Technology, Trichy, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa529421604b_yuva_1.png",
+      "start_date": null,
+      "end_date": "2026-09-30T09:00:00+05:30",
+      "deadline": "2026-09-30T09:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/biobridge-bio-innovation-hackathon-2026-ks-rangasamy-college-of-technology-ksrct-namakkal-1755864",
       "title": "BioBridge – Bio Innovation Hackathon 2026",
       "organizer": "K.S. Rangasamy College Of Technology (KSRCT), Namakkal",
@@ -3343,25 +3362,6 @@
       "start_date": null,
       "end_date": "2026-09-30T16:00:00+05:30",
       "deadline": "2026-09-30T16:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/yuva-megathon-2026-yuva-srm-institute-of-science-technology-trichy-1754766",
-      "title": "YUVA Megathon 2026",
-      "organizer": "SRM Institute of Science & Technology, Trichy",
-      "mode": "Offline",
-      "venue_address": "SRM Institute of Science & Technology, Trichy, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa529421604b_yuva_1.png",
-      "start_date": null,
-      "end_date": "2026-09-30T16:06:00+05:30",
-      "deadline": "2026-09-30T16:06:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -4741,6 +4741,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/game-jam-tantrafiesta-2026-iiitn-1756367",
+      "title": "Game Jam - TantraFiesta 2026",
+      "organizer": "Indian Institute of Information Technology (IIIT), Nagpur",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa9851823685_tflogo.png",
+      "start_date": null,
+      "end_date": "2026-10-24T10:00:00+05:30",
+      "deadline": "2026-10-24T10:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hack-o-octo-40-chandigarh-university-cu-ajitgarh-punjab-1747159",
       "title": "Hack-O-Octo 4.0",
       "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
@@ -4957,6 +4976,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aabe2dce53bd_screenshot_2026-09-17_182250.png",
+      "start_date": null,
+      "end_date": "2026-10-30T00:00:00+05:30",
+      "deadline": "2026-10-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/koolage-cybersecurity-challenge-can-you-spot-the-vulnerability-koolage-cybersecurity-challeng-koolage-1757802",
+      "title": "Koolage Cybersecurity Challenge – Can You Spot the Vulnerability?",
+      "organizer": "koolage",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aad0584a6257_organisation_image-BVGwv4BAUh1619802226JLrydV5VyP.png",
       "start_date": null,
       "end_date": "2026-10-30T00:00:00+05:30",
       "deadline": "2026-10-30T00:00:00+05:30",
