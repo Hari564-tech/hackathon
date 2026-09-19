@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-19T02:27:57.804380+00:00",
-  "total_count": 296,
+  "last_synced_at": "2026-09-19T10:01:39.498702+00:00",
+  "total_count": 299,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2407,7 +2407,7 @@
       "mode": "Offline",
       "venue_address": "Institute of Engineering and Management, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaad41439ee4_organisation_image-b7YTCxCvln1004312414toHzRHVr1K.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aae35ed50924_organisation_image-b7YTCxCvln1004312414toHzRHVr1K.png",
       "start_date": null,
       "end_date": "2026-09-23T22:59:00+05:30",
       "deadline": "2026-09-23T22:59:00+05:30",
@@ -2449,6 +2449,25 @@
       "start_date": null,
       "end_date": "2026-09-24T00:00:00+05:30",
       "deadline": "2026-09-24T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/free-full-stack-python-with-gen-ai-demo-quality-thought-info-systems-1758360",
+      "title": "Free Full Stack Python with Gen-AI Demo",
+      "organizer": "Quality Thought Info Systems",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aae2a72b5e45_quality-thought-logo-software-training-institute-india_jpg.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-24T09:30:00+05:30",
+      "deadline": "2026-09-24T09:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -4798,6 +4817,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/game-jam-tantrafiesta-2026-iiitn-1758206",
+      "title": "Game Jam - TantraFiesta 2026",
+      "organizer": "Indian Institute of Information Technology (IIIT), Nagpur",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aad70c9d18a9_tflogo.png",
+      "start_date": null,
+      "end_date": "2026-10-24T10:00:00+05:30",
+      "deadline": "2026-10-24T10:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hack-o-octo-40-chandigarh-university-cu-ajitgarh-punjab-1747159",
       "title": "Hack-O-Octo 4.0",
       "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
@@ -5017,6 +5055,25 @@
       "start_date": null,
       "end_date": "2026-10-27T00:00:00+05:30",
       "deadline": "2026-10-27T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/next-station-2026-frontend-arena-1758217",
+      "title": "Next Station 2026",
+      "organizer": "Frontend Arena",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aad764ded79a_whatsapp_image_2026-09-12_at_21_46_34.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-27T10:00:00+05:30",
+      "deadline": "2026-10-27T10:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
