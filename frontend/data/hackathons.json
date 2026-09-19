@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-19T15:06:39.466203+00:00",
-  "total_count": 304,
+  "last_synced_at": "2026-09-19T19:49:21.041279+00:00",
+  "total_count": 317,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3199,6 +3199,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/datathon-26-symbiosis-university-of-applied-sciences-suas-indore-madhya-pradesh-1758550",
+      "title": "Datathon 26",
+      "organizer": "Symbiosis University of Applied Sciences (SUAS), Indore, Madhya Pradesh",
+      "mode": "Offline",
+      "venue_address": "Symbiosis University of Applied Sciences (SUAS), Indore, Madhya Pradesh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aae86725505f_whatsapp_image_2026-09-19_at_18_07_08.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-28T23:59:00+05:30",
+      "deadline": "2026-09-28T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/srm-hack-a-revolution-2026",
       "title": "SRM HackARev 2026",
       "organizer": "SRM University AP",
@@ -3530,6 +3549,25 @@
       "venue_address": "Mar Athanasius College of Engineering (MACE), Kerala, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aac23a77829d_coming_soon-vibethon.png",
+      "start_date": null,
+      "end_date": "2026-09-30T23:59:00+05:30",
+      "deadline": "2026-09-30T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/build-fast-with-ai-ai-build-challenge-2026-build-fast-with-ai-1758453",
+      "title": "Build Fast with AI: AI Build Challenge 2026",
+      "organizer": "Build Fast with AI",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aae9e0c36e68_dark_logo.png",
       "start_date": null,
       "end_date": "2026-09-30T23:59:00+05:30",
       "deadline": "2026-09-30T23:59:00+05:30",
@@ -4037,6 +4075,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackathon-cliffesto26-national-institute-of-technology-nit-uttarakhand-1758644",
+      "title": "Web Development Hackathon",
+      "organizer": "National Institute of Technology (NIT), Uttarakhand",
+      "mode": "Offline",
+      "venue_address": "National Institute of Technology (NIT), Uttarakhand, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaeb10793542_",
+      "start_date": null,
+      "end_date": "2026-10-06T23:59:00+05:30",
+      "deadline": "2026-10-06T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/crp-amazon-ml-challenge-2026-amazon-1743604",
       "title": "Amazon ML Challenge 2026",
       "organizer": "Amazon",
@@ -4237,6 +4294,25 @@
       "start_date": null,
       "end_date": "2026-10-09T17:00:00+05:30",
       "deadline": "2026-10-09T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/fusion-2026-iic-ecell-skncoe-x-skn-ieee-student-branch-1751766",
+      "title": "Fusion 2026",
+      "organizer": "IIC ECELL SKNCOE X SKN IEEE Student Branch",
+      "mode": "Offline",
+      "venue_address": "IIC ECELL SKNCOE X SKN IEEE Student Branch, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa3b91b6ab31_fusion_1_11zon.png",
+      "start_date": null,
+      "end_date": "2026-10-10T05:00:00+05:30",
+      "deadline": "2026-10-10T05:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -4646,6 +4722,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-clash-20-deenbandhu-chhotu-ram-university-of-science-and-technology-dcrust-murthal-haryana-1757558",
+      "title": "Code Clash 2.0",
+      "organizer": "Deenbandhu Chhotu Ram University Of Science And Technology (DCRUST), Murthal, Haryana",
+      "mode": "Offline",
+      "venue_address": "Deenbandhu Chhotu Ram University Of Science And Technology (DCRUST), Murthal, Haryana, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aac0a2aeeaf4_img_0218.png",
+      "start_date": null,
+      "end_date": "2026-10-16T11:00:00+05:30",
+      "deadline": "2026-10-16T11:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/dataheist-ieee-day-2026-dtu-new-delhi-1755310",
       "title": "DataHeist",
       "organizer": "Delhi Technological University (DTU), New Delhi",
@@ -4751,6 +4846,158 @@
       "start_date": null,
       "end_date": "2026-10-17T22:29:48+05:30",
       "deadline": "2026-10-17T22:29:48+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/robo-sumo-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749776",
+      "title": "Robo Sumo",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaee4364e282_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/poster-exhibition-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749772",
+      "title": "Poster Exhibition",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaee3104ece4_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/drone-race-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749766",
+      "title": "Drone Race",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaee13267ba5_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-the-issue26-hackathon-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749756",
+      "title": "Hack-the-issue'26 Hackathon",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaedf8d9931e_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/robo-soccer-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749773",
+      "title": "Robo Soccer",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaed989a974f_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vibecode-arena-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749763",
+      "title": "VibeCode Arena",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaed8946f521_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/valorant-tournament-battle-zone-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749779",
+      "title": "Valorant Tournament – Battle Zone",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaed770e6345_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/bgmi-tournament-battle-zone-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749775",
+      "title": "BGMI Tournament – Battle Zone",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaed6f15cd91_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T02:29:42+05:30",
+      "deadline": "2026-10-19T02:29:42+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
