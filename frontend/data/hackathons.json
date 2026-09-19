@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-19T10:01:39.498702+00:00",
-  "total_count": 299,
+  "last_synced_at": "2026-09-19T15:06:39.466203+00:00",
+  "total_count": 304,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2420,6 +2420,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ideaforge-2026-from-problems-to-possibilities-online-ideathon-noida-institue-of-engineering-tecnology-1758463",
+      "title": "IDEAForge 2026 – From Problems to Possibilities | Online Ideathon",
+      "organizer": "Noida Institue of engineering tecnology",
+      "mode": "Offline",
+      "venue_address": "Noida Institue of engineering tecnology, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aae51e8d6271_chatgpt_image_sep_19_2026_01_05_16_pm.png",
+      "start_date": null,
+      "end_date": "2026-09-23T22:59:00+05:30",
+      "deadline": "2026-09-23T22:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ideaforge-2026-from-problems-to-possibilities-noida-institute-of-engineering-and-technology-niet-greater-noid-1757081",
+      "title": "IDEAForge 2026 – From Problems to Possibilities",
+      "organizer": "Noida Institute of Engineering And Technology (NIET), Greater Noida",
+      "mode": "Offline",
+      "venue_address": "Noida Institute of Engineering And Technology (NIET), Greater Noida, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aae3b7107359_chatgpt_image_sep_19_2026_01_05_16_pm.png",
+      "start_date": null,
+      "end_date": "2026-09-23T23:59:00+05:30",
+      "deadline": "2026-09-23T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/vibecraft-yuva-srm-institute-of-science-technology-trichy-1746700",
       "title": "VibeCraft",
       "organizer": "SRM Institute of Science & Technology, Trichy",
@@ -3485,6 +3523,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/encide-vibethon-20-mar-athanasius-college-of-engineering-mace-kerala-1757605",
+      "title": "Encide Vibethon 2.0",
+      "organizer": "Mar Athanasius College of Engineering (MACE), Kerala",
+      "mode": "Offline",
+      "venue_address": "Mar Athanasius College of Engineering (MACE), Kerala, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aac23a77829d_coming_soon-vibethon.png",
+      "start_date": null,
+      "end_date": "2026-09-30T23:59:00+05:30",
+      "deadline": "2026-09-30T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/code-clash-deenbandhu-chhotu-ram-university-of-science-and-technology-dcrust-murthal-haryana-1750453",
       "title": "Code Clash",
       "organizer": "Deenbandhu Chhotu Ram University Of Science And Technology (DCRUST), Murthal, Haryana",
@@ -4398,6 +4455,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codeverse-gyan-ganga-college-of-technology-ggct-jabalpur-1758452",
+      "title": "CodeVerse",
+      "organizer": "Gyan Ganga College Of Technology (GGCT), Jabalpur",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aae94ac9c700_GGCT.png",
+      "start_date": null,
+      "end_date": "2026-10-13T00:45:00+05:30",
+      "deadline": "2026-10-13T00:45:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hack-era-10-erazone-1755150",
       "title": "Hack Era 1.0",
       "organizer": "Erazone",
@@ -4789,6 +4865,25 @@
       "start_date": null,
       "end_date": "2026-10-22T00:00:00+05:30",
       "deadline": "2026-10-22T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/techcircuit-hackathon-wecodecoders-1758409",
+      "title": "TechCircuit Hackathon",
+      "organizer": "WeCodeCoders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aae7d07e34f4_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "start_date": null,
+      "end_date": "2026-10-22T10:00:00+05:30",
+      "deadline": "2026-10-22T10:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
