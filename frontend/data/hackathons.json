@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-20T15:10:07.230517+00:00",
-  "total_count": 337,
+  "last_synced_at": "2026-09-20T20:03:13.621969+00:00",
+  "total_count": 339,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3504,6 +3504,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/technorazz-2026-jaipur-national-university-jnu-jaipur-1757968",
+      "title": "Technorazz 2026",
+      "organizer": "Jaipur National University (JNU), Jaipur",
+      "mode": "Offline",
+      "venue_address": "Jaipur National University (JNU), Jaipur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab02d8eccd26_National_University.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-30T19:00:00+05:30",
+      "deadline": "2026-09-30T19:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/the-black-box-protocol-stage-02-system-matrix-techhelp4u-1758551",
       "title": "The Black-Box Protocol: Stage 02 -  System Matrix",
       "organizer": "TECHhelp4U",
@@ -4728,6 +4747,25 @@
       "venue_address": "Vijaybhoomi University, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a93cafc71a8d_jamrang_pfp.png",
+      "start_date": null,
+      "end_date": "2026-10-15T00:00:00+05:30",
+      "deadline": "2026-10-15T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/spectrona-hackathon-2026-national-forensic-sciences-university-guwahati-1758996",
+      "title": "Spectrona Hackathon 2026",
+      "organizer": "National Forensic Sciences University, Guwahati",
+      "mode": "Offline",
+      "venue_address": "National Forensic Sciences University, Guwahati, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab00861938bf_1000663063.jpg",
       "start_date": null,
       "end_date": "2026-10-15T00:00:00+05:30",
       "deadline": "2026-10-15T00:00:00+05:30",
