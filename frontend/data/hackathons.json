@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-20T02:38:29.767085+00:00",
-  "total_count": 323,
+  "last_synced_at": "2026-09-20T10:21:15.612170+00:00",
+  "total_count": 327,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3848,7 +3848,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/code-avengerss-2026-coding-debugging-challenge-tech-media-fest-2026-bharati-vidyapeeth-bvicam-bharati-vidyape-1758602",
-      "title": "Code AvengersS 2026 – Coding & Debugging Challenge",
+      "title": "Code Avengers 2026 – Coding & Debugging Challenge",
       "organizer": "Bharati Vidyapeeth's Institute of Computer Applications and Management (BVICAM), New Delhi",
       "mode": "Offline",
       "venue_address": "Bharati Vidyapeeth's Institute of Computer Applications and Management (BVICAM), New Delhi, India",
@@ -4798,6 +4798,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/project-eclipse-ai-automation-hackathon-agni-college-of-technology-act-chennai-1758549",
+      "title": "PROJECT : ECLIPSE - AI & Automation Hackathon",
+      "organizer": "Agni College of Technology (ACT), Chennai",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaf6d2f3e9ba_AGNI-LOGO-AUTO.png",
+      "start_date": null,
+      "end_date": "2026-10-16T08:31:00+05:30",
+      "deadline": "2026-10-16T08:31:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/code-clash-20-deenbandhu-chhotu-ram-university-of-science-and-technology-dcrust-murthal-haryana-1757558",
       "title": "Code Clash 2.0",
       "organizer": "Deenbandhu Chhotu Ram University Of Science And Technology (DCRUST), Murthal, Haryana",
@@ -5121,6 +5140,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/babys-first-website-hackathon-hax-baby-1758510",
+      "title": "Baby's First Website Hackathon",
+      "organizer": "haX baby",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aae8d76cab50_5cdc2d0b-0e79-4a08-929c-ee2f8f03553e.jpg",
+      "start_date": null,
+      "end_date": "2026-10-19T17:18:00+05:30",
+      "deadline": "2026-10-19T17:18:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/graviton-iste-cgc-university-1742794",
       "title": "Graviton",
       "organizer": "ISTE CGC UNIVERSITY",
@@ -5226,6 +5264,25 @@
       "start_date": null,
       "end_date": "2026-10-22T10:00:00+05:30",
       "deadline": "2026-10-22T10:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/futurestack-hackathon-wecodecoders-1758558",
+      "title": "FutureStack Hackathon",
+      "organizer": "WeCodeCoders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aafab4ed9990_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "start_date": null,
+      "end_date": "2026-10-22T22:13:57+05:30",
+      "deadline": "2026-10-22T22:13:57+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -5929,6 +5986,25 @@
       "start_date": null,
       "end_date": "2026-11-02T22:05:00+05:30",
       "deadline": "2026-11-02T22:05:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/nasa-space-apps-challenge-2026-chandigarh-university-1758769",
+      "title": "NASA Space Apps Challenge 2026",
+      "organizer": "Chandigarh University ",
+      "mode": "Offline",
+      "venue_address": "Chandigarh University , India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaf07e3c67ed_untitled_banner_landscape_1.png",
+      "start_date": null,
+      "end_date": "2026-11-14T00:00:00+05:30",
+      "deadline": "2026-11-14T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
