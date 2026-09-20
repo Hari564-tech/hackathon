@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-20T10:21:15.612170+00:00",
-  "total_count": 327,
+  "last_synced_at": "2026-09-20T15:10:07.230517+00:00",
+  "total_count": 337,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2496,25 +2496,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/robo-race-techtrix26-navrachna-foundation-for-entrepreneurship-development-1752017",
-      "title": "Robo Race",
-      "organizer": "Navrachna Foundation For Entrepreneurship Development",
-      "mode": "Offline",
-      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaefd7ac7717_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
-      "start_date": null,
-      "end_date": "2026-09-24T00:00:00+05:30",
-      "deadline": "2026-09-24T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/free-full-stack-python-with-gen-ai-demo-quality-thought-info-systems-1758360",
       "title": "Free Full Stack Python with Gen-AI Demo",
       "organizer": "Quality Thought Info Systems",
@@ -3514,6 +3495,25 @@
       "start_date": null,
       "end_date": "2026-09-30T17:00:00+05:30",
       "deadline": "2026-09-30T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-black-box-protocol-stage-02-system-matrix-techhelp4u-1758551",
+      "title": "The Black-Box Protocol: Stage 02 -  System Matrix",
+      "organizer": "TECHhelp4U",
+      "mode": "Offline",
+      "venue_address": "TECHhelp4U, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aae8617abfc8_register_be_a_part_of_the_innovation_1.jpg",
+      "start_date": null,
+      "end_date": "2026-09-30T22:01:00+05:30",
+      "deadline": "2026-09-30T22:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -4950,6 +4950,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/robo-race-techtrix26-navrachna-foundation-for-entrepreneurship-development-1752017",
+      "title": "Robo Race",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaefd7ac7717_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/robo-sumo-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749776",
       "title": "Robo Sumo",
       "organizer": "Navrachna Foundation For Entrepreneurship Development",
@@ -5090,6 +5109,158 @@
       "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaefc73044c3_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/junior-drone-race-techtrix26-navrachna-foundation-for-entrepreneurship-development-1752022",
+      "title": "Junior Drone Race",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aafe95aa6be1_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/junior-robo-sumo-techtrix26-navrachna-foundation-for-entrepreneurship-development-1752023",
+      "title": "Junior Robo Sumo",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aafe5286a751_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/junior-ideathon-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749570",
+      "title": "Junior Ideathon",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aafe46213af4_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/junior-hackathon-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749752",
+      "title": "Junior Hackathon",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aafe3c5a6dc7_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/make-a-thon-techtrix26-navrachna-foundation-for-entrepreneurship-development-1752019",
+      "title": "Make-A-Thon",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aafd4702e19e_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/junior-make-a-thon-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749755",
+      "title": "Junior Make-A-Thon",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aafd1835cd19_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/junior-robo-soccer-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749761",
+      "title": "Junior Robo Soccer",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aafd05fafac2_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/junior-robo-race-techtrix26-navrachna-foundation-for-entrepreneurship-development-1752021",
+      "title": "Junior Robo-Race",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aafcf730bf6a_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
       "start_date": null,
       "end_date": "2026-10-19T00:00:00+05:30",
       "deadline": "2026-10-19T00:00:00+05:30",
@@ -5279,10 +5450,29 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aafab4ed9990_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aafcc87abcbe_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
       "start_date": null,
       "end_date": "2026-10-22T22:13:57+05:30",
       "deadline": "2026-10-22T22:13:57+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codeaxis-hackathon-wecodecoders-1758538",
+      "title": "CodeAxis Hackathon",
+      "organizer": "WeCodeCoders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aafcd3447d45_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "start_date": null,
+      "end_date": "2026-10-23T03:31:37+05:30",
+      "deadline": "2026-10-23T03:31:37+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
