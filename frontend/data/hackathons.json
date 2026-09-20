@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-19T19:49:21.041279+00:00",
-  "total_count": 317,
+  "last_synced_at": "2026-09-20T02:38:29.767085+00:00",
+  "total_count": 323,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2496,6 +2496,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/robo-race-techtrix26-navrachna-foundation-for-entrepreneurship-development-1752017",
+      "title": "Robo Race",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaefd7ac7717_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-09-24T00:00:00+05:30",
+      "deadline": "2026-09-24T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/free-full-stack-python-with-gen-ai-demo-quality-thought-info-systems-1758360",
       "title": "Free Full Stack Python with Gen-AI Demo",
       "organizer": "Quality Thought Info Systems",
@@ -3409,6 +3428,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ideaverse-ideathon-2026-kiet-group-of-institutions-kiet-ghaziabad-1758738",
+      "title": "Ideaverse - Ideathon 2026",
+      "organizer": "KIET Group of Institutions (KIET)  Ghaziabad",
+      "mode": "Offline",
+      "venue_address": "KIET Group of Institutions (KIET)  Ghaziabad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaed99642e21_21803.jpg",
+      "start_date": null,
+      "end_date": "2026-09-30T00:01:00+05:30",
+      "deadline": "2026-09-30T00:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/yuva-megathon-2026-yuva-srm-institute-of-science-technology-trichy-1754766",
       "title": "YUVA Megathon 2026",
       "organizer": "SRM Institute of Science & Technology, Trichy",
@@ -3733,6 +3771,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackvibe-20-24-hour-national-level-hackathon-vignan-institute-of-technology-and-science-1757766",
+      "title": "Hackvibe 2.0 | 24-Hour National Level Hackathon",
+      "organizer": "Vignan institute of technology and science",
+      "mode": "Offline",
+      "venue_address": "Vignan institute of technology and science, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aacbed134771_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-02T00:00:00+05:30",
+      "deadline": "2026-10-02T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/bug-bounty-cyber-carnival-srm-university-ramapuram-chennai-1755028",
       "title": "Bug Bounty",
       "organizer": "SRM University, Ramapuram, Chennai",
@@ -3778,6 +3835,25 @@
       "venue_address": "SRM University, Ramapuram, Chennai, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa55be4bf677_whatsapp_image_2026-08-22_at_2_28_55_pm_1.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-03T00:00:00+05:30",
+      "deadline": "2026-10-03T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-avengerss-2026-coding-debugging-challenge-tech-media-fest-2026-bharati-vidyapeeth-bvicam-bharati-vidyape-1758602",
+      "title": "Code AvengersS 2026 – Coding & Debugging Challenge",
+      "organizer": "Bharati Vidyapeeth's Institute of Computer Applications and Management (BVICAM), New Delhi",
+      "mode": "Offline",
+      "venue_address": "Bharati Vidyapeeth's Institute of Computer Applications and Management (BVICAM), New Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaea120682b3_logo.png",
       "start_date": null,
       "end_date": "2026-10-03T00:00:00+05:30",
       "deadline": "2026-10-03T00:00:00+05:30",
@@ -4076,12 +4152,12 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackathon-cliffesto26-national-institute-of-technology-nit-uttarakhand-1758644",
-      "title": "Web Development Hackathon",
+      "title": "Hackathon",
       "organizer": "National Institute of Technology (NIT), Uttarakhand",
       "mode": "Offline",
       "venue_address": "National Institute of Technology (NIT), Uttarakhand, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaeb10793542_",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaee9c69e062_",
       "start_date": null,
       "end_date": "2026-10-06T23:59:00+05:30",
       "deadline": "2026-10-06T23:59:00+05:30",
@@ -4988,6 +5064,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/business-plan-competition-from-idea-to-market-techtrix26-navrachna-foundation-for-entrepreneurship-developmen-1749781",
+      "title": "Business Plan Competition – From Idea to Market",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "mode": "Offline",
+      "venue_address": "Navrachna Foundation For Entrepreneurship Development, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaefc73044c3_organisation_image-X4DiJFvXL62079972974BGQR4YoWx3.png",
+      "start_date": null,
+      "end_date": "2026-10-19T00:00:00+05:30",
+      "deadline": "2026-10-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/bgmi-tournament-battle-zone-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749775",
       "title": "BGMI Tournament – Battle Zone",
       "organizer": "Navrachna Foundation For Entrepreneurship Development",
@@ -5318,6 +5413,25 @@
       "venue_address": "National Institute of Technology (NIT), Delhi, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8d5da4c095a_codeslayer_2_0_logo_1.png",
+      "start_date": null,
+      "end_date": "2026-10-25T18:00:00+05:30",
+      "deadline": "2026-10-25T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/nakshatra-the-aerospace-hackathon-2026-madhav-institute-of-technology-and-science-mits-gwalior-1751540",
+      "title": "Nakshatra - The Aerospace Hackathon 2026",
+      "organizer": "Madhav Institute of Technology and Science (MITS), Gwalior",
+      "mode": "Offline",
+      "venue_address": "Madhav Institute of Technology and Science (MITS), Gwalior, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaec8495786d_logo1.jpg",
       "start_date": null,
       "end_date": "2026-10-25T18:00:00+05:30",
       "deadline": "2026-10-25T18:00:00+05:30",
