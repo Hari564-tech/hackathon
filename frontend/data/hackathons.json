@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-21T17:32:15.024207+00:00",
-  "total_count": 342,
+  "last_synced_at": "2026-09-21T21:29:02.572996+00:00",
+  "total_count": 344,
   "hackathons": [
     {
       "source": "Unstop",
@@ -4531,6 +4531,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/pixel-paranoia-6-hours-uiux-hackathon-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-enginee-1759594",
+      "title": "Pixel Paranoia - 6 Hours UI/UX Hackathon",
+      "organizer": "Shri Vile Parle Kelavani Mandal's Dwarkadas J. Sanghvi College of Engineering (DJSCE), Mumbai",
+      "mode": "Offline",
+      "venue_address": "Shri Vile Parle Kelavani Mandal's Dwarkadas J. Sanghvi College of Engineering (DJSCE), Mumbai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab16e858c42d_pixel_paranoia_square_1.png",
+      "start_date": null,
+      "end_date": "2026-10-10T18:00:00+05:30",
+      "deadline": "2026-10-10T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacknowa-global-hackathon-2026-innovation-hacks-1752198",
       "title": "HackNowa Global Hackathon 2026",
       "organizer": "Innovation Hacks",
@@ -5872,6 +5891,25 @@
       "start_date": null,
       "end_date": "2026-10-27T23:59:00+05:30",
       "deadline": "2026-10-27T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codeflayer-vishnu-institute-of-technology-vit-kovvada-andhra-pradesh-1759151",
+      "title": "CodeFlayer",
+      "organizer": "Vishnu Institute of Technology (VIT), Kovvada, Andhra Pradesh",
+      "mode": "Offline",
+      "venue_address": "Vishnu Institute of Technology (VIT), Kovvada, Andhra Pradesh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab110f9a0644_whatsapp_image_2026-09-18_at_9_30_40_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-29T23:59:00+05:30",
+      "deadline": "2026-10-29T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
