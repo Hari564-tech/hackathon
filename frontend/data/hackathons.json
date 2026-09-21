@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-21T02:35:44.630926+00:00",
-  "total_count": 341,
+  "last_synced_at": "2026-09-21T11:34:51.611954+00:00",
+  "total_count": 342,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3510,7 +3510,7 @@
       "mode": "Offline",
       "venue_address": "Jaipur National University (JNU), Jaipur, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab02d8eccd26_National_University.jpeg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab0bdd154963_National_University.jpeg",
       "start_date": null,
       "end_date": "2026-09-30T19:00:00+05:30",
       "deadline": "2026-09-30T19:00:00+05:30",
@@ -4626,6 +4626,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/rrr-a-game-jam-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanbad-1759129",
+      "title": "RRR-A Game Jam",
+      "organizer": "Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab0a7a0581a4_IIT_dh_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-12T18:00:00+05:30",
+      "deadline": "2026-10-12T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/setu-bridge-the-gap-build-the-fix-forge-realm-1754670",
       "title": "Setu - Bridge the Gap. Build the Fix",
       "organizer": "Forge Realm",
@@ -4851,25 +4870,6 @@
         "Google Cloud",
         "UN SDGs",
         "Mobile/Flutter"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/project-eclipse-ai-automation-hackathon-agni-college-of-technology-act-chennai-1758549",
-      "title": "PROJECT : ECLIPSE - AI & Automation Hackathon",
-      "organizer": "Agni College of Technology (ACT), Chennai",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aaf6d2f3e9ba_AGNI-LOGO-AUTO.png",
-      "start_date": null,
-      "end_date": "2026-10-16T08:31:00+05:30",
-      "deadline": "2026-10-16T08:31:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
       ]
     },
     {
@@ -5526,7 +5526,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aafcd3447d45_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab112901a8e3_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
       "start_date": null,
       "end_date": "2026-10-23T03:31:37+05:30",
       "deadline": "2026-10-23T03:31:37+05:30",
@@ -5853,6 +5853,25 @@
       "start_date": null,
       "end_date": "2026-10-27T10:00:00+05:30",
       "deadline": "2026-10-27T10:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/project-eclipse-ai-automation-hackathon-agni-college-of-technology-act-chennai-1758549",
+      "title": "Genie X Hub represents Project : Eclipse Hackathon",
+      "organizer": "Agni College of Technology (ACT), Chennai",
+      "mode": "Offline",
+      "venue_address": "Agni College of Technology (ACT), Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab0d62912218_whatsapp_image_2026-09-21_at_12_28_41_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-27T23:59:00+05:30",
+      "deadline": "2026-10-27T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
