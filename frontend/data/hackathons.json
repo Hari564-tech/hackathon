@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-20T20:03:13.621969+00:00",
-  "total_count": 339,
+  "last_synced_at": "2026-09-21T02:35:44.630926+00:00",
+  "total_count": 341,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3694,6 +3694,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/amazon-selling-partner-api-integration-challenge-plantex-india-1759084",
+      "title": "Amazon Selling Partner API Integration Challenge",
+      "organizer": "Plantex India",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab0287c9b4e3_images.png",
+      "start_date": null,
+      "end_date": "2026-10-01T00:21:00+05:30",
+      "deadline": "2026-10-01T00:21:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/prysm26-eshan-group-of-institutions-uttar-pradesh-1747181",
       "title": "Prysm'26",
       "organizer": "Eshan Group Of Institutions, Uttar Pradesh",
@@ -5739,6 +5758,25 @@
       "start_date": null,
       "end_date": "2026-10-25T20:00:00+05:30",
       "deadline": "2026-10-25T20:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackyard-build-2026-hackyard-1758969",
+      "title": "Hackyard Build 2026",
+      "organizer": "Hackyard",
+      "mode": "Offline",
+      "venue_address": "Hackyard, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaffe8a04a4b_icon-64_1.png",
+      "start_date": null,
+      "end_date": "2026-10-25T21:33:00+05:30",
+      "deadline": "2026-10-25T21:33:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
