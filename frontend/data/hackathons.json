@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-22T02:37:31.393505+00:00",
-  "total_count": 344,
+  "last_synced_at": "2026-09-22T10:40:32.361169+00:00",
+  "total_count": 346,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3505,12 +3505,12 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/technorazz-2026-jaipur-national-university-jnu-jaipur-1757968",
-      "title": "Technorazz 2026",
+      "title": "Hackathon",
       "organizer": "Jaipur National University (JNU), Jaipur",
       "mode": "Offline",
       "venue_address": "Jaipur National University (JNU), Jaipur, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab0bdd154963_National_University.jpeg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab24f55ec3a1_National_University.jpeg",
       "start_date": null,
       "end_date": "2026-09-30T19:00:00+05:30",
       "deadline": "2026-09-30T19:00:00+05:30",
@@ -4740,6 +4740,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/open-source-sprint-hyderabads-largest-open-source-hackathon-unifesto-private-limited-1759566",
+      "title": "Open Source Sprint - Hyderabad's Largest Open Source Hackathon",
+      "organizer": "Unifesto Private Limited",
+      "mode": "Offline",
+      "venue_address": "Unifesto Private Limited, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab228957a57f_organisation_image-IZLaxOBBRF440891402gMnTGJnRqj.png",
+      "start_date": null,
+      "end_date": "2026-10-14T23:00:00+05:30",
+      "deadline": "2026-10-14T23:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/uav-competition-jamraga-26-vijaybhoomi-university-1746249",
       "title": "UAV Competition",
       "organizer": "Vijaybhoomi University",
@@ -5891,6 +5910,25 @@
       "start_date": null,
       "end_date": "2026-10-27T23:59:00+05:30",
       "deadline": "2026-10-27T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/affecio-hacks-26-affecio-1759716",
+      "title": "AFFECIO HACKS '26",
+      "organizer": "Affecio",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab1891c17c83_7ff69dac-9dbb-469f-b1c2-7859e482976b.png",
+      "start_date": null,
+      "end_date": "2026-10-28T23:30:00+05:30",
+      "deadline": "2026-10-28T23:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
