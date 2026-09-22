@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-22T10:40:32.361169+00:00",
-  "total_count": 346,
+  "last_synced_at": "2026-09-22T16:00:57.334637+00:00",
+  "total_count": 352,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2743,6 +2743,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/telemetrix-shiv-nadar-university-snu-chennai-1760022",
+      "title": "Invente'26 - Telemetrix",
+      "organizer": "Shiv Nadar University (SNU), Chennai",
+      "mode": "Offline",
+      "venue_address": "Shiv Nadar University (SNU), Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab279377a535_images__11_.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-26T15:00:00+05:30",
+      "deadline": "2026-09-26T15:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/acm-marketsphere-2026-rv-college-of-enginnering-1752071",
       "title": "ACM Marketsphere 2026",
       "organizer": "RV College of Enginnering",
@@ -3171,6 +3190,25 @@
       "start_date": null,
       "end_date": "2026-09-28T00:00:00+05:30",
       "deadline": "2026-09-28T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/jagriti-hacks-siliguri-institute-of-technology-1760290",
+      "title": "Jāgriti Hacks",
+      "organizer": "Siliguri Institute of Technology",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab29457b7b4e_45137.jpg",
+      "start_date": null,
+      "end_date": "2026-09-28T01:00:00+05:30",
+      "deadline": "2026-09-28T01:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -4189,6 +4227,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/indux-50-2026-international-24-hour-ai-hackathon-vikrant-university-1759988",
+      "title": "INDUX 5.0 - 2026 International 24-Hour AI Hackathon",
+      "organizer": "Vikrant University",
+      "mode": "Offline",
+      "venue_address": "Vikrant University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab244de15992_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-06T00:00:00+05:30",
+      "deadline": "2026-10-06T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackathon-cliffesto26-national-institute-of-technology-nit-uttarakhand-1758644",
       "title": "Hackathon",
       "organizer": "National Institute of Technology (NIT), Uttarakhand",
@@ -4607,6 +4664,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cyberquest-2026-manipal-university-mu-jaipur-1760233",
+      "title": "CyberQuest 2026",
+      "organizer": "Manipal University (MU), Jaipur",
+      "mode": "Offline",
+      "venue_address": "Manipal University (MU), Jaipur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab289da63254_Manipal_University_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-11T17:00:00+05:30",
+      "deadline": "2026-10-11T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/kurukshetra-ctf-pimpri-chinchwad-college-of-engineering-pccoe-pune-1754908",
       "title": "Kurukshetra CTF",
       "organizer": "Pimpri Chinchwad College of Engineering (PCCOE), Pune",
@@ -4842,6 +4918,25 @@
       "venue_address": "National Forensic Sciences University, Guwahati, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab00861938bf_1000663063.jpg",
+      "start_date": null,
+      "end_date": "2026-10-15T00:00:00+05:30",
+      "deadline": "2026-10-15T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/sgu-hackx-10-sdgi-global-university-1760018",
+      "title": "SGU_Hackx - 1.0",
+      "organizer": "SDGI Global University",
+      "mode": "Offline",
+      "venue_address": "SDGI Global University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab2623ac2bd1_organisation_image-z9jMnhiZ6W5860170784huSgwqAWx.png",
       "start_date": null,
       "end_date": "2026-10-15T00:00:00+05:30",
       "deadline": "2026-10-15T00:00:00+05:30",
@@ -5435,6 +5530,25 @@
       "start_date": null,
       "end_date": "2026-10-20T00:00:00+05:30",
       "deadline": "2026-10-20T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/buildx-hackathon-code-a-nova-1760074",
+      "title": "BUiLDX Hackathon",
+      "organizer": "Code-A-Nova",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab285c083a15_organisation_image-8KL7iruRNN1325116874gM58hXCfOs.png",
+      "start_date": null,
+      "end_date": "2026-10-20T16:24:00+05:30",
+      "deadline": "2026-10-20T16:24:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
