@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-22T16:00:57.334637+00:00",
-  "total_count": 352,
+  "last_synced_at": "2026-09-22T20:42:08.058210+00:00",
+  "total_count": 356,
   "hackathons": [
     {
       "source": "Unstop",
@@ -4379,6 +4379,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ignite-series-open-innovation-challenge-chandigarh-university-uttar-pradesh-unnao-1760317",
+      "title": "Ignite Series – Open Innovation Challenge",
+      "organizer": "Chandigarh University, Uttar Pradesh, Unnao",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab2a64834667_icon-192.png",
+      "start_date": null,
+      "end_date": "2026-10-08T00:00:00+05:30",
+      "deadline": "2026-10-08T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/build-for-bharat-20-chandigarh-university-cu-ajitgarh-punjab-1742848",
       "title": "Build For Bharat 2.0",
       "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
@@ -4930,25 +4949,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/sgu-hackx-10-sdgi-global-university-1760018",
-      "title": "SGU_Hackx - 1.0",
-      "organizer": "SDGI Global University",
-      "mode": "Offline",
-      "venue_address": "SDGI Global University, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab2623ac2bd1_organisation_image-z9jMnhiZ6W5860170784huSgwqAWx.png",
-      "start_date": null,
-      "end_date": "2026-10-15T00:00:00+05:30",
-      "deadline": "2026-10-15T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/vj-hackathon-2026-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-technology-telangana-1750281",
       "title": "VJ Hackathon 2026",
       "organizer": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana",
@@ -5003,6 +5003,25 @@
         "Google Cloud",
         "UN SDGs",
         "Mobile/Flutter"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/axion-hackathon-stampers-1760407",
+      "title": "AXION Hackathon",
+      "organizer": "STAMPERS",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab2d9ba4f5b3_organisation_image-GTZJ3Zx99T1777634921KKeZHKGmHY.png",
+      "start_date": null,
+      "end_date": "2026-10-16T00:25:00+05:30",
+      "deadline": "2026-10-16T00:25:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
@@ -5093,6 +5112,25 @@
       "start_date": null,
       "end_date": "2026-10-16T17:00:00+05:30",
       "deadline": "2026-10-16T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacksprint-guru-tegh-bahadur-institute-of-technology-gtbit-new-delhi-1760430",
+      "title": "HackSprint",
+      "organizer": "Guru Tegh Bahadur Institute of Technology (GTBIT), New Delhi",
+      "mode": "Offline",
+      "venue_address": "Guru Tegh Bahadur Institute of Technology (GTBIT), New Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab2d3f530965_gtbit_logo_new.png",
+      "start_date": null,
+      "end_date": "2026-10-16T19:30:00+05:30",
+      "deadline": "2026-10-16T19:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -5545,7 +5583,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab285c083a15_organisation_image-8KL7iruRNN1325116874gM58hXCfOs.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab2c501ed6e3_organisation_image-8KL7iruRNN1325116874gM58hXCfOs.png",
       "start_date": null,
       "end_date": "2026-10-20T16:24:00+05:30",
       "deadline": "2026-10-20T16:24:00+05:30",
@@ -5682,6 +5720,25 @@
       "start_date": null,
       "end_date": "2026-10-23T03:31:37+05:30",
       "deadline": "2026-10-23T03:31:37+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/sgu-hackx-10-sdgi-global-university-1760018",
+      "title": "SGU_HackX - 1.0",
+      "organizer": "SDGI Global University",
+      "mode": "Offline",
+      "venue_address": "SDGI Global University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab2bc074efa5_organisation_image-z9jMnhiZ6W5860170784huSgwqAWx.png",
+      "start_date": null,
+      "end_date": "2026-10-24T00:01:00+05:30",
+      "deadline": "2026-10-24T00:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -6043,6 +6100,25 @@
       "start_date": null,
       "end_date": "2026-10-28T23:30:00+05:30",
       "deadline": "2026-10-28T23:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/conv-cup-26-fifa-of-bots-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanbad-1759901",
+      "title": "Conv_Cup '26: FIFA of Bots",
+      "organizer": "Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab22a681e3bd_5d1994516e46b_iit_dh_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-29T12:56:00+05:30",
+      "deadline": "2026-10-29T12:56:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -6567,7 +6643,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/seize-da-flaq-cyberonites-club-1724723",
-      "title": "Seize da Flaq",
+      "title": "Seize da Flaq - CTF",
       "organizer": "Cyberonites Club",
       "mode": "Offline",
       "venue_address": "Cyberonites Club, India",
