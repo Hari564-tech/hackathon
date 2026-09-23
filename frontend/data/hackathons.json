@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-23T02:37:57.136479+00:00",
-  "total_count": 356,
+  "last_synced_at": "2026-09-23T10:32:09.552175+00:00",
+  "total_count": 363,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2610,6 +2610,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/modelwars-shiv-nadar-university-snu-chennai-1760206",
+      "title": "ModelWars",
+      "organizer": "Shiv Nadar University (SNU), Chennai",
+      "mode": "Offline",
+      "venue_address": "Shiv Nadar University (SNU), Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab29394e1900_modelwars-2026-banner.png",
+      "start_date": null,
+      "end_date": "2026-09-25T13:45:00+05:30",
+      "deadline": "2026-09-25T13:45:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/invente26-project-showcase-40-shiv-nadar-university-snu-chennai-1756925",
       "title": "Invente'26 - Project Showcase 4.0",
       "organizer": "Shiv Nadar University (SNU), Chennai",
@@ -3244,6 +3263,25 @@
       "venue_address": "Symbiosis University of Applied Sciences (SUAS), Indore, Madhya Pradesh, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aae86725505f_whatsapp_image_2026-09-19_at_18_07_08.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-28T23:59:00+05:30",
+      "deadline": "2026-09-28T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-vision-challenge-2026-create-the-best-ai-generated-image-using-prompts-skillinf-1760454",
+      "title": "AI Vision Challenge 2026 – Create the Best AI-Generated Image Using Prompts",
+      "organizer": "Skillinf",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab34e4eb043f_organisation_image-TnCIbNeqHm1941330442ZXESgEO0bH.png",
       "start_date": null,
       "end_date": "2026-09-28T23:59:00+05:30",
       "deadline": "2026-09-28T23:59:00+05:30",
@@ -4075,6 +4113,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ml-competition-qiskit-fall-fest-2026-srm-university-ap-1758822",
+      "title": "ML Competition",
+      "organizer": "SRM University - AP",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaf7a7127a66_whatsapp_image_2026-09-19_at_6_31_49_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-04T23:59:00+05:30",
+      "deadline": "2026-10-04T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/agentic-graphrag-hackathon-tigergraph-1747871",
       "title": "Agentic GraphRAG Hackathon",
       "organizer": "TigerGraph",
@@ -4408,6 +4465,25 @@
       "start_date": null,
       "end_date": "2026-10-08T16:30:00+05:30",
       "deadline": "2026-10-08T16:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/genesis-the-hackathon-jspm-rajarshi-shahu-college-of-engineering-tathawade-pimpri-chinchwad-maharashtra-1759291",
+      "title": "GENESIS - THE HACKATHON",
+      "organizer": "JSPM Rajarshi Shahu College of Engineering, Tathawade, Pimpri-Chinchwad, Maharashtra",
+      "mode": "Offline",
+      "venue_address": "JSPM Rajarshi Shahu College of Engineering, Tathawade, Pimpri-Chinchwad, Maharashtra, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab15bfdcbb24_saint.png",
+      "start_date": null,
+      "end_date": "2026-10-08T18:00:00+05:30",
+      "deadline": "2026-10-08T18:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -4949,6 +5025,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/multimodal-ai-hackathon-2026-iit-mandi-1755408",
+      "title": "Multimodal AI Hackathon 2026",
+      "organizer": "Indian Institute of Technology (IIT), Mandi",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab288df476e8_hackathon_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-15T00:00:00+05:30",
+      "deadline": "2026-10-15T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/vj-hackathon-2026-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-technology-telangana-1750281",
       "title": "VJ Hackathon 2026",
       "organizer": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana",
@@ -5150,6 +5245,25 @@
       "start_date": null,
       "end_date": "2026-10-17T20:00:00+05:30",
       "deadline": "2026-10-17T20:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-noir-hackathon-2026-invoqe-1760281",
+      "title": "Code Noir Hackathon 2026",
+      "organizer": "invoqe",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab29f28ca8c6_chatgpt_image_sep_22_2026_08_20_13_pm_1.png",
+      "start_date": null,
+      "end_date": "2026-10-17T21:00:00+05:30",
+      "deadline": "2026-10-17T21:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -5986,6 +6100,25 @@
       "start_date": null,
       "end_date": "2026-10-25T21:33:00+05:30",
       "deadline": "2026-10-25T21:33:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codestar-30-national-level-hackathon-wecodecoders-1760472",
+      "title": "Codestar 30 — National-Level Hackathon",
+      "organizer": "WeCodeCoders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab385f1cc026_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "start_date": null,
+      "end_date": "2026-10-26T01:27:08+05:30",
+      "deadline": "2026-10-26T01:27:08+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
