@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-23T10:32:09.552175+00:00",
-  "total_count": 363,
+  "last_synced_at": "2026-09-23T15:51:10.930727+00:00",
+  "total_count": 373,
   "hackathons": [
     {
       "source": "Unstop",
@@ -2611,7 +2611,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/modelwars-shiv-nadar-university-snu-chennai-1760206",
-      "title": "ModelWars",
+      "title": "Invente'26 - ModelWars",
       "organizer": "Shiv Nadar University (SNU), Chennai",
       "mode": "Offline",
       "venue_address": "Shiv Nadar University (SNU), Chennai, India",
@@ -3485,6 +3485,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/narayana-national-hackathon-2026-jai-narayan-vidya-mandir-kanpur-uttar-pradesh-1760310",
+      "title": "Narayana National Hackathon 2026",
+      "organizer": "Jai Narayan Vidya Mandir, Kanpur, Uttar Pradesh",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab2a1a429d04_chatgpt_image_sep_22_2026_11_53_38_am_optimized_1000.png",
+      "start_date": null,
+      "end_date": "2026-09-30T00:00:00+05:30",
+      "deadline": "2026-09-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ideaverse-ideathon-2026-kiet-group-of-institutions-kiet-ghaziabad-1758738",
       "title": "Ideaverse - Ideathon 2026",
       "organizer": "KIET Group of Institutions (KIET)  Ghaziabad",
@@ -3492,6 +3511,25 @@
       "venue_address": "KIET Group of Institutions (KIET)  Ghaziabad, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaed99642e21_21803.jpg",
+      "start_date": null,
+      "end_date": "2026-09-30T00:01:00+05:30",
+      "deadline": "2026-09-30T00:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/bharat-agentic-2026-aikartco-1760783",
+      "title": "Bharat Agentic 2026",
+      "organizer": "aikart.co",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab3cab05aa78_aikart_logo.jpeg",
       "start_date": null,
       "end_date": "2026-09-30T00:01:00+05:30",
       "deadline": "2026-09-30T00:01:00+05:30",
@@ -4132,6 +4170,82 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/python-coding-challenge-in-qiskit-srm-university-ap-1758799",
+      "title": "Python Coding Challenge in Qiskit",
+      "organizer": "SRM University - AP",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaf6197a9181_whatsapp_image_2026-09-19_at_6_31_49_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-04T23:59:00+05:30",
+      "deadline": "2026-10-04T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/quantum-noise-forensics-qiskit-fall-fest-2026-srm-university-ap-1759469",
+      "title": "Quantum Noise Forensics",
+      "organizer": "SRM University - AP",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab1111dd9d84_srm_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-04T23:59:00+05:30",
+      "deadline": "2026-10-04T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/quantum-code-golf-qiskit-fall-fest-2026-srm-university-ap-1758823",
+      "title": "Quantum Code Golf",
+      "organizer": "SRM University - AP",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaf7afb1ae9e_whatsapp_image_2026-09-19_at_6_31_49_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-04T23:59:00+05:30",
+      "deadline": "2026-10-04T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/quantum-magnetometry-challenge-qiskit-fall-fest-2026-srm-university-ap-1758828",
+      "title": "Quantum Magnetometry Challenge",
+      "organizer": "SRM University - AP",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaf7d698bb8a_whatsapp_image_2026-09-19_at_6_31_49_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-04T23:59:00+05:30",
+      "deadline": "2026-10-04T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/agentic-graphrag-hackathon-tigergraph-1747871",
       "title": "Agentic GraphRAG Hackathon",
       "organizer": "TigerGraph",
@@ -4158,6 +4272,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a90810415c7b_organisation_image-ddVeuyKRlb1280769856Z6k4WWmI2J.png",
+      "start_date": null,
+      "end_date": "2026-10-05T00:00:00+05:30",
+      "deadline": "2026-10-05T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/reconctf26-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanbad-1760436",
+      "title": "ReConCTF'26",
+      "organizer": "Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab3b4abe8a9e_IIT_dh_logo.png",
       "start_date": null,
       "end_date": "2026-10-05T00:00:00+05:30",
       "deadline": "2026-10-05T00:00:00+05:30",
@@ -4446,6 +4579,25 @@
       "start_date": null,
       "end_date": "2026-10-08T00:00:00+05:30",
       "deadline": "2026-10-08T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/adhigamai-inter-college-hackathon-2026-adhigam-ai-1760514",
+      "title": "Adhigamai Inter-College Hackathon 2026",
+      "organizer": "Adhigam Ai",
+      "mode": "Offline",
+      "venue_address": "Adhigam Ai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab36bbf19ae6_focalyt_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-08T15:00:00+05:30",
+      "deadline": "2026-10-08T15:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -4788,6 +4940,44 @@
       "start_date": null,
       "end_date": "2026-10-11T18:00:00+05:30",
       "deadline": "2026-10-11T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/appsurd26-codecompilechaos-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanbad-1760763",
+      "title": "AppSurd'26: Code.Compile.Chaos",
+      "organizer": "Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab3cffa241dd_IIT_dh_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-11T18:24:00+05:30",
+      "deadline": "2026-10-11T18:24:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackrobo-20-pillai-university-navi-mumbai-1760313",
+      "title": "HackRobo 2.0",
+      "organizer": "Pillai University, Navi Mumbai",
+      "mode": "Offline",
+      "venue_address": "Pillai University, Navi Mumbai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab2a4140bb4c_whatsapp_image_2026-09-22_at_9_21_12_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-11T22:21:00+05:30",
+      "deadline": "2026-10-11T22:21:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
