@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-23T20:54:24.036690+00:00",
-  "total_count": 373,
+  "last_synced_at": "2026-09-24T02:27:27.892005+00:00",
+  "total_count": 374,
   "hackathons": [
     {
       "source": "Unstop",
@@ -4712,6 +4712,25 @@
       "start_date": null,
       "end_date": "2026-10-09T17:00:00+05:30",
       "deadline": "2026-10-09T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/drishti-vidyalankar-institute-of-technology-vit-mumbai-1755397",
+      "title": "Drishti",
+      "organizer": "Vidyalankar Institute of Technology (VIT), Mumbai",
+      "mode": "Offline",
+      "venue_address": "Vidyalankar Institute of Technology (VIT), Mumbai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aa6ed7fc8ee1_drishti_1.jpg",
+      "start_date": null,
+      "end_date": "2026-10-09T17:30:00+05:30",
+      "deadline": "2026-10-09T17:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
