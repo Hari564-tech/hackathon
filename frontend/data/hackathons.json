@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-24T10:50:03.783905+00:00",
-  "total_count": 382,
+  "last_synced_at": "2026-09-24T16:13:08.457599+00:00",
+  "total_count": 393,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3409,6 +3409,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/zephyr-ctf-2026-zephyr-ctf-2026-owasp-tcet-thakur-college-of-engineering-and-technology-1761083",
+      "title": "Zephyr CTF 2026",
+      "organizer": "Thakur College Of Engineering And Technology",
+      "mode": "Offline",
+      "venue_address": "Thakur College Of Engineering And Technology, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab4d99ee8ea1_whatsapp_image_2026-09-21_at_11_33_21_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-09-29T23:59:00+05:30",
+      "deadline": "2026-09-29T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/knsit-tech-community-kns-institute-of-technology-karnataka-1743721",
       "title": "KNSIT Tech Community",
       "organizer": "KNS Institute of Technology, Karnataka",
@@ -4132,6 +4151,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacksphere-20-ideal-techno-fair-2026-ideal-institute-of-management-and-technology-and-school-of-law-1759043",
+      "title": "HackSphere 2.0",
+      "organizer": "Ideal Institute Of Management And Technology And School Of Law",
+      "mode": "Offline",
+      "venue_address": "Ideal Institute Of Management And Technology And School Of Law, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab00441b209a_iimt.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-04T00:00:00+05:30",
+      "deadline": "2026-10-04T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/prompt-run-2026-frontend-arena-1760943",
       "title": "Prompt Run 2026",
       "organizer": "Frontend Arena",
@@ -4161,6 +4199,25 @@
       "start_date": null,
       "end_date": "2026-10-04T18:30:09+05:30",
       "deadline": "2026-10-04T18:30:09+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/algothon26-algoxilla-1760293",
+      "title": "Algothon'26",
+      "organizer": "Algoxilla",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab5301f18b6e_organisation_image-GpHH7dQ4sU295939882XeLhzO4tIX.png",
+      "start_date": null,
+      "end_date": "2026-10-04T22:00:00+05:30",
+      "deadline": "2026-10-04T22:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -4493,6 +4550,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/mozilla-christ-human-scale-ai-buildathon-2026-christ-deemed-to-be-university-1759745",
+      "title": "Mozilla CHRIST Human Scale AI Buildathon 2026",
+      "organizer": "CHRIST (Deemed to be University)",
+      "mode": "Offline",
+      "venue_address": "CHRIST (Deemed to be University), India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab1db0949f64_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-05T23:59:00+05:30",
+      "deadline": "2026-10-05T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/36-hour-hackathon-vibrant-2026-gl-bajaj-institute-of-management-and-research-1754364",
       "title": "36-Hour Hackathon",
       "organizer": "GL Bajaj Institute of Management and Research",
@@ -4797,6 +4873,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-on-track-24-hour-national-hackathon-fr-c-rodrigues-institute-of-technology-fcrit-navi-mumbai-1758208",
+      "title": "HACK ON TRACK (24-Hour National Hackathon)",
+      "organizer": "FR. C. Rodrigues Institute of Technology (FCRIT), Navi Mumbai",
+      "mode": "Offline",
+      "venue_address": "FR. C. Rodrigues Institute of Technology (FCRIT), Navi Mumbai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aad8f329c8db_whatsapp_image_2026-07-08_at_12_13_20_am-removebg-preview.png",
+      "start_date": null,
+      "end_date": "2026-10-09T15:00:00+05:30",
+      "deadline": "2026-10-09T15:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/datathon-26-27-pccoe-inns-student-chapter-1756708",
       "title": "Datathon 26–27",
       "organizer": "PCCOE INNS STUDENT CHAPTER",
@@ -4892,6 +4987,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/techashy-20-hackathon-2026-indian-institute-of-information-technology-iiit-kottayam-1761111",
+      "title": "Techashy 2.0 Hackathon 2026",
+      "organizer": "Indian Institute of Information Technology (IIIT) Kottayam",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Information Technology (IIIT) Kottayam, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-69a0225eecd7f_whatsapp_image_2026-02-26_at_14.53.577.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-10T12:00:11+05:30",
+      "deadline": "2026-10-10T12:00:11+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/jugaad-techfest26-annual-technical-festival-of-sliet-sant-longowal-institute-of-engineering-and-technology-lo-1742433",
       "title": "Jugaad",
       "organizer": "Sant Longowal Institute of Engineering and Technology, Longowal, Punjab",
@@ -4968,6 +5082,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vortexa-dr-d-y-patil-institute-technology-pimpri-pune-1761261",
+      "title": "Vortexa",
+      "organizer": "Dr D Y Patil Institute Technology, Pimpri, Pune",
+      "mode": "Offline",
+      "venue_address": "Dr D Y Patil Institute Technology, Pimpri, Pune, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab5337e94734_chatgpt_image_sep_21_2026_11_48_18_am.png",
+      "start_date": null,
+      "end_date": "2026-10-10T21:00:00+05:30",
+      "deadline": "2026-10-10T21:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacknowa-global-hackathon-2026-innovation-hacks-1752198",
       "title": "HackNowa Global Hackathon 2026",
       "organizer": "Innovation Hacks",
@@ -4978,6 +5111,25 @@
       "start_date": null,
       "end_date": "2026-10-10T23:45:00+05:30",
       "deadline": "2026-10-10T23:45:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/computer-vision-ai-hackathon-e-cell-iit-bombay-1760776",
+      "title": "Computer Vision AI Hackathon",
+      "organizer": "E-Cell, IIT Bombay",
+      "mode": "Offline",
+      "venue_address": "E-Cell, IIT Bombay, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab52d779e08c_organisation_image-AEelu9D2dn1650253853eoo66yAf6J.png",
+      "start_date": null,
+      "end_date": "2026-10-11T00:00:00+05:30",
+      "deadline": "2026-10-11T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -5435,6 +5587,25 @@
       "start_date": null,
       "end_date": "2026-10-16T00:25:00+05:30",
       "deadline": "2026-10-16T00:25:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/byteathon-noorul-islam-center-for-higher-education-1757504",
+      "title": "Byteathon",
+      "organizer": "Noorul Islam Center for Higher Education",
+      "mode": "Offline",
+      "venue_address": "Noorul Islam Center for Higher Education, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aabf67fc5e0a_100379.png",
+      "start_date": null,
+      "end_date": "2026-10-16T10:00:00+05:30",
+      "deadline": "2026-10-16T10:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -6470,6 +6641,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codex-48-national-level-hackathon-wecodecoders-1761082",
+      "title": "Codex 48 - National-Level Hackathon",
+      "organizer": "WeCodeCoders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab518488c7ca_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "start_date": null,
+      "end_date": "2026-10-26T11:25:40+05:30",
+      "deadline": "2026-10-26T11:25:40+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ideathon-vibrant-2k26-gl-bajaj-institute-of-technology-and-management-delhi-ncr-uttar-pradesh-1752256",
       "title": "Ideathon",
       "organizer": "GL Bajaj Institute of Technology and Management, Delhi NCR, Uttar Pradesh",
@@ -7012,6 +7202,25 @@
       "start_date": null,
       "end_date": "2026-11-02T22:05:00+05:30",
       "deadline": "2026-11-02T22:05:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/axis-hacksprint-20-axis-institute-of-technology-management-1760916",
+      "title": "Axis HackSprint 2.0",
+      "organizer": "Axis Institute of Technology & Management",
+      "mode": "Offline",
+      "venue_address": "Axis Institute of Technology & Management, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab519e0693a6_axislogo1.png",
+      "start_date": null,
+      "end_date": "2026-11-03T20:00:00+05:30",
+      "deadline": "2026-11-03T20:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
