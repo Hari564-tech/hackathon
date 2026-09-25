@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-25T10:53:35.992274+00:00",
-  "total_count": 404,
+  "last_synced_at": "2026-09-25T16:13:34.558510+00:00",
+  "total_count": 405,
   "hackathons": [
     {
       "source": "Unstop",
@@ -5177,25 +5177,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/hack-on-track-24-hour-national-hackathon-fr-c-rodrigues-institute-of-technology-fcrit-navi-mumbai-1758208",
-      "title": "HACK ON TRACK (24-Hour National Hackathon)",
-      "organizer": "FR. C. Rodrigues Institute of Technology (FCRIT), Navi Mumbai",
-      "mode": "Offline",
-      "venue_address": "FR. C. Rodrigues Institute of Technology (FCRIT), Navi Mumbai, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aad8f329c8db_whatsapp_image_2026-07-08_at_12_13_20_am-removebg-preview.png",
-      "start_date": null,
-      "end_date": "2026-10-10T23:59:00+05:30",
-      "deadline": "2026-10-10T23:59:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/computer-vision-ai-hackathon-e-cell-iit-bombay-1760776",
       "title": "Computer Vision AI Hackathon",
       "organizer": "E-Cell, IIT Bombay",
@@ -5720,6 +5701,25 @@
       "start_date": null,
       "end_date": "2026-10-16T15:00:00+05:30",
       "deadline": "2026-10-16T15:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-on-track-24-hour-national-hackathon-fr-c-rodrigues-institute-of-technology-fcrit-navi-mumbai-1758208",
+      "title": "HACK ON TRACK (24-Hour National Hackathon)",
+      "organizer": "FR. C. Rodrigues Institute of Technology (FCRIT), Navi Mumbai",
+      "mode": "Offline",
+      "venue_address": "FR. C. Rodrigues Institute of Technology (FCRIT), Navi Mumbai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aad8f329c8db_whatsapp_image_2026-07-08_at_12_13_20_am-removebg-preview.png",
+      "start_date": null,
+      "end_date": "2026-10-16T16:30:00+05:30",
+      "deadline": "2026-10-16T16:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -6325,6 +6325,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8e71923835a_cachedinfo.png",
+      "start_date": null,
+      "end_date": "2026-10-20T23:59:00+05:30",
+      "deadline": "2026-10-20T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/qctf-quantum-capture-the-flag-srm-university-ap-1761629",
+      "title": "QCTF – Quantum Capture the Flag ",
+      "organizer": "SRM University - AP",
+      "mode": "Offline",
+      "venue_address": "SRM University - AP, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab67d0df21b3_whatsapp_image_2026-09-19_at_18_31_49.jpeg",
       "start_date": null,
       "end_date": "2026-10-20T23:59:00+05:30",
       "deadline": "2026-10-20T23:59:00+05:30",
