@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-24T20:58:33.648725+00:00",
-  "total_count": 395,
+  "last_synced_at": "2026-09-25T02:44:16.678439+00:00",
+  "total_count": 396,
   "hackathons": [
     {
       "source": "Unstop",
@@ -4386,6 +4386,25 @@
       "venue_address": "SRM University - AP, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab100372fd0c_srm_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-04T23:59:00+05:30",
+      "deadline": "2026-10-04T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-sequential-matching-problem-romeo-juliet-ltd-1760938",
+      "title": "The Sequential Matching Problem",
+      "organizer": "Romeo & Juliet Ltd",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab58a0f1dba9_organisation_image-ZMymWerlFe2104971185TRzSjnbgZy.png",
       "start_date": null,
       "end_date": "2026-10-04T23:59:00+05:30",
       "deadline": "2026-10-04T23:59:00+05:30",
