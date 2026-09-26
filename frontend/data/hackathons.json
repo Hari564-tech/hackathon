@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-26T10:34:12.785742+00:00",
-  "total_count": 413,
+  "last_synced_at": "2026-09-26T15:27:12.409821+00:00",
+  "total_count": 417,
   "hackathons": [
     {
       "source": "Unstop",
@@ -5234,6 +5234,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/techashy-20-hackathon-2026-indian-institute-of-information-technology-iiit-kottayam-1761959",
+      "title": "Techashy 2.0 Hackathon 2026",
+      "organizer": "Indian Institute of Information Technology (IIIT) Kottayam",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Information Technology (IIIT) Kottayam, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab79ea7cbd41_techashi_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-11T11:00:00+05:30",
+      "deadline": "2026-10-11T11:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/build-with-bharat-40-codeverse-1750139",
       "title": "Build with bharat 4.0",
       "organizer": "Codeverse",
@@ -5339,6 +5358,25 @@
       "start_date": null,
       "end_date": "2026-10-11T22:21:00+05:30",
       "deadline": "2026-10-11T22:21:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cryptx-chaitanya-bharathi-institute-of-technology-cbit-hyderabad-1761452",
+      "title": "CryptX",
+      "organizer": "Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad",
+      "mode": "Offline",
+      "venue_address": "Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab7d082b4fb3_",
+      "start_date": null,
+      "end_date": "2026-10-12T00:00:00+05:30",
+      "deadline": "2026-10-12T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -5986,6 +6024,25 @@
       "start_date": null,
       "end_date": "2026-10-17T22:29:48+05:30",
       "deadline": "2026-10-17T22:29:48+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackforge-2026-mukesh-patel-college-of-engineering-and-management-mpstme-1759668",
+      "title": "HackForge 2026",
+      "organizer": "Mukesh Patel college of engineering and management, (MPSTME )",
+      "mode": "Offline",
+      "venue_address": "Mukesh Patel college of engineering and management, (MPSTME ), India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab16e3d3d60c_foss_logo.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-18T20:00:00+05:30",
+      "deadline": "2026-10-18T20:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -7335,6 +7392,25 @@
       "start_date": null,
       "end_date": "2026-10-31T22:15:00+05:30",
       "deadline": "2026-10-31T22:15:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-manthan-20-acropolis-institute-of-technology-and-research-indore-1751106",
+      "title": "AI-Manthan 2.0",
+      "organizer": "Acropolis Institute of Technology and Research, Indore",
+      "mode": "Offline",
+      "venue_address": "Acropolis Institute of Technology and Research, Indore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab522ff159b1_ai_manthan_2_0_final_logo.png",
+      "start_date": null,
+      "end_date": "2026-11-01T09:44:00+05:30",
+      "deadline": "2026-11-01T09:44:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
