@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-26T15:27:12.409821+00:00",
-  "total_count": 417,
+  "last_synced_at": "2026-09-26T20:26:35.333223+00:00",
+  "total_count": 421,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3980,6 +3980,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/teach-pulse-sri-sairam-engineering-college-ssec-chennai-1762040",
+      "title": "Teach pulse ",
+      "organizer": "Sri Sairam Engineering College (SSEC), Chennai",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab80cdf4551d_1000175203.jpg",
+      "start_date": null,
+      "end_date": "2026-10-02T00:00:00+05:30",
+      "deadline": "2026-10-02T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/bug-bounty-cyber-carnival-srm-university-ramapuram-chennai-1755028",
       "title": "Bug Bounty",
       "organizer": "SRM University, Ramapuram, Chennai",
@@ -5006,6 +5025,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/gta-hack-city-campus-konnect-1762124",
+      "title": "GTA: Hack City",
+      "organizer": "Campus Konnect",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab80f4f1bd17_10th_11th_3.jpg",
+      "start_date": null,
+      "end_date": "2026-10-10T00:00:00+05:30",
+      "deadline": "2026-10-10T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ipl-iiitd-programming-league-2026-esya26-indraprastha-institute-of-information-technology-iiit-delhi-1761263",
+      "title": "IPL (IIITD Programming League) 2026",
+      "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
+      "mode": "Offline",
+      "venue_address": "Indraprastha Institute of Information Technology (IIIT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab7dec95126a_esya_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-10T00:00:00+05:30",
+      "deadline": "2026-10-10T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/fusion-2026-iic-ecell-skncoe-x-skn-ieee-student-branch-1751766",
       "title": "Fusion 2026",
       "organizer": "IIC ECELL SKNCOE X SKN IEEE Student Branch",
@@ -5196,6 +5253,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackiiitd-esya26-indraprastha-institute-of-information-technology-iiit-delhi-1761212",
+      "title": "HackIIITD",
+      "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
+      "mode": "Offline",
+      "venue_address": "Indraprastha Institute of Information Technology (IIIT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab7e1f5391ba_esya_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-10T23:59:00+05:30",
+      "deadline": "2026-10-10T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/computer-vision-ai-hackathon-e-cell-iit-bombay-1760776",
       "title": "Computer Vision AI Hackathon",
       "organizer": "E-Cell, IIT Bombay",
@@ -5373,7 +5449,7 @@
       "mode": "Offline",
       "venue_address": "Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab7d082b4fb3_",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab804c1e0f48_1000192265.jpg",
       "start_date": null,
       "end_date": "2026-10-12T00:00:00+05:30",
       "deadline": "2026-10-12T00:00:00+05:30",
@@ -7103,7 +7179,7 @@
       "mode": "Offline",
       "venue_address": "Guru Tegh Bahadur 4th Centenary Engineering College, Delhi, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab75cb12b325_organisation_image-4irwHEF3zs9283690348emNtJPdSn.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab7ef4a69a2a_organisation_image-4irwHEF3zs9283690348emNtJPdSn.png",
       "start_date": null,
       "end_date": "2026-10-27T17:01:00+05:30",
       "deadline": "2026-10-27T17:01:00+05:30",
