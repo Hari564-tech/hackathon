@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-27T16:06:36.647133+00:00",
-  "total_count": 424,
+  "last_synced_at": "2026-09-27T20:39:23.525064+00:00",
+  "total_count": 431,
   "hackathons": [
     {
       "source": "Unstop",
@@ -5006,6 +5006,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cortex-hackathon-mit-world-peace-university-pune-maharashtra-1762303",
+      "title": "Cortex Hackathon",
+      "organizer": "MIT World Peace University, Pune, Maharashtra",
+      "mode": "Offline",
+      "venue_address": "MIT World Peace University, Pune, Maharashtra, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab94e8821d98_download__2_.png",
+      "start_date": null,
+      "end_date": "2026-10-09T17:00:00+05:30",
+      "deadline": "2026-10-09T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/drishti-vidyalankar-institute-of-technology-vit-mumbai-1755397",
       "title": "Drishti",
       "organizer": "Vidyalankar Institute of Technology (VIT), Mumbai",
@@ -5279,6 +5298,44 @@
       "venue_address": "E-Cell, IIT Bombay, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab52d779e08c_organisation_image-AEelu9D2dn1650253853eoo66yAf6J.png",
+      "start_date": null,
+      "end_date": "2026-10-11T00:00:00+05:30",
+      "deadline": "2026-10-11T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/edge-ai-challenge-electronics-iot-club-iit-ism-dhanbad-1762328",
+      "title": "Edge AI Challenge",
+      "organizer": "Electronics & IoT Club, IIT (ISM) Dhanbad",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab91e3693015_edgeai_1.png",
+      "start_date": null,
+      "end_date": "2026-10-11T00:00:00+05:30",
+      "deadline": "2026-10-11T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/sustain-a-thon-20-2026-sharda-university-su-greater-noida-1762220",
+      "title": "Sustain-A-Thon 2.0 (2026)",
+      "organizer": "Sharda University (SU), Greater Noida",
+      "mode": "Offline",
+      "venue_address": "Sharda University (SU), Greater Noida, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab94e1802759_University.jpeg",
       "start_date": null,
       "end_date": "2026-10-11T00:00:00+05:30",
       "deadline": "2026-10-11T00:00:00+05:30",
@@ -5586,6 +5643,25 @@
       "start_date": null,
       "end_date": "2026-10-14T00:00:00+05:30",
       "deadline": "2026-10-14T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/xtract-50-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1762239",
+      "title": "Xtract 5.0",
+      "organizer": "Shri Vile Parle Kelavani Mandal's Dwarkadas J. Sanghvi College of Engineering (DJSCE), Mumbai",
+      "mode": "Offline",
+      "venue_address": "Shri Vile Parle Kelavani Mandal's Dwarkadas J. Sanghvi College of Engineering (DJSCE), Mumbai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab8ba61161df_whatsapp_image_2026-09-27_at_12_04_59.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-14T17:30:21+05:30",
+      "deadline": "2026-10-14T17:30:21+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -6147,6 +6223,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/namo-bharat-30-hour-national-hackathon-2026-sanskriti-university-1762223",
+      "title": "Namo Bharat – 30-Hour National Hackathon 2026",
+      "organizer": "Sanskriti University",
+      "mode": "Offline",
+      "venue_address": "Sanskriti University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab8a590d3ccf_76c5074f-8bd1-470d-856b-82c4b5958865.jpg",
+      "start_date": null,
+      "end_date": "2026-10-18T11:39:00+05:30",
+      "deadline": "2026-10-18T11:39:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackforge-2026-mukesh-patel-college-of-engineering-and-management-mpstme-1759668",
       "title": "HackForge 2026",
       "organizer": "Mukesh Patel college of engineering and management, (MPSTME )",
@@ -6584,6 +6679,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/buildx-36-hours-online-hackathon-code-a-nova-1758535",
+      "title": "BUiLDX 36 Hours Online Hackathon",
+      "organizer": "Code-A-Nova",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aae79b2550b3_engineering_tech_department.png",
+      "start_date": null,
+      "end_date": "2026-10-20T17:32:00+05:30",
+      "deadline": "2026-10-20T17:32:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackcache26-government-college-of-engineering-and-technology-jammu-1744316",
       "title": "Hackcache'26",
       "organizer": "Government College of Engineering and Technology, Jammu",
@@ -6765,6 +6879,25 @@
       "start_date": null,
       "end_date": "2026-10-23T03:31:37+05:30",
       "deadline": "2026-10-23T03:31:37+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vibe-a-thon-aissms-institute-of-information-technology-1758905",
+      "title": "Vibe-A-Thon",
+      "organizer": "AISSMS Institute of Information Technology",
+      "mode": "Offline",
+      "venue_address": "AISSMS Institute of Information Technology, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aafc02df3f80_whatsapp_image_2026-09-18_at_12_35_13_am.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-23T15:00:00+05:30",
+      "deadline": "2026-10-23T15:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
