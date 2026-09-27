@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-27T11:06:23.133502+00:00",
-  "total_count": 421,
+  "last_synced_at": "2026-09-27T16:06:36.647133+00:00",
+  "total_count": 424,
   "hackathons": [
     {
       "source": "Unstop",
@@ -5025,6 +5025,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ieee-synapse-hackathon-aissms-ioit-pune-1761309",
+      "title": "IEEE Synapse Hackathon",
+      "organizer": "AISSMS IOIT PUNE",
+      "mode": "Offline",
+      "venue_address": "AISSMS IOIT PUNE, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab62ae97e017_whatsapp_image_2026-09-24_at_22_39_49.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-09T18:00:00+05:30",
+      "deadline": "2026-10-09T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ipl-iiitd-programming-league-2026-esya26-indraprastha-institute-of-information-technology-iiit-delhi-1761263",
       "title": "IPL (IIITD Programming League) 2026",
       "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
@@ -5221,29 +5240,10 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa3f3d9656c1_organisation_image-HXRc6qSVLN27284711IzN783tlQS.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab91a12565e5_organisation_image-HXRc6qSVLN27284711IzN783tlQS.png",
       "start_date": null,
       "end_date": "2026-10-10T23:45:00+05:30",
       "deadline": "2026-10-10T23:45:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/hackiiitd-esya26-indraprastha-institute-of-information-technology-iiit-delhi-1761212",
-      "title": "HackIIITD",
-      "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
-      "mode": "Offline",
-      "venue_address": "Indraprastha Institute of Information Technology (IIIT), Delhi, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab7e1f5391ba_esya_logo.png",
-      "start_date": null,
-      "end_date": "2026-10-10T23:59:00+05:30",
-      "deadline": "2026-10-10T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -5317,6 +5317,25 @@
       "venue_address": "Indian Institute of Information Technology (IIIT) Kottayam, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab79ea7cbd41_techashi_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-11T11:00:00+05:30",
+      "deadline": "2026-10-11T11:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/bits2wave-bms-institute-of-technology-and-management-bmsitm-bangalore-1761893",
+      "title": "Bits2Wave",
+      "organizer": "BMS Institute of Technology and Management (BMSITM), Bangalore",
+      "mode": "Offline",
+      "venue_address": "BMS Institute of Technology and Management (BMSITM), Bangalore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab93c7a662f3_B.M.S._Institute_of_Technology_and_Management_logo.png",
       "start_date": null,
       "end_date": "2026-10-11T11:00:00+05:30",
       "deadline": "2026-10-11T11:00:00+05:30",
@@ -5963,7 +5982,7 @@
       "mode": "Offline",
       "venue_address": "Guru Tegh Bahadur Institute of Technology (GTBIT), New Delhi, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab74a8e3d883_GTBIT_logo.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab9168e6b276_GTBIT_logo.png",
       "start_date": null,
       "end_date": "2026-10-16T19:30:00+05:30",
       "deadline": "2026-10-16T19:30:00+05:30",
@@ -6005,6 +6024,25 @@
       "start_date": null,
       "end_date": "2026-10-16T19:30:00+05:30",
       "deadline": "2026-10-16T19:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackiiitd-esya26-indraprastha-institute-of-information-technology-iiit-delhi-1761212",
+      "title": "HackIIITD",
+      "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
+      "mode": "Offline",
+      "venue_address": "Indraprastha Institute of Information Technology (IIIT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab7e1f5391ba_esya_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-16T23:59:00+05:30",
+      "deadline": "2026-10-16T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -7297,6 +7335,25 @@
       "start_date": null,
       "end_date": "2026-10-30T00:00:00+05:30",
       "deadline": "2026-10-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codehack-india-national-level-hackathon-wecodecoders-1762158",
+      "title": "CodeHack India - National Level Hackathon",
+      "organizer": "WeCodeCoders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab8fb4175e0b_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "start_date": null,
+      "end_date": "2026-10-30T10:00:48+05:30",
+      "deadline": "2026-10-30T10:00:48+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
