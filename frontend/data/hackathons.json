@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-27T02:48:02.757362+00:00",
+  "last_synced_at": "2026-09-27T11:06:23.133502+00:00",
   "total_count": 421,
   "hackathons": [
     {
@@ -5025,25 +5025,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/gta-hack-city-campus-konnect-1762124",
-      "title": "GTA: Hack City",
-      "organizer": "Campus Konnect",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab80f4f1bd17_10th_11th_3.jpg",
-      "start_date": null,
-      "end_date": "2026-10-10T00:00:00+05:30",
-      "deadline": "2026-10-10T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ipl-iiitd-programming-league-2026-esya26-indraprastha-institute-of-information-technology-iiit-delhi-1761263",
       "title": "IPL (IIITD Programming League) 2026",
       "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
@@ -5263,6 +5244,25 @@
       "start_date": null,
       "end_date": "2026-10-10T23:59:00+05:30",
       "deadline": "2026-10-10T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/gta-hack-city-campus-konnect-1762124",
+      "title": "GTA: Hack City",
+      "organizer": "Campus Konnect",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab80f4f1bd17_10th_11th_3.jpg",
+      "start_date": null,
+      "end_date": "2026-10-11T00:00:00+05:30",
+      "deadline": "2026-10-11T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
