@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-28T12:29:31.205868+00:00",
-  "total_count": 439,
+  "last_synced_at": "2026-09-28T22:48:36.472292+00:00",
+  "total_count": 454,
   "hackathons": [
     {
       "source": "Unstop",
@@ -4911,6 +4911,82 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/triathlon-pravrutti-20-ms-ramaiah-university-of-applied-sciences-1759133",
+      "title": "Triathlon",
+      "organizer": "M.S. Ramaiah University of Applied Sciences",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab04df103206_screenshot_2026-09-21_024311.png",
+      "start_date": null,
+      "end_date": "2026-10-08T00:00:00+05:30",
+      "deadline": "2026-10-08T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/zero-hour-pravrutti-20-m-s-ramaiah-university-of-applied-sciences-1759104",
+      "title": "Zero Hour",
+      "organizer": "M S Ramaiah University of Applied Sciences",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab02fd982867_screenshot_2026-09-21_004102.png",
+      "start_date": null,
+      "end_date": "2026-10-08T00:00:00+05:30",
+      "deadline": "2026-10-08T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/line-follower-autonomous-bot-time-trial-pravrutti-20-m-s-ramaiah-university-of-applied-sciences-1758826",
+      "title": "Line Follower (Autonomous Bot Time Trial)",
+      "organizer": "M S Ramaiah University of Applied Sciences",
+      "mode": "Offline",
+      "venue_address": "M S Ramaiah University of Applied Sciences, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaf85e31c04e_screenshot_2026-09-19_203942.png",
+      "start_date": null,
+      "end_date": "2026-10-08T00:00:00+05:30",
+      "deadline": "2026-10-08T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/respawn-pravrutti-20-m-s-ramaiah-university-of-applied-sciences-1759056",
+      "title": "Respawn",
+      "organizer": "M S Ramaiah University of Applied Sciences",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab024133ecd9_screenshot_2026-09-20_115524.png",
+      "start_date": null,
+      "end_date": "2026-10-08T00:00:00+05:30",
+      "deadline": "2026-10-08T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackathon-flagship-cliffesto26-national-institute-of-technology-nit-uttarakhand-1762162",
       "title": "Hackathon - Flagship",
       "organizer": "National Institute of Technology (NIT), Uttarakhand",
@@ -5035,6 +5111,25 @@
       "start_date": null,
       "end_date": "2026-10-09T12:00:00+05:30",
       "deadline": "2026-10-09T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/icc-codeclash-2026-chandigarh-university-uttar-pradesh-1762222",
+      "title": "ICC CodeClash 2026",
+      "organizer": "Chandigarh University uttar pradesh",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab8ad5d594b7_cu_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-09T16:00:00+05:30",
+      "deadline": "2026-10-09T16:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -5317,6 +5412,25 @@
       "venue_address": "Shri Vile Parle Kelavani Mandal's Dwarkadas J. Sanghvi College of Engineering (DJSCE), Mumbai, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab16e858c42d_pixel_paranoia_square_1.png",
+      "start_date": null,
+      "end_date": "2026-10-10T18:00:00+05:30",
+      "deadline": "2026-10-10T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/national-young-programmers-olympiad-polaris-school-of-technology-1761135",
+      "title": "National Young Programmers Olympiad",
+      "organizer": "Polaris School of Technology ",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab4f1d633aa3_nypo_logo_1.png",
       "start_date": null,
       "end_date": "2026-10-10T18:00:00+05:30",
       "deadline": "2026-10-10T18:00:00+05:30",
@@ -5716,6 +5830,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa6fca169cf6_organisation_image-p53fif00Bq1930566695Ifa9ATJyBP.png",
+      "start_date": null,
+      "end_date": "2026-10-13T23:59:00+05:30",
+      "deadline": "2026-10-13T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/growth-hack-challenge-bhaktiwala-1761489",
+      "title": "Growth Hack Challenge",
+      "organizer": "Bhaktiwala",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab650d29959e_1000001972.jpg",
       "start_date": null,
       "end_date": "2026-10-13T23:59:00+05:30",
       "deadline": "2026-10-13T23:59:00+05:30",
@@ -7022,7 +7155,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/build-2026-x-byteask-yc-f26-open-source-challenge-hackyard-1762455",
-      "title": "Build 2026 x ByteAsk (YC F26): Open-Source Challenge ",
+      "title": "Build 2026 x ByteAsk (YC F26): Open-Source Challenge",
       "organizer": "Hackyard",
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
@@ -7259,6 +7392,25 @@
       "start_date": null,
       "end_date": "2026-10-25T12:46:00+05:30",
       "deadline": "2026-10-25T12:46:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/bharat-academix-hackverse-2026-bharat-academix-1762793",
+      "title": "Bharat Academix Hackverse 2026",
+      "organizer": "Bharat Academix",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aba7cf2ab915_bharatacademixlogo.png",
+      "start_date": null,
+      "end_date": "2026-10-25T17:00:00+05:30",
+      "deadline": "2026-10-25T17:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -7534,6 +7686,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/deepfake-ml-hackathon-synergy-26-international-institute-of-information-technology-iiit-bangalore-1762774",
+      "title": "Deepfake ML Hackathon",
+      "organizer": "International Institute of Information Technology (IIIT), Bangalore",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ababda5d87e5_uploadedmanual-6ab7fa9cd6206_synergy.png",
+      "start_date": null,
+      "end_date": "2026-10-28T23:59:00+05:30",
+      "deadline": "2026-10-28T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/conv-cup-26-fifa-of-bots-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanbad-1759901",
       "title": "Conv_Cup '26: FIFA of Bots",
       "organizer": "Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad",
@@ -7724,6 +7895,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/afterhours-10-don-bosco-institute-of-technology-bengaluru-1735661",
+      "title": "AfterHours 1.0",
+      "organizer": "Don Bosco Institute Of Technology ,Bengaluru",
+      "mode": "Offline",
+      "venue_address": "Don Bosco Institute Of Technology ,Bengaluru, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a8743afe29cc_finallllll_1.png",
+      "start_date": null,
+      "end_date": "2026-10-31T12:00:00+05:30",
+      "deadline": "2026-10-31T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackthestack-bharati-vidyapeeth-university-institute-of-management-and-research-bvimr-new-delhi-1734963",
       "title": "HackTheStack",
       "organizer": "Bharati Vidyapeeth University, Institute of Management and Research (BVIMR), New Delhi",
@@ -7791,6 +7981,44 @@
       "start_date": null,
       "end_date": "2026-10-31T22:15:00+05:30",
       "deadline": "2026-10-31T22:15:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/game-dev-synergy-26-international-institute-of-information-technology-iiit-bangalore-1762887",
+      "title": "Game Dev",
+      "organizer": "International Institute of Information Technology (IIIT), Bangalore",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abab89b86468_uploadedmanual-6ab7fa9cd6206_synergy.png",
+      "start_date": null,
+      "end_date": "2026-10-31T23:59:00+05:30",
+      "deadline": "2026-10-31T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/stacksense-challenge-synergy-26-international-institute-of-information-technology-iiit-bangalore-1762891",
+      "title": "StackSense Challenge",
+      "organizer": "International Institute of Information Technology (IIIT), Bangalore",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ababbda9c7a9_uploadedmanual-6ab7fa9cd6206_synergy.png",
+      "start_date": null,
+      "end_date": "2026-10-31T23:59:00+05:30",
+      "deadline": "2026-10-31T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -8009,13 +8237,32 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/nexus-innovatex-2026-nexus-1762841",
+      "title": "Nexus InnovateX 2026",
+      "organizer": "Nexus",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abaa53279ab7_logo.png",
+      "start_date": null,
+      "end_date": "2026-11-01T23:59:00+05:30",
+      "deadline": "2026-11-01T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/saarthi26-ieee-student-branch-graphic-era-hill-university-1758280",
-      "title": "Saarthi'26",
-      "organizer": "IEEE Student Branch, Graphic Era Hill University",
+      "title": "SAARTHI'26",
+      "organizer": "Graphic Era Hill University (GEHU), Dehradun Campus",
       "mode": "Offline",
-      "venue_address": "IEEE Student Branch, Graphic Era Hill University, India",
+      "venue_address": "Graphic Era Hill University (GEHU), Dehradun Campus, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab51994372f8_4.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aba95edad78e_graphic_era_logo.jpg",
       "start_date": null,
       "end_date": "2026-11-02T10:00:00+05:30",
       "deadline": "2026-11-02T10:00:00+05:30",
@@ -8076,6 +8323,44 @@
       "start_date": null,
       "end_date": "2026-11-03T20:00:00+05:30",
       "deadline": "2026-11-03T20:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/low-level-hackathon-synergy-26-international-institute-of-information-technology-iiit-bangalore-1762854",
+      "title": "Low-Level Hackathon",
+      "organizer": "International Institute of Information Technology (IIIT), Bangalore",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abaa78465788_uploadedmanual-6ab7fa9cd6206_synergy.png",
+      "start_date": null,
+      "end_date": "2026-11-08T23:59:00+05:30",
+      "deadline": "2026-11-08T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-liars-chatroom-international-institute-of-information-technology-iiit-bangalore-1762783",
+      "title": "The Liar's Chatroom",
+      "organizer": "International Institute of Information Technology (IIIT), Bangalore",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abab3a442c0b_uploadedmanual-6ab7fa9cd6206_synergy.png",
+      "start_date": null,
+      "end_date": "2026-11-12T23:59:00+05:30",
+      "deadline": "2026-11-12T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
