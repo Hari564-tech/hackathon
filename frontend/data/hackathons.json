@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-27T20:39:23.525064+00:00",
-  "total_count": 431,
+  "last_synced_at": "2026-09-28T02:49:00.550010+00:00",
+  "total_count": 434,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3409,6 +3409,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/sangyan-iit-bhu-1761145",
+      "title": "Sangyan",
+      "organizer": "Indian Institute of Technology, Banaras Hindu University (IIT - BHU)",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab4f78b94cf4_untitled.jpg",
+      "start_date": null,
+      "end_date": "2026-09-29T23:59:00+05:30",
+      "deadline": "2026-09-29T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/knsit-tech-community-kns-institute-of-technology-karnataka-1743721",
       "title": "KNSIT Tech Community",
       "organizer": "KNS Institute of Technology, Karnataka",
@@ -4626,6 +4645,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/kriyova-24-hours-hackathon-2026-potti-sriramulu-chalavadi-mallikarjuna-rao-college-of-engineering-and-technol-1759184",
+      "title": "Kriyova - 24-Hours Hackathon 2026",
+      "organizer": "Potti Sriramulu Chalavadi Mallikarjuna Rao College Of Engineering And Technology (PSCMRCET), Vijayawada, Andhra Pradesh",
+      "mode": "Offline",
+      "venue_address": "Potti Sriramulu Chalavadi Mallikarjuna Rao College Of Engineering And Technology (PSCMRCET), Vijayawada, Andhra Pradesh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab98634ba3b8_images__6_.png",
+      "start_date": null,
+      "end_date": "2026-10-05T18:30:00+05:30",
+      "deadline": "2026-10-05T18:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/mozilla-christ-human-scale-ai-buildathon-2026-christ-deemed-to-be-university-1759745",
       "title": "Mozilla CHRIST Human Scale AI Buildathon 2026",
       "organizer": "CHRIST (Deemed to be University)",
@@ -4712,6 +4750,25 @@
       "start_date": null,
       "end_date": "2026-10-07T15:00:50+05:30",
       "deadline": "2026-10-07T15:00:50+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/geolmpathon-srm-institute-of-science-and-technology-kattankulathur-chennai-1759786",
+      "title": "Geolmpathon",
+      "organizer": "SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai",
+      "mode": "Offline",
+      "venue_address": "SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab984243c702_Srmseal.png",
+      "start_date": null,
+      "end_date": "2026-10-07T15:45:00+05:30",
+      "deadline": "2026-10-07T15:45:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
