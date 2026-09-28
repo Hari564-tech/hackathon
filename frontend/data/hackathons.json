@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-28T02:49:00.550010+00:00",
-  "total_count": 434,
+  "last_synced_at": "2026-09-28T12:29:31.205868+00:00",
+  "total_count": 439,
   "hackathons": [
     {
       "source": "Unstop",
@@ -3410,7 +3410,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/sangyan-iit-bhu-1761145",
-      "title": "Sangyan",
+      "title": "Sangyan Hackathon",
       "organizer": "Indian Institute of Technology, Banaras Hindu University (IIT - BHU)",
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
@@ -4000,7 +4000,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/teach-pulse-sri-sairam-engineering-college-ssec-chennai-1762040",
-      "title": "Teach pulse ",
+      "title": "Tech pulse ",
       "organizer": "Sri Sairam Engineering College (SSEC), Chennai",
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
@@ -4651,7 +4651,7 @@
       "mode": "Offline",
       "venue_address": "Potti Sriramulu Chalavadi Mallikarjuna Rao College Of Engineering And Technology (PSCMRCET), Vijayawada, Andhra Pradesh, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab98634ba3b8_images__6_.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab9fe3e33862_images__6_.png",
       "start_date": null,
       "end_date": "2026-10-05T18:30:00+05:30",
       "deadline": "2026-10-05T18:30:00+05:30",
@@ -4911,6 +4911,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackathon-flagship-cliffesto26-national-institute-of-technology-nit-uttarakhand-1762162",
+      "title": "Hackathon - Flagship",
+      "organizer": "National Institute of Technology (NIT), Uttarakhand",
+      "mode": "Offline",
+      "venue_address": "National Institute of Technology (NIT), Uttarakhand, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aba482bf2ead_",
+      "start_date": null,
+      "end_date": "2026-10-08T12:00:35+05:30",
+      "deadline": "2026-10-08T12:00:35+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/adhigamai-inter-college-hackathon-2026-adhigam-ai-1760514",
       "title": "Adhigamai Inter-College Hackathon 2026",
       "organizer": "Adhigam Ai",
@@ -5103,11 +5122,11 @@
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ieee-synapse-hackathon-aissms-ioit-pune-1761309",
       "title": "IEEE Synapse Hackathon",
-      "organizer": "AISSMS IOIT PUNE",
+      "organizer": "AISSMS College of Engineering, Pune, Maharashtra",
       "mode": "Offline",
-      "venue_address": "AISSMS IOIT PUNE, India",
+      "venue_address": "AISSMS College of Engineering, Pune, Maharashtra, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab62ae97e017_whatsapp_image_2026-09-24_at_22_39_49.jpeg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aba58edaa395_images.png",
       "start_date": null,
       "end_date": "2026-10-09T18:00:00+05:30",
       "deadline": "2026-10-09T18:00:00+05:30",
@@ -5127,6 +5146,25 @@
       "venue_address": "Indraprastha Institute of Information Technology (IIIT), Delhi, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab7dec95126a_esya_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-10T00:00:00+05:30",
+      "deadline": "2026-10-10T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/perceptron-hackathon-2026-iit-bombay-1761822",
+      "title": "Perceptron Hackathon 2026 ",
+      "organizer": "Indian Institute of Technology (IIT), Bombay",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Bombay, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab982bc7b6c4_whatsapp_image_2026-09-28_at_02_24_58.jpeg",
       "start_date": null,
       "end_date": "2026-10-10T00:00:00+05:30",
       "deadline": "2026-10-10T00:00:00+05:30",
@@ -6090,6 +6128,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-e-manipal-20-manipal-university-mu-jaipur-1762000",
+      "title": "Code-e-Manipal 2.0",
+      "organizer": "Manipal University (MU), Jaipur",
+      "mode": "Offline",
+      "venue_address": "Manipal University (MU), Jaipur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab7b33aa1ca1_untitled_design_1.jpg",
+      "start_date": null,
+      "end_date": "2026-10-16T18:00:00+05:30",
+      "deadline": "2026-10-16T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacksprint-guru-tegh-bahadur-institute-of-technology-gtbit-new-delhi-1760430",
       "title": "HackSprint",
       "organizer": "Guru Tegh Bahadur Institute of Technology (GTBIT), New Delhi",
@@ -6955,6 +7012,25 @@
       "start_date": null,
       "end_date": "2026-10-23T15:00:00+05:30",
       "deadline": "2026-10-23T15:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/build-2026-x-byteask-yc-f26-open-source-challenge-hackyard-1762455",
+      "title": "Build 2026 x ByteAsk (YC F26): Open-Source Challenge ",
+      "organizer": "Hackyard",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab9833ce3748_logo_single.png",
+      "start_date": null,
+      "end_date": "2026-10-23T23:59:00+05:30",
+      "deadline": "2026-10-23T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -7924,6 +8000,25 @@
       "start_date": null,
       "end_date": "2026-11-01T23:59:00+05:30",
       "deadline": "2026-11-01T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/saarthi26-ieee-student-branch-graphic-era-hill-university-1758280",
+      "title": "Saarthi'26",
+      "organizer": "IEEE Student Branch, Graphic Era Hill University",
+      "mode": "Offline",
+      "venue_address": "IEEE Student Branch, Graphic Era Hill University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab51994372f8_4.png",
+      "start_date": null,
+      "end_date": "2026-11-02T10:00:00+05:30",
+      "deadline": "2026-11-02T10:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
