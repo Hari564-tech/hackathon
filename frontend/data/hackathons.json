@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-29T03:30:53.263813+00:00",
-  "total_count": 455,
+  "last_synced_at": "2026-09-29T11:52:41.648970+00:00",
+  "total_count": 461,
   "hackathons": [
     {
       "source": "Unstop",
@@ -4987,6 +4987,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/chaos-8-hour-software-hackathon-pravrutti-20-m-s-ramaiah-university-of-applied-sciences-1759007",
+      "title": "CHAOS [ 8-Hour Software Hackathon ] ",
+      "organizer": "M S Ramaiah University of Applied Sciences",
+      "mode": "Offline",
+      "venue_address": "M S Ramaiah University of Applied Sciences, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaff91b10d4e_screenshot_2026-09-20_204734.png",
+      "start_date": null,
+      "end_date": "2026-10-08T00:00:00+05:30",
+      "deadline": "2026-10-08T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackathon-flagship-cliffesto26-national-institute-of-technology-nit-uttarakhand-1762162",
       "title": "Hackathon - Flagship",
       "organizer": "National Institute of Technology (NIT), Uttarakhand",
@@ -5747,6 +5766,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/zero-to-chat-cometchat-hackathon-zero-to-chat-cometchat-hackathon-cometchat-1762674",
+      "title": "Zero to Chat: CometChat Hackathon",
+      "organizer": "CometChat",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aba6dfd368be_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-12T00:00:00+05:30",
+      "deadline": "2026-10-12T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/grevix-aftercode-grevix-1755080",
       "title": "Grevix AfterCode",
       "organizer": "GREVIX",
@@ -6366,6 +6404,25 @@
       "start_date": null,
       "end_date": "2026-10-16T23:59:00+05:30",
       "deadline": "2026-10-16T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackcosmic-vivekananda-institute-of-professional-studies-technical-campus-1763026",
+      "title": "HackCosmic",
+      "organizer": "Vivekananda Institute of Professional Studies - Technical Campus",
+      "mode": "Offline",
+      "venue_address": "Vivekananda Institute of Professional Studies - Technical Campus, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abb5a8e6f8c6_final_hd.png",
+      "start_date": null,
+      "end_date": "2026-10-17T18:00:00+05:30",
+      "deadline": "2026-10-17T18:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -7344,6 +7401,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/triwizathon-2026-where-code-meets-magic-sanjay-ghodawat-university-kolhapur-maharashtra-1763070",
+      "title": "Triwizathon 2026 : Where Code Meets Magic",
+      "organizer": "Sanjay Ghodawat University, Kolhapur, Maharashtra",
+      "mode": "Offline",
+      "venue_address": "Sanjay Ghodawat University, Kolhapur, Maharashtra, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abb671f737d7_tri_wiz_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-25T08:00:00+05:30",
+      "deadline": "2026-10-25T08:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/vit-code-apex-30-vishwakarma-institute-of-technology-pune-maharashtra-1751374",
       "title": "VIT CODE APEX 3.0",
       "organizer": "Vishwakarma Institute of Technology, Pune, Maharashtra",
@@ -7658,6 +7734,25 @@
       "start_date": null,
       "end_date": "2026-10-27T23:59:00+05:30",
       "deadline": "2026-10-27T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-yudh-battle-of-codes-chandigarh-university-cu-ajitgarh-punjab-1762892",
+      "title": "Code Yudh - Battle of Codes",
+      "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
+      "mode": "Offline",
+      "venue_address": "Chandigarh University (CU), Ajitgarh, Punjab, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6abb3678cd333_Screenshot_2023-12-13_at_12.37.47_PM.png",
+      "start_date": null,
+      "end_date": "2026-10-28T17:00:00+05:30",
+      "deadline": "2026-10-28T17:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -8342,6 +8437,25 @@
       "start_date": null,
       "end_date": "2026-11-08T23:59:00+05:30",
       "deadline": "2026-11-08T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/agentic-ai-hackathon-aerophilia-sahyadri-college-of-engineering-management-scem-mangaluru-1746976",
+      "title": "Agentic AI Hackathon",
+      "organizer": "Sahyadri College of Engineering & Management (SCEM), Mangaluru",
+      "mode": "Offline",
+      "venue_address": "Sahyadri College of Engineering & Management (SCEM), Mangaluru, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abb3a9843da2_screenshot_2026-09-29_at_09_41_10.png",
+      "start_date": null,
+      "end_date": "2026-11-11T23:59:00+05:30",
+      "deadline": "2026-11-11T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
