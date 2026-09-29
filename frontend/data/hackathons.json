@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-29T17:22:10.775618+00:00",
-  "total_count": 465,
+  "last_synced_at": "2026-09-29T21:42:30.185123+00:00",
+  "total_count": 469,
   "hackathons": [
     {
       "source": "Unstop",
@@ -5253,6 +5253,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cortex-hackathon-mit-world-peace-university-pune-maharashtra-1762965",
+      "title": "Cortex Hackathon",
+      "organizer": "MIT World Peace University, Pune, Maharashtra",
+      "mode": "Offline",
+      "venue_address": "MIT World Peace University, Pune, Maharashtra, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abbd98f56a36_whatsapp_image_2026-09-26_at_11_04_30_am.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-09T17:30:00+05:30",
+      "deadline": "2026-10-09T17:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ieee-synapse-hackathon-aissms-ioit-pune-1761309",
       "title": "IEEE Synapse Hackathon",
       "organizer": "AISSMS College of Engineering, Pune, Maharashtra",
@@ -5298,6 +5317,25 @@
       "venue_address": "Indian Institute of Technology (IIT), Bombay, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab982bc7b6c4_whatsapp_image_2026-09-28_at_02_24_58.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-10T00:00:00+05:30",
+      "deadline": "2026-10-10T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/robowars-2026-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanbad-1763252",
+      "title": "Robowars 2026",
+      "organizer": "Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6abc10ab3da43_IIT_dh_logo.png",
       "start_date": null,
       "end_date": "2026-10-10T00:00:00+05:30",
       "deadline": "2026-10-10T00:00:00+05:30",
@@ -6439,6 +6477,25 @@
       "venue_address": "Vivekananda Institute of Professional Studies - Technical Campus, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abbd8708194e_logo_hackcosmic.png",
+      "start_date": null,
+      "end_date": "2026-10-17T18:00:00+05:30",
+      "deadline": "2026-10-17T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/sociothon-hackathon-for-social-impact-vishwakarma-institute-of-technology-pune-maharashtra-1762441",
+      "title": "Sociothon: Hackathon for Social Impact",
+      "organizer": "Vishwakarma Institute of Technology, Pune, Maharashtra",
+      "mode": "Offline",
+      "venue_address": "Vishwakarma Institute of Technology, Pune, Maharashtra, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abb33bc2bbe2_prism_logo.jpeg",
       "start_date": null,
       "end_date": "2026-10-17T18:00:00+05:30",
       "deadline": "2026-10-17T18:00:00+05:30",
@@ -8548,6 +8605,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abaacd821f42_uploadedmanual-6ab7fa9cd6206_synergy.png",
+      "start_date": null,
+      "end_date": "2026-11-12T23:59:00+05:30",
+      "deadline": "2026-11-12T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cipher-chase-capture-the-flag-synergy-26-international-institute-of-information-technology-iiit-bangalore-1763268",
+      "title": "Cipher Chase — Capture the Flag",
+      "organizer": "International Institute of Information Technology (IIIT), Bangalore",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abba8be9dc4a_uploadedmanual-6ab7fa9cd6206_synergy.png",
       "start_date": null,
       "end_date": "2026-11-12T23:59:00+05:30",
       "deadline": "2026-11-12T23:59:00+05:30",
