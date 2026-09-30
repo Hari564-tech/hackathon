@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-30T03:14:51.438465+00:00",
-  "total_count": 469,
+  "last_synced_at": "2026-09-30T11:39:45.157173+00:00",
+  "total_count": 477,
   "hackathons": [
     {
       "source": "Unstop",
@@ -4740,6 +4740,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/skillinf-digital-marketing-challenge-2026-create-a-linkedin-post-skillinf-1763560",
+      "title": "SkillInf Digital Marketing Challenge 2026 – Create a LinkedIn Post",
+      "organizer": "Skillinf",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6abc97795fedf_organisation_image-TnCIbNeqHm1941330442ZXESgEO0bH.png",
+      "start_date": null,
+      "end_date": "2026-10-06T10:31:00+05:30",
+      "deadline": "2026-10-06T10:31:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackathon-cliffesto26-national-institute-of-technology-nit-uttarakhand-1758644",
       "title": "Hackathon",
       "organizer": "National Institute of Technology (NIT), Uttarakhand",
@@ -5101,6 +5120,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/qblueprint-indian-institute-of-technology-indian-school-of-mines-dhanbad-1762752",
+      "title": "QBlueprint",
+      "organizer": "Indian Institute of Technology Indian School of Mines Dhanbad",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology Indian School of Mines Dhanbad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abc631e327a1_screenshot_2026-09-30_064617.png",
+      "start_date": null,
+      "end_date": "2026-10-09T00:00:00+05:30",
+      "deadline": "2026-10-09T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacknext-20-sns-college-of-technology-snsct-coimbatore-tamil-nadu-1752038",
       "title": "HackNext'26 Series 2.0",
       "organizer": "SNS College of Technology (SNSCT), Coimbatore, Tamil Nadu",
@@ -5222,6 +5260,25 @@
       "venue_address": "MIT World Peace University, Pune, Maharashtra, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab94e8821d98_download__2_.png",
+      "start_date": null,
+      "end_date": "2026-10-09T17:00:00+05:30",
+      "deadline": "2026-10-09T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/protocolx-protocolx-bms-institute-of-technology-and-management-bmsitm-bangalore-1763393",
+      "title": "ProtocolX",
+      "organizer": "BMS Institute of Technology and Management (BMSITM), Bangalore",
+      "mode": "Offline",
+      "venue_address": "BMS Institute of Technology and Management (BMSITM), Bangalore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6abceffc48dca_B.M.S._Institute_of_Technology_and_Management_logo.png",
       "start_date": null,
       "end_date": "2026-10-09T17:00:00+05:30",
       "deadline": "2026-10-09T17:00:00+05:30",
@@ -5842,6 +5899,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/2nd-laserhack-2026-lasell-university-1762843",
+      "title": "2nd LaserHack 2026",
+      "organizer": "Lasell University",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abaa6a87bef8_lasell_uni_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-12T00:00:00+05:30",
+      "deadline": "2026-10-12T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/anna-ai-os-founding-builder-challenge-2026-talentsec-technology-hong-kong-limited-1762519",
+      "title": "Anna AI OS Founding Builder Challenge 2026",
+      "organizer": "Talentsec Technology (Hong Kong) Limited",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aba0d4d76e30_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-12T00:00:00+05:30",
+      "deadline": "2026-10-12T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/grevix-aftercode-grevix-1755080",
       "title": "Grevix AfterCode",
       "organizer": "GREVIX",
@@ -6118,6 +6213,25 @@
       "start_date": null,
       "end_date": "2026-10-15T00:00:00+05:30",
       "deadline": "2026-10-15T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/founder-code-24-hour-hackathon-sri-muthukumaran-institute-of-technology-1760987",
+      "title": "FOUNDER CODE : 24 Hour HACKATHON",
+      "organizer": "Sri Muthukumaran Institute Of Technology ",
+      "mode": "Offline",
+      "venue_address": "Sri Muthukumaran Institute Of Technology , India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab4b25b90bed_smit_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-15T10:00:00+05:30",
+      "deadline": "2026-10-15T10:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -7012,6 +7126,25 @@
       "start_date": null,
       "end_date": "2026-10-19T17:18:00+05:30",
       "deadline": "2026-10-19T17:18:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/building-medical-tourism-platform-ethaum-venture-partners-1763060",
+      "title": "Building Medical Tourism Platform",
+      "organizer": "EthAum Venture Partners",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6abc8d5b4ff8f_organisation_image-KdC0oLJrfQ1079737855rZ9OBfrkir.png",
+      "start_date": null,
+      "end_date": "2026-10-19T23:59:00+05:30",
+      "deadline": "2026-10-19T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -8570,6 +8703,25 @@
       "start_date": null,
       "end_date": "2026-11-11T23:59:00+05:30",
       "deadline": "2026-11-11T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/prompt-battle-aerophilia-sahyadri-college-of-engineering-management-scem-mangaluru-1746171",
+      "title": "Prompt Battle",
+      "organizer": "Sahyadri College of Engineering & Management (SCEM), Mangaluru",
+      "mode": "Offline",
+      "venue_address": "Sahyadri College of Engineering & Management (SCEM), Mangaluru, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab257a8cced2_aerophilia-black_2x-100.jpg",
+      "start_date": null,
+      "end_date": "2026-11-11T23:59:16+05:30",
+      "deadline": "2026-11-11T23:59:16+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
