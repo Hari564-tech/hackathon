@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-09-30T11:39:45.157173+00:00",
-  "total_count": 477,
+  "last_synced_at": "2026-09-30T17:19:58.614333+00:00",
+  "total_count": 484,
   "hackathons": [
     {
       "source": "Unstop",
@@ -7857,6 +7857,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-code-voyage-ieee-day-2026-guru-tegh-bahadur-institute-of-technology-gtbit-new-delhi-1763810",
+      "title": "The Code Voyage",
+      "organizer": "Guru Tegh Bahadur Institute of Technology (GTBIT), New Delhi",
+      "mode": "Offline",
+      "venue_address": "Guru Tegh Bahadur Institute of Technology (GTBIT), New Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab2cd8f4b6c1_gtbit_left_sleeve.png",
+      "start_date": null,
+      "end_date": "2026-10-26T12:38:35+05:30",
+      "deadline": "2026-10-26T12:38:35+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/tech-grand-prix-ieee-day-2026-guru-tegh-bahadur-institute-of-technology-gtbit-new-delhi-1763814",
+      "title": "Tech Grand Prix",
+      "organizer": "Guru Tegh Bahadur Institute of Technology (GTBIT), New Delhi",
+      "mode": "Offline",
+      "venue_address": "Guru Tegh Bahadur Institute of Technology (GTBIT), New Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab2c1f617e5b_gtbit_left_sleeve.png",
+      "start_date": null,
+      "end_date": "2026-10-26T12:42:14+05:30",
+      "deadline": "2026-10-26T12:42:14+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ideathon-vibrant-2k26-gl-bajaj-institute-of-technology-and-management-delhi-ncr-uttar-pradesh-1752256",
       "title": "Ideathon",
       "organizer": "GL Bajaj Institute of Technology and Management, Delhi NCR, Uttar Pradesh",
@@ -7902,6 +7940,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aac1185e35dc_picsart_26-06-20_21-34-02-71.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-27T00:00:00+05:30",
+      "deadline": "2026-10-27T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/build-with-nova-bridgeye-1763873",
+      "title": "Build With Nova",
+      "organizer": "Bridgeye",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6abd29a5b0e7b_organisation_image-PZKf6cEyoT1170761589IlotBZYgeR.png",
       "start_date": null,
       "end_date": "2026-10-27T00:00:00+05:30",
       "deadline": "2026-10-27T00:00:00+05:30",
@@ -8133,6 +8190,25 @@
       "start_date": null,
       "end_date": "2026-10-30T12:00:00+05:30",
       "deadline": "2026-10-30T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-synergy-hackathon-2026-gwalior-ai-summit-29-30-oct-atal-bihari-vajpayee-indian-institute-of-information-te-1762421",
+      "title": "AI Synergy Hackathon 2026",
+      "organizer": "Atal Bihari Vajpayee-Indian Institute of Information Technology and Management",
+      "mode": "Offline",
+      "venue_address": "Atal Bihari Vajpayee-Indian Institute of Information Technology and Management, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aba177a85f31_untitled_design_3.png",
+      "start_date": null,
+      "end_date": "2026-10-30T21:00:00+05:30",
+      "deadline": "2026-10-30T21:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -8826,6 +8902,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/capture-the-flag-iit-kanpur-techkriti27-techkriti-1763860",
+      "title": "Capture The Flag | IIT Kanpur",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd27571a266_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T00:00:00+05:30",
+      "deadline": "2026-11-14T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-n-compete-iit-kanpur-techkriti27-techkriti-1763847",
+      "title": "Code N Compete | IIT Kanpur",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd00c42c7ea_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T00:00:00+05:30",
+      "deadline": "2026-11-14T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/devhack-2026-devhost-2026-sahyadri-open-source-community-1759829",
       "title": "DevHack 2026 ",
       "organizer": "Sahyadri Open Source Community",
@@ -9065,6 +9179,25 @@
       "start_date": null,
       "end_date": "2026-12-20T12:00:00+05:30",
       "deadline": "2026-12-20T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/tcu-hack-day-technical-community-universe-1763620",
+      "title": "TCU Hack Day",
+      "organizer": "Technical Community Universe",
+      "mode": "Offline",
+      "venue_address": "Technical Community Universe, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abcb2c47f9cb_tcu_square_under_1mb.jpg",
+      "start_date": null,
+      "end_date": "2027-01-23T18:00:00+05:30",
+      "deadline": "2027-01-23T18:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
