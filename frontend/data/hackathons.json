@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-01T12:08:37.489929+00:00",
-  "total_count": 502,
+  "last_synced_at": "2026-10-01T22:10:56.623948+00:00",
+  "total_count": 522,
   "hackathons": [
     {
       "source": "Unstop",
@@ -4816,6 +4816,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/rethink-26-adhunik26-maharaja-agrasen-college-mac-university-of-delhi-du-delhi-1764069",
+      "title": "Rethink 26",
+      "organizer": "Maharaja Agrasen College (MAC), University of Delhi (DU), Delhi",
+      "mode": "Offline",
+      "venue_address": "Maharaja Agrasen College (MAC), University of Delhi (DU), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6abe74e5f182e_maclogo.png",
+      "start_date": null,
+      "end_date": "2026-10-07T16:53:00+05:30",
+      "deadline": "2026-10-07T16:53:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hack-n-build-srm-university-modinagar-ghaziabad-1751780",
       "title": "Hack N Build",
       "organizer": "SRM University, Modinagar, Ghaziabad",
@@ -6023,6 +6042,25 @@
       "start_date": null,
       "end_date": "2026-10-12T18:00:00+05:30",
       "deadline": "2026-10-12T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/malanhack-malan-softech-private-limited-1764607",
+      "title": "Malanhack",
+      "organizer": "Malan Softech private limited",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abea243de09b_malan_logo.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-12T23:43:00+05:30",
+      "deadline": "2026-10-12T23:43:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -7420,6 +7458,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/azinhack-2026-university-school-of-automation-robotics-usar-guru-gobind-singh-indraprastha-university-ggsipu--1763832",
+      "title": "Azinhack 2026",
+      "organizer": "University School of Automation & Robotics (USAR) ,Guru Gobind Singh Indraprastha University (GGSIPU), Delhi",
+      "mode": "Offline",
+      "venue_address": "University School of Automation & Robotics (USAR) ,Guru Gobind Singh Indraprastha University (GGSIPU), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abeb28c0bc81_screenshot_2026-09-30_at_6_12_19_pm.png",
+      "start_date": null,
+      "end_date": "2026-10-22T14:00:00+05:30",
+      "deadline": "2026-10-22T14:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/winter-coding-contest-60-acm-student-chapter-vnrvjiet-1761560",
       "title": "Winter Coding Contest 6.0",
       "organizer": "ACM Student Chapter, VNRVJIET",
@@ -8408,6 +8465,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/craft-n-code-west-bengal-international-institute-of-information-technology-iiit-bhubaneswar-1745935",
+      "title": "Craft N Code (West Bengal)",
+      "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+      "mode": "Offline",
+      "venue_address": "International Institute of Information Technology (IIIT), Bhubaneswar, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7c962bc8992_20260729_010736.png",
+      "start_date": null,
+      "end_date": "2026-10-31T16:00:00+05:30",
+      "deadline": "2026-10-31T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackthestack-bharati-vidyapeeth-university-institute-of-management-and-research-bvimr-new-delhi-1734963",
       "title": "HackTheStack",
       "organizer": "Bharati Vidyapeeth University, Institute of Management and Research (BVIMR), New Delhi",
@@ -8817,6 +8893,25 @@
       "start_date": null,
       "end_date": "2026-11-03T20:00:00+05:30",
       "deadline": "2026-11-03T20:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codeverse-2026-open-innovation-hackathon-codeverse-community-1764453",
+      "title": "CodeVerse 2026 - Open Innovation Hackathon",
+      "organizer": "CodeVerse Community",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6abec2c21e733_organisation_image-rDBHH1YJue947522179LXcvfF775j.png",
+      "start_date": null,
+      "end_date": "2026-11-05T00:00:00+05:30",
+      "deadline": "2026-11-05T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -9282,6 +9377,215 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/robo-race-techkriti27-techkriti-1764445",
+      "title": "Robo Race | TECHKRITI | IIT KANPUR",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abe366ec15ce_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T18:39:44+05:30",
+      "deadline": "2026-11-14T18:39:44+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/drone-soccer-techkriti27-techkriti-1764446",
+      "title": "Drone Soccer | TECHKRITI | IIT KANPUR",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abe3342307bf_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T18:41:50+05:30",
+      "deadline": "2026-11-14T18:41:50+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/beat-the-market-techkriti27-techkriti-1764450",
+      "title": "Beat The Market | TECHKRITI | IIT KANPUR",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abe254197eda_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T18:50:51+05:30",
+      "deadline": "2026-11-14T18:50:51+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/skysparks-boeing-national-aeromodelling-competition-techkriti27-techkriti-1764461",
+      "title": "Skysparks - Boeing National Aeromodelling Competition | TECHKRITI | IIT KANPUR",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd71333e9e3_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T19:08:07+05:30",
+      "deadline": "2026-11-14T19:08:07+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/multirotor-techkriti27-techkriti-1764463",
+      "title": "Multirotor | TECHKRITI | IIT KANPUR",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd702ccece2_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T19:08:53+05:30",
+      "deadline": "2026-11-14T19:08:53+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/techkriti-grand-prix-techkriti27-techkriti-1764465",
+      "title": "Techkriti Grand Prix | TECHKRITI | IIT KANPUR",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd6f26ee2af_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T19:09:39+05:30",
+      "deadline": "2026-11-14T19:09:39+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/iarc-techkriti27-techkriti-1764468",
+      "title": "IARC | TECHKRITI | IIT KANPUR",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd6d983f519_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T19:10:29+05:30",
+      "deadline": "2026-11-14T19:10:29+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/manoeuvre-techkriti27-techkriti-1764469",
+      "title": "Manoeuvre | TECHKRITI | IIT KANPUR",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd6bebbd188_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T19:11:17+05:30",
+      "deadline": "2026-11-14T19:11:17+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/robowars-techkriti27-techkriti-1764470",
+      "title": "Robowars | TECHKRITI | IIT KANPUR",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd66dbc7024_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T19:12:14+05:30",
+      "deadline": "2026-11-14T19:12:14+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/strategy-sprint-techkriti27-techkriti-1764188",
+      "title": "Strategy Sprint | TECHKRITI | IIT KANPUR",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abe2181d9ca4_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T19:17:49+05:30",
+      "deadline": "2026-11-14T19:17:49+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/product-challenge-techkriti27-techkriti-1764167",
+      "title": "Product Challenge | TECHKRITI | IIT KANPUR",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abe152e855b7_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T19:17:51+05:30",
+      "deadline": "2026-11-14T19:17:51+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/students-of-global-impact-international-foundation-for-sustainable-peace-and-development-1751032",
       "title": "Students of Global Impact",
       "organizer": "International Foundation for Sustainable Peace and Development",
@@ -9336,6 +9640,63 @@
         "Solidity",
         "Zero Knowledge",
         "DeFi"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/speed-quant-techkriti27-techkriti-1764471",
+      "title": "Speed Quant | TECHKRITI | IIT KANPUR",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd3a547f009_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-16T19:13:00+05:30",
+      "deadline": "2026-11-16T19:13:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/capture-the-flag-techkriti27-techkriti-1764472",
+      "title": "Capture The Flag | TECHKRITI | IIT KANPUR",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd27571a266_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-16T19:13:36+05:30",
+      "deadline": "2026-11-16T19:13:36+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-n-compete-techkriti27-techkriti-1764474",
+      "title": "Code N Compete | TECHKRITI | IIT KANPUR",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd00c42c7ea_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-16T19:14:51+05:30",
+      "deadline": "2026-11-16T19:14:51+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
@@ -9540,6 +9901,25 @@
       "start_date": null,
       "end_date": "2027-01-23T18:00:00+05:30",
       "deadline": "2027-01-23T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ctf-arena-international-institute-of-information-technology-iiit-bhubaneswar-1742226",
+      "title": "CTF Arena",
+      "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+      "mode": "Offline",
+      "venue_address": "International Institute of Information Technology (IIIT), Bhubaneswar, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a873bb5c1cf1_20260729_010736.png",
+      "start_date": null,
+      "end_date": "2027-02-07T23:59:00+05:30",
+      "deadline": "2027-02-07T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
