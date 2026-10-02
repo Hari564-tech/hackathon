@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-02T03:22:16.030757+00:00",
-  "total_count": 523,
+  "last_synced_at": "2026-10-02T11:39:12.965832+00:00",
+  "total_count": 526,
   "hackathons": [
     {
       "source": "Unstop",
@@ -4778,6 +4778,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codestorm-2026-building-the-future-of-mobility-hackathon-vellore-institute-of-technology-vit-ap-andhra-prades-1764677",
+      "title": "CodeStorm 2026 – Building the Future of Mobility Hackathon",
+      "organizer": "Vellore Institute of Technology (VIT-AP), Andhra Pradesh",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abf2774df892_vit-ap-university-logo-png_seeklogo-484772.png",
+      "start_date": null,
+      "end_date": "2026-10-07T09:30:00+05:30",
+      "deadline": "2026-10-07T09:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/crp-amazon-ml-challenge-2026-amazon-1743604",
       "title": "Amazon ML Challenge 2026",
       "organizer": "Amazon",
@@ -6042,25 +6061,6 @@
       "start_date": null,
       "end_date": "2026-10-12T18:00:00+05:30",
       "deadline": "2026-10-12T18:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/malanhack-malan-softech-private-limited-1764607",
-      "title": "Malanhack",
-      "organizer": "Malan Softech private limited",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abea243de09b_malan_logo.jpeg",
-      "start_date": null,
-      "end_date": "2026-10-12T23:43:00+05:30",
-      "deadline": "2026-10-12T23:43:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -7572,6 +7572,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/prompt-ae-thon-bharati-vidyapeeths-college-of-engineering-1764749",
+      "title": "Prompt-ae-thon",
+      "organizer": "Bharati Vidyapeeth's College of Engineering",
+      "mode": "Offline",
+      "venue_address": "Bharati Vidyapeeth's College of Engineering, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abf5a7e4eef7_bvestlogo_final_1.png",
+      "start_date": null,
+      "end_date": "2026-10-23T16:00:00+05:30",
+      "deadline": "2026-10-23T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/build-2026-x-byteask-yc-f26-open-source-challenge-hackyard-1762455",
       "title": "Build 2026 x ByteAsk (YC F26): Open-Source Challenge",
       "organizer": "Hackyard",
@@ -7639,6 +7658,25 @@
       "start_date": null,
       "end_date": "2026-10-24T10:00:00+05:30",
       "deadline": "2026-10-24T10:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/malanhack-malan-softech-private-limited-1764607",
+      "title": "Malanhack",
+      "organizer": "Malan Softech private limited",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abea243de09b_malan_logo.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-24T11:41:00+05:30",
+      "deadline": "2026-10-24T11:41:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -8456,25 +8494,6 @@
       "start_date": null,
       "end_date": "2026-10-31T12:00:00+05:30",
       "deadline": "2026-10-31T12:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/craft-n-code-west-bengal-international-institute-of-information-technology-iiit-bhubaneswar-1745935",
-      "title": "Craft N Code (West Bengal)",
-      "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
-      "mode": "Offline",
-      "venue_address": "International Institute of Information Technology (IIIT), Bhubaneswar, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7c962bc8992_20260729_010736.png",
-      "start_date": null,
-      "end_date": "2026-10-31T16:00:00+05:30",
-      "deadline": "2026-10-31T16:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -9624,6 +9643,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codenexus-india-2026-national-hackathon-wecodecoders-1764747",
+      "title": "CodeNexus India 2026 - National Hackathon",
+      "organizer": "WeCodeCoders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6abf8a9bd3b3a_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "start_date": null,
+      "end_date": "2026-11-15T15:44:00+05:30",
+      "deadline": "2026-11-15T15:44:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/nasa-space-apps-challenge-2026-national-institute-of-technology-nit-raipur-1745979",
       "title": "NASA Space Apps Challenge 2026",
       "organizer": "National Institute of Technology (NIT), Raipur",
@@ -9920,6 +9958,25 @@
       "start_date": null,
       "end_date": "2027-01-23T18:00:00+05:30",
       "deadline": "2027-01-23T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/craft-n-code-west-bengal-international-institute-of-information-technology-iiit-bhubaneswar-1745935",
+      "title": "Craft N Code (West Bengal)",
+      "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+      "mode": "Offline",
+      "venue_address": "International Institute of Information Technology (IIIT), Bhubaneswar, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7c962bc8992_20260729_010736.png",
+      "start_date": null,
+      "end_date": "2027-02-06T16:00:00+05:30",
+      "deadline": "2027-02-06T16:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
