@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-02T11:39:12.965832+00:00",
-  "total_count": 526,
+  "last_synced_at": "2026-10-02T17:08:19.643232+00:00",
+  "total_count": 532,
   "hackathons": [
     {
       "source": "Unstop",
@@ -5500,6 +5500,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/wildhack-2k26-ballarpur-institute-of-technology-bit-1764861",
+      "title": "Wildhack 2k26",
+      "organizer": "Ballarpur Institute of Technology (BIT)",
+      "mode": "Offline",
+      "venue_address": "Ballarpur Institute of Technology (BIT), India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abfb57987195_bit-logo.png",
+      "start_date": null,
+      "end_date": "2026-10-10T00:00:00+05:30",
+      "deadline": "2026-10-10T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/fusion-2026-iic-ecell-skncoe-x-skn-ieee-student-branch-1751766",
       "title": "Fusion 2026",
       "organizer": "IIC ECELL SKNCOE X SKN IEEE Student Branch",
@@ -6108,6 +6127,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codeastra-20-24-hour-offline-hackathon-association-of-budding-information-technocrats-abit-rgit-1764841",
+      "title": "CodeAstra 2.0 – 24-Hour Offline Hackathon",
+      "organizer": "Association of Budding Information Technocrats (ABIT), RGIT",
+      "mode": "Offline",
+      "venue_address": "Association of Budding Information Technocrats (ABIT), RGIT, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abf997b7f672_abitlogo-removebg-preview.png",
+      "start_date": null,
+      "end_date": "2026-10-13T08:00:00+05:30",
+      "deadline": "2026-10-13T08:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hack-era-10-erazone-1755150",
       "title": "Hack Era 1.0",
       "organizer": "Erazone",
@@ -6324,6 +6362,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab288df476e8_hackathon_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-15T00:00:00+05:30",
+      "deadline": "2026-10-15T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/break-the-code-tech-melange-2026-shaheed-rajguru-college-of-applied-sciences-for-women-delhi-university-1764493",
+      "title": "Break the Code",
+      "organizer": "Shaheed Rajguru College of Applied Sciences for Women, Delhi University",
+      "mode": "Offline",
+      "venue_address": "Shaheed Rajguru College of Applied Sciences for Women, Delhi University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6abfac34e5e58_organisation_image-qQR3ZxSrqs1913972161YB8qqaztms.png",
       "start_date": null,
       "end_date": "2026-10-15T00:00:00+05:30",
       "deadline": "2026-10-15T00:00:00+05:30",
@@ -6841,6 +6898,25 @@
       "start_date": null,
       "end_date": "2026-10-18T11:39:00+05:30",
       "deadline": "2026-10-18T11:39:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codesprint-rankup-1755715",
+      "title": "CodeSprint",
+      "organizer": "RANKUP",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6abf3319a214b_organisation_image-SCPfD55JMc2078069740KG3lK1tmxH.png",
+      "start_date": null,
+      "end_date": "2026-10-18T14:00:00+05:30",
+      "deadline": "2026-10-18T14:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -7762,6 +7838,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/shakti-hackathon-bubblesort-1758572",
+      "title": "Shakti Hackathon",
+      "organizer": "BUBBLESORT",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab39f6765add_s-shakti.png",
+      "start_date": null,
+      "end_date": "2026-10-25T00:01:00+05:30",
+      "deadline": "2026-10-25T00:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/build-and-break-hackathon-hostel-bird-1761513",
       "title": "Build and Break Hackathon",
       "organizer": "Hostel Bird",
@@ -8617,6 +8712,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/sea-of-secrets-ctf-hackitup-1764913",
+      "title": "Sea of Secrets CTF",
+      "organizer": "HackitUp",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abfb86aa29e8_sea_of_secrets_logo_1.png",
+      "start_date": null,
+      "end_date": "2026-11-01T02:00:00+05:30",
+      "deadline": "2026-11-01T02:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ai-manthan-20-acropolis-institute-of-technology-and-research-indore-1751106",
       "title": "AI-Manthan 2.0",
       "organizer": "Acropolis Institute of Technology and Research, Indore",
@@ -8927,7 +9041,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6abec2c21e733_organisation_image-rDBHH1YJue947522179LXcvfF775j.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6abf79aa8000f_organisation_image-rDBHH1YJue947522179LXcvfF775j.png",
       "start_date": null,
       "end_date": "2026-11-05T00:00:00+05:30",
       "deadline": "2026-11-05T00:00:00+05:30",
