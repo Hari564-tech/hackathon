@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-01T22:10:56.623948+00:00",
-  "total_count": 522,
+  "last_synced_at": "2026-10-02T03:22:16.030757+00:00",
+  "total_count": 523,
   "hackathons": [
     {
       "source": "Unstop",
@@ -9425,6 +9425,25 @@
       "start_date": null,
       "end_date": "2026-11-14T18:50:51+05:30",
       "deadline": "2026-11-14T18:50:51+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hovermania-techkriti27-techkriti-1764460",
+      "title": "Hovermania | TECHKRITI | IIT KANPUR",
+      "organizer": "Techkriti",
+      "mode": "Offline",
+      "venue_address": "Techkriti, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd7525cb15b_techkriti_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T19:06:55+05:30",
+      "deadline": "2026-11-14T19:06:55+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
