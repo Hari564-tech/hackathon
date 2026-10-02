@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-02T17:08:19.643232+00:00",
-  "total_count": 532,
+  "last_synced_at": "2026-10-02T21:38:41.550589+00:00",
+  "total_count": 534,
   "hackathons": [
     {
       "source": "Unstop",
@@ -5652,6 +5652,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/medha-ai-ml-hackathon-national-institute-of-technology-nit-delhi-1760434",
+      "title": "Medha AI ML Hackathon",
+      "organizer": "National Institute of Technology (NIT), Delhi",
+      "mode": "Offline",
+      "venue_address": "National Institute of Technology (NIT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac003250ddc5_",
+      "start_date": null,
+      "end_date": "2026-10-10T17:05:00+05:30",
+      "deadline": "2026-10-10T17:05:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/pixel-paranoia-6-hours-uiux-hackathon-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-enginee-1759594",
       "title": "Pixel Paranoia - 6 Hours UI/UX Hackathon",
       "organizer": "Shri Vile Parle Kelavani Mandal's Dwarkadas J. Sanghvi College of Engineering (DJSCE), Mumbai",
@@ -6061,6 +6080,25 @@
       "start_date": null,
       "end_date": "2026-10-12T02:00:00+05:30",
       "deadline": "2026-10-12T02:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackopoly-amrita-vishwa-vidyapeetham-1764829",
+      "title": "Hackopoly",
+      "organizer": "Amrita Vishwa Vidyapeetham",
+      "mode": "Offline",
+      "venue_address": "Amrita Vishwa Vidyapeetham, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abf94b3dc4a1_hack_1.png",
+      "start_date": null,
+      "end_date": "2026-10-12T11:00:00+05:30",
+      "deadline": "2026-10-12T11:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
