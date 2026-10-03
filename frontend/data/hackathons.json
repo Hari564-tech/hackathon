@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-03T03:07:35.369897+00:00",
-  "total_count": 534,
+  "last_synced_at": "2026-10-03T10:52:43.038250+00:00",
+  "total_count": 541,
   "hackathons": [
     {
       "source": "Unstop",
@@ -4778,6 +4778,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vibescape-26-vibe-coding-event-maharaja-agrasen-college-mac-university-of-delhi-du-delhi-1765122",
+      "title": "Vibescape ’26 – Vibe Coding Event",
+      "organizer": "Maharaja Agrasen College (MAC), University of Delhi (DU), Delhi",
+      "mode": "Offline",
+      "venue_address": "Maharaja Agrasen College (MAC), University of Delhi (DU), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac0dd6edfb75_maclogo.png",
+      "start_date": null,
+      "end_date": "2026-10-07T00:00:00+05:30",
+      "deadline": "2026-10-07T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codestorm-2026-building-the-future-of-mobility-hackathon-vellore-institute-of-technology-vit-ap-andhra-prades-1764677",
       "title": "CodeStorm 2026 – Building the Future of Mobility Hackathon",
       "organizer": "Vellore Institute of Technology (VIT-AP), Andhra Pradesh",
@@ -5507,6 +5526,25 @@
       "venue_address": "Ballarpur Institute of Technology (BIT), India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abfb57987195_bit-logo.png",
+      "start_date": null,
+      "end_date": "2026-10-10T00:00:00+05:30",
+      "deadline": "2026-10-10T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codehive-1v1-real-time-dsa-duel-championship-code-hive-1765154",
+      "title": "CodeHive: 1v1 Real-Time DSA Duel Championship",
+      "organizer": "Code Hive",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac08e50b1757_codehive_golden_bee_logo_1.png",
       "start_date": null,
       "end_date": "2026-10-10T00:00:00+05:30",
       "deadline": "2026-10-10T00:00:00+05:30",
@@ -6412,13 +6450,13 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/break-the-code-tech-melange-2026-shaheed-rajguru-college-of-applied-sciences-for-women-delhi-university-1764493",
-      "title": "Break the Code",
-      "organizer": "Shaheed Rajguru College of Applied Sciences for Women, Delhi University",
+      "source_url": "https://unstop.com/hackathons/hackathons/devlympics-shunya-2026-netaji-subhas-university-of-technology-nsut-delhi-1764596",
+      "title": "Devlympics",
+      "organizer": "Netaji Subhas University of Technology (NSUT), Delhi",
       "mode": "Offline",
-      "venue_address": "Shaheed Rajguru College of Applied Sciences for Women, Delhi University, India",
+      "venue_address": "Netaji Subhas University of Technology (NSUT), Delhi, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac06a4b4358a_screenshot_2026-10-03_080623.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac0cbd239f8b_220px-Netaji_Subhas_University_of_Technology.svg.png",
       "start_date": null,
       "end_date": "2026-10-15T00:00:00+05:30",
       "deadline": "2026-10-15T00:00:00+05:30",
@@ -6527,6 +6565,63 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/autopilot-shunya-2026-netaji-subhas-university-of-technology-nsut-delhi-1764668",
+      "title": "AutoPilot",
+      "organizer": "Netaji Subhas University of Technology (NSUT), Delhi",
+      "mode": "Offline",
+      "venue_address": "Netaji Subhas University of Technology (NSUT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac0cb9baa1fb_220px-Netaji_Subhas_University_of_Technology.svg.png",
+      "start_date": null,
+      "end_date": "2026-10-16T00:00:00+05:30",
+      "deadline": "2026-10-16T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/zero-day-apocalypse-shunya-2026-netaji-subhas-university-of-technology-nsut-delhi-1764669",
+      "title": "Zero Day Apocalypse",
+      "organizer": "Netaji Subhas University of Technology (NSUT), Delhi",
+      "mode": "Offline",
+      "venue_address": "Netaji Subhas University of Technology (NSUT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac0cb5a91e72_220px-Netaji_Subhas_University_of_Technology.svg.png",
+      "start_date": null,
+      "end_date": "2026-10-16T00:00:00+05:30",
+      "deadline": "2026-10-16T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackshift-cmd-shift-create-indraprastha-institute-of-information-technology-iiit-delhi-1765142",
+      "title": "HackShift - Cmd, Shift, Create",
+      "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
+      "mode": "Offline",
+      "venue_address": "Indraprastha Institute of Information Technology (IIIT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac0874f39cc0_IIIT_Delhi_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-16T00:00:00+05:30",
+      "deadline": "2026-10-16T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/axion-hackathon-stampers-1760407",
       "title": "AXION Hackathon",
       "organizer": "STAMPERS",
@@ -6575,6 +6670,25 @@
       "start_date": null,
       "end_date": "2026-10-16T11:00:00+05:30",
       "deadline": "2026-10-16T11:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/break-the-code-tech-melange-2026-shaheed-rajguru-college-of-applied-sciences-for-women-delhi-university-1764493",
+      "title": "Break the Code",
+      "organizer": "Shaheed Rajguru College of Applied Sciences for Women, Delhi University",
+      "mode": "Offline",
+      "venue_address": "Shaheed Rajguru College of Applied Sciences for Women, Delhi University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac06a4b4358a_screenshot_2026-10-03_080623.png",
+      "start_date": null,
+      "end_date": "2026-10-16T13:00:00+05:30",
+      "deadline": "2026-10-16T13:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -7620,6 +7734,25 @@
       "start_date": null,
       "end_date": "2026-10-22T22:13:57+05:30",
       "deadline": "2026-10-22T22:13:57+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codeneurax-neuraknockout-2026-codeneurax-1765131",
+      "title": "CodeNeuraX  : NeuraKnockout 2026",
+      "organizer": "CodeNeuraX",
+      "mode": "Offline",
+      "venue_address": "CodeNeuraX, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac0d49d25fed_organisation_image-b3iQIdoLrX562655353HvRhN0nuzb.png",
+      "start_date": null,
+      "end_date": "2026-10-23T00:00:00+05:30",
+      "deadline": "2026-10-23T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
