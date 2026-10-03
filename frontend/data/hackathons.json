@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-03T15:29:26.142810+00:00",
-  "total_count": 541,
+  "last_synced_at": "2026-10-03T20:26:31.695484+00:00",
+  "total_count": 542,
   "hackathons": [
     {
       "source": "Unstop",
@@ -6450,25 +6450,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/devlympics-shunya-2026-netaji-subhas-university-of-technology-nsut-delhi-1764596",
-      "title": "Devlympics",
-      "organizer": "Netaji Subhas University of Technology (NSUT), Delhi",
-      "mode": "Offline",
-      "venue_address": "Netaji Subhas University of Technology (NSUT), Delhi, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac11ee2594b5_devlympics_logo.jpg",
-      "start_date": null,
-      "end_date": "2026-10-15T00:00:00+05:30",
-      "deadline": "2026-10-15T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/founder-code-24-hour-hackathon-sri-muthukumaran-institute-of-technology-1760987",
       "title": "FOUNDER CODE : 24 Hour HACKATHON",
       "organizer": "Sri Muthukumaran Institute Of Technology ",
@@ -6604,12 +6585,12 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackshift-cmd-shift-create-indraprastha-institute-of-information-technology-iiit-delhi-1765142",
-      "title": "HackShift - Cmd, Shift, Create",
+      "title": "HackShift - Cmd+Shift+Create",
       "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
       "mode": "Offline",
       "venue_address": "Indraprastha Institute of Information Technology (IIIT), Delhi, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac0874f39cc0_IIIT_Delhi_logo.jpg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac143bed47a9_IIIT_Delhi_logo.jpg",
       "start_date": null,
       "end_date": "2026-10-16T00:00:00+05:30",
       "deadline": "2026-10-16T00:00:00+05:30",
@@ -7050,6 +7031,25 @@
       "start_date": null,
       "end_date": "2026-10-18T11:39:00+05:30",
       "deadline": "2026-10-18T11:39:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/devlympics-shunya-2026-netaji-subhas-university-of-technology-nsut-delhi-1764596",
+      "title": "Devlympics",
+      "organizer": "Netaji Subhas University of Technology (NSUT), Delhi",
+      "mode": "Offline",
+      "venue_address": "Netaji Subhas University of Technology (NSUT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac11ee2594b5_devlympics_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-18T14:00:00+05:30",
+      "deadline": "2026-10-18T14:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -9938,6 +9938,25 @@
       "start_date": null,
       "end_date": "2026-11-15T15:44:00+05:30",
       "deadline": "2026-11-15T15:44:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vihaan-x-software-track-dtu-new-delhi-1761841",
+      "title": "Vihaan X: Software Track",
+      "organizer": "Delhi Technological University (DTU), New Delhi",
+      "mode": "Offline",
+      "venue_address": "Delhi Technological University (DTU), New Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abf4deaf194c_vihaan_unstop_logo.png",
+      "start_date": null,
+      "end_date": "2026-11-15T17:00:00+05:30",
+      "deadline": "2026-11-15T17:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
