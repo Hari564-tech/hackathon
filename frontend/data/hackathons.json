@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-04T11:35:08.263688+00:00",
-  "total_count": 548,
+  "last_synced_at": "2026-10-04T16:13:38.288124+00:00",
+  "total_count": 552,
   "hackathons": [
     {
       "source": "Unstop",
@@ -4784,7 +4784,7 @@
       "mode": "Offline",
       "venue_address": "Maharaja Agrasen College (MAC), University of Delhi (DU), Delhi, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac1034c23ec5_maclogo.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac248bb65a25_maclogo.png",
       "start_date": null,
       "end_date": "2026-10-07T00:00:00+05:30",
       "deadline": "2026-10-07T00:00:00+05:30",
@@ -6317,6 +6317,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/commit-to-change-hackathon-ieee-day26-ieee-mait-maharaja-agrasen-institute-of-technology-mait-new-delhi-1765661",
+      "title": "Commit to Change: Hackathon",
+      "organizer": "Maharaja Agrasen Institute of Technology (MAIT), New Delhi",
+      "mode": "Offline",
+      "venue_address": "Maharaja Agrasen Institute of Technology (MAIT), New Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac23d5f4727e_ieee-day-logo-color-rgb.jpg",
+      "start_date": null,
+      "end_date": "2026-10-14T17:00:00+05:30",
+      "deadline": "2026-10-14T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/xtract-50-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1762239",
       "title": "Xtract 5.0",
       "organizer": "Shri Vile Parle Kelavani Mandal's Dwarkadas J. Sanghvi College of Engineering (DJSCE), Mumbai",
@@ -7534,6 +7553,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/spirit-30-buildathon-dr-shakuntala-misra-national-rehabilitation-university-dsmnru-lucknow-1763927",
+      "title": "SPIRIT 3.0 - Buildathon",
+      "organizer": "Dr Shakuntala Misra National Rehabilitation University (DSMNRU), Lucknow",
+      "mode": "Offline",
+      "venue_address": "Dr Shakuntala Misra National Rehabilitation University (DSMNRU), Lucknow, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd3977d0ce8_6.png",
+      "start_date": null,
+      "end_date": "2026-10-19T23:59:00+05:30",
+      "deadline": "2026-10-19T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/graviton-iste-cgc-university-1742794",
       "title": "Graviton",
       "organizer": "ISTE CGC UNIVERSITY",
@@ -7782,12 +7820,12 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codeneurax-neuraknockout-2026-codeneurax-1765131",
-      "title": "CodeNeuraX  : NeuraKnockout 2026",
+      "title": "CodeNeuraX : NeuraKnockout 2026 — The Ultimate Web Dev Challenge",
       "organizer": "CodeNeuraX",
       "mode": "Offline",
       "venue_address": "CodeNeuraX, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac0d49d25fed_organisation_image-b3iQIdoLrX562655353HvRhN0nuzb.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac24b0f28daa_organisation_image-b3iQIdoLrX562655353HvRhN0nuzb.png",
       "start_date": null,
       "end_date": "2026-10-23T00:00:00+05:30",
       "deadline": "2026-10-23T00:00:00+05:30",
@@ -10138,6 +10176,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/innovathon-20-at-ju-university-of-jammu-jammu-1762935",
+      "title": "Innovathon 2.0 @ JU",
+      "organizer": "University of Jammu, Jammu",
+      "mode": "Offline",
+      "venue_address": "University of Jammu, Jammu, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac273c0826c0_untitled_design_10.png",
+      "start_date": null,
+      "end_date": "2026-11-18T00:00:24+05:30",
+      "deadline": "2026-11-18T00:00:24+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/crp-digital-twin-challenge-2026-happiest-health-1757873",
       "title": "Digital Twin Challenge 2026",
       "organizer": "Happiest Health",
@@ -10243,6 +10300,25 @@
       "start_date": null,
       "end_date": "2026-11-28T11:00:00+05:30",
       "deadline": "2026-11-28T11:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/algosstrike-scaler-school-of-technology-bengaluru-karnataka-1765493",
+      "title": "AlgoSSTrike",
+      "organizer": "Scaler School of Technology, Bengaluru, Karnataka",
+      "mode": "Offline",
+      "venue_address": "Scaler School of Technology, Bengaluru, Karnataka, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac1537584a58_whatsapp_image_2026-10-03_at_23_48_04.jpeg",
+      "start_date": null,
+      "end_date": "2026-11-28T15:00:00+05:30",
+      "deadline": "2026-11-28T15:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
