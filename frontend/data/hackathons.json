@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-04T03:35:23.934246+00:00",
-  "total_count": 542,
+  "last_synced_at": "2026-10-04T11:35:08.263688+00:00",
+  "total_count": 548,
   "hackathons": [
     {
       "source": "Unstop",
@@ -4797,6 +4797,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codeverse-20-svkm-djsanghvi-college-of-engineering-1763146",
+      "title": "CODEVERSE 2.0",
+      "organizer": "SVKM D.J.Sanghvi College of Engineering",
+      "mode": "Offline",
+      "venue_address": "SVKM D.J.Sanghvi College of Engineering, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abb8fa23b3c9_whatsapp_image_2026-09-29_at_11_56_36_am.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-07T07:00:00+05:30",
+      "deadline": "2026-10-07T07:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codestorm-2026-building-the-future-of-mobility-hackathon-vellore-institute-of-technology-vit-ap-andhra-prades-1764677",
       "title": "CodeStorm 2026 – Building the Future of Mobility Hackathon",
       "organizer": "Vellore Institute of Technology (VIT-AP), Andhra Pradesh",
@@ -6327,6 +6346,25 @@
       "start_date": null,
       "end_date": "2026-10-14T23:00:00+05:30",
       "deadline": "2026-10-14T23:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackathon-qiskit-fall-fest-x-iiit-delhi-iiitd-indraprastha-institute-of-information-technology-delhi-1765560",
+      "title": "Hackathon: Qiskit Fall Fest x IIIT Delhi",
+      "organizer": "IIITD (Indraprastha Institute of information technology delhi)",
+      "mode": "Offline",
+      "venue_address": "IIITD (Indraprastha Institute of information technology delhi), India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac1ed9fcd79e_bfbc3d26-eb97-49b4-b6ac-537954ebcd27-compressed.jpg",
+      "start_date": null,
+      "end_date": "2026-10-14T23:59:00+05:30",
+      "deadline": "2026-10-14T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -8693,6 +8731,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-urban-autonomous-mobility-challenge-by-fedex-alfa-iit-bombay-iit-bombay-1765533",
+      "title": "The Urban Autonomous Mobility Challenge by Fedex Alfa IIT Bombay ",
+      "organizer": "Indian Institute of Technology (IIT), Bombay",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Bombay, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac1f6ae8168d_",
+      "start_date": null,
+      "end_date": "2026-10-31T00:00:00+05:30",
+      "deadline": "2026-10-31T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/semicon-hackathon-explore-innovate-build-with-semiconductors-sarcathon-2026-iit-bombay-1744747",
       "title": "SemiCon Hackathon - Explore, Innovate & Build with Semiconductors | IIT Bombay",
       "organizer": "Indian Institute of Technology (IIT), Bombay",
@@ -9966,6 +10023,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vihaan-x-hardware-track-vihaan-x-ieee-dtu-dtu-new-delhi-1761844",
+      "title": "Vihaan X: Hardware Track",
+      "organizer": "Delhi Technological University (DTU), New Delhi",
+      "mode": "Offline",
+      "venue_address": "Delhi Technological University (DTU), New Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abf4736d492f_vihaan_unstop_logo.png",
+      "start_date": null,
+      "end_date": "2026-11-15T17:00:00+05:30",
+      "deadline": "2026-11-15T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/nasa-space-apps-challenge-2026-national-institute-of-technology-nit-raipur-1745979",
       "title": "NASA Space Apps Challenge 2026",
       "organizer": "National Institute of Technology (NIT), Raipur",
@@ -10119,6 +10195,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-devforge-hackathon-scaler-school-of-technology-bengaluru-karnataka-1765465",
+      "title": "The DevForge - Hackathon",
+      "organizer": "Scaler School of Technology, Bengaluru, Karnataka",
+      "mode": "Offline",
+      "venue_address": "Scaler School of Technology, Bengaluru, Karnataka, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac1470d74880_whatsapp_image_2026-10-03_at_23_48_04.jpeg",
+      "start_date": null,
+      "end_date": "2026-11-27T00:21:00+05:30",
+      "deadline": "2026-11-27T00:21:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/solve-a-thon-national-hackathon-swami-rama-himalayan-university-srhu-baksar-wala-uttarakhand-1755466",
       "title": "Solve - a - Thon | National Hackathon",
       "organizer": "Swami Rama Himalayan University (SRHU), Baksar Wala, Uttarakhand",
@@ -10262,6 +10357,25 @@
       "start_date": null,
       "end_date": "2027-01-23T18:00:00+05:30",
       "deadline": "2027-01-23T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-arcticathon-bidaya-1759619",
+      "title": "The Arcticathon ",
+      "organizer": "Bidaya",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac1e928a417d_organisation_image-MzLeFlNSjY1429117067oIBMaf5KsO.png",
+      "start_date": null,
+      "end_date": "2027-01-31T00:00:00+05:30",
+      "deadline": "2027-01-31T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
