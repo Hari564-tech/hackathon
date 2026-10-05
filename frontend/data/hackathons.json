@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-05T03:17:26.975249+00:00",
-  "total_count": 552,
+  "last_synced_at": "2026-10-05T13:09:35.867235+00:00",
+  "total_count": 558,
   "hackathons": [
     {
       "source": "Unstop",
@@ -5272,6 +5272,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/model-wars-manipal-university-mu-jaipur-1765530",
+      "title": "Model Wars",
+      "organizer": "Manipal University (MU), Jaipur",
+      "mode": "Offline",
+      "venue_address": "Manipal University (MU), Jaipur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac1722add88d_whatsapp_image_2026-07-23_at_00_59_19.jpg",
+      "start_date": null,
+      "end_date": "2026-10-09T00:00:00+05:30",
+      "deadline": "2026-10-09T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacknext-20-sns-college-of-technology-snsct-coimbatore-tamil-nadu-1752038",
       "title": "HackNext'26 Series 2.0",
       "organizer": "SNS College of Technology (SNSCT), Coimbatore, Tamil Nadu",
@@ -6184,6 +6203,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-bounty-20-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1766149",
+      "title": "Code Bounty 2.0",
+      "organizer": "Shri Vile Parle Kelavani Mandal's Dwarkadas J. Sanghvi College of Engineering (DJSCE), Mumbai",
+      "mode": "Offline",
+      "venue_address": "Shri Vile Parle Kelavani Mandal's Dwarkadas J. Sanghvi College of Engineering (DJSCE), Mumbai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac397e2071ff_photo-2026-10-05-16-08-47.jpg",
+      "start_date": null,
+      "end_date": "2026-10-12T18:11:54+05:30",
+      "deadline": "2026-10-12T18:11:54+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/setu-bridge-the-gap-build-the-fix-forge-realm-1754670",
       "title": "Setu - Bridge the Gap. Build the Fix",
       "organizer": "Forge Realm",
@@ -6574,6 +6612,25 @@
       "start_date": null,
       "end_date": "2026-10-15T21:00:00+05:30",
       "deadline": "2026-10-15T21:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ghost-protocol-ctf-20-noida-institute-of-engineering-and-technology-niet-greater-noida-1765421",
+      "title": "Ghost Protocol CTF 2.0",
+      "organizer": "Noida Institute of Engineering And Technology (NIET), Greater Noida",
+      "mode": "Offline",
+      "venue_address": "Noida Institute of Engineering And Technology (NIET), Greater Noida, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac338f66c416_ghost_protocol_ctf_2_0_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-15T23:59:00+05:30",
+      "deadline": "2026-10-15T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -7572,6 +7629,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackerwrath-30-guru-nanak-dev-university-gndu-amritsar-1764531",
+      "title": "HackerWrath 3.0",
+      "organizer": "Guru Nanak Dev University (GNDU), Amritsar",
+      "mode": "Offline",
+      "venue_address": "Guru Nanak Dev University (GNDU), Amritsar, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abf41d91741f_whatsapp_image_2026-10-01_at_12_56_11_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-19T23:59:00+05:30",
+      "deadline": "2026-10-19T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/graviton-iste-cgc-university-1742794",
       "title": "Graviton",
       "organizer": "ISTE CGC UNIVERSITY",
@@ -7582,6 +7658,25 @@
       "start_date": null,
       "end_date": "2026-10-20T00:00:00+05:30",
       "deadline": "2026-10-20T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/malla-reddy-talentio-online-coding-challenge-2026-malla-reddy-engineering-college-1765870",
+      "title": "Malla Reddy Talentio Online Coding Challenge 2026",
+      "organizer": "Malla Reddy Engineering College",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac33abfb17c4_organisation_image-Zajgtj5tEn1933717655GoJqNxLIj6.png",
+      "start_date": null,
+      "end_date": "2026-10-20T11:05:00+05:30",
+      "deadline": "2026-10-20T11:05:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -10319,6 +10414,25 @@
       "start_date": null,
       "end_date": "2026-11-28T15:00:00+05:30",
       "deadline": "2026-11-28T15:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/pinaka-ctf-national-forensic-sciences-university-chennai-1763976",
+      "title": "Pinaka CTF",
+      "organizer": "National Forensic Sciences University, Chennai",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd5e8e6ad79_untitled_design_1.png",
+      "start_date": null,
+      "end_date": "2026-11-28T22:00:00+05:30",
+      "deadline": "2026-11-28T22:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
