@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-05T13:09:35.867235+00:00",
-  "total_count": 558,
+  "last_synced_at": "2026-10-05T23:31:13.530750+00:00",
+  "total_count": 566,
   "hackathons": [
     {
       "source": "Unstop",
@@ -5367,6 +5367,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/pixel-persona-babu-banarasi-das-university-bbdu-lucknow-1766187",
+      "title": "Pixel Persona",
+      "organizer": "Babu Banarasi Das University (BBDU), Lucknow",
+      "mode": "Offline",
+      "venue_address": "Babu Banarasi Das University (BBDU), Lucknow, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac3a4b5357df_457159819_1209318120391537_6825656623951253150_n.jpg",
+      "start_date": null,
+      "end_date": "2026-10-09T16:00:00+05:30",
+      "deadline": "2026-10-09T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/datathon-26-27-pccoe-inns-student-chapter-1756708",
       "title": "Datathon 26–27",
       "organizer": "PCCOE INNS STUDENT CHAPTER",
@@ -6001,6 +6020,25 @@
       "venue_address": "Pimpri Chinchwad College of Engineering (PCCOE), Pune, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aa62c7b9642a_pccoe.jpg",
+      "start_date": null,
+      "end_date": "2026-10-11T18:00:00+05:30",
+      "deadline": "2026-10-11T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackoverflow-100-aarohan-nit-durgapur-1766018",
+      "title": "Hackoverflow 10.0",
+      "organizer": "National Institute of Technology (NIT), Durgapur",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac39748652d7_square-image.jpg",
       "start_date": null,
       "end_date": "2026-10-11T18:00:00+05:30",
       "deadline": "2026-10-11T18:00:00+05:30",
@@ -7686,6 +7724,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/globathon-globatech-group-1762609",
+      "title": "Globathon",
+      "organizer": "Globatech Group",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aba389b93e05_whatsapp_image_2026-09-25_at_12_33_04.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-20T14:52:00+05:30",
+      "deadline": "2026-10-20T14:52:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/buildx-hackathon-code-a-nova-1760074",
       "title": "BUiLDX Hackathon",
       "organizer": "Code-A-Nova",
@@ -7750,6 +7807,25 @@
       "venue_address": "SRM University - AP, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab67d0df21b3_whatsapp_image_2026-09-19_at_18_31_49.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-20T23:59:00+05:30",
+      "deadline": "2026-10-20T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/jammu-smart-city-hackathon-jammu-smart-city-hackathon-lead-1766040",
+      "title": "Jammu Smart City Hackathon",
+      "organizer": "LEAD",
+      "mode": "Offline",
+      "venue_address": "LEAD, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac37f4800ead_jsch_logo.jpeg",
       "start_date": null,
       "end_date": "2026-10-20T23:59:00+05:30",
       "deadline": "2026-10-20T23:59:00+05:30",
@@ -8389,6 +8465,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/finding-the-next-signal-birla-institute-of-technology-science-bits-pilani-hyderabad-campus-1766136",
+      "title": "Finding the Next Signal",
+      "organizer": "Birla Institute of Technology & Science (BITS) Pilani, Hyderabad Campus",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac3bb9563459_BITS_Pilani-Logo.svg.png",
+      "start_date": null,
+      "end_date": "2026-10-25T18:00:00+05:30",
+      "deadline": "2026-10-25T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/competitions/hypnexis-2026-manipal-university-mu-jaipur-1711890",
       "title": "Hypnexis 2026",
       "organizer": "Manipal University (MU), Jaipur",
@@ -8978,6 +9073,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/national-machine-coding-lld-and-production-debugging-contest-gronex-1765656",
+      "title": "National Machine Coding, LLD and Production Debugging Contest ",
+      "organizer": "Gronex",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac3beba87cb5_organisation_image-vstRtwtOd9547080318S4wB5Bfp7V.png",
+      "start_date": null,
+      "end_date": "2026-10-31T21:00:00+05:30",
+      "deadline": "2026-10-31T21:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/math-o-stellar-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742777",
       "title": "Math-O-Stellar",
       "organizer": "Indian Institute Of Technology Bhubaneswar",
@@ -9403,6 +9517,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6abf79aa8000f_organisation_image-rDBHH1YJue947522179LXcvfF775j.png",
+      "start_date": null,
+      "end_date": "2026-11-05T00:00:00+05:30",
+      "deadline": "2026-11-05T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/from-prompt-to-performance-mozark-1762305",
+      "title": "From Prompt to Performance ",
+      "organizer": "Mozark",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab904d0116d4_mozark-logo-light.webp",
       "start_date": null,
       "end_date": "2026-11-05T00:00:00+05:30",
       "deadline": "2026-11-05T00:00:00+05:30",
@@ -10281,6 +10414,25 @@
       "start_date": null,
       "end_date": "2026-11-18T00:00:24+05:30",
       "deadline": "2026-11-18T00:00:24+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codetitans-india-2026-national-hackathon-wecodecoders-1766190",
+      "title": "CodeTitans India 2026 - National Hackathon",
+      "organizer": "WeCodeCoders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac3a5879edde_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "start_date": null,
+      "end_date": "2026-11-19T23:02:08+05:30",
+      "deadline": "2026-11-19T23:02:08+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
