@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-06T12:30:25.034778+00:00",
-  "total_count": 569,
+  "last_synced_at": "2026-10-06T22:03:57.901876+00:00",
+  "total_count": 574,
   "hackathons": [
     {
       "source": "Unstop",
@@ -5633,6 +5633,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/worst-game-wins-game-jam-indian-institute-of-information-technology-kottayam-1766924",
+      "title": "Worst Game Wins - Game Jam",
+      "organizer": "Indian Institute of Information technology, Kottayam",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac5328410093_whatsapp_image_2026-10-06_at_23_04_38.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-10T00:00:00+05:30",
+      "deadline": "2026-10-10T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/fusion-2026-iic-ecell-skncoe-x-skn-ieee-student-branch-1751766",
       "title": "Fusion 2026",
       "organizer": "IIC ECELL SKNCOE X SKN IEEE Student Branch",
@@ -6099,6 +6118,25 @@
       "start_date": null,
       "end_date": "2026-10-11T18:24:00+05:30",
       "deadline": "2026-10-11T18:24:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vortexa-30-12-hour-hackathon-drdypatil-institute-of-technology-pimpri-pune-1764042",
+      "title": "Vortexa 3.0 12-Hour Hackathon",
+      "organizer": "Dr.D.Y.Patil Institute of Technology, Pimpri, Pune",
+      "mode": "Offline",
+      "venue_address": "Dr.D.Y.Patil Institute of Technology, Pimpri, Pune, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abe3028037a9_whatsapp_image_2026-10-01_at_10_57_01_am.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-11T21:00:00+05:30",
+      "deadline": "2026-10-11T21:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -6762,6 +6800,25 @@
       "venue_address": "Indraprastha Institute of Information Technology (IIIT), Delhi, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac2482f54526_IIIT_Delhi_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-16T00:00:00+05:30",
+      "deadline": "2026-10-16T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/space-and-beyond-ideathon-2026-netaji-subhash-university-of-technology-main-campus-1766297",
+      "title": "Space and beyond: Ideathon 2026",
+      "organizer": "Netaji Subhash University of technology -Main Campus",
+      "mode": "Offline",
+      "venue_address": "Netaji Subhash University of technology -Main Campus, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac3cbc394d5a_1000105080.png",
       "start_date": null,
       "end_date": "2026-10-16T00:00:00+05:30",
       "deadline": "2026-10-16T00:00:00+05:30",
@@ -7731,6 +7788,25 @@
       "venue_address": "ISTE CGC UNIVERSITY, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a89eae4560f3_graviton_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-20T00:00:00+05:30",
+      "deadline": "2026-10-20T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-kernel-26-gokaraju-rangaraju-institute-of-engineering-and-technology-griet-hyderabad-1766839",
+      "title": "Code Kernel '26 ",
+      "organizer": "Gokaraju Rangaraju Institute of Engineering and Technology (GRIET), Hyderabad",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac50ecadd7da_xkernel-newlogo1.png",
       "start_date": null,
       "end_date": "2026-10-20T00:00:00+05:30",
       "deadline": "2026-10-20T00:00:00+05:30",
@@ -9596,6 +9672,25 @@
       "start_date": null,
       "end_date": "2026-11-05T00:00:00+05:30",
       "deadline": "2026-11-05T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vibex-codes-26-globalyogacourse-1766232",
+      "title": "VibeX codes 26",
+      "organizer": "globalyogacourse",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac3bd8b327ed_organisation_image-gJiZ5VLd5q323111427blSDwV8rAD.png",
+      "start_date": null,
+      "end_date": "2026-11-07T21:00:00+05:30",
+      "deadline": "2026-11-07T21:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
