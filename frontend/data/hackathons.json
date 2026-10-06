@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-06T04:04:56.926897+00:00",
-  "total_count": 566,
+  "last_synced_at": "2026-10-06T12:30:25.034778+00:00",
+  "total_count": 569,
   "hackathons": [
     {
       "source": "Unstop",
@@ -5614,6 +5614,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-war-80-assam-engineering-college-aec-assam-1766285",
+      "title": "Code War 8.0",
+      "organizer": "Assam Engineering College (AEC), Assam",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac3dd1ceb3a5_whatsapp_image_2026-10-05_at_10_52_47_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-10T00:00:00+05:30",
+      "deadline": "2026-10-10T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/fusion-2026-iic-ecell-skncoe-x-skn-ieee-student-branch-1751766",
       "title": "Fusion 2026",
       "organizer": "IIC ECELL SKNCOE X SKN IEEE Student Branch",
@@ -7031,6 +7050,25 @@
       "start_date": null,
       "end_date": "2026-10-16T23:59:00+05:30",
       "deadline": "2026-10-16T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacktoberfest-bfit-2026-bfit-group-of-institutions-1766440",
+      "title": "Hacktoberfest × BFIT 2026 ",
+      "organizer": "BFIT Group of Institutions",
+      "mode": "Offline",
+      "venue_address": "BFIT Group of Institutions, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac478b09b4db_hacktoberfest_bfit_2026_logo_920x920.png",
+      "start_date": null,
+      "end_date": "2026-10-17T00:00:00+05:30",
+      "deadline": "2026-10-17T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -8513,6 +8551,25 @@
       "start_date": null,
       "end_date": "2026-10-25T21:33:00+05:30",
       "deadline": "2026-10-25T21:33:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackosquad-ctf-2026-hackosquad-1766739",
+      "title": "Hackosquad CTF 2026 ",
+      "organizer": "Hackosquad",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac4d71189bcc_organisation_image-byPmzr49ng29979391M4Kb9bL9oI.png",
+      "start_date": null,
+      "end_date": "2026-10-26T00:00:00+05:30",
+      "deadline": "2026-10-26T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
