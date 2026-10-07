@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-07T03:32:28.358271+00:00",
-  "total_count": 574,
+  "last_synced_at": "2026-10-07T12:23:25.822336+00:00",
+  "total_count": 579,
   "hackathons": [
     {
       "source": "Unstop",
@@ -5634,7 +5634,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/worst-game-wins-game-jam-indian-institute-of-information-technology-kottayam-1766924",
-      "title": "Worst Game Wins - Game Jam",
+      "title": "Game Vita 5.0 - Worst Game Wins",
       "organizer": "Indian Institute of Information technology, Kottayam",
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
@@ -6270,6 +6270,25 @@
       "start_date": null,
       "end_date": "2026-10-12T11:00:00+05:30",
       "deadline": "2026-10-12T11:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/logic-flow-techfest26-annual-technical-festival-of-sliet-sant-longowal-institute-of-engineering-and-technolog-1742408",
+      "title": "Logic Flow",
+      "organizer": "Sant Longowal Institute of Engineering and Technology, Longowal, Punjab",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aad70b13ed20_logo_of_techfest.webp",
+      "start_date": null,
+      "end_date": "2026-10-12T11:23:15+05:30",
+      "deadline": "2026-10-12T11:23:15+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -7971,6 +7990,63 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/micromouse-manipal-institute-of-technology-bengaluru-1767260",
+      "title": "Micromouse",
+      "organizer": "Manipal Institute of Technology, Bengaluru",
+      "mode": "Offline",
+      "venue_address": "Manipal Institute of Technology, Bengaluru, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac62ae895404_screenshot_2026-10-07_at_16_53_31.png",
+      "start_date": null,
+      "end_date": "2026-10-21T00:00:00+05:30",
+      "deadline": "2026-10-21T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/craftcon-2k26-desh-bhagat-university-punjab-1767052",
+      "title": "Craftcon 2K26",
+      "organizer": "Desh Bhagat University, Punjab",
+      "mode": "Offline",
+      "venue_address": "Desh Bhagat University, Punjab, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac5df07b7d03_craftlogo000.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-21T00:00:00+05:30",
+      "deadline": "2026-10-21T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/procon-jr-indraprastha-institute-of-information-technology-iiit-delhi-1766977",
+      "title": "Procon Jr.",
+      "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
+      "mode": "Offline",
+      "venue_address": "Indraprastha Institute of Information Technology (IIIT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac5c8886e510_IIIT_Delhi_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-21T00:00:00+05:30",
+      "deadline": "2026-10-21T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/bit-n-build-around-the-world-2026-fr-conceicao-rodrigues-college-of-engineering-frcrce-bandra-1743581",
       "title": "Bit N Build - Around the World 2026",
       "organizer": "Fr. Conceicao Rodrigues College of Engineering (FRCRCE), Bandra",
@@ -8637,12 +8713,12 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackosquad-ctf-2026-hackosquad-1766739",
-      "title": "Hackosquad CTF 2026 ",
+      "title": "hackosquadCTF 2026: DOOMSDAY ",
       "organizer": "Hackosquad",
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac4d71189bcc_organisation_image-byPmzr49ng29979391M4Kb9bL9oI.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac5083e4893f_chatgpt_image_sep_28_2026_09_42_00_pm.jpg",
       "start_date": null,
       "end_date": "2026-10-26T00:00:00+05:30",
       "deadline": "2026-10-26T00:00:00+05:30",
@@ -9672,6 +9748,25 @@
       "start_date": null,
       "end_date": "2026-11-05T00:00:00+05:30",
       "deadline": "2026-11-05T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codefrontier-hackathon-hackwithpune-1767181",
+      "title": "CodeFrontier Hackathon - Hack With Pune ",
+      "organizer": "HackWithPune",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac6214e69e66_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
+      "start_date": null,
+      "end_date": "2026-11-06T14:22:00+05:30",
+      "deadline": "2026-11-06T14:22:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
