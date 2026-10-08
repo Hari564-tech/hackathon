@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-08T12:32:59.378446+00:00",
-  "total_count": 594,
+  "last_synced_at": "2026-10-08T22:41:49.672970+00:00",
+  "total_count": 602,
   "hackathons": [
     {
       "source": "Unstop",
@@ -6051,25 +6051,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/bits2wave-bms-institute-of-technology-and-management-bmsitm-bangalore-1761893",
-      "title": "Bits2Wave",
-      "organizer": "BMS Institute of Technology and Management (BMSITM), Bangalore",
-      "mode": "Offline",
-      "venue_address": "BMS Institute of Technology and Management (BMSITM), Bangalore, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ab93c7a662f3_B.M.S._Institute_of_Technology_and_Management_logo.png",
-      "start_date": null,
-      "end_date": "2026-10-11T11:00:00+05:30",
-      "deadline": "2026-10-11T11:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/build-with-bharat-40-codeverse-1750139",
       "title": "Build with bharat 4.0",
       "organizer": "Codeverse",
@@ -6514,6 +6495,25 @@
       "venue_address": "Indian Institute of Technology (IIT), Indore, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd5e149eeb3_whatsapp_image_2026-09-30_at_9_43_18_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-14T00:00:00+05:30",
+      "deadline": "2026-10-14T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/redline-ares-netaji-subhas-university-of-technology-nsut-delhi-1766284",
+      "title": "REDLINE - ARES ",
+      "organizer": "Netaji Subhas University of Technology (NSUT), Delhi",
+      "mode": "Offline",
+      "venue_address": "Netaji Subhas University of Technology (NSUT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac3cb821ec4f_img_8101.jpg",
       "start_date": null,
       "end_date": "2026-10-14T00:00:00+05:30",
       "deadline": "2026-10-14T00:00:00+05:30",
@@ -8142,6 +8142,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/build-with-ai-abc-anybody-can-code-tech-yuva-1765191",
+      "title": "Build with AI: ABC (Anybody Can Code)",
+      "organizer": "Tech Yuva",
+      "mode": "Offline",
+      "venue_address": "Tech Yuva, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac0c3cb9aa7f_ty_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-21T18:00:00+05:30",
+      "deadline": "2026-10-21T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/startup-ideathon-3o-coimbatore-institute-of-technology-cit-coimbatore-1755976",
       "title": "Startup Ideathon 3.O",
       "organizer": "Coimbatore Institute of Technology (CIT), Coimbatore",
@@ -8427,6 +8446,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/tata-elxsi-teliport-season-4-gl-bajaj-institute-of-management-greater-noida-1767967",
+      "title": "Tata Elxsi TELIPORT Season 4",
+      "organizer": "GL Bajaj Institute of Management, Greater Noida",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac7d04e05f54_organisation_image-8zD2zzweeb415697842ngdcS70yNh.png",
+      "start_date": null,
+      "end_date": "2026-10-23T21:31:00+05:30",
+      "deadline": "2026-10-23T21:31:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/build-2026-x-byteask-yc-f26-open-source-challenge-hackyard-1762455",
       "title": "Build 2026 x ByteAsk (YC F26): Open-Source Challenge",
       "organizer": "Hackyard",
@@ -8598,6 +8636,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-variant-build-01-code-variant-1763900",
+      "title": "Code Variant — Build 01",
+      "organizer": "Code Variant",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac7d2bd7c474_organisation_image-8JlacHIgbu593323671RjplP8sjT.png",
+      "start_date": null,
+      "end_date": "2026-10-24T23:59:00+05:30",
+      "deadline": "2026-10-24T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/shakti-hackathon-bubblesort-1758572",
       "title": "Shakti Hackathon",
       "organizer": "BUBBLESORT",
@@ -8732,7 +8789,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/line-o-mania-tantrafiesta26-iiitn-1767447",
-      "title": "Line-O-Mania",
+      "title": "Line-O-Mania | A Line Follower Competition",
       "organizer": "Indian Institute of Information Technology (IIIT), Nagpur",
       "mode": "Offline",
       "venue_address": "Indian Institute of Information Technology (IIIT), Nagpur, India",
@@ -8931,6 +8988,25 @@
       "start_date": null,
       "end_date": "2026-10-26T11:25:40+05:30",
       "deadline": "2026-10-26T11:25:40+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ragnarok-tantrafiesta26-iiitn-1767921",
+      "title": "RAGNAROK",
+      "organizer": "Indian Institute of Information Technology (IIIT), Nagpur",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Information Technology (IIIT), Nagpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac54b2e2e833_asset_35_2x-removebg-preview.png",
+      "start_date": null,
+      "end_date": "2026-10-26T12:00:00+05:30",
+      "deadline": "2026-10-26T12:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -9425,6 +9501,25 @@
       "start_date": null,
       "end_date": "2026-10-31T09:07:46+05:30",
       "deadline": "2026-10-31T09:07:46+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/build-for-bharat-2026-software-hardware-hackathon-kiet-group-of-institutions-delhi-ncr-1767548",
+      "title": "Build for Bharat 2026 | Software + Hardware Hackathon",
+      "organizer": "KIET Group of Institutions, Delhi-NCR",
+      "mode": "Offline",
+      "venue_address": "KIET Group of Institutions, Delhi-NCR, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac69069f40ec_build_for_bharat_2026_hackathon_logo_square.png",
+      "start_date": null,
+      "end_date": "2026-10-31T10:00:00+05:30",
+      "deadline": "2026-10-31T10:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -9966,6 +10061,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/indiathon-powered-by-e-cell-iiit-bhubaneswar-co-powered-by-learnapart-international-institute-of-information--1765224",
+      "title": "Indiathon – Powered by E-Cell IIIT Bhubaneswar , Co-powered by LearnApart",
+      "organizer": "International Institute of Information Technology, Bhubaneswar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac0c75634f95_file_0000000071f48211a234b6f4a4ecb38e.png",
+      "start_date": null,
+      "end_date": "2026-11-04T13:37:00+05:30",
+      "deadline": "2026-11-04T13:37:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codeverse-2026-open-innovation-hackathon-codeverse-community-1764453",
       "title": "CodeVerse 2026 - Open Innovation Hackathon",
       "organizer": "CodeVerse Community",
@@ -10067,7 +10181,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac759dbf3fbd_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac7ace815eda_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
       "start_date": null,
       "end_date": "2026-11-09T01:11:03+05:30",
       "deadline": "2026-11-09T01:11:03+05:30",
@@ -10086,7 +10200,7 @@
       "mode": "Offline",
       "venue_address": "ECHELON INSTITUTE OF TECHNOLOGY, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac6f89382d27_abhi.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac7c9e19ab5a_herhack_logo_under_1mb.png",
       "start_date": null,
       "end_date": "2026-11-10T23:59:00+05:30",
       "deadline": "2026-11-10T23:59:00+05:30",
@@ -10508,6 +10622,25 @@
       "start_date": null,
       "end_date": "2026-11-14T00:00:00+05:30",
       "deadline": "2026-11-14T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/colossus-3o-dr-ambedkar-institute-of-technology-dr-ait-bangalore-1767506",
+      "title": "Colossus 3.O",
+      "organizer": "Dr. Ambedkar Institute of Technology (Dr. AIT), Bangalore",
+      "mode": "Offline",
+      "venue_address": "Dr. Ambedkar Institute of Technology (Dr. AIT), Bangalore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac6a6b2e5c16_final_1.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T10:01:00+05:30",
+      "deadline": "2026-11-14T10:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -10984,6 +11117,25 @@
       "start_date": null,
       "end_date": "2026-11-20T17:00:00+05:30",
       "deadline": "2026-11-20T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/bits2wave-bms-institute-of-technology-and-management-bmsitm-bangalore-1761893",
+      "title": "Bits2Wave",
+      "organizer": "BMS Institute of Technology and Management (BMSITM), Bangalore",
+      "mode": "Offline",
+      "venue_address": "BMS Institute of Technology and Management (BMSITM), Bangalore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab94d61de020_chatgpt_image_sep_26_2026_02_48_11_pm.png",
+      "start_date": null,
+      "end_date": "2026-11-22T12:00:00+05:30",
+      "deadline": "2026-11-22T12:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
