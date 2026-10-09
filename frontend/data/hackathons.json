@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-09T12:21:00.537077+00:00",
-  "total_count": 606,
+  "last_synced_at": "2026-10-09T22:03:42.323956+00:00",
+  "total_count": 613,
   "hackathons": [
     {
       "source": "Unstop",
@@ -6792,6 +6792,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/debug-decrypt-30-the-ultimate-algorithm-challenge-dronacharya-college-of-engineering-dce-gurgaon-1768341",
+      "title": "Debug Decrypt 3.0 — the Ultimate Algorithm Challenge",
+      "organizer": "Dronacharya College Of Engineering (DCE), Gurgaon",
+      "mode": "Offline",
+      "venue_address": "Dronacharya College Of Engineering (DCE), Gurgaon, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac8d72242797_minimalist_de_tech_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-15T17:00:00+05:30",
+      "deadline": "2026-10-15T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hac-tic-thon-come-with-ideas-leave-with-bugs-shaheed-rajguru-college-of-applied-sciences-for-women-delhi-univ-1761017",
       "title": "HAC - TIC - THON :- Come With Ideas, Leave With Bugs.",
       "organizer": "Shaheed Rajguru College of Applied Sciences for Women, Delhi University",
@@ -8313,6 +8332,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/gameforge-26-university-school-of-automation-robotics-usar-guru-gobind-singh-indraprastha-university-ggsipu-d-1768377",
+      "title": "GameForge '26",
+      "organizer": "University School of Automation & Robotics (USAR) ,Guru Gobind Singh Indraprastha University (GGSIPU), Delhi",
+      "mode": "Offline",
+      "venue_address": "University School of Automation & Robotics (USAR) ,Guru Gobind Singh Indraprastha University (GGSIPU), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac94d97614a5_gameforge.png",
+      "start_date": null,
+      "end_date": "2026-10-22T19:00:00+05:30",
+      "deadline": "2026-10-22T19:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/winter-coding-contest-60-acm-student-chapter-vnrvjiet-1761560",
       "title": "Winter Coding Contest 6.0",
       "organizer": "ACM Student Chapter, VNRVJIET",
@@ -8418,6 +8456,25 @@
       "start_date": null,
       "end_date": "2026-10-23T03:31:37+05:30",
       "deadline": "2026-10-23T03:31:37+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/craftcon-2k26-desh-bhagat-university-1767851",
+      "title": "CRAFTCON 2K26",
+      "organizer": "Desh bhagat university",
+      "mode": "Offline",
+      "venue_address": "Desh bhagat university, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac77c0086c36_logo.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-23T12:00:00+05:30",
+      "deadline": "2026-10-23T12:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -8834,8 +8891,8 @@
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac54ae79a9cd_asset_35_2x-removebg-preview.png",
       "start_date": null,
-      "end_date": "2026-10-25T15:30:00+05:30",
-      "deadline": "2026-10-25T15:30:00+05:30",
+      "end_date": "2026-10-25T16:00:18+05:30",
+      "deadline": "2026-10-25T16:00:18+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -9102,6 +9159,44 @@
       "start_date": null,
       "end_date": "2026-10-26T17:06:34+05:30",
       "deadline": "2026-10-26T17:06:34+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/flashcode-tantrafiesta26-iiitn-1765827",
+      "title": "FlashCode",
+      "organizer": "Indian Institute of Information Technology (IIIT), Nagpur",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Information Technology (IIIT), Nagpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac54a5b52099_asset_35_2x-removebg-preview.png",
+      "start_date": null,
+      "end_date": "2026-10-26T18:00:00+05:30",
+      "deadline": "2026-10-26T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/keep-alive-26-iiitn-1766226",
+      "title": "Keep Alive ’26",
+      "organizer": "Indian Institute of Information Technology (IIIT), Nagpur",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Information Technology (IIIT), Nagpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac54977c651a_asset_35_2x-removebg-preview.png",
+      "start_date": null,
+      "end_date": "2026-10-26T19:00:00+05:30",
+      "deadline": "2026-10-26T19:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -9890,6 +9985,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/d3coy-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1767673",
+      "title": "D3COY",
+      "organizer": "Shri Vile Parle Kelavani Mandal's Dwarkadas J. Sanghvi College of Engineering (DJSCE), Mumbai",
+      "mode": "Offline",
+      "venue_address": "Shri Vile Parle Kelavani Mandal's Dwarkadas J. Sanghvi College of Engineering (DJSCE), Mumbai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac73952a5ce7_whatsapp_image_2026-10-08_at_11_35_36_am.jpeg",
+      "start_date": null,
+      "end_date": "2026-11-01T12:00:00+05:30",
+      "deadline": "2026-11-01T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/secleaf-q4-ctf-2026-secleaf-1755320",
       "title": "SecLeaf Q4 CTF 2026",
       "organizer": "SecLeaf",
@@ -10042,6 +10156,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/stem-for-impact-24hrs-hackathon-presidency-university-pu-bangalore-1763829",
+      "title": "Stem for Impact 24hrs Hackathon",
+      "organizer": "Presidency University (PU), Bangalore",
+      "mode": "Offline",
+      "venue_address": "Presidency University (PU), Bangalore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6abd0faec8d85_screenshot_2026-09-30_190318.png",
+      "start_date": null,
+      "end_date": "2026-11-01T23:59:32+05:30",
+      "deadline": "2026-11-01T23:59:32+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/saarthi26-ieee-student-branch-graphic-era-hill-university-1758280",
       "title": "SAARTHI'26",
       "organizer": "Graphic Era Hill University (GEHU), Dehradun Campus",
@@ -10124,7 +10257,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac0c75634f95_file_0000000071f48211a234b6f4a4ecb38e.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac8e58c9d93b_logo_2.png",
       "start_date": null,
       "end_date": "2026-11-04T13:37:00+05:30",
       "deadline": "2026-11-04T13:37:00+05:30",
