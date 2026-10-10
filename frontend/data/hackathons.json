@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-10T11:39:28.558904+00:00",
-  "total_count": 623,
+  "last_synced_at": "2026-10-10T16:40:58.592255+00:00",
+  "total_count": 627,
   "hackathons": [
     {
       "source": "Unstop",
@@ -8237,6 +8237,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cognext-agent-force-vjti-mumbai-1765869",
+      "title": "CognitionNext '26",
+      "organizer": "VJTI Mumbai ",
+      "mode": "Offline",
+      "venue_address": "VJTI Mumbai , India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac335e8d6134_vjti_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-21T23:59:00+05:30",
+      "deadline": "2026-10-21T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/startup-ideathon-3o-coimbatore-institute-of-technology-cit-coimbatore-1755976",
       "title": "Startup Ideathon 3.O",
       "organizer": "Coimbatore Institute of Technology (CIT), Coimbatore",
@@ -8826,6 +8845,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/blackout-ctf-nexploit-1768853",
+      "title": "Blackout CTF",
+      "organizer": "Nexploit",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aca569c1fb0a_whatsapp_image_2026-10-06_at_12_06_34.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-25T00:00:00+05:30",
+      "deadline": "2026-10-25T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/shakti-hackathon-bubblesort-1758572",
       "title": "Shakti Hackathon",
       "organizer": "BUBBLESORT",
@@ -8912,6 +8950,25 @@
       "start_date": null,
       "end_date": "2026-10-25T08:01:00+05:30",
       "deadline": "2026-10-25T08:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/designathon-tantrafiesta26-iiitn-1767529",
+      "title": "Designathon",
+      "organizer": "Indian Institute of Information Technology (IIIT), Nagpur",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Information Technology (IIIT), Nagpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac557e043002_whatsapp_image_2026-10-07_at_1_48_43_am.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-25T09:00:58+05:30",
+      "deadline": "2026-10-25T09:00:58+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -10219,7 +10276,7 @@
       "mode": "Offline",
       "venue_address": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac9c3b2ecb5c_Indira_Gandhi_Delhi_Technical_University_for_Women_logo.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aca31203f945_logo_3.png",
       "start_date": null,
       "end_date": "2026-11-01T21:00:00+05:30",
       "deadline": "2026-11-01T21:00:00+05:30",
@@ -10489,25 +10546,6 @@
       "start_date": null,
       "end_date": "2026-11-06T14:22:00+05:30",
       "deadline": "2026-11-06T14:22:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/threws-odyssey-2026-threws-the-research-world-1766434",
-      "title": "Threws Odyssey 2026",
-      "organizer": "Threws - The Research World",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac68c4b56ffa_threws-logo.png",
-      "start_date": null,
-      "end_date": "2026-11-07T17:00:00+05:30",
-      "deadline": "2026-11-07T17:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -11372,6 +11410,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/threws-odyssey-2026-threws-the-research-world-1766434",
+      "title": "Threws Odyssey 2026",
+      "organizer": "Threws - The Research World",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac68c4b56ffa_threws-logo.png",
+      "start_date": null,
+      "end_date": "2026-11-15T18:00:00+05:30",
+      "deadline": "2026-11-15T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/nasa-space-apps-challenge-2026-national-institute-of-technology-nit-raipur-1745979",
       "title": "NASA Space Apps Challenge 2026",
       "organizer": "National Institute of Technology (NIT), Raipur",
@@ -11573,6 +11630,25 @@
       "start_date": null,
       "end_date": "2026-11-23T00:00:00+05:30",
       "deadline": "2026-11-23T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/startupathon-founders-league-persist-ventures-1766843",
+      "title": "Startupathon Founders League",
+      "organizer": "Persist Ventures",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac9eeb4d7b76_images_2.jpeg",
+      "start_date": null,
+      "end_date": "2026-11-24T00:09:00+05:30",
+      "deadline": "2026-11-24T00:09:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
