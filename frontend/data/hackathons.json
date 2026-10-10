@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-10T03:36:18.989407+00:00",
-  "total_count": 613,
+  "last_synced_at": "2026-10-10T11:39:28.558904+00:00",
+  "total_count": 623,
   "hackathons": [
     {
       "source": "Unstop",
@@ -6811,6 +6811,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ideathon-ram-lal-anand-college-university-of-delhi-1768697",
+      "title": "Ideathon",
+      "organizer": "Ram Lal Anand College, University of Delhi",
+      "mode": "Offline",
+      "venue_address": "Ram Lal Anand College, University of Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aca052806243_Ram_Lal_Anand_College.png",
+      "start_date": null,
+      "end_date": "2026-10-15T17:00:00+05:30",
+      "deadline": "2026-10-15T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hac-tic-thon-come-with-ideas-leave-with-bugs-shaheed-rajguru-college-of-applied-sciences-for-women-delhi-univ-1761017",
       "title": "HAC - TIC - THON :- Come With Ideas, Leave With Bugs.",
       "organizer": "Shaheed Rajguru College of Applied Sciences for Women, Delhi University",
@@ -8313,6 +8332,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-auction-guru-tegh-bahadur-4th-centenary-engineering-college-delhi-1768506",
+      "title": "Code Auction",
+      "organizer": "Guru Tegh Bahadur 4th Centenary Engineering College, Delhi",
+      "mode": "Offline",
+      "venue_address": "Guru Tegh Bahadur 4th Centenary Engineering College, Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac9c5e52fec8_organisation_image-4irwHEF3zs9283690348emNtJPdSn.png",
+      "start_date": null,
+      "end_date": "2026-10-22T15:00:00+05:30",
+      "deadline": "2026-10-22T15:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/foss-forge-20-university-school-of-automation-robotics-usar-guru-gobind-singh-indraprastha-university-ggsipu--1767553",
       "title": "Foss Forge 2.0",
       "organizer": "University School of Automation & Robotics (USAR) ,Guru Gobind Singh Indraprastha University (GGSIPU), Delhi",
@@ -8342,6 +8380,25 @@
       "start_date": null,
       "end_date": "2026-10-22T19:00:00+05:30",
       "deadline": "2026-10-22T19:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-at-bvp-80-bharati-vidyapeeths-college-of-engineering-1768545",
+      "title": "Hack@BVP 8.0",
+      "organizer": "Bharati Vidyapeeth's College of Engineering",
+      "mode": "Offline",
+      "venue_address": "Bharati Vidyapeeth's College of Engineering, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac933d88668e_hackbvp8_0_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-22T20:00:00+05:30",
+      "deadline": "2026-10-22T20:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -8570,6 +8627,25 @@
       "start_date": null,
       "end_date": "2026-10-23T23:59:00+05:30",
       "deadline": "2026-10-23T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/blitz26-technical-coding-mookambigai-college-of-engineering-1768744",
+      "title": "Blitz'26 - Technical Coding",
+      "organizer": "Mookambigai College of Engineering",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aca10fc87a81_header_img.jpg",
+      "start_date": null,
+      "end_date": "2026-10-24T00:00:00+05:30",
+      "deadline": "2026-10-24T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -8883,6 +8959,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/algorithmia-the-icpc-style-coding-challenge-iiitn-1768266",
+      "title": "Algorithmia - The ICPC Style Coding Challenge",
+      "organizer": "Indian Institute of Information Technology (IIIT), Nagpur",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Information Technology (IIIT), Nagpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac8a0aa3a86d_asset_35_2x-removebg-preview.png",
+      "start_date": null,
+      "end_date": "2026-10-25T16:00:00+05:30",
+      "deadline": "2026-10-25T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/line-o-mania-tantrafiesta26-iiitn-1767447",
       "title": "Line-O-Mania | A Line Follower Competition",
       "organizer": "Indian Institute of Information Technology (IIIT), Nagpur",
@@ -9140,6 +9235,25 @@
       "start_date": null,
       "end_date": "2026-10-26T12:42:14+05:30",
       "deadline": "2026-10-26T12:42:14+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-lost-pathways-a-micromouse-event-tantrafiesta26-iiitn-1767543",
+      "title": "The Lost Pathways (A Micromouse Event)",
+      "organizer": "Indian Institute of Information Technology (IIIT), Nagpur",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Information Technology (IIIT), Nagpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac54a2d1236c_asset_35_2x-removebg-preview.png",
+      "start_date": null,
+      "end_date": "2026-10-26T16:00:00+05:30",
+      "deadline": "2026-10-26T16:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -9719,6 +9833,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/sphinx-26-hackerss-unity-1767767",
+      "title": "Sphinx 26",
+      "organizer": "Hackers's Unity",
+      "mode": "Offline",
+      "venue_address": "Hackers's Unity, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aca1cd978181_organisation_image-CyY2XsTYpI1682594271yn59GSRNiG.png",
+      "start_date": null,
+      "end_date": "2026-10-31T14:12:00+05:30",
+      "deadline": "2026-10-31T14:12:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackthestack-bharati-vidyapeeth-university-institute-of-management-and-research-bvimr-new-delhi-1734963",
       "title": "HackTheStack",
       "organizer": "Bharati Vidyapeeth University, Institute of Management and Research (BVIMR), New Delhi",
@@ -10080,6 +10213,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/kritical-hacks-2026-igdtuw-delhi-1760989",
+      "title": "Kritical Hacks 2026",
+      "organizer": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi",
+      "mode": "Offline",
+      "venue_address": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac9c3b2ecb5c_Indira_Gandhi_Delhi_Technical_University_for_Women_logo.png",
+      "start_date": null,
+      "end_date": "2026-11-01T21:00:00+05:30",
+      "deadline": "2026-11-01T21:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/agentic-ai-hackathon-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742838",
       "title": "Agentic AI Hackathon",
       "organizer": "Indian Institute Of Technology Bhubaneswar",
@@ -10308,6 +10460,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codersinpune-hackathon-hackwithpune-1768758",
+      "title": "CodersInPune Hackathon - HackWIthPune",
+      "organizer": "HackWithPune",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aca16e8a3763_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
+      "start_date": null,
+      "end_date": "2026-11-06T05:48:23+05:30",
+      "deadline": "2026-11-06T05:48:23+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codefrontier-hackathon-hackwithpune-1767181",
       "title": "CodeFrontier Hackathon - Hack With Pune ",
       "organizer": "HackWithPune",
@@ -10318,6 +10489,25 @@
       "start_date": null,
       "end_date": "2026-11-06T14:22:00+05:30",
       "deadline": "2026-11-06T14:22:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/threws-odyssey-2026-threws-the-research-world-1766434",
+      "title": "Threws Odyssey 2026",
+      "organizer": "Threws - The Research World",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac68c4b56ffa_threws-logo.png",
+      "start_date": null,
+      "end_date": "2026-11-07T17:00:00+05:30",
+      "deadline": "2026-11-07T17:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -10352,7 +10542,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac8db583dca1_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aca0cfc0962b_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
       "start_date": null,
       "end_date": "2026-11-08T18:30:00+05:30",
       "deadline": "2026-11-08T18:30:00+05:30",
