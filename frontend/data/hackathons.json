@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-10T16:40:58.592255+00:00",
-  "total_count": 627,
+  "last_synced_at": "2026-10-10T20:56:48.290207+00:00",
+  "total_count": 633,
   "hackathons": [
     {
       "source": "Unstop",
@@ -6469,6 +6469,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-attack-8-hour-inter-college-hackathon-amc-engineering-college-amcec-bengaluru-1766831",
+      "title": "HACK ATTACK — 8-Hour Inter-College Hackathon ",
+      "organizer": "AMC Engineering College (AMCEC), Bengaluru",
+      "mode": "Offline",
+      "venue_address": "AMC Engineering College (AMCEC), Bengaluru, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac506d203399_cs-ai.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-13T15:02:23+05:30",
+      "deadline": "2026-10-13T15:02:23+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hack-era-10-erazone-1755150",
       "title": "Hack Era 1.0",
       "organizer": "Erazone",
@@ -8864,6 +8883,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/nexhack-30-build-whats-next-nexhack-30-build-whats-next-nexhack-1768863",
+      "title": "NexHack 3.0 — Build What's Next",
+      "organizer": "NexHack",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aca690ae22ef_whatsapp_image_2026-09-22_at_11_00_29_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-25T00:00:00+05:30",
+      "deadline": "2026-10-25T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/shakti-hackathon-bubblesort-1758572",
       "title": "Shakti Hackathon",
       "organizer": "BUBBLESORT",
@@ -9187,6 +9225,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/chronoforge-nitk-surathkal-1768719",
+      "title": "ChronoForge",
+      "organizer": "National Institute of Technology Karnataka (NITK), Surathkal",
+      "mode": "Offline",
+      "venue_address": "National Institute of Technology Karnataka (NITK), Surathkal, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aca040d4f5e4_screenshot_2026-10-10_at_2_18_01_pm.png",
+      "start_date": null,
+      "end_date": "2026-10-25T22:00:00+05:30",
+      "deadline": "2026-10-25T22:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-red-competitive-programming-contest-xordium-50-birla-institute-of-technology-bit-mesra-patna-campus-1768869",
+      "title": "CODE RED — Competitive Programming Contest",
+      "organizer": "Birla Institute of Technology (BIT), Mesra, Patna Campus",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aca6f271b99d_uploadedmanual-690f8ee97a773_223.webp",
+      "start_date": null,
+      "end_date": "2026-10-25T23:30:00+05:30",
+      "deadline": "2026-10-25T23:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackosquad-ctf-2026-hackosquad-1766739",
       "title": "hackosquadCTF 2026: DOOMSDAY ",
       "organizer": "Hackosquad",
@@ -9216,6 +9292,25 @@
       "start_date": null,
       "end_date": "2026-10-26T01:27:08+05:30",
       "deadline": "2026-10-26T01:27:08+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cascade26-flagship-hackathon-tantrafiesta26-iiitn-1766233",
+      "title": "Cascade’26 — Flagship Hackathon",
+      "organizer": "Indian Institute of Information Technology (IIIT), Nagpur",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Information Technology (IIIT), Nagpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac549443b185_asset_35_2x-removebg-preview.png",
+      "start_date": null,
+      "end_date": "2026-10-26T11:00:00+05:30",
+      "deadline": "2026-10-26T11:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -9916,6 +10011,25 @@
       "venue_address": "Bharati Vidyapeeth University, Institute of Management and Research (BVIMR), New Delhi, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7a16f524602_whatsapp_image_2026-08-10_at_11_47_17_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-31T17:00:00+05:30",
+      "deadline": "2026-10-31T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-outpost-frontend-arena-1766381",
+      "title": "The Outpost",
+      "organizer": "Frontend Arena",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac3dfcc89d26_fa_logo.png",
       "start_date": null,
       "end_date": "2026-10-31T17:00:00+05:30",
       "deadline": "2026-10-31T17:00:00+05:30",
