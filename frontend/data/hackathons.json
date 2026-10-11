@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-11T17:06:58.472424+00:00",
-  "total_count": 638,
+  "last_synced_at": "2026-10-11T21:18:14.570400+00:00",
+  "total_count": 639,
   "hackathons": [
     {
       "source": "Unstop",
@@ -8677,10 +8677,10 @@
       "source_url": "https://unstop.com/hackathons/hackathons/blitz26-technical-coding-mookambigai-college-of-engineering-1768744",
       "title": "Blitz'26 - Technical Coding & Debugging Event",
       "organizer": "Mookambigai College of Engineering",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acb947dc71c0_header_img.jpg",
+      "mode": "Offline",
+      "venue_address": "Mookambigai College of Engineering, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acbde4393231_neon_code_lightning_emblem.png",
       "start_date": null,
       "end_date": "2026-10-24T00:00:00+05:30",
       "deadline": "2026-10-24T00:00:00+05:30",
@@ -9833,6 +9833,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-outpost-frontend-arena-1766381",
+      "title": "The Outpost",
+      "organizer": "Frontend Arena",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac3dfcc89d26_fa_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-30T00:00:00+05:30",
+      "deadline": "2026-10-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codehack-india-national-level-hackathon-wecodecoders-1762158",
       "title": "CodeHack India - National Level Hackathon",
       "organizer": "WeCodeCoders",
@@ -9919,6 +9938,25 @@
       "start_date": null,
       "end_date": "2026-10-30T21:00:00+05:30",
       "deadline": "2026-10-30T21:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codewithchat-ai-dev-challenge-build-launch-monetize-with-vibe-coding-codewithchat-1769081",
+      "title": "CodewithChat AI Dev Challenge: Build, Launch & Monetize with Vibe Coding",
+      "organizer": "CodewithChat",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acbba3ce7fde_organisation_image-Pzy2IyuEnV40412724PASjjpVNao.png",
+      "start_date": null,
+      "end_date": "2026-10-30T22:05:00+05:30",
+      "deadline": "2026-10-30T22:05:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -10755,25 +10793,6 @@
       "start_date": null,
       "end_date": "2026-11-07T21:00:00+05:30",
       "deadline": "2026-11-07T21:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/the-outpost-frontend-arena-1766381",
-      "title": "The Outpost",
-      "organizer": "Frontend Arena",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac3dfcc89d26_fa_logo.png",
-      "start_date": null,
-      "end_date": "2026-11-08T16:00:00+05:30",
-      "deadline": "2026-11-08T16:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
