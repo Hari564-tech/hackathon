@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-11T11:52:44.221384+00:00",
-  "total_count": 633,
+  "last_synced_at": "2026-10-11T17:06:58.472424+00:00",
+  "total_count": 638,
   "hackathons": [
     {
       "source": "Unstop",
@@ -7477,6 +7477,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/pitchbreak-the-survival-arena-university-school-of-automation-robotics-usar-ggsipu-edc-1768977",
+      "title": "Pitch//break: The Survival Arena",
+      "organizer": "University School of Automation & Robotics (USAR), GGSIPU EDC",
+      "mode": "Offline",
+      "venue_address": "University School of Automation & Robotics (USAR), GGSIPU EDC, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acb5f590751b_usar.jpg",
+      "start_date": null,
+      "end_date": "2026-10-18T00:00:00+05:30",
+      "deadline": "2026-10-18T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/namo-bharat-30-hour-national-hackathon-2026-sanskriti-university-1762223",
       "title": "Namo Bharat – 30-Hour National Hackathon 2026",
       "organizer": "Sanskriti University",
@@ -8656,12 +8675,12 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/blitz26-technical-coding-mookambigai-college-of-engineering-1768744",
-      "title": "Blitz'26 - Technical Coding",
+      "title": "Blitz'26 - Technical Coding & Debugging Event",
       "organizer": "Mookambigai College of Engineering",
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aca10fc87a81_header_img.jpg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acb947dc71c0_header_img.jpg",
       "start_date": null,
       "end_date": "2026-10-24T00:00:00+05:30",
       "deadline": "2026-10-24T00:00:00+05:30",
@@ -8788,6 +8807,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/webforge-ai-st-vincent-pallotti-college-of-engineering-and-technology-nagpur-1765780",
+      "title": "Webforge AI",
+      "organizer": "St Vincent pallotti college of engineering and technology nagpur",
+      "mode": "Offline",
+      "venue_address": "St Vincent pallotti college of engineering and technology nagpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac921dda5cbc_whatsapp_image_2026-10-09_at_10_46_46_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-24T16:00:00+05:30",
+      "deadline": "2026-10-24T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/infothon-70-vidyavardhaka-college-of-engineering-mysore-1754844",
       "title": "Infothon 7.0",
       "organizer": "Vidyavardhaka College of Engineering, Mysore",
@@ -8890,6 +8928,44 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aca690ae22ef_whatsapp_image_2026-09-22_at_11_00_29_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-25T00:00:00+05:30",
+      "deadline": "2026-10-25T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/national-online-hackathon-2026-edxcellence-llp-1769011",
+      "title": "National Online Hackathon 2026 ",
+      "organizer": "EDXcellence LLP",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acba28f3e280_organisation_image-SKNBuBphbW1064438678pjVtQ5BH82.png",
+      "start_date": null,
+      "end_date": "2026-10-25T00:00:00+05:30",
+      "deadline": "2026-10-25T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/revhack-polygnan-foundation-1768995",
+      "title": "Revhack",
+      "organizer": "Polygnan Foundation",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acb97ffbad04_oct_17_10_00_am_oct_18_10_00_pm_4.png",
       "start_date": null,
       "end_date": "2026-10-25T00:00:00+05:30",
       "deadline": "2026-10-25T00:00:00+05:30",
@@ -9244,6 +9320,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/kannada-digital-innovation-hackathon-2026-the-national-institute-of-engineering-karnataka-1769004",
+      "title": "Kannada Digital Innovation Hackathon 2026",
+      "organizer": "The National Institute of Engineering, Karnataka",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acbbb0036b7d_nie.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-25T22:00:00+05:30",
+      "deadline": "2026-10-25T22:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/code-red-competitive-programming-contest-xordium-50-birla-institute-of-technology-bit-mesra-patna-campus-1768869",
       "title": "CODE RED — Competitive Programming Contest",
       "organizer": "Birla Institute of Technology (BIT), Mesra, Patna Campus",
@@ -9302,7 +9397,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/cascade26-flagship-hackathon-tantrafiesta26-iiitn-1766233",
-      "title": "Cascade’26 — Flagship Hackathon",
+      "title": "Cascade — Flagship Hackathon ",
       "organizer": "Indian Institute of Information Technology (IIIT), Nagpur",
       "mode": "Offline",
       "venue_address": "Indian Institute of Information Technology (IIIT), Nagpur, India",
@@ -10023,25 +10118,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/the-outpost-frontend-arena-1766381",
-      "title": "The Outpost",
-      "organizer": "Frontend Arena",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac3dfcc89d26_fa_logo.png",
-      "start_date": null,
-      "end_date": "2026-10-31T17:00:00+05:30",
-      "deadline": "2026-10-31T17:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/national-machine-coding-lld-and-production-debugging-contest-gronex-1765656",
       "title": "National Machine Coding, LLD and Production Debugging Contest ",
       "organizer": "Gronex",
@@ -10679,6 +10755,25 @@
       "start_date": null,
       "end_date": "2026-11-07T21:00:00+05:30",
       "deadline": "2026-11-07T21:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-outpost-frontend-arena-1766381",
+      "title": "The Outpost",
+      "organizer": "Frontend Arena",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac3dfcc89d26_fa_logo.png",
+      "start_date": null,
+      "end_date": "2026-11-08T16:00:00+05:30",
+      "deadline": "2026-11-08T16:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
