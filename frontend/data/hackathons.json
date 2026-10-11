@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-10-11T03:09:15.061493+00:00",
+  "last_synced_at": "2026-10-11T11:52:44.221384+00:00",
   "total_count": 633,
   "hackathons": [
     {
@@ -8693,6 +8693,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cognext-agent-force-vjti-mumbai-1765869",
+      "title": "CognitionNext '26",
+      "organizer": "VJTI Mumbai ",
+      "mode": "Offline",
+      "venue_address": "VJTI Mumbai , India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac335e8d6134_vjti_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-24T09:00:00+05:30",
+      "deadline": "2026-10-24T09:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/game-jam-tantrafiesta-2026-iiitn-1756367",
       "title": "Game Jam - TantraFiesta 2026",
       "organizer": "Indian Institute of Information Technology (IIIT), Nagpur",
@@ -9273,25 +9292,6 @@
       "start_date": null,
       "end_date": "2026-10-26T01:27:08+05:30",
       "deadline": "2026-10-26T01:27:08+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/cognext-agent-force-vjti-mumbai-1765869",
-      "title": "CognitionNext '26",
-      "organizer": "VJTI Mumbai ",
-      "mode": "Offline",
-      "venue_address": "VJTI Mumbai , India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac335e8d6134_vjti_logo.png",
-      "start_date": null,
-      "end_date": "2026-10-26T08:25:00+05:30",
-      "deadline": "2026-10-26T08:25:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
