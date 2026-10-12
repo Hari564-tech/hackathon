@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-12T14:00:42.808267+00:00",
-  "total_count": 651,
+  "last_synced_at": "2026-10-12T23:59:32.207414+00:00",
+  "total_count": 657,
   "hackathons": [
     {
       "source": "Unstop",
@@ -7287,6 +7287,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackathon-shourya-mvsr-engineering-college-mvsrec-hyderabad-1769437",
+      "title": "Hackathon",
+      "organizer": "MVSR Engineering College (MVSREC), Hyderabad",
+      "mode": "Offline",
+      "venue_address": "MVSR Engineering College (MVSREC), Hyderabad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acd11ed0ce4a_",
+      "start_date": null,
+      "end_date": "2026-10-16T21:59:30+05:30",
+      "deadline": "2026-10-16T21:59:30+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackiiitd-esya26-indraprastha-institute-of-information-technology-iiit-delhi-1761212",
       "title": "HackIIITD",
       "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
@@ -8066,44 +8085,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/kill-switch-tech-fusion-26-vaish-college-of-engineering-rohtak-haryana-1769184",
-      "title": "Kill Switch",
-      "organizer": "Vaish College of Engineering, Rohtak, Haryana",
-      "mode": "Offline",
-      "venue_address": "Vaish College of Engineering, Rohtak, Haryana, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acc83abd8bbf_whatsapp_image_2026-10-12_at_12_22_10.jpeg",
-      "start_date": null,
-      "end_date": "2026-10-20T12:00:00+05:30",
-      "deadline": "2026-10-20T12:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/server-crash-who-killed-the-server-tech-fusion-26-vaish-college-of-engineering-rohtak-haryana-1769168",
-      "title": "Server Crash - Who Killed the server?",
-      "organizer": "Vaish College of Engineering, Rohtak, Haryana",
-      "mode": "Offline",
-      "venue_address": "Vaish College of Engineering, Rohtak, Haryana, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acc7ee3537c1_server_crash_competition_emblem-removebg-preview.png",
-      "start_date": null,
-      "end_date": "2026-10-20T12:06:00+05:30",
-      "deadline": "2026-10-20T12:06:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/globathon-globatech-group-1762609",
       "title": "Globathon",
       "organizer": "Globatech Group",
@@ -8294,6 +8275,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/fallout-university-school-of-automation-robotics-usar-guru-gobind-singh-indraprastha-university-ggsipu-delhi-1769462",
+      "title": "Fallout",
+      "organizer": "University School of Automation & Robotics (USAR) ,Guru Gobind Singh Indraprastha University (GGSIPU), Delhi",
+      "mode": "Offline",
+      "venue_address": "University School of Automation & Robotics (USAR) ,Guru Gobind Singh Indraprastha University (GGSIPU), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6accfbde53006_2_20261012_205427_0001.png",
+      "start_date": null,
+      "end_date": "2026-10-21T16:00:00+05:30",
+      "deadline": "2026-10-21T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/build-with-ai-abc-anybody-can-code-tech-yuva-1765191",
       "title": "Build with AI: ABC (Anybody Can Code)",
       "organizer": "Tech Yuva",
@@ -8358,6 +8358,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac733cfc4616_chatgpt_image_oct_8_2026_11_40_25_am.png",
+      "start_date": null,
+      "end_date": "2026-10-22T00:00:00+05:30",
+      "deadline": "2026-10-22T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hustle-carnival-gl-bajaj-group-of-institutions-1763514",
+      "title": "Hustle Carnival ",
+      "organizer": "Gl Bajaj group of institutions",
+      "mode": "Offline",
+      "venue_address": "Gl Bajaj group of institutions, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6accb34ddac6b_1000104934.jpg",
       "start_date": null,
       "end_date": "2026-10-22T00:00:00+05:30",
       "deadline": "2026-10-22T00:00:00+05:30",
@@ -8437,6 +8456,25 @@
       "start_date": null,
       "end_date": "2026-10-22T16:30:00+05:30",
       "deadline": "2026-10-22T16:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/pitchcraft-30-guru-tegh-bahadur-4th-centenary-engineering-college-delhi-1767954",
+      "title": "PitchCraft 3.0",
+      "organizer": "Guru Tegh Bahadur 4th Centenary Engineering College, Delhi",
+      "mode": "Offline",
+      "venue_address": "Guru Tegh Bahadur 4th Centenary Engineering College, Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acd445043b99_organisation_image-4irwHEF3zs9283690348emNtJPdSn.png",
+      "start_date": null,
+      "end_date": "2026-10-22T17:30:00+05:30",
+      "deadline": "2026-10-22T17:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -8608,25 +8646,6 @@
       "start_date": null,
       "end_date": "2026-10-23T12:00:00+05:30",
       "deadline": "2026-10-23T12:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/hustle-carnival-gl-bajaj-group-of-institutions-1763514",
-      "title": "Hustle Carnival ",
-      "organizer": "Gl Bajaj group of institutions",
-      "mode": "Offline",
-      "venue_address": "Gl Bajaj group of institutions, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6accb34ddac6b_1000104934.jpg",
-      "start_date": null,
-      "end_date": "2026-10-23T13:00:00+05:30",
-      "deadline": "2026-10-23T13:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -9193,7 +9212,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6accccbbc9157_organisation_image-HqgdMecpMv238872977BF0AmxSpu9.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acd37336638e_organisation_image-HqgdMecpMv238872977BF0AmxSpu9.png",
       "start_date": null,
       "end_date": "2026-10-25T15:31:00+05:30",
       "deadline": "2026-10-25T15:31:00+05:30",
@@ -9643,6 +9662,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/server-crash-who-killed-the-server-tech-fusion-26-vaish-college-of-engineering-rohtak-haryana-1769168",
+      "title": "Server Crash - Who Killed the server?",
+      "organizer": "Vaish College of Engineering, Rohtak, Haryana",
+      "mode": "Offline",
+      "venue_address": "Vaish College of Engineering, Rohtak, Haryana, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acc7ee3537c1_server_crash_competition_emblem-removebg-preview.png",
+      "start_date": null,
+      "end_date": "2026-10-26T22:58:00+05:30",
+      "deadline": "2026-10-26T22:58:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackwave-30-chameli-devi-group-of-institutions-1750278",
       "title": "Hackwave 3.0",
       "organizer": "Chameli Devi Group of Institutions",
@@ -9719,6 +9757,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/kurukshetra-2026-dr-dy-patil-institute-of-technology-pimpri-pune-1769539",
+      "title": "Kurukshetra 2026",
+      "organizer": "Dr DY Patil Institute of Technology Pimpri Pune",
+      "mode": "Offline",
+      "venue_address": "Dr DY Patil Institute of Technology Pimpri Pune, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acd33d0ea245_screenshot_2026-10-13_005324.png",
+      "start_date": null,
+      "end_date": "2026-10-27T00:00:00+05:30",
+      "deadline": "2026-10-27T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/next-station-2026-frontend-arena-1758217",
       "title": "Next Station 2026",
       "organizer": "Frontend Arena",
@@ -9748,6 +9805,25 @@
       "start_date": null,
       "end_date": "2026-10-27T17:01:00+05:30",
       "deadline": "2026-10-27T17:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/kill-switch-tech-fusion-26-vaish-college-of-engineering-rohtak-haryana-1769184",
+      "title": "Kill Switch",
+      "organizer": "Vaish College of Engineering, Rohtak, Haryana",
+      "mode": "Offline",
+      "venue_address": "Vaish College of Engineering, Rohtak, Haryana, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acc83abd8bbf_whatsapp_image_2026-10-12_at_12_22_10.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-27T22:39:00+05:30",
+      "deadline": "2026-10-27T22:39:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -10048,7 +10124,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acbba3ce7fde_organisation_image-Pzy2IyuEnV40412724PASjjpVNao.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6accffe206bfe_organisation_image-Pzy2IyuEnV40412724PASjjpVNao.png",
       "start_date": null,
       "end_date": "2026-10-30T22:05:00+05:30",
       "deadline": "2026-10-30T22:05:00+05:30",
@@ -10106,6 +10182,25 @@
       "venue_address": "Indian Institute of Technology (IIT), Bombay, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ac1f6ae8168d_",
+      "start_date": null,
+      "end_date": "2026-10-31T00:00:00+05:30",
+      "deadline": "2026-10-31T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/mergetober-hackers-unity-1769252",
+      "title": "Mergetober",
+      "organizer": "Hackers Unity",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6accb0dca2a8f_hacker_s_unity_black.png",
       "start_date": null,
       "end_date": "2026-10-31T00:00:00+05:30",
       "deadline": "2026-10-31T00:00:00+05:30",
@@ -11686,6 +11781,25 @@
       "start_date": null,
       "end_date": "2026-11-15T00:00:00+05:30",
       "deadline": "2026-11-15T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/beat-the-markets-punjab-engineering-college-pec-chandigarh-1769112",
+      "title": "Bazaar: Beat the Markets",
+      "organizer": "Punjab Engineering College (PEC), Chandigarh",
+      "mode": "Offline",
+      "venue_address": "Punjab Engineering College (PEC), Chandigarh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acd376a13f8d_pec-logo.png",
+      "start_date": null,
+      "end_date": "2026-11-15T00:58:00+05:30",
+      "deadline": "2026-11-15T00:58:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
