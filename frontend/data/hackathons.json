@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-13T06:08:17.562629+00:00",
-  "total_count": 657,
+  "last_synced_at": "2026-10-13T18:42:23.111065+00:00",
+  "total_count": 664,
   "hackathons": [
     {
       "source": "Unstop",
@@ -7312,7 +7312,7 @@
       "mode": "Offline",
       "venue_address": "MVSR Engineering College (MVSREC), Hyderabad, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acd11ed0ce4a_",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ace6ed92e77b_",
       "start_date": null,
       "end_date": "2026-10-16T21:59:30+05:30",
       "deadline": "2026-10-16T21:59:30+05:30",
@@ -7332,6 +7332,25 @@
       "venue_address": "Indraprastha Institute of Information Technology (IIIT), Delhi, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab7e1f5391ba_esya_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-16T23:59:00+05:30",
+      "deadline": "2026-10-16T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/horizon-xt-26-srm-university-tiruchirappalli-tamil-nadu-1769860",
+      "title": "Horizon XT ’26 ",
+      "organizer": "SRM University, Tiruchirappalli, Tamil Nadu",
+      "mode": "Offline",
+      "venue_address": "SRM University, Tiruchirappalli, Tamil Nadu, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ace171175790_whatsapp_image_2026-10-13_at_12_24_07_pm.jpeg",
       "start_date": null,
       "end_date": "2026-10-16T23:59:00+05:30",
       "deadline": "2026-10-16T23:59:00+05:30",
@@ -8085,6 +8104,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/med-ai-thon-srm-university-tiruchirappalli-tamil-nadu-1769847",
+      "title": "Med-AI-Thon ",
+      "organizer": "SRM University, Tiruchirappalli, Tamil Nadu",
+      "mode": "Offline",
+      "venue_address": "SRM University, Tiruchirappalli, Tamil Nadu, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ace211b45b2d_whatsapp_image_2026-10-13_at_11_42_13_am.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-20T00:00:00+05:30",
+      "deadline": "2026-10-20T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/malla-reddy-talentio-online-coding-challenge-2026-malla-reddy-engineering-college-1765870",
       "title": "Malla Reddy Talentio Online Coding Challenge 2026",
       "organizer": "Malla Reddy Engineering College",
@@ -8095,6 +8133,25 @@
       "start_date": null,
       "end_date": "2026-10-20T11:05:00+05:30",
       "deadline": "2026-10-20T11:05:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hactoberfest-2026-hackday-hactoberfest-2026-hackday-at-meerut-x-ecell-iimt-university-iimt-university-iimtu-m-1769690",
+      "title": "Hactoberfest 2026 Hackday ",
+      "organizer": "IIMT University (IIMTU), Meerut, Uttar Pradesh",
+      "mode": "Offline",
+      "venue_address": "IIMT University (IIMTU), Meerut, Uttar Pradesh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acdde09099be_iimt_hacktoberfest_2026_badge.jpg",
+      "start_date": null,
+      "end_date": "2026-10-20T12:00:00+05:30",
+      "deadline": "2026-10-20T12:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -8912,6 +8969,25 @@
       "start_date": null,
       "end_date": "2026-10-24T16:00:00+05:30",
       "deadline": "2026-10-24T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/fetch-a-thon-30-masters-union-school-of-business-1769196",
+      "title": "Fetch-A-Thon 3.0",
+      "organizer": "Masters' Union School of Business",
+      "mode": "Offline",
+      "venue_address": "Masters' Union School of Business, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ace26aca5b8c_Masters_Union_Logo_Black_on_Transparent.png",
+      "start_date": null,
+      "end_date": "2026-10-24T17:00:00+05:30",
+      "deadline": "2026-10-24T17:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -9928,6 +10004,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackathon-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769328",
+      "title": "Hackathon",
+      "organizer": "National Institute of Technology (NIT), Arunachal Pradesh",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ace44359c016_",
+      "start_date": null,
+      "end_date": "2026-10-29T17:01:00+05:30",
+      "deadline": "2026-10-29T17:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codeflayer-vishnu-institute-of-technology-vit-kovvada-andhra-pradesh-1759151",
       "title": "CodeFlayer",
       "organizer": "Vishnu Institute of Technology (VIT), Kovvada, Andhra Pradesh",
@@ -10907,6 +11002,25 @@
       "start_date": null,
       "end_date": "2026-11-04T13:37:00+05:30",
       "deadline": "2026-11-04T13:37:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-sansad-technical-mun-on-ai-innovation-bharati-vidyapeeths-college-of-engineering-1769712",
+      "title": "AI Sansad | Technical MUN on AI & Innovation",
+      "organizer": "Bharati Vidyapeeth's College of Engineering",
+      "mode": "Offline",
+      "venue_address": "Bharati Vidyapeeth's College of Engineering, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acde9e37037b_whatsapp_image_2026-10-13_at_1_49_40_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-11-04T17:00:00+05:30",
+      "deadline": "2026-11-04T17:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -12105,6 +12219,25 @@
       "start_date": null,
       "end_date": "2026-11-24T00:09:00+05:30",
       "deadline": "2026-11-24T00:09:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ooty-hacks-hackhere-1768100",
+      "title": "Ooty Hacks",
+      "organizer": "Hackhere",
+      "mode": "Offline",
+      "venue_address": "Hackhere, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ace1d55c2a7e_organisation_image-n4FCytWDxs789928907Z9b8i4iU6j.png",
+      "start_date": null,
+      "end_date": "2026-11-25T00:00:00+05:30",
+      "deadline": "2026-11-25T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
