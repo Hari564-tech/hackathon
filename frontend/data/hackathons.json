@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-10-12T23:59:32.207414+00:00",
+  "last_synced_at": "2026-10-13T06:08:17.562629+00:00",
   "total_count": 657,
   "hackathons": [
     {
@@ -6905,6 +6905,25 @@
       ]
     },
     {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/kurukshetra-2026-dr-dy-patil-institute-of-technology-pimpri-pune-1769539",
+      "title": "Kurukshetra 2026",
+      "organizer": "Dr DY Patil Institute of Technology Pimpri Pune",
+      "mode": "Offline",
+      "venue_address": "Dr DY Patil Institute of Technology Pimpri Pune, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acd33d0ea245_screenshot_2026-10-13_005324.png",
+      "start_date": null,
+      "end_date": "2026-10-15T23:59:00+05:30",
+      "deadline": "2026-10-15T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
       "source": "Google Developers",
       "source_url": "https://developers.google.com/community/gdsc-solution-challenge",
       "title": "Google Solution Challenge 2026",
@@ -8471,7 +8490,7 @@
       "mode": "Offline",
       "venue_address": "Guru Tegh Bahadur 4th Centenary Engineering College, Delhi, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acd445043b99_organisation_image-4irwHEF3zs9283690348emNtJPdSn.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acd9e0d8c361_lee.jpg",
       "start_date": null,
       "end_date": "2026-10-22T17:30:00+05:30",
       "deadline": "2026-10-22T17:30:00+05:30",
@@ -9745,25 +9764,6 @@
       "venue_address": "Assam down town University, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac8c3ea8d911_adtu-light-mode-logo-ccvlpoxe.png",
-      "start_date": null,
-      "end_date": "2026-10-27T00:00:00+05:30",
-      "deadline": "2026-10-27T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/kurukshetra-2026-dr-dy-patil-institute-of-technology-pimpri-pune-1769539",
-      "title": "Kurukshetra 2026",
-      "organizer": "Dr DY Patil Institute of Technology Pimpri Pune",
-      "mode": "Offline",
-      "venue_address": "Dr DY Patil Institute of Technology Pimpri Pune, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acd33d0ea245_screenshot_2026-10-13_005324.png",
       "start_date": null,
       "end_date": "2026-10-27T00:00:00+05:30",
       "deadline": "2026-10-27T00:00:00+05:30",
