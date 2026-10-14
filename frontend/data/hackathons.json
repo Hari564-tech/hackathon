@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-14T16:15:07.121447+00:00",
-  "total_count": 675,
+  "last_synced_at": "2026-10-14T21:08:45.067599+00:00",
+  "total_count": 677,
   "hackathons": [
     {
       "source": "Unstop",
@@ -8788,6 +8788,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/technovision-2026-zero-syntax-no-code-hackathon-technovision-computer-society-of-india-mit-wpu-student-chapte-1769029",
+      "title": "Technovision 2026: Zero Syntax (No Code Hackathon)",
+      "organizer": "Computer Society of India MIT-WPU Student Chapter",
+      "mode": "Offline",
+      "venue_address": "Computer Society of India MIT-WPU Student Chapter, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acbbe2faf8b9_3.png",
+      "start_date": null,
+      "end_date": "2026-10-23T16:00:00+05:30",
+      "deadline": "2026-10-23T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/data-verse-x-10-chandigarh-university-cu-ajitgarh-punjab-1769921",
       "title": "Data Verse X 1.0",
       "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
@@ -9935,6 +9954,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acefd6e640d3_220px-IIT_Gandhinagar_Logo.svg.png",
+      "start_date": null,
+      "end_date": "2026-10-27T00:00:00+05:30",
+      "deadline": "2026-10-27T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/haven-ahmedabad-hackclub-1769964",
+      "title": "Haven Ahmedabad",
+      "organizer": "Hackclub",
+      "mode": "Offline",
+      "venue_address": "Hackclub, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ace5b3fae7e8_logo.png",
       "start_date": null,
       "end_date": "2026-10-27T00:00:00+05:30",
       "deadline": "2026-10-27T00:00:00+05:30",
