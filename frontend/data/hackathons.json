@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-13T18:42:23.111065+00:00",
-  "total_count": 664,
+  "last_synced_at": "2026-10-14T02:54:36.954511+00:00",
+  "total_count": 666,
   "hackathons": [
     {
       "source": "Unstop",
@@ -9985,6 +9985,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/circuit-debugging-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769180",
+      "title": "Circuit Debugging",
+      "organizer": "National Institute of Technology (NIT), Arunachal Pradesh",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ace7e459383e_",
+      "start_date": null,
+      "end_date": "2026-10-29T11:00:00+05:30",
+      "deadline": "2026-10-29T11:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/conv-cup-26-fifa-of-bots-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanbad-1759901",
       "title": "Conv_Cup '26: FIFA of Bots",
       "organizer": "Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad",
@@ -10109,6 +10128,25 @@
       "start_date": null,
       "end_date": "2026-10-30T00:00:00+05:30",
       "deadline": "2026-10-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/gwalior-ai-summit-2026-ai-innovation-challenge-gwalior-ai-summit-29-30-oct-atal-bihari-vajpayee-indian-instit-1770019",
+      "title": "Gwalior AI Summit 2026 – AI Innovation Challenge",
+      "organizer": "Atal Bihari Vajpayee-Indian Institute of Information Technology and Management",
+      "mode": "Offline",
+      "venue_address": "Atal Bihari Vajpayee-Indian Institute of Information Technology and Management, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ace7dc793f98_Atal_Bihari_Vajpayee_Indian_Institute_of_Information_Technology_and_Management,_Gwalior_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-30T09:00:00+05:30",
+      "deadline": "2026-10-30T09:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
