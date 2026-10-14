@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-14T02:54:36.954511+00:00",
-  "total_count": 666,
+  "last_synced_at": "2026-10-14T10:55:30.323617+00:00",
+  "total_count": 670,
   "hackathons": [
     {
       "source": "Unstop",
@@ -8066,6 +8066,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/zero-shot-hack-vit-vellore-1769865",
+      "title": "Zero Shot Hack",
+      "organizer": "Vellore Institute of Technology (VIT), Vellore",
+      "mode": "Offline",
+      "venue_address": "Vellore Institute of Technology (VIT), Vellore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acf271c909b6_VIT_vellore_logo.png",
+      "start_date": null,
+      "end_date": "2026-10-19T23:59:00+05:30",
+      "deadline": "2026-10-19T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/graviton-iste-cgc-university-1742794",
       "title": "Graviton",
       "organizer": "ISTE CGC UNIVERSITY",
@@ -8769,6 +8788,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/data-verse-x-10-chandigarh-university-cu-ajitgarh-punjab-1769921",
+      "title": "Data Verse X 1.0",
+      "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
+      "mode": "Offline",
+      "venue_address": "Chandigarh University (CU), Ajitgarh, Punjab, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ace48d942d52_whatsapp_image_2026-09-02_at_10_46_43_pm_1.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-23T17:30:00+05:30",
+      "deadline": "2026-10-23T17:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/commit-for-good-ai-open-source-public-good-manipal-university-mu-jaipur-1767524",
       "title": "Commit for Good | AI × Open Source × Public Good",
       "organizer": "Manipal University (MU), Jaipur",
@@ -8984,7 +9022,7 @@
       "mode": "Offline",
       "venue_address": "Masters' Union School of Business, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ace26aca5b8c_Masters_Union_Logo_Black_on_Transparent.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acf29341f432_Masters_Union_Logo_Black_on_Transparent.png",
       "start_date": null,
       "end_date": "2026-10-24T17:00:00+05:30",
       "deadline": "2026-10-24T17:00:00+05:30",
@@ -9840,6 +9878,25 @@
       "venue_address": "Assam down town University, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac8c3ea8d911_adtu-light-mode-logo-ccvlpoxe.png",
+      "start_date": null,
+      "end_date": "2026-10-27T00:00:00+05:30",
+      "deadline": "2026-10-27T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackcult-iit-gandhinagar-1769789",
+      "title": "Hackcult",
+      "organizer": "Indian Institute of Technology (IIT), Gandhinagar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acefd6e640d3_220px-IIT_Gandhinagar_Logo.svg.png",
       "start_date": null,
       "end_date": "2026-10-27T00:00:00+05:30",
       "deadline": "2026-10-27T00:00:00+05:30",
@@ -11135,6 +11192,25 @@
       "start_date": null,
       "end_date": "2026-11-06T14:22:00+05:30",
       "deadline": "2026-11-06T14:22:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/build-with-bharat-50-codeverse-1770159",
+      "title": "Build With Bharat 5.0",
+      "organizer": "Codeverse",
+      "mode": "Offline",
+      "venue_address": "Codeverse, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acf1fcec5b09_bwb_4_0_id_cards.png",
+      "start_date": null,
+      "end_date": "2026-11-06T17:31:00+05:30",
+      "deadline": "2026-11-06T17:31:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
