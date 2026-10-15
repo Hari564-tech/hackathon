@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-15T16:02:06.898149+00:00",
-  "total_count": 683,
+  "last_synced_at": "2026-10-15T20:46:30.038791+00:00",
+  "total_count": 692,
   "hackathons": [
     {
       "source": "Unstop",
@@ -8370,6 +8370,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/omnirush-agentic-buildathon-2026-omnirush-1769914",
+      "title": "Omnirush Agentic Buildathon 2026",
+      "organizer": "Omnirush",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad0fb25140ed_organisation_image-8lrsD4pYTI3603916447XehLyQUZb.png",
+      "start_date": null,
+      "end_date": "2026-10-21T00:00:00+05:30",
+      "deadline": "2026-10-21T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/bit-n-build-around-the-world-2026-fr-conceicao-rodrigues-college-of-engineering-frcrce-bandra-1743581",
       "title": "Bit N Build - Around the World 2026",
       "organizer": "Fr. Conceicao Rodrigues College of Engineering (FRCRCE), Bandra",
@@ -8580,12 +8599,12 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/inventron-guru-gobind-singh-indraprastha-university-ggsipu-delhi-1770718",
-      "title": "Inventron",
+      "title": "Hardware Hackfest 3.0 Presents Inventron",
       "organizer": "Guru Gobind Singh Indraprastha University (GGSIPU), Delhi",
       "mode": "Offline",
       "venue_address": "Guru Gobind Singh Indraprastha University (GGSIPU), Delhi, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad0f86114d73_Gobind_Singh_Indraprastha_University.jpeg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad117c90e8f6_Gobind_Singh_Indraprastha_University.jpeg",
       "start_date": null,
       "end_date": "2026-10-22T17:02:00+05:30",
       "deadline": "2026-10-22T17:02:00+05:30",
@@ -8947,6 +8966,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad0796937a7e_acmwlogodiamondcolour-removebg.png",
+      "start_date": null,
+      "end_date": "2026-10-24T00:00:00+05:30",
+      "deadline": "2026-10-24T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/frame-shift-creative-animation-meme-challenge-madhav-institute-of-technology-science-gwalior-1771001",
+      "title": "Frame Shift – Creative Animation & Meme Challenge",
+      "organizer": "Madhav Institute of Technology & Science Gwalior",
+      "mode": "Offline",
+      "venue_address": "Madhav Institute of Technology & Science Gwalior, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad10c691cb2f_screenshot_2026-10-15_070351.png",
       "start_date": null,
       "end_date": "2026-10-24T00:00:00+05:30",
       "deadline": "2026-10-24T00:00:00+05:30",
@@ -9700,6 +9738,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/oblivion-the-ultimate-capture-the-flag-ctf-competition-indian-institute-of-technology-iit-ropar-1770730",
+      "title": "Oblivion - The Ultimate Capture The Flag (CTF) Competition",
+      "organizer": "Indian Institute of Technology (IIT), Ropar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad11eb22876b_IITRPR_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-25T23:59:00+05:30",
+      "deadline": "2026-10-25T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackosquad-ctf-2026-hackosquad-1766739",
       "title": "hackosquadCTF 2026: DOOMSDAY ",
       "organizer": "Hackosquad",
@@ -9900,6 +9957,25 @@
       "start_date": null,
       "end_date": "2026-10-26T19:00:00+05:30",
       "deadline": "2026-10-26T19:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/capture-the-flag-tech-fusion-26-vaish-college-of-engineering-rohtak-haryana-1770937",
+      "title": "Capture the Flag",
+      "organizer": "Vaish College of Engineering, Rohtak, Haryana",
+      "mode": "Offline",
+      "venue_address": "Vaish College of Engineering, Rohtak, Haryana, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad0f2dca74b7_screenshot_2026-10-15_210425.png",
+      "start_date": null,
+      "end_date": "2026-10-26T21:01:00+05:30",
+      "deadline": "2026-10-26T21:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -10460,6 +10536,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/webvision-20-maharaja-agrasen-institute-of-technology-1770504",
+      "title": "WebVision 2.0",
+      "organizer": "Maharaja Agrasen Institute of Technology ",
+      "mode": "Offline",
+      "venue_address": "Maharaja Agrasen Institute of Technology , India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad0a4388c63b_whatsapp_image_2026-10-15_at_15_19_40.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-30T17:00:00+05:30",
+      "deadline": "2026-10-30T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/code-sprint-university-of-petroleum-energy-studies-upes-dehradun-1770690",
       "title": "Code Sprint",
       "organizer": "University of Petroleum & Energy Studies (UPES), Dehradun",
@@ -10508,6 +10603,25 @@
       "start_date": null,
       "end_date": "2026-10-30T22:05:00+05:30",
       "deadline": "2026-10-30T22:05:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/speed-demon-72-hour-hackathon-hackathon-raptors-1770904",
+      "title": "Speed Demon | 72-Hour Hackathon",
+      "organizer": "Hackathon Raptors",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad0e5ed21915_speed_demon_hellhound_emblem_1.png",
+      "start_date": null,
+      "end_date": "2026-10-30T23:00:00+05:30",
+      "deadline": "2026-10-30T23:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -10736,6 +10850,44 @@
       "start_date": null,
       "end_date": "2026-10-31T17:00:00+05:30",
       "deadline": "2026-10-31T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacktober-hackdays-shebuilds-1770977",
+      "title": "Hacktober HackDays",
+      "organizer": "SheBuilds",
+      "mode": "Offline",
+      "venue_address": "SheBuilds, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad1076365948_poster.png",
+      "start_date": null,
+      "end_date": "2026-10-31T17:00:00+05:30",
+      "deadline": "2026-10-31T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/low-latency-trading-experience-iit-gandhinagar-1770559",
+      "title": "Low Latency Trading Experience | IICPC x Amalthea 2026, IIT Gandhinagar",
+      "organizer": "Indian Institute of Technology (IIT), Gandhinagar",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Gandhinagar, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad12527b8f54_220px-IIT_Gandhinagar_Logo.svg.png",
+      "start_date": null,
+      "end_date": "2026-10-31T18:30:00+05:30",
+      "deadline": "2026-10-31T18:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -11078,25 +11230,6 @@
       "start_date": null,
       "end_date": "2026-11-01T18:01:00+05:30",
       "deadline": "2026-11-01T18:01:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/low-latency-trading-experience-iit-gandhinagar-1770559",
-      "title": "Low Latency Trading Experience",
-      "organizer": "Indian Institute of Technology (IIT), Gandhinagar",
-      "mode": "Offline",
-      "venue_address": "Indian Institute of Technology (IIT), Gandhinagar, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad057e9596f9_220px-IIT_Gandhinagar_Logo.svg.png",
-      "start_date": null,
-      "end_date": "2026-11-01T18:30:00+05:30",
-      "deadline": "2026-11-01T18:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -11467,6 +11600,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/build-your-bharat-hackathon-byb-build-your-bharatbyb-hackathon-next-bharat-ventures-1770621",
+      "title": "Build Your Bharat Hackathon (BYB)",
+      "organizer": "Next Bharat Ventures",
+      "mode": "Offline",
+      "venue_address": "Next Bharat Ventures, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad0d94961188_next_bharat_logo_01_4.png",
+      "start_date": null,
+      "end_date": "2026-11-08T00:00:00+05:30",
+      "deadline": "2026-11-08T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codepunethinkers-hackathon-hack-with-pune-hackwithpune-1767661",
       "title": "CodePuneThinkers Hackathon - Hack With Pune",
       "organizer": "HackWithPune",
@@ -11515,6 +11667,25 @@
       "start_date": null,
       "end_date": "2026-11-09T01:11:03+05:30",
       "deadline": "2026-11-09T01:11:03+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/buildx-36-hours-online-hackathon-code-a-nova-1758745",
+      "title": "BUiLDX ",
+      "organizer": "Code-A-Nova",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaedd3f0be70_leadership_management_dept.png",
+      "start_date": null,
+      "end_date": "2026-11-10T00:00:00+05:30",
+      "deadline": "2026-11-10T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
