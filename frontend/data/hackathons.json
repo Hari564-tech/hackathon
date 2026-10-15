@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-15T02:33:38.114370+00:00",
-  "total_count": 677,
+  "last_synced_at": "2026-10-15T10:37:23.079160+00:00",
+  "total_count": 681,
   "hackathons": [
     {
       "source": "Unstop",
@@ -8902,6 +8902,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/rechersion-2026-women-only-hackathon-nitk-surathkal-1770666",
+      "title": "recHERsion 2026 | Women-Only Hackathon",
+      "organizer": "National Institute of Technology Karnataka (NITK), Surathkal",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad0796937a7e_acmwlogodiamondcolour-removebg.png",
+      "start_date": null,
+      "end_date": "2026-10-24T00:00:00+05:30",
+      "deadline": "2026-10-24T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/sgu-hackx-10-sdgi-global-university-1760018",
       "title": "SGU_HackX - 1.0",
       "organizer": "SDGI Global University",
@@ -10118,6 +10137,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-sprint-university-of-petroleum-energy-studies-upes-dehradun-1770690",
+      "title": "Code Sprint",
+      "organizer": "University of Petroleum & Energy Studies (UPES), Dehradun",
+      "mode": "Offline",
+      "venue_address": "University of Petroleum & Energy Studies (UPES), Dehradun, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad095b5afa85_",
+      "start_date": null,
+      "end_date": "2026-10-29T00:00:00+05:30",
+      "deadline": "2026-10-29T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/circuit-debugging-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769180",
       "title": "Circuit Debugging",
       "organizer": "National Institute of Technology (NIT), Arunachal Pradesh",
@@ -10147,6 +10185,25 @@
       "start_date": null,
       "end_date": "2026-10-29T12:56:00+05:30",
       "deadline": "2026-10-29T12:56:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hybrid-micro-mouse-challenge-alliance-university-au-1769664",
+      "title": "Hybrid Micro Mouse Challenge",
+      "organizer": "Alliance University (AU)",
+      "mode": "Offline",
+      "venue_address": "Alliance University (AU), India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad0665c53202_Alliance_University_AU_Bangalore_logo_e571385eac.jpg",
+      "start_date": null,
+      "end_date": "2026-10-29T16:00:00+05:30",
+      "deadline": "2026-10-29T16:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -10656,7 +10713,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6acf837b423b9_organisation_image-0SBKGB3Itg130931115lgFgsAyqPW.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad05cfd17b33_organisation_image-0SBKGB3Itg130931115lgFgsAyqPW.png",
       "start_date": null,
       "end_date": "2026-10-31T20:00:00+05:30",
       "deadline": "2026-10-31T20:00:00+05:30",
@@ -10983,6 +11040,25 @@
       "start_date": null,
       "end_date": "2026-11-01T18:01:00+05:30",
       "deadline": "2026-11-01T18:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/low-latency-trading-experience-iit-gandhinagar-1770559",
+      "title": "Low Latency Trading Experience",
+      "organizer": "Indian Institute of Technology (IIT), Gandhinagar",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Gandhinagar, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad057e9596f9_220px-IIT_Gandhinagar_Logo.svg.png",
+      "start_date": null,
+      "end_date": "2026-11-01T18:30:00+05:30",
+      "deadline": "2026-11-01T18:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
