@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-16T15:50:35.367877+00:00",
-  "total_count": 701,
+  "last_synced_at": "2026-10-16T20:19:32.744908+00:00",
+  "total_count": 702,
   "hackathons": [
     {
       "source": "Unstop",
@@ -10409,7 +10409,7 @@
       "mode": "Offline",
       "venue_address": "Alliance University (AU), India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad0665c53202_Alliance_University_AU_Bangalore_logo_e571385eac.jpg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad1ddaca1b3b_Alliance_University_AU_Bangalore_logo_e571385eac.jpg",
       "start_date": null,
       "end_date": "2026-10-29T16:00:00+05:30",
       "deadline": "2026-10-29T16:00:00+05:30",
@@ -11914,6 +11914,25 @@
       "start_date": null,
       "end_date": "2026-11-12T23:59:00+05:30",
       "deadline": "2026-11-12T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-last-daemon-beunwrapd-1771084",
+      "title": "The Last Daemon",
+      "organizer": "Beunwrapd",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad247f7e920d_organisation_image-eAdMsqkHu71513233157XEJLEYFxnC.png",
+      "start_date": null,
+      "end_date": "2026-11-13T00:00:00+05:30",
+      "deadline": "2026-11-13T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
