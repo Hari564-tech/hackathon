@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-16T10:24:24.948524+00:00",
-  "total_count": 692,
+  "last_synced_at": "2026-10-16T15:50:35.367877+00:00",
+  "total_count": 701,
   "hackathons": [
     {
       "source": "Unstop",
@@ -8427,6 +8427,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/fastest-line-following-robot-karuyantra-carnival-2026-university-school-of-automation-robotics-delhi-1769974",
+      "title": "Fastest Line Following Robot",
+      "organizer": "University School of Automation & Robotics, Delhi",
+      "mode": "Offline",
+      "venue_address": "University School of Automation & Robotics, Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ace665a79215_screenshot_2026-06-21_140848.png",
+      "start_date": null,
+      "end_date": "2026-10-21T17:00:00+05:30",
+      "deadline": "2026-10-21T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/robo-race-karuyantra-carnival-2026-university-school-of-automation-robotics-delhi-1769992",
+      "title": "Robo Race ",
+      "organizer": "University School of Automation & Robotics, Delhi",
+      "mode": "Offline",
+      "venue_address": "University School of Automation & Robotics, Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ace67f7ec365_screenshot_2026-06-21_140848.png",
+      "start_date": null,
+      "end_date": "2026-10-21T17:00:00+05:30",
+      "deadline": "2026-10-21T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/build-with-ai-abc-anybody-can-code-tech-yuva-1765191",
       "title": "Build with AI: ABC (Anybody Can Code)",
       "organizer": "Tech Yuva",
@@ -8437,6 +8475,25 @@
       "start_date": null,
       "end_date": "2026-10-21T18:00:00+05:30",
       "deadline": "2026-10-21T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/innotech26-annual-technical-fest-project-innovation-poster-competition-innotech26-kiet-group-of-institutions--1769254",
+      "title": "Innotech’26 – Annual Technical Fest | Project, Innovation & Poster Competition",
+      "organizer": "KIET Group of Institutions (KIET)  Ghaziabad",
+      "mode": "Offline",
+      "venue_address": "KIET Group of Institutions (KIET)  Ghaziabad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acc9f95adfcd_innotech-logo.png",
+      "start_date": null,
+      "end_date": "2026-10-21T23:59:06+05:30",
+      "deadline": "2026-10-21T23:59:06+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -8598,13 +8655,32 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/designathon-cad-pcb-hackathon-karuyantra-carnival-2026-university-school-of-automation-robotics-delhi-1769998",
+      "title": "Designathon - CAD & PCB Hackathon",
+      "organizer": "University School of Automation & Robotics, Delhi",
+      "mode": "Offline",
+      "venue_address": "University School of Automation & Robotics, Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ace693e32f06_screenshot_2026-06-21_140848.png",
+      "start_date": null,
+      "end_date": "2026-10-22T17:00:00+05:30",
+      "deadline": "2026-10-22T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/inventron-guru-gobind-singh-indraprastha-university-ggsipu-delhi-1770718",
       "title": "Hardware Hackfest 3.0 Presents Inventron",
       "organizer": "Guru Gobind Singh Indraprastha University (GGSIPU), Delhi",
       "mode": "Offline",
       "venue_address": "Guru Gobind Singh Indraprastha University (GGSIPU), Delhi, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad117c90e8f6_Gobind_Singh_Indraprastha_University.jpeg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad2087e4ff9e_Gobind_Singh_Indraprastha_University.jpeg",
       "start_date": null,
       "end_date": "2026-10-22T17:02:00+05:30",
       "deadline": "2026-10-22T17:02:00+05:30",
@@ -9757,6 +9833,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/agentic-ai-hackathon-product-space-1771078",
+      "title": "Agentic AI Hackathon",
+      "organizer": "Product Space",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad1821b64b69_p_13.png",
+      "start_date": null,
+      "end_date": "2026-10-25T23:59:00+05:30",
+      "deadline": "2026-10-25T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackosquad-ctf-2026-hackosquad-1766739",
       "title": "hackosquadCTF 2026: DOOMSDAY ",
       "organizer": "Hackosquad",
@@ -10014,6 +10109,25 @@
       "start_date": null,
       "end_date": "2026-10-26T23:00:28+05:30",
       "deadline": "2026-10-26T23:00:28+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/nhce-ideathon-2026-ideathon-2026-new-horizon-collage-of-engineering-1769616",
+      "title": "NHCE Ideathon 2026",
+      "organizer": "New Horizon Collage Of Engineering",
+      "mode": "Offline",
+      "venue_address": "New Horizon Collage Of Engineering, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad22b2ea9e5a_organisation_image-YwO97A0C6a1317190702hzOM9lUOEH.png",
+      "start_date": null,
+      "end_date": "2026-10-26T23:59:00+05:30",
+      "deadline": "2026-10-26T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -11486,6 +11600,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/neural-storm-jawaharlal-nehru-technological-university-jntuh-hyderabad-1769404",
+      "title": "Neural Storm",
+      "organizer": "Jawaharlal Nehru Technological University (JNTUH), Hyderabad",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6accdf8c65f13_officiallogo_1.png",
+      "start_date": null,
+      "end_date": "2026-11-04T20:00:00+05:30",
+      "deadline": "2026-11-04T20:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codeverse-2026-open-innovation-hackathon-codeverse-community-1764453",
       "title": "CodeVerse 2026 - Open Innovation Hackathon",
       "organizer": "CodeVerse Community",
@@ -11591,25 +11724,6 @@
       "start_date": null,
       "end_date": "2026-11-07T21:00:00+05:30",
       "deadline": "2026-11-07T21:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/build-your-bharat-hackathon-byb-build-your-bharatbyb-hackathon-next-bharat-ventures-1770621",
-      "title": "Build Your Bharat Hackathon (BYB)",
-      "organizer": "Next Bharat Ventures",
-      "mode": "Offline",
-      "venue_address": "Next Bharat Ventures, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad0d94961188_next_bharat_logo_01_4.png",
-      "start_date": null,
-      "end_date": "2026-11-08T00:00:00+05:30",
-      "deadline": "2026-11-08T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -12665,6 +12779,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/build-your-bharat-hackathon-byb-build-your-bharatbyb-hackathon-next-bharat-ventures-1770621",
+      "title": "Build Your Bharat Hackathon (BYB)",
+      "organizer": "Next Bharat Ventures",
+      "mode": "Offline",
+      "venue_address": "Next Bharat Ventures, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad0d94961188_next_bharat_logo_01_4.png",
+      "start_date": null,
+      "end_date": "2026-11-21T18:00:00+05:30",
+      "deadline": "2026-11-21T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/innovathon-faculty-of-engineering-and-technology-agra-college-x-nimblux-nimblux-1770284",
       "title": "InnovaThon - Faculty of Engineering and Technology Agra College X Nimblux",
       "organizer": "NIMBLUX",
@@ -12713,6 +12846,25 @@
       "start_date": null,
       "end_date": "2026-11-22T12:00:00+05:30",
       "deadline": "2026-11-22T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/wh-versehack-writers-haven-1770609",
+      "title": "WH Versehack",
+      "organizer": "Writers Haven",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad1cbe011de8_organisation_image-oV7QpqxAim778008067DKyOhAFP0B.png",
+      "start_date": null,
+      "end_date": "2026-11-22T23:59:00+05:30",
+      "deadline": "2026-11-22T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -12960,6 +13112,25 @@
       "start_date": null,
       "end_date": "2026-12-15T17:02:00+05:30",
       "deadline": "2026-12-15T17:02:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/srujan-2026-15-lakh-mega-hackathon-in-association-with-lt-bk-birla-college-1768041",
+      "title": "Srujan 2026 - 1.5 Lakh Mega Hackathon In association with L&T - Online Round is Free, No Rs 1200 Charged in it",
+      "organizer": "Bk birla College",
+      "mode": "Offline",
+      "venue_address": "Bk birla College, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acc7c5ae9669_images_60.jpeg",
+      "start_date": null,
+      "end_date": "2026-12-19T09:01:00+05:30",
+      "deadline": "2026-12-19T09:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
