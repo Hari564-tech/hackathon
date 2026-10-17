@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-17T09:56:11.208332+00:00",
-  "total_count": 707,
+  "last_synced_at": "2026-10-17T14:44:01.339139+00:00",
+  "total_count": 713,
   "hackathons": [
     {
       "source": "Unstop",
@@ -9909,6 +9909,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cypher-jc-bose-university-of-science-technology-ymca-1771500",
+      "title": "Cypher",
+      "organizer": "JC Bose University of Science & Technology, YMCA",
+      "mode": "Offline",
+      "venue_address": "JC Bose University of Science & Technology, YMCA, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad35e3a4d285_308635216_156227680418831_4858815794329204816_n.jpg",
+      "start_date": null,
+      "end_date": "2026-10-25T23:59:00+05:30",
+      "deadline": "2026-10-25T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackosquad-ctf-2026-hackosquad-1766739",
       "title": "hackosquadCTF 2026: DOOMSDAY ",
       "organizer": "Hackosquad",
@@ -10422,6 +10441,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/overclock26-24-hours-hackathon-srm-easwari-engineering-college-srmeec-ramapuram-1766861",
+      "title": "OverClock'26 - 24 hours Hackathon",
+      "organizer": "SRM Easwari Engineering College (SRMEEC), Ramapuram",
+      "mode": "Offline",
+      "venue_address": "SRM Easwari Engineering College (SRMEEC), Ramapuram, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac5160b06dfe_whatsapp_image_2026-07-11_at_7_39_42_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-29T10:00:00+05:30",
+      "deadline": "2026-10-29T10:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/circuit-debugging-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769180",
       "title": "Circuit Debugging",
       "organizer": "National Institute of Technology (NIT), Arunachal Pradesh",
@@ -10885,6 +10923,44 @@
       "venue_address": "Maharaja Institute of Technology (MIT), Mysore, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac84e444453d_1000270413.png",
+      "start_date": null,
+      "end_date": "2026-10-31T00:00:00+05:30",
+      "deadline": "2026-10-31T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/celestia-hyprlan-1771647",
+      "title": "Celestia",
+      "organizer": "HyprLan",
+      "mode": "Offline",
+      "venue_address": "HyprLan, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad381ba65fe0_organisation_image-rYB4bi00x92008430532L4Fx4GP5q1.png",
+      "start_date": null,
+      "end_date": "2026-10-31T00:00:00+05:30",
+      "deadline": "2026-10-31T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/tiny-hacks-vishveshwarya-group-of-institutions-vgi-greater-noida-uttar-pradesh-1771573",
+      "title": "Tiny Hacks",
+      "organizer": "Vishveshwarya Group of Institutions (VGI), Greater Noida, Uttar Pradesh",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad342b61d8ce_nerds_room_brand_assets_for_design-a-thon.png",
       "start_date": null,
       "end_date": "2026-10-31T00:00:00+05:30",
       "deadline": "2026-10-31T00:00:00+05:30",
@@ -12912,6 +12988,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-big-hack-20-acharya-institute-of-technology-1771496",
+      "title": "The Big Hack 2.0",
+      "organizer": "Acharya Institute of Technology",
+      "mode": "Offline",
+      "venue_address": "Acharya Institute of Technology, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad36ff58fdc2_acharya.png",
+      "start_date": null,
+      "end_date": "2026-11-21T18:00:00+05:30",
+      "deadline": "2026-11-21T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/innovathon-faculty-of-engineering-and-technology-agra-college-x-nimblux-nimblux-1770284",
       "title": "InnovaThon - Faculty of Engineering and Technology Agra College X Nimblux",
       "organizer": "NIMBLUX",
@@ -13302,6 +13397,25 @@
       "start_date": null,
       "end_date": "2027-01-23T18:00:00+05:30",
       "deadline": "2027-01-23T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/tech-expo-2027-parul-university-pu-vadodara-1771511",
+      "title": "Tech Expo 2027",
+      "organizer": "Parul University (PU), Vadodara",
+      "mode": "Offline",
+      "venue_address": "Parul University (PU), Vadodara, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad31e8a22db2_tech_expo_2027.png",
+      "start_date": null,
+      "end_date": "2027-01-29T17:00:21+05:30",
+      "deadline": "2027-01-29T17:00:21+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
