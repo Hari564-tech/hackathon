@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-17T02:21:11.203024+00:00",
-  "total_count": 702,
+  "last_synced_at": "2026-10-17T09:56:11.208332+00:00",
+  "total_count": 707,
   "hackathons": [
     {
       "source": "Unstop",
@@ -8598,6 +8598,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/reporeboot26-dhirubhai-ambani-institute-of-information-and-communication-technology-da-iict-gandhinagar-1771533",
+      "title": "Reporeboot'26",
+      "organizer": "Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad329b76cca9_",
+      "start_date": null,
+      "end_date": "2026-10-22T13:00:00+05:30",
+      "deadline": "2026-10-22T13:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/azinhack-2026-university-school-of-automation-robotics-usar-guru-gobind-singh-indraprastha-university-ggsipu--1763832",
       "title": "Azinhack 2026",
       "organizer": "University School of Automation & Robotics (USAR) ,Guru Gobind Singh Indraprastha University (GGSIPU), Delhi",
@@ -8855,6 +8874,25 @@
       "start_date": null,
       "end_date": "2026-10-23T03:31:37+05:30",
       "deadline": "2026-10-23T03:31:37+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-among-us-dr-akhilesh-das-gupta-institute-of-technology-and-management-adgitm-new-delhi-1770230",
+      "title": "Hack & Among Us",
+      "organizer": "Dr. Akhilesh Das Gupta Institute of Technology and Management (ADGITM), New Delhi",
+      "mode": "Offline",
+      "venue_address": "Dr. Akhilesh Das Gupta Institute of Technology and Management (ADGITM), New Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6acfe0047f00c_create_event_logo_for_unstop_20261015012932.jpg",
+      "start_date": null,
+      "end_date": "2026-10-23T11:01:00+05:30",
+      "deadline": "2026-10-23T11:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -9852,6 +9890,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-product-hackathon-product-space-1771427",
+      "title": "AI Product Hackathon",
+      "organizer": "Product Space",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad2dac444139_ai_product_hackathon_post_4_1.png",
+      "start_date": null,
+      "end_date": "2026-10-25T23:59:00+05:30",
+      "deadline": "2026-10-25T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackosquad-ctf-2026-hackosquad-1766739",
       "title": "hackosquadCTF 2026: DOOMSDAY ",
       "organizer": "Hackosquad",
@@ -10809,6 +10866,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6accb0dca2a8f_hacker_s_unity_black.png",
+      "start_date": null,
+      "end_date": "2026-10-31T00:00:00+05:30",
+      "deadline": "2026-10-31T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/haxlr8-30-national-level-hackathon-maharaja-institute-of-technology-mit-mysore-1768093",
+      "title": "Haxlr8 3.0 – National Level Hackathon",
+      "organizer": "Maharaja Institute of Technology (MIT), Mysore",
+      "mode": "Offline",
+      "venue_address": "Maharaja Institute of Technology (MIT), Mysore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ac84e444453d_1000270413.png",
       "start_date": null,
       "end_date": "2026-10-31T00:00:00+05:30",
       "deadline": "2026-10-31T00:00:00+05:30",
@@ -12770,6 +12846,25 @@
       "start_date": null,
       "end_date": "2026-11-19T23:02:08+05:30",
       "deadline": "2026-11-19T23:02:08+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/datanyx26-muffakham-jah-college-of-engineering-and-technology-mjcet-hyderabad-1771537",
+      "title": "Datanyx'26",
+      "organizer": "Muffakham Jah College of Engineering and Technology (MJCET), Hyderabad",
+      "mode": "Offline",
+      "venue_address": "Muffakham Jah College of Engineering and Technology (MJCET), Hyderabad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad3236ac63be_dnyxlogo_pfp.jpeg",
+      "start_date": null,
+      "end_date": "2026-11-20T12:56:54+05:30",
+      "deadline": "2026-11-20T12:56:54+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
