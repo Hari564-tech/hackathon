@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-17T14:44:01.339139+00:00",
-  "total_count": 713,
+  "last_synced_at": "2026-10-17T19:54:29.501468+00:00",
+  "total_count": 714,
   "hackathons": [
     {
       "source": "Unstop",
@@ -10935,25 +10935,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/celestia-hyprlan-1771647",
-      "title": "Celestia",
-      "organizer": "HyprLan",
-      "mode": "Offline",
-      "venue_address": "HyprLan, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad381ba65fe0_organisation_image-rYB4bi00x92008430532L4Fx4GP5q1.png",
-      "start_date": null,
-      "end_date": "2026-10-31T00:00:00+05:30",
-      "deadline": "2026-10-31T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/tiny-hacks-vishveshwarya-group-of-institutions-vgi-greater-noida-uttar-pradesh-1771573",
       "title": "Tiny Hacks",
       "organizer": "Vishveshwarya Group of Institutions (VGI), Greater Noida, Uttar Pradesh",
@@ -11192,6 +11173,25 @@
       "start_date": null,
       "end_date": "2026-10-31T21:00:00+05:30",
       "deadline": "2026-10-31T21:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackoween-alta-school-of-technology-1771364",
+      "title": "HackO'Ween",
+      "organizer": "ALTA School Of Technology",
+      "mode": "Offline",
+      "venue_address": "ALTA School Of Technology, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad3b1b108403_organisation_image-0zQEqVAnoL701665127jhW5khuD3j.png",
+      "start_date": null,
+      "end_date": "2026-10-31T21:57:00+05:30",
+      "deadline": "2026-10-31T21:57:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -11857,6 +11857,25 @@
       "start_date": null,
       "end_date": "2026-11-06T17:31:00+05:30",
       "deadline": "2026-11-06T17:31:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/celestia-hyprlan-1771647",
+      "title": "Celestia",
+      "organizer": "HyprLan",
+      "mode": "Offline",
+      "venue_address": "HyprLan, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad3aa4653d8d_organisation_image-rYB4bi00x92008430532L4Fx4GP5q1.png",
+      "start_date": null,
+      "end_date": "2026-11-07T12:30:00+05:30",
+      "deadline": "2026-11-07T12:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -13331,7 +13350,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/srujan-2026-15-lakh-mega-hackathon-in-association-with-lt-bk-birla-college-1768041",
-      "title": "Srujan 2026 - 1.5 Lakh Mega Hackathon In association with L&T - Online Round is Free, No Rs 1200 Charged in it",
+      "title": "Srujan 2026 - 1.5 Lakh Mega Hackathon In association with L&T Edutech - Online Round is Free, No Rs 1200 Charged in it",
       "organizer": "Bk birla College",
       "mode": "Offline",
       "venue_address": "Bk birla College, India",
