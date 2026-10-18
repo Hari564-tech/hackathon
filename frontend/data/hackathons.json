@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-18T02:21:33.452846+00:00",
-  "total_count": 714,
+  "last_synced_at": "2026-10-18T10:09:13.202532+00:00",
+  "total_count": 717,
   "hackathons": [
     {
       "source": "Unstop",
@@ -9225,6 +9225,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-o-relay-60-this-time-its-latent-dronacharya-college-of-engineering-dce-gurgaon-1771713",
+      "title": "Hack-O-Relay 6.0 - This Time It's Latent",
+      "organizer": "Dronacharya College Of Engineering (DCE), Gurgaon",
+      "mode": "Offline",
+      "venue_address": "Dronacharya College Of Engineering (DCE), Gurgaon, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad3cd3015748_whatsapp_image_2026-10-18_at_01_01_30.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-24T15:00:00+05:30",
+      "deadline": "2026-10-24T15:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/webforge-ai-st-vincent-pallotti-college-of-engineering-and-technology-nagpur-1765780",
       "title": "Webforge AI",
       "organizer": "St Vincent pallotti college of engineering and technology nagpur",
@@ -11872,7 +11891,7 @@
       "mode": "Offline",
       "venue_address": "HyprLan, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad3aa4653d8d_organisation_image-rYB4bi00x92008430532L4Fx4GP5q1.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad46e1ec693b_organisation_image-rYB4bi00x92008430532L4Fx4GP5q1.png",
       "start_date": null,
       "end_date": "2026-11-07T12:30:00+05:30",
       "deadline": "2026-11-07T12:30:00+05:30",
@@ -12816,6 +12835,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798",
+      "title": "Catalyst - Solo AI Hackathon",
+      "organizer": "Makers Need More (MnM)",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad44b7931aab_catalyst_sq_bg_with-100kb.jpeg",
+      "start_date": null,
+      "end_date": "2026-11-15T19:30:00+05:30",
+      "deadline": "2026-11-15T19:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/nasa-space-apps-challenge-2026-national-institute-of-technology-nit-raipur-1745979",
       "title": "NASA Space Apps Challenge 2026",
       "organizer": "National Institute of Technology (NIT), Raipur",
@@ -13283,6 +13321,25 @@
       "start_date": null,
       "end_date": "2026-11-30T00:00:00+05:30",
       "deadline": "2026-11-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-era-20-erazone-1771785",
+      "title": "Hack Era 2.0",
+      "organizer": "Erazone",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad41c54e5b86_whatsapp_image_2026-10-16_at_11_17_02_am.jpeg",
+      "start_date": null,
+      "end_date": "2026-12-01T00:01:00+05:30",
+      "deadline": "2026-12-01T00:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
