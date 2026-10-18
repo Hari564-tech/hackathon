@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-18T10:09:13.202532+00:00",
-  "total_count": 717,
+  "last_synced_at": "2026-10-18T15:09:08.394890+00:00",
+  "total_count": 724,
   "hackathons": [
     {
       "source": "Unstop",
@@ -10574,6 +10574,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/defcon-20-defcon-20-nit-warangal-1771902",
+      "title": "DEFCON 2.0",
+      "organizer": "National Institute of Technology (NIT), Warangal",
+      "mode": "Offline",
+      "venue_address": "National Institute of Technology (NIT), Warangal, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad4abc58f2ee_cyberpunk_defcon_targeting_poster.jpg",
+      "start_date": null,
+      "end_date": "2026-10-29T23:59:00+05:30",
+      "deadline": "2026-10-29T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/the-coding-challenge-2026-sagar-group-of-institutions-sistec-bhopal-1757461",
       "title": "The Coding Challenge 2026",
       "organizer": "Sagar Group Of Institutions (SISTec), Bhopal",
@@ -10961,6 +10980,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad342b61d8ce_nerds_room_brand_assets_for_design-a-thon.png",
+      "start_date": null,
+      "end_date": "2026-10-31T00:00:00+05:30",
+      "deadline": "2026-10-31T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codequest-techbytes-buddha-degree-college-1771801",
+      "title": "CodeQuest & TechBytes",
+      "organizer": "Buddha Degree College",
+      "mode": "Offline",
+      "venue_address": "Buddha Degree College, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad44c7432adf_1_festival_logo_600x600_original.png",
       "start_date": null,
       "end_date": "2026-10-31T00:00:00+05:30",
       "deadline": "2026-10-31T00:00:00+05:30",
@@ -11458,6 +11496,25 @@
       "start_date": null,
       "end_date": "2026-11-01T12:00:00+05:30",
       "deadline": "2026-11-01T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/securathon-protofos-indian-institute-of-information-technology-iiit-bhagalpur-1771528",
+      "title": "Securathon",
+      "organizer": "Indian Institute of Information Technology (IIIT), Bhagalpur",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Information Technology (IIIT), Bhagalpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad4c5764f7b4_Indian_Institute_of_Information_Technology,_Bhagalpur_logo.png",
+      "start_date": null,
+      "end_date": "2026-11-01T12:55:00+05:30",
+      "deadline": "2026-11-01T12:55:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -11987,6 +12044,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aaedd3f0be70_leadership_management_dept.png",
+      "start_date": null,
+      "end_date": "2026-11-10T00:00:00+05:30",
+      "deadline": "2026-11-10T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ideathon-acharya-institute-of-technology-1771966",
+      "title": "Ideathon",
+      "organizer": "Acharya Institute of Technology",
+      "mode": "Offline",
+      "venue_address": "Acharya Institute of Technology, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad4dd31dd41c_acharya.png",
       "start_date": null,
       "end_date": "2026-11-10T00:00:00+05:30",
       "deadline": "2026-11-10T00:00:00+05:30",
@@ -12969,6 +13045,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/prompt-to-product-acharya-institute-of-technology-1771961",
+      "title": "Prompt to Product",
+      "organizer": "Acharya Institute of Technology",
+      "mode": "Offline",
+      "venue_address": "Acharya Institute of Technology, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad4d6e2781dc_acharya.png",
+      "start_date": null,
+      "end_date": "2026-11-19T13:00:00+05:30",
+      "deadline": "2026-11-19T13:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/capture-the-flag-acharya-institute-of-technology-1771958",
+      "title": "Capture The Flag",
+      "organizer": "Acharya Institute of Technology",
+      "mode": "Offline",
+      "venue_address": "Acharya Institute of Technology, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad4d69d40a09_acharya.png",
+      "start_date": null,
+      "end_date": "2026-11-19T18:30:00+05:30",
+      "deadline": "2026-11-19T18:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codetitans-india-2026-national-hackathon-wecodecoders-1766190",
       "title": "CodeTitans India 2026 - National Hackathon",
       "organizer": "WeCodeCoders",
@@ -13017,6 +13131,25 @@
       "start_date": null,
       "end_date": "2026-11-20T17:00:00+05:30",
       "deadline": "2026-11-20T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/competitive-programming-acharya-institute-of-technology-1771951",
+      "title": "Competitive Programming",
+      "organizer": "Acharya Institute of Technology",
+      "mode": "Offline",
+      "venue_address": "Acharya Institute of Technology, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad4d5fdebaed_acharya.png",
+      "start_date": null,
+      "end_date": "2026-11-20T18:30:00+05:30",
+      "deadline": "2026-11-20T18:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
