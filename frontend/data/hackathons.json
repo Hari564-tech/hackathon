@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-19T11:41:21.372503+00:00",
-  "total_count": 728,
+  "last_synced_at": "2026-10-19T18:02:22.462722+00:00",
+  "total_count": 733,
   "hackathons": [
     {
       "source": "Unstop",
@@ -9795,6 +9795,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ideathon-60-ideas-into-impact-inspire-leap-private-limited-1772359",
+      "title": "Ideathon 6.0: Ideas into Impact",
+      "organizer": "Inspire leap private limited",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad60c45295b7_inspire_leap_logo_2.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-25T20:01:00+05:30",
+      "deadline": "2026-10-25T20:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackyard-build-2026-hackyard-1758969",
       "title": "Hackyard Build 2026",
       "organizer": "Hackyard",
@@ -11125,6 +11144,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/syntax-sprint-protofos-indian-institute-of-information-technology-iiit-bhagalpur-1771598",
+      "title": "Syntax Sprint",
+      "organizer": "Indian Institute of Information Technology (IIIT), Bhagalpur",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Information Technology (IIIT), Bhagalpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad4acda7ed8c_syntaxsprint_1.png",
+      "start_date": null,
+      "end_date": "2026-10-31T14:01:00+05:30",
+      "deadline": "2026-10-31T14:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/sphinx-26-hackerss-unity-1767767",
       "title": "Sphinx 26",
       "organizer": "Hackers's Unity",
@@ -11543,6 +11581,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/securathon-cybersecurity-hackathon-protofos-indian-institute-of-information-technology-iiit-bhagalpur-1771528",
+      "title": "Securathon - Cybersecurity Hackathon",
+      "organizer": "Indian Institute of Information Technology (IIIT), Bhagalpur",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Information Technology (IIIT), Bhagalpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad643e1adcd3_event-logos-2_page-0001.jpg",
+      "start_date": null,
+      "end_date": "2026-11-01T12:55:00+05:30",
+      "deadline": "2026-11-01T12:55:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/secleaf-q4-ctf-2026-secleaf-1755320",
       "title": "SecLeaf Q4 CTF 2026",
       "organizer": "SecLeaf",
@@ -11553,6 +11610,25 @@
       "start_date": null,
       "end_date": "2026-11-01T14:00:00+05:30",
       "deadline": "2026-11-01T14:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/mst-blockchain-buildathon-from-idea-to-mvp-mst-blockchain-1772228",
+      "title": "MST Blockchain Buildathon | From Idea to MVP",
+      "organizer": "MST Blockchain",
+      "mode": "Offline",
+      "venue_address": "MST Blockchain, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad5e2f6e8f75_download.png",
+      "start_date": null,
+      "end_date": "2026-11-01T16:00:00+05:30",
+      "deadline": "2026-11-01T16:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -13625,6 +13701,25 @@
       "start_date": null,
       "end_date": "2026-12-20T12:00:00+05:30",
       "deadline": "2026-12-20T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codequest-national-tech-hackathon-2026-dotrepo-1771441",
+      "title": "CodeQuest: National Tech Hackathon 2026",
+      "organizer": "DotRepo",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad43d937226b_dotrepo-3.png",
+      "start_date": null,
+      "end_date": "2026-12-25T23:59:00+05:30",
+      "deadline": "2026-12-25T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
