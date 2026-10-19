@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-19T02:36:06.056405+00:00",
-  "total_count": 726,
+  "last_synced_at": "2026-10-19T11:41:21.372503+00:00",
+  "total_count": 728,
   "hackathons": [
     {
       "source": "Unstop",
@@ -10238,7 +10238,7 @@
       "mode": "Offline",
       "venue_address": "New Horizon Collage Of Engineering, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad22b2ea9e5a_organisation_image-YwO97A0C6a1317190702hzOM9lUOEH.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad4f604be954_organisation_image-YwO97A0C6a1317190702hzOM9lUOEH.png",
       "start_date": null,
       "end_date": "2026-10-26T23:59:00+05:30",
       "deadline": "2026-10-26T23:59:00+05:30",
@@ -11525,12 +11525,12 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/securathon-protofos-indian-institute-of-information-technology-iiit-bhagalpur-1771528",
-      "title": "Securathon",
+      "title": "Securathon - Cybersecurity Hackathon",
       "organizer": "Indian Institute of Information Technology (IIIT), Bhagalpur",
       "mode": "Offline",
       "venue_address": "Indian Institute of Information Technology (IIIT), Bhagalpur, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad4c5764f7b4_Indian_Institute_of_Information_Technology,_Bhagalpur_logo.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad5d3650e824_Indian_Institute_of_Information_Technology,_Bhagalpur_logo.png",
       "start_date": null,
       "end_date": "2026-11-01T12:55:00+05:30",
       "deadline": "2026-11-01T12:55:00+05:30",
@@ -11971,6 +11971,25 @@
       "start_date": null,
       "end_date": "2026-11-06T17:31:00+05:30",
       "deadline": "2026-11-06T17:31:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-conqueror-india-2026-national-hackathon-wecodecoders-1772304",
+      "title": "Code Conqueror India 2026 - National Hackathon",
+      "organizer": "WeCodeCoders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad5f550747a1_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "start_date": null,
+      "end_date": "2026-11-06T18:00:17+05:30",
+      "deadline": "2026-11-06T18:00:17+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -13625,6 +13644,25 @@
       "start_date": null,
       "end_date": "2026-12-31T12:01:00+05:30",
       "deadline": "2026-12-31T12:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/redstone-rush-12-hour-open-innovation-hackathon-continuum-mmmut-gorakhpur-1771949",
+      "title": "RedStone Rush 12 Hour Open Innovation Hackathon",
+      "organizer": "Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur",
+      "mode": "Offline",
+      "venue_address": "Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad5f0c217ecf_continuum_logo.jpeg",
+      "start_date": null,
+      "end_date": "2027-01-09T20:00:00+05:30",
+      "deadline": "2027-01-09T20:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
