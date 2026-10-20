@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-19T18:02:22.462722+00:00",
-  "total_count": 733,
+  "last_synced_at": "2026-10-20T02:48:29.315746+00:00",
+  "total_count": 736,
   "hackathons": [
     {
       "source": "Unstop",
@@ -9985,6 +9985,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/tryb-weekend-challenge-1-build-launch-play-tryb-arcade-26-the-build-play-festival-prizes-worth-rs225-lakhs-tr-1771928",
+      "title": "Tryb Weekend Challenge 1: Build, Launch & Play",
+      "organizer": "Tryb",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad6831084705_organisation_image-qRE2I4h4Yn15845951574kQvDVYnjy.png",
+      "start_date": null,
+      "end_date": "2026-10-25T23:59:00+05:30",
+      "deadline": "2026-10-25T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackosquad-ctf-2026-hackosquad-1766739",
       "title": "hackosquadCTF 2026: DOOMSDAY ",
       "organizer": "Hackosquad",
@@ -13767,6 +13786,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codebuild-20-cobuild-1772164",
+      "title": "CodeBuild 2.0",
+      "organizer": "Cobuild",
+      "mode": "Offline",
+      "venue_address": "Cobuild, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad5c5412632c_1000163060.jpg",
+      "start_date": null,
+      "end_date": "2027-01-16T14:00:00+05:30",
+      "deadline": "2027-01-16T14:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/tcu-hack-day-technical-community-universe-1763620",
       "title": "TCU Hack Day",
       "organizer": "Technical Community Universe",
@@ -13910,6 +13948,25 @@
       "start_date": null,
       "end_date": "2027-02-06T16:00:00+05:30",
       "deadline": "2027-02-06T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacknova27-20-bharati-vidyapeeth-deemed-to-be-university-1772235",
+      "title": "Hacknova'27 2.0",
+      "organizer": "Bharati Vidyapeeth (Deemed to be University)",
+      "mode": "Offline",
+      "venue_address": "Bharati Vidyapeeth (Deemed to be University), India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad5e4dd6d96b_logo.webp",
+      "start_date": null,
+      "end_date": "2027-02-07T18:00:00+05:30",
+      "deadline": "2027-02-07T18:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
