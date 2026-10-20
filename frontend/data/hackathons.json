@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-20T02:48:29.315746+00:00",
-  "total_count": 736,
+  "last_synced_at": "2026-10-20T10:43:32.055447+00:00",
+  "total_count": 738,
   "hackathons": [
     {
       "source": "Unstop",
@@ -9320,6 +9320,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/prajwalan-2k26-ramdeobaba-university-1771520",
+      "title": "Prajwalan - 2K26",
+      "organizer": "Ramdeobaba University",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad4d2bdaadea_e57fc8df-afe2-462b-a74d-fa21cd09ada5_1.png",
+      "start_date": null,
+      "end_date": "2026-10-24T22:00:00+05:30",
+      "deadline": "2026-10-24T22:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/qiskit-fall-fest-mukesh-patel-school-of-technology-management-and-engineering-nmims-mumbai-1748182",
       "title": "Qiskit Fall Fest",
       "organizer": "Mukesh Patel School of Technology Management and Engineering (NMIMS), Mumbai",
@@ -9991,7 +10010,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad6831084705_organisation_image-qRE2I4h4Yn15845951574kQvDVYnjy.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad6dc5858fb5_organisation_image-qRE2I4h4Yn15845951574kQvDVYnjy.png",
       "start_date": null,
       "end_date": "2026-10-25T23:59:00+05:30",
       "deadline": "2026-10-25T23:59:00+05:30",
@@ -13986,6 +14005,25 @@
       "start_date": null,
       "end_date": "2027-02-07T23:59:00+05:30",
       "deadline": "2027-02-07T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/india-got-spot-10-swastik-community-1771992",
+      "title": "INDIA GOT SPOT 1.0",
+      "organizer": "Swastik Community",
+      "mode": "Offline",
+      "venue_address": "Swastik Community, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad4f7335c2f5_screenshot_2026-10-14_105434.png",
+      "start_date": null,
+      "end_date": "2027-02-15T20:00:00+05:30",
+      "deadline": "2027-02-15T20:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
