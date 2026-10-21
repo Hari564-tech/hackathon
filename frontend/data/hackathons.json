@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-21T02:42:31.998527+00:00",
-  "total_count": 738,
+  "last_synced_at": "2026-10-21T10:54:48.486186+00:00",
+  "total_count": 741,
   "hackathons": [
     {
       "source": "Unstop",
@@ -10536,6 +10536,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacksphere-30-birla-institute-of-technology-science-bits-pilani-hyderabad-campus-1771036",
+      "title": "Hacksphere 3.0",
+      "organizer": "Birla Institute of Technology & Science (BITS) Pilani, Hyderabad Campus",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad88f2144a0c_BITS_Pilani-Logo.svg.png",
+      "start_date": null,
+      "end_date": "2026-10-28T23:59:00+05:30",
+      "deadline": "2026-10-28T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/overclock26-24-hours-hackathon-srm-easwari-engineering-college-srmeec-ramapuram-1766861",
       "title": "OverClock'26 - 24 hours Hackathon",
       "organizer": "SRM Easwari Engineering College (SRMEEC), Ramapuram",
@@ -10736,6 +10755,25 @@
       "start_date": null,
       "end_date": "2026-10-30T00:00:00+05:30",
       "deadline": "2026-10-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vibeathon-build-with-ai-genesis-20-the-annual-tech-fest-gateway-institute-of-engineering-technologygietharyan-1772925",
+      "title": "Vibeathon – Build with AI",
+      "organizer": "Gateway Institute Of Engineering & Technology(GIET),Haryana",
+      "mode": "Offline",
+      "venue_address": "Gateway Institute Of Engineering & Technology(GIET),Haryana, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad874b75bda7_genesis-logo.png",
+      "start_date": null,
+      "end_date": "2026-10-30T00:01:00+05:30",
+      "deadline": "2026-10-30T00:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -12233,7 +12271,7 @@
       "mode": "Offline",
       "venue_address": "Acharya Institute of Technology, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad4dd31dd41c_acharya.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad85fdeb2420_acharya.png",
       "start_date": null,
       "end_date": "2026-11-10T00:00:00+05:30",
       "deadline": "2026-11-10T00:00:00+05:30",
@@ -13006,6 +13044,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/foodoscope-fork-it-challenge-2026-esya26-indraprastha-institute-of-information-technology-iiit-delhi-1772671",
+      "title": "Foodoscope Fork It Challenge 2026",
+      "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
+      "mode": "Offline",
+      "venue_address": "Indraprastha Institute of Information Technology (IIIT), Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad78b7477cf1_IIIT_Delhi_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-11-15T06:00:49+05:30",
+      "deadline": "2026-11-15T06:00:49+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codenexus-india-2026-national-hackathon-wecodecoders-1764747",
       "title": "CodeNexus India 2026 - National Hackathon",
       "organizer": "WeCodeCoders",
@@ -13222,7 +13279,7 @@
       "mode": "Offline",
       "venue_address": "Acharya Institute of Technology, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad4d6e2781dc_acharya.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad86295a8a9d_acharya.png",
       "start_date": null,
       "end_date": "2026-11-19T13:00:00+05:30",
       "deadline": "2026-11-19T13:00:00+05:30",
@@ -13241,7 +13298,7 @@
       "mode": "Offline",
       "venue_address": "Acharya Institute of Technology, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad4d69d40a09_acharya.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad85a9937672_acharya.png",
       "start_date": null,
       "end_date": "2026-11-19T18:30:00+05:30",
       "deadline": "2026-11-19T18:30:00+05:30",
@@ -13317,7 +13374,7 @@
       "mode": "Offline",
       "venue_address": "Acharya Institute of Technology, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad4d5fdebaed_acharya.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad85f312bb77_acharya.png",
       "start_date": null,
       "end_date": "2026-11-20T18:30:00+05:30",
       "deadline": "2026-11-20T18:30:00+05:30",
