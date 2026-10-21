@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-21T16:22:21.269474+00:00",
-  "total_count": 744,
+  "last_synced_at": "2026-10-21T21:04:23.680088+00:00",
+  "total_count": 747,
   "hackathons": [
     {
       "source": "Unstop",
@@ -10574,6 +10574,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/bid-and-code-design-frontend-competition-by-acm-university-school-of-information-communication-and-technology-1773221",
+      "title": "Bid and Code: Design & Frontend Competition by ACM",
+      "organizer": "University School of Information, Communication and Technology (USICT), GGS Indraprastha University (GGSIPU), New Delhi",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad90749f1ca5_a00d7d5c-c403-4c31-bda7-9dd07dbd090f.jpg",
+      "start_date": null,
+      "end_date": "2026-10-29T00:00:00+05:30",
+      "deadline": "2026-10-29T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/overclock26-24-hours-hackathon-srm-easwari-engineering-college-srmeec-ramapuram-1766861",
       "title": "OverClock'26 - 24 hours Hackathon",
       "organizer": "SRM Easwari Engineering College (SRMEEC), Ramapuram",
@@ -13425,6 +13444,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/build-with-agora-blr-knotic-1773211",
+      "title": "Build with Agora - BLR",
+      "organizer": "KNOTiC",
+      "mode": "Offline",
+      "venue_address": "KNOTiC, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad900833b18e_organisation_image-MTwVaml0UQ2046073739QBTRl1f3uW.png",
+      "start_date": null,
+      "end_date": "2026-11-21T17:30:00+05:30",
+      "deadline": "2026-11-21T17:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/build-your-bharat-hackathon-byb-build-your-bharatbyb-hackathon-next-bharat-ventures-1770621",
       "title": "Build Your Bharat Hackathon (BYB)",
       "organizer": "Next Bharat Ventures",
@@ -14081,6 +14119,25 @@
       "start_date": null,
       "end_date": "2027-02-06T16:00:00+05:30",
       "deadline": "2027-02-06T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/craft-n-code-odisha-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iiit-1773246",
+      "title": "Craft N Code Odisha",
+      "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+      "mode": "Offline",
+      "venue_address": "International Institute of Information Technology (IIIT), Bhubaneswar, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7c962bc8992_20260729_010736.png",
+      "start_date": null,
+      "end_date": "2027-02-06T16:00:16+05:30",
+      "deadline": "2027-02-06T16:00:16+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
