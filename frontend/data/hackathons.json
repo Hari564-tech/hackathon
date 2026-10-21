@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-21T10:54:48.486186+00:00",
-  "total_count": 741,
+  "last_synced_at": "2026-10-21T16:22:21.269474+00:00",
+  "total_count": 744,
   "hackathons": [
     {
       "source": "Unstop",
@@ -9320,6 +9320,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/elucode-6-edulinkup-1772551",
+      "title": "ELUCode-6",
+      "organizer": "EduLinkUp",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad89adce8f95_organisation_image-h1hlrAIK6Y1539650042r4300g5nuQ.png",
+      "start_date": null,
+      "end_date": "2026-10-24T21:00:00+05:30",
+      "deadline": "2026-10-24T21:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/prajwalan-2k26-ramdeobaba-university-1771520",
       "title": "Prajwalan - 2K26",
       "organizer": "Ramdeobaba University",
@@ -13254,6 +13273,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/firstcommit-26-national-online-hackathon-by-campuscode-campus-code-1772846",
+      "title": "FirstCommit '26 — National Online Hackathon by CampusCode",
+      "organizer": "Campus Code",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad860d59f657_whatsapp_image_2026-10-20_at_2_06_08_pm.png",
+      "start_date": null,
+      "end_date": "2026-11-17T22:01:00+05:30",
+      "deadline": "2026-11-17T22:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/innovathon-20-at-ju-university-of-jammu-jammu-1762935",
       "title": "Innovathon 2.0 @ JU",
       "organizer": "University of Jammu, Jammu",
@@ -13701,6 +13739,25 @@
       "start_date": null,
       "end_date": "2026-12-01T00:01:00+05:30",
       "deadline": "2026-12-01T00:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/prasunex-innovathon-2026-prasunex-1772904",
+      "title": "Prasunex Innovathon 2026",
+      "organizer": "PRASUNEX",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad8a014cdb4c_organisation_image-OEhjxp1rXw3974197323IFAEyktQK.png",
+      "start_date": null,
+      "end_date": "2026-12-01T21:00:00+05:30",
+      "deadline": "2026-12-01T21:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
