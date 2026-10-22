@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-22T10:54:51.179558+00:00",
-  "total_count": 752,
+  "last_synced_at": "2026-10-22T16:22:12.616072+00:00",
+  "total_count": 755,
   "hackathons": [
     {
       "source": "Unstop",
@@ -10080,6 +10080,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/octocode-chhattisgarh-institute-of-technology-raipur-1773100",
+      "title": "Octocode",
+      "organizer": "Chhattisgarh Institute of Technology, Raipur",
+      "mode": "Offline",
+      "venue_address": "Chhattisgarh Institute of Technology, Raipur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ada0902db74d_whatsapp_image_2026-10-21_at_19_45_14.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-26T00:01:00+05:30",
+      "deadline": "2026-10-26T00:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/yantravedh-hardware-hackathon-marathwada-mitra-mandals-college-of-engineering-mmcoe-pune-1773178",
+      "title": "Yantravedh Hardware Hackathon",
+      "organizer": "Marathwada Mitra Mandal's College of Engineering (MMCOE), Pune",
+      "mode": "Offline",
+      "venue_address": "Marathwada Mitra Mandal's College of Engineering (MMCOE), Pune, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad9f66bec70c_mmcoe-logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-26T00:59:00+05:30",
+      "deadline": "2026-10-26T00:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codestar-30-national-level-hackathon-wecodecoders-1760472",
       "title": "Code star 30 — National-Level Hackathon",
       "organizer": "WeCodeCoders",
@@ -11227,6 +11265,25 @@
       "venue_address": "Buddha Degree College, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad44c7432adf_1_festival_logo_600x600_original.png",
+      "start_date": null,
+      "end_date": "2026-10-31T00:00:00+05:30",
+      "deadline": "2026-10-31T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codeodyssey-26-jecrc-university-jecrcu-vidhani-jaipur-rajasthan-1772647",
+      "title": "CodeOdyssey '26",
+      "organizer": "JECRC University (JECRCU), Vidhani, Jaipur, Rajasthan",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad9fed9d9ce4_new_logo.png",
       "start_date": null,
       "end_date": "2026-10-31T00:00:00+05:30",
       "deadline": "2026-10-31T00:00:00+05:30",
