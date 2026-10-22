@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-22T16:22:12.616072+00:00",
-  "total_count": 755,
+  "last_synced_at": "2026-10-22T21:01:31.733997+00:00",
+  "total_count": 757,
   "hackathons": [
     {
       "source": "Unstop",
@@ -9056,11 +9056,11 @@
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/confluence-buildathon-2026-ieee-computer-society-pes-university-1773296",
       "title": "Confluence Buildathon 2.0 ",
-      "organizer": "IEEE Computer Society, PES University",
+      "organizer": "PES University (PESU), Bengaluru",
       "mode": "Offline",
-      "venue_address": "IEEE Computer Society, PES University, India",
+      "venue_address": "PES University (PESU), Bengaluru, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad9ab56d142b_organisation_image-ZLDbRyampH399659144EtugmNYLQE.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ada5f89a3876_PESU.png",
       "start_date": null,
       "end_date": "2026-10-23T23:59:00+05:30",
       "deadline": "2026-10-23T23:59:00+05:30",
@@ -13767,6 +13767,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/campus-quest-rajiv-gandhi-institute-of-petroleum-technology-rgipt-jais-uttar-pradesh-1773705",
+      "title": "Campus Quest",
+      "organizer": "Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Jais, Uttar Pradesh",
+      "mode": "Offline",
+      "venue_address": "Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Jais, Uttar Pradesh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ada5acc4cc9d_campus_quest_logo_1.png",
+      "start_date": null,
+      "end_date": "2026-11-25T00:00:00+05:30",
+      "deadline": "2026-11-25T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/datanova-2026-global-data-thon-swiss-school-of-management-rome-italy-1769646",
       "title": "Datanova 2026 Global Data-Thon",
       "organizer": "Swiss School of Management, Rome, Italy",
@@ -14138,6 +14157,25 @@
       "start_date": null,
       "end_date": "2027-01-23T18:00:00+05:30",
       "deadline": "2027-01-23T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/quasar-50-36-hour-international-hackathon-vasantdada-patil-pratishthans-college-of-engineering-and-visual-art-1772406",
+      "title": "Quasar 5.0: 36-Hour International Hackathon",
+      "organizer": "Vasantdada Patil Pratishthan's College of Engineering and Visual Arts, Mumbai, Maharashtra",
+      "mode": "Offline",
+      "venue_address": "Vasantdada Patil Pratishthan's College of Engineering and Visual Arts, Mumbai, Maharashtra, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad6254d588ee_q5.png",
+      "start_date": null,
+      "end_date": "2027-01-24T23:59:00+05:30",
+      "deadline": "2027-01-24T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
