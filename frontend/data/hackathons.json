@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-22T02:40:33.250795+00:00",
-  "total_count": 747,
+  "last_synced_at": "2026-10-22T10:54:51.179558+00:00",
+  "total_count": 752,
   "hackathons": [
     {
       "source": "Unstop",
@@ -9054,6 +9054,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/confluence-buildathon-2026-ieee-computer-society-pes-university-1773296",
+      "title": "Confluence Buildathon 2.0 ",
+      "organizer": "IEEE Computer Society, PES University",
+      "mode": "Offline",
+      "venue_address": "IEEE Computer Society, PES University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad9ab56d142b_organisation_image-ZLDbRyampH399659144EtugmNYLQE.png",
+      "start_date": null,
+      "end_date": "2026-10-23T23:59:00+05:30",
+      "deadline": "2026-10-23T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/blitz26-technical-coding-mookambigai-college-of-engineering-1768744",
       "title": "Blitz'26 - Technical Coding & Debugging Event",
       "organizer": "Mookambigai College of Engineering",
@@ -10517,6 +10536,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-tech-ideathon-kr-mangalam-university-1773114",
+      "title": "AI Tech Ideathon ",
+      "organizer": "K.R. Mangalam University",
+      "mode": "Offline",
+      "venue_address": "K.R. Mangalam University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad8cda26c597_screenshot_2026-10-21_at_7_55_47_pm.png",
+      "start_date": null,
+      "end_date": "2026-10-28T18:00:00+05:30",
+      "deadline": "2026-10-28T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/affecio-hacks-26-affecio-1759716",
       "title": "AFFECIO HACKS '26",
       "organizer": "Affecio",
@@ -10973,6 +11011,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/promptwars-hyderabad-2026-ai-prompt-engineering-competition-st-peters-engineering-college-spec-hyderabad-tela-1765597",
+      "title": "PromptWars Hyderabad 2026 - AI & Prompt Engineering Competition",
+      "organizer": "St. Peter's Engineering College (SPEC), Hyderabad, Telangana",
+      "mode": "Offline",
+      "venue_address": "St. Peter's Engineering College (SPEC), Hyderabad, Telangana, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad98e88345df_screenshot_2026-10-22_at_09_52_02.png",
+      "start_date": null,
+      "end_date": "2026-10-30T17:30:00+05:30",
+      "deadline": "2026-10-30T17:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ai-synergy-hackathon-2026-gwalior-ai-summit-29-30-oct-atal-bihari-vajpayee-indian-institute-of-information-te-1762421",
       "title": "AI Synergy Hackathon 2026",
       "organizer": "Atal Bihari Vajpayee-Indian Institute of Information Technology and Management",
@@ -11037,6 +11094,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-69f2a80ba2005_amd_cloud_computind-unstop.jpg",
+      "start_date": null,
+      "end_date": "2026-10-30T23:59:00+05:30",
+      "deadline": "2026-10-30T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/rootaccess-thapar-institute-of-engineering-and-technology-tiet-patiala-1773307",
+      "title": "RootAccess",
+      "organizer": "Thapar Institute of Engineering and Technology (TIET), Patiala",
+      "mode": "Offline",
+      "venue_address": "Thapar Institute of Engineering and Technology (TIET), Patiala, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad9bfc06c583_Thapar_Institute_of_Engineering_and_Technology_University_logo.png",
       "start_date": null,
       "end_date": "2026-10-30T23:59:00+05:30",
       "deadline": "2026-10-30T23:59:00+05:30",
@@ -13625,6 +13701,25 @@
       "start_date": null,
       "end_date": "2026-11-25T00:00:00+05:30",
       "deadline": "2026-11-25T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/datanova-2026-global-data-thon-swiss-school-of-management-rome-italy-1769646",
+      "title": "Datanova 2026 Global Data-Thon",
+      "organizer": "Swiss School of Management, Rome, Italy",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad9b6374e237_screenshot_2026-10-22_at_12_37_06_pm.png",
+      "start_date": null,
+      "end_date": "2026-11-25T18:33:00+05:30",
+      "deadline": "2026-11-25T18:33:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
