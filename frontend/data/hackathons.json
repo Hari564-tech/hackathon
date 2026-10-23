@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-23T02:44:49.439118+00:00",
-  "total_count": 757,
+  "last_synced_at": "2026-10-23T10:46:40.040693+00:00",
+  "total_count": 759,
   "hackathons": [
     {
       "source": "Unstop",
@@ -11619,6 +11619,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/reverse-coding-challenge-2026-infotechiezz-1662965",
+      "title": "Reverse Coding Challenge 2026",
+      "organizer": "InfoTechiezz",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adb0d0ddb862_organisation_image-BqpxA7KmrT1171984697i8XedOGgQc.png",
+      "start_date": null,
+      "end_date": "2026-10-31T23:30:00+05:30",
+      "deadline": "2026-10-31T23:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/game-dev-synergy-26-international-institute-of-information-technology-iiit-bangalore-1762887",
       "title": "Game Dev",
       "organizer": "International Institute of Information Technology (IIIT), Bangalore",
@@ -11961,6 +11980,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/campus-quest-rajiv-gandhi-institute-of-petroleum-technology-rgipt-jais-uttar-pradesh-1773705",
+      "title": "Campus Quest",
+      "organizer": "Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Jais, Uttar Pradesh",
+      "mode": "Offline",
+      "venue_address": "Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Jais, Uttar Pradesh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ada5acc4cc9d_campus_quest_logo_1.png",
+      "start_date": null,
+      "end_date": "2026-11-01T21:00:00+05:30",
+      "deadline": "2026-11-01T21:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/agentic-ai-hackathon-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742838",
       "title": "Agentic AI Hackathon",
       "organizer": "Indian Institute Of Technology Bhubaneswar",
@@ -12120,6 +12158,25 @@
       "venue_address": "Maharaja Agrasen Institute Of Technology (MAIT), India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad4b4ee722c8_open_circle_logo.jpeg",
+      "start_date": null,
+      "end_date": "2026-11-03T17:00:00+05:30",
+      "deadline": "2026-11-03T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/deadlock-26-maharaja-agrasen-institute-of-technology-1773725",
+      "title": "DEADLOCK '26",
+      "organizer": "Maharaja Agrasen Institute of Technology ",
+      "mode": "Offline",
+      "venue_address": "Maharaja Agrasen Institute of Technology , India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ada5b03442fe_39477.jpg",
       "start_date": null,
       "end_date": "2026-11-03T17:00:00+05:30",
       "deadline": "2026-11-03T17:00:00+05:30",
@@ -13755,25 +13812,6 @@
       "venue_address": "Hackhere, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ace1d55c2a7e_organisation_image-n4FCytWDxs789928907Z9b8i4iU6j.png",
-      "start_date": null,
-      "end_date": "2026-11-25T00:00:00+05:30",
-      "deadline": "2026-11-25T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/campus-quest-rajiv-gandhi-institute-of-petroleum-technology-rgipt-jais-uttar-pradesh-1773705",
-      "title": "Campus Quest",
-      "organizer": "Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Jais, Uttar Pradesh",
-      "mode": "Offline",
-      "venue_address": "Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Jais, Uttar Pradesh, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ada5acc4cc9d_campus_quest_logo_1.png",
       "start_date": null,
       "end_date": "2026-11-25T00:00:00+05:30",
       "deadline": "2026-11-25T00:00:00+05:30",
