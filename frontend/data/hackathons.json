@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-24T02:41:58.369872+00:00",
-  "total_count": 761,
+  "last_synced_at": "2026-10-24T10:02:59.531688+00:00",
+  "total_count": 765,
   "hackathons": [
     {
       "source": "Unstop",
@@ -10099,25 +10099,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/yantravedh-hardware-hackathon-marathwada-mitra-mandals-college-of-engineering-mmcoe-pune-1773178",
-      "title": "Yantravedh Hardware Hackathon",
-      "organizer": "Marathwada Mitra Mandal's College of Engineering (MMCOE), Pune",
-      "mode": "Offline",
-      "venue_address": "Marathwada Mitra Mandal's College of Engineering (MMCOE), Pune, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad9f66bec70c_mmcoe-logo.jpg",
-      "start_date": null,
-      "end_date": "2026-10-26T00:59:00+05:30",
-      "deadline": "2026-10-26T00:59:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codestar-30-national-level-hackathon-wecodecoders-1760472",
       "title": "Code star 30 — National-Level Hackathon",
       "organizer": "WeCodeCoders",
@@ -10546,6 +10527,25 @@
       "start_date": null,
       "end_date": "2026-10-27T23:59:00+05:30",
       "deadline": "2026-10-27T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/yantravedh-hardware-hackathon-marathwada-mitra-mandals-college-of-engineering-mmcoe-pune-1773178",
+      "title": "Yantravedh Hardware Hackathon",
+      "organizer": "Marathwada Mitra Mandal's College of Engineering (MMCOE), Pune",
+      "mode": "Offline",
+      "venue_address": "Marathwada Mitra Mandal's College of Engineering (MMCOE), Pune, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adc646367309_whatsapp_image_2026-10-24_at_12_11_58_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-28T00:59:00+05:30",
+      "deadline": "2026-10-28T00:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -11645,6 +11645,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ababbda9c7a9_uploadedmanual-6ab7fa9cd6206_synergy.png",
+      "start_date": null,
+      "end_date": "2026-10-31T23:59:00+05:30",
+      "deadline": "2026-10-31T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/gen-ai-product-hackathon-product-space-1774085",
+      "title": "Gen-AI Product Hackathon",
+      "organizer": "Product Space",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adb4ef9e1dc0_whatsapp_image_2026-10-23_at_5_41_12_pm.jpeg",
       "start_date": null,
       "end_date": "2026-10-31T23:59:00+05:30",
       "deadline": "2026-10-31T23:59:00+05:30",
@@ -13386,6 +13405,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/chaoscore-hackathon-2026-invoqe-1774071",
+      "title": "ChaosCore Hackathon 2026",
+      "organizer": "Invoqe",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adb4ef90c554_neon_chaoscore_halloween_hackathon_emblem.png",
+      "start_date": null,
+      "end_date": "2026-11-15T21:00:00+05:30",
+      "deadline": "2026-11-15T21:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/nasa-space-apps-challenge-2026-national-institute-of-technology-nit-raipur-1745979",
       "title": "NASA Space Apps Challenge 2026",
       "organizer": "National Institute of Technology (NIT), Raipur",
@@ -13957,6 +13995,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-to-ween-2026-halloween-hackathon-indian-institute-of-technology-iit-jodhpur-1774353",
+      "title": "Hack-to-Ween 2026 | Halloween Hackathon",
+      "organizer": "Indian Institute of Technology (IIT), Jodhpur",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adc3f16af9bc_IITJ_logo_2.png",
+      "start_date": null,
+      "end_date": "2026-11-29T23:59:00+05:30",
+      "deadline": "2026-11-29T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacknexus-mastermind-research-technologies-1746846",
       "title": "Hacknexus",
       "organizer": "MASTERMIND RESEARCH TECHNOLOGIES",
@@ -14071,6 +14128,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-buildfest-2026-frontend-arena-1774417",
+      "title": "AI BuildFest 2026",
+      "organizer": "Frontend Arena",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adbd6435ff20_fa_logo.png",
+      "start_date": null,
+      "end_date": "2026-12-12T12:00:00+05:30",
+      "deadline": "2026-12-12T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/samadhan-2026-national-social-innovation-challenge-upay-underprivileged-advancements-by-youth-1724048",
       "title": "Samadhan 2026( National Social Innovation Challenge)",
       "organizer": "UPAY (Underprivileged Advancements by Youth)",
@@ -14115,7 +14191,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adc1461614ed_organisation_image-GHkYhx7N6r1906252255xLtz4GL1fh.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adc6f4633351_organisation_image-GHkYhx7N6r1906252255xLtz4GL1fh.png",
       "start_date": null,
       "end_date": "2026-12-20T09:00:00+05:30",
       "deadline": "2026-12-20T09:00:00+05:30",
