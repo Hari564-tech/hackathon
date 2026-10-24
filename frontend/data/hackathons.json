@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-24T10:02:59.531688+00:00",
-  "total_count": 765,
+  "last_synced_at": "2026-10-24T15:08:03.913250+00:00",
+  "total_count": 767,
   "hackathons": [
     {
       "source": "Unstop",
@@ -11150,7 +11150,7 @@
       "mode": "Offline",
       "venue_address": "Thapar Institute of Engineering and Technology (TIET), Patiala, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad9bfc06c583_Thapar_Institute_of_Engineering_and_Technology_University_logo.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adcc0d35e287_Thapar_Institute_of_Engineering_and_Technology_University_logo.png",
       "start_date": null,
       "end_date": "2026-10-30T23:59:00+05:30",
       "deadline": "2026-10-30T23:59:00+05:30",
@@ -12664,6 +12664,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/nasa-space-apps-challenge-2026-rishihood-university-1774877",
+      "title": "NASA Space Apps Challenge 2026",
+      "organizer": "Rishihood University",
+      "mode": "Offline",
+      "venue_address": "Rishihood University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adcaed5498b7_nasa_space_apps_logo.png",
+      "start_date": null,
+      "end_date": "2026-11-13T23:00:00+05:30",
+      "deadline": "2026-11-13T23:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/nasa-space-apps-challenge-2026-chandigarh-university-1758769",
       "title": "NASA Space Apps Challenge 2026",
       "organizer": "Chandigarh University ",
@@ -14001,7 +14020,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adc3f16af9bc_IITJ_logo_2.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adc9ee525ecf_IITJ_logo_2.png",
       "start_date": null,
       "end_date": "2026-11-29T23:59:00+05:30",
       "deadline": "2026-11-29T23:59:00+05:30",
@@ -14081,6 +14100,25 @@
       "start_date": null,
       "end_date": "2026-12-01T21:00:00+05:30",
       "deadline": "2026-12-01T21:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacktopia-pune-2026-jspm-rajarshi-shahu-college-of-engineering-tathawade-pimpri-chinchwad-maharashtra-1774876",
+      "title": "Hacktopia Pune 2026",
+      "organizer": "JSPM Rajarshi Shahu College of Engineering, Tathawade, Pimpri-Chinchwad, Maharashtra",
+      "mode": "Offline",
+      "venue_address": "JSPM Rajarshi Shahu College of Engineering, Tathawade, Pimpri-Chinchwad, Maharashtra, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adcae97615c0_logohacktopia.webp",
+      "start_date": null,
+      "end_date": "2026-12-06T00:00:00+05:30",
+      "deadline": "2026-12-06T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -14191,7 +14229,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adc6f4633351_organisation_image-GHkYhx7N6r1906252255xLtz4GL1fh.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adc960f9dd16_organisation_image-GHkYhx7N6r1906252255xLtz4GL1fh.png",
       "start_date": null,
       "end_date": "2026-12-20T09:00:00+05:30",
       "deadline": "2026-12-20T09:00:00+05:30",
