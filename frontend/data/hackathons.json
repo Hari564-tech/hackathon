@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-25T10:27:56.551978+00:00",
-  "total_count": 776,
+  "last_synced_at": "2026-10-25T15:19:52.319933+00:00",
+  "total_count": 778,
   "hackathons": [
     {
       "source": "Unstop",
@@ -11334,6 +11334,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackcelestia-international-hackathon-banasthali-vidyapith-bu-jaipur-1775961",
+      "title": "HackCelestia — International Hackathon",
+      "organizer": "Banasthali Vidyapith (BU), Jaipur",
+      "mode": "Offline",
+      "venue_address": "Banasthali Vidyapith (BU), Jaipur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6addbf627d8e1_images_1.jpg",
+      "start_date": null,
+      "end_date": "2026-10-31T00:00:00+05:30",
+      "deadline": "2026-10-31T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/semicon-hackathon-explore-innovate-build-with-semiconductors-sarcathon-2026-iit-bombay-1744747",
       "title": "SemiCon Hackathon - Explore, Innovate & Build with Semiconductors | IIT Bombay",
       "organizer": "Indian Institute of Technology (IIT), Bombay",
@@ -14229,7 +14248,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adcf5e264e68_organisation_image-iE348GJulS2126066178C2PgTAMhpw.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ade109f5218a_organisation_image-iE348GJulS2126066178C2PgTAMhpw.png",
       "start_date": null,
       "end_date": "2026-11-30T22:00:00+05:30",
       "deadline": "2026-11-30T22:00:00+05:30",
@@ -14252,6 +14271,25 @@
       "start_date": null,
       "end_date": "2026-12-01T00:01:00+05:30",
       "deadline": "2026-12-01T00:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/techfusion-mern-stack-coding-challenge-2026-hi-tech-institute-of-engineering-and-technology-hiet-ghaziabad-1773166",
+      "title": "TechFusion MERN Stack Coding Challenge 2026",
+      "organizer": "HI-Tech Institute Of Engineering And Technology (HIET), Ghaziabad",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adde5398ba53_screenshot_2026-10-25_at_4_50_45_pm.png",
+      "start_date": null,
+      "end_date": "2026-12-01T10:00:00+05:30",
+      "deadline": "2026-12-01T10:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
