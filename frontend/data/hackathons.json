@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-25T15:19:52.319933+00:00",
-  "total_count": 778,
+  "last_synced_at": "2026-10-25T20:12:36.414515+00:00",
+  "total_count": 781,
   "hackathons": [
     {
       "source": "Unstop",
@@ -12303,6 +12303,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/portfolio-design-hackathon-2026-build-deploy-showcase-your-creative-skillinf-1776773",
+      "title": "Portfolio Design Hackathon 2026 – Build, Deploy & Showcase Your Creative",
+      "organizer": "Skillinf",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ade4e361d406_organisation_image-TnCIbNeqHm1941330442ZXESgEO0bH.png",
+      "start_date": null,
+      "end_date": "2026-11-04T00:00:00+05:30",
+      "deadline": "2026-11-04T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/indiathon-powered-by-e-cell-iiit-bhubaneswar-co-powered-by-learnapart-international-institute-of-information--1765224",
       "title": "Indiathon – Powered by E-Cell IIIT Bhubaneswar , Co-powered by LearnApart",
       "organizer": "International Institute of Information Technology, Bhubaneswar",
@@ -12550,6 +12569,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/bharatcode-build-league-bharatcode-build-league-build-with-ai-and-win-rs10000-and-a-rs60000-sde-internship-bh-1776294",
+      "title": "BharatCode Build League ",
+      "organizer": "BharatCode.ai",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ade2590a2fb7_1780940688190.jpg",
+      "start_date": null,
+      "end_date": "2026-11-08T00:00:00+05:30",
+      "deadline": "2026-11-08T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codepunethinkers-hackathon-hack-with-pune-hackwithpune-1767661",
       "title": "CodePuneThinkers Hackathon - Hack With Pune",
       "organizer": "HackWithPune",
@@ -12617,6 +12655,25 @@
       "start_date": null,
       "end_date": "2026-11-09T01:11:03+05:30",
       "deadline": "2026-11-09T01:11:03+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/operation-ward-zero-wooble-software-private-limited-1776892",
+      "title": "Operation Ward Zero",
+      "organizer": "Wooble Software Private Limited",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ade606d44e85_organisation_image-8ElzSzeoRF133141058667FeQgQiaN.png",
+      "start_date": null,
+      "end_date": "2026-11-09T23:03:00+05:30",
+      "deadline": "2026-11-09T23:03:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
