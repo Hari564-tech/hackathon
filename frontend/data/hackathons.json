@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-25T02:31:42.063512+00:00",
-  "total_count": 774,
+  "last_synced_at": "2026-10-25T10:27:56.551978+00:00",
+  "total_count": 776,
   "hackathons": [
     {
       "source": "Unstop",
@@ -10935,6 +10935,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-clash-cerebro-2026-27-indian-institute-of-information-technology-vadodara-1775833",
+      "title": "Code Clash",
+      "organizer": "Indian Institute of Information Technology Vadodara",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adda53e223cb_iiitvcc-logo.png",
+      "start_date": null,
+      "end_date": "2026-10-30T00:01:00+05:30",
+      "deadline": "2026-10-30T00:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/gwalior-ai-summit-2026-ai-innovation-challenge-gwalior-ai-summit-29-30-oct-atal-bihari-vajpayee-indian-instit-1770019",
       "title": "Gwalior AI Summit 2026 – AI Innovation Challenge",
       "organizer": "Atal Bihari Vajpayee-Indian Institute of Information Technology and Management",
@@ -14119,6 +14138,25 @@
       "start_date": null,
       "end_date": "2026-11-28T22:00:00+05:30",
       "deadline": "2026-11-28T22:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/out-of-bounds-web-game-development-hackathon-code-variant-1773229",
+      "title": "Out of Bounds - Web Game Development Hackathon",
+      "organizer": "Code Variant",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adcdd3fe5fc3_organisation_image-8JlacHIgbu593323671RjplP8sjT.png",
+      "start_date": null,
+      "end_date": "2026-11-29T21:00:00+05:30",
+      "deadline": "2026-11-29T21:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
