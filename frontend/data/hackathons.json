@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-26T02:30:48.340716+00:00",
-  "total_count": 781,
+  "last_synced_at": "2026-10-26T11:58:05.733373+00:00",
+  "total_count": 789,
   "hackathons": [
     {
       "source": "Unstop",
@@ -10840,6 +10840,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cyberhunt-2077-open-source-developers-communityosdc-1778049",
+      "title": "Cyberhunt 2077",
+      "organizer": "Open Source Developers Community(OSDC)",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adf36f098663_organisation_image-c180hGYJVn1390346593Tw1Mzr7bb6.png",
+      "start_date": null,
+      "end_date": "2026-10-29T23:59:00+05:30",
+      "deadline": "2026-10-29T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/the-coding-challenge-2026-sagar-group-of-institutions-sistec-bhopal-1757461",
       "title": "The Coding Challenge 2026",
       "organizer": "Sagar Group Of Institutions (SISTec), Bhopal",
@@ -11543,6 +11562,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/chaitanya-ctf-2026-chaitanya-ctf-2026-himachal-pradesh-technical-university-hptu-1775832",
+      "title": "Chaitanya CTF 2026",
+      "organizer": "Himachal Pradesh Technical University (HPTU)",
+      "mode": "Offline",
+      "venue_address": "Himachal Pradesh Technical University (HPTU), India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6add9d6f613b8_chaitanya.png",
+      "start_date": null,
+      "end_date": "2026-10-31T18:00:00+05:30",
+      "deadline": "2026-10-31T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/low-latency-trading-experience-iit-gandhinagar-1770559",
       "title": "Low Latency Trading Experience | IICPC x Amalthea 2026, IIT Gandhinagar",
       "organizer": "Indian Institute of Technology (IIT), Gandhinagar",
@@ -11740,6 +11778,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adb4ef9e1dc0_whatsapp_image_2026-10-23_at_5_41_12_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-10-31T23:59:00+05:30",
+      "deadline": "2026-10-31T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-it-out-indian-institute-of-technology-iit-patna-1777334",
+      "title": "Hack-It-Out",
+      "organizer": "Indian Institute of Technology (IIT), Patna",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adf3b50599aa_pat_logo.jpg",
       "start_date": null,
       "end_date": "2026-10-31T23:59:00+05:30",
       "deadline": "2026-10-31T23:59:00+05:30",
@@ -12309,7 +12366,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ade4e361d406_organisation_image-TnCIbNeqHm1941330442ZXESgEO0bH.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adec843db9fc_organisation_image-TnCIbNeqHm1941330442ZXESgEO0bH.png",
       "start_date": null,
       "end_date": "2026-11-04T00:00:00+05:30",
       "deadline": "2026-11-04T00:00:00+05:30",
@@ -12417,6 +12474,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/fetch-a-thon-30-masters-union-school-of-business-1778044",
+      "title": "Fetch-A-Thon 3.0",
+      "organizer": "Masters' Union School of Business",
+      "mode": "Offline",
+      "venue_address": "Masters' Union School of Business, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adf174e040d2_Masters_Union_Logo_Black_on_Transparent.png",
+      "start_date": null,
+      "end_date": "2026-11-05T21:15:27+05:30",
+      "deadline": "2026-11-05T21:15:27+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/next-horizon-2026-the-institution-of-engineers-and-scientists-1773842",
       "title": "Next Horizon 2026",
       "organizer": "The Institution of Engineers and Scientists",
@@ -12424,6 +12500,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adafe3b49ab3_eis_logo_246_x_246_px.png",
+      "start_date": null,
+      "end_date": "2026-11-06T00:00:00+05:30",
+      "deadline": "2026-11-06T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/aegython-2026-aeglysai-1777958",
+      "title": "Aegython 2026",
+      "organizer": "AeglysAI",
+      "mode": "Offline",
+      "venue_address": "AeglysAI, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adf184f2dc7f_organisation_image-sddutIjZTd379196041JEDQhBkeU.png",
       "start_date": null,
       "end_date": "2026-11-06T00:00:00+05:30",
       "deadline": "2026-11-06T00:00:00+05:30",
@@ -13767,6 +13862,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/build-2-rise-2026-krixov-1775217",
+      "title": "Build 2 Rise 2026",
+      "organizer": "Krixov",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6addf9a2c32bc_build2rise_without_krixov_campus.jpg",
+      "start_date": null,
+      "end_date": "2026-11-18T23:59:00+05:30",
+      "deadline": "2026-11-18T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/prompt-to-product-acharya-institute-of-technology-1771961",
       "title": "Prompt to Product",
       "organizer": "Acharya Institute of Technology",
@@ -14147,6 +14261,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/agents-that-act-systems-that-answer-studentchakra-1777504",
+      "title": "Agents that act. Systems that answer. | Free Virtual Agentic-AI Hackathon",
+      "organizer": "Studentchakra",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aded63007d61_organisation_image-h1DN9I5GTE49492732Y7GUxU95Io.png",
+      "start_date": null,
+      "end_date": "2026-11-28T07:00:00+05:30",
+      "deadline": "2026-11-28T07:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/solve-a-thon-national-hackathon-swami-rama-himalayan-university-srhu-baksar-wala-uttarakhand-1755466",
       "title": "Solve - a - Thon | National Hackathon",
       "organizer": "Swami Rama Himalayan University (SRHU), Baksar Wala, Uttarakhand",
@@ -14249,6 +14382,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adc9ee525ecf_IITJ_logo_2.png",
+      "start_date": null,
+      "end_date": "2026-11-29T23:59:00+05:30",
+      "deadline": "2026-11-29T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/zeckathon-indian-institute-of-technology-iit-patna-1776287",
+      "title": "Zeckathon",
+      "organizer": "Indian Institute of Technology (IIT), Patna",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6adeea98bfa9c_pat_logo.jpg",
       "start_date": null,
       "end_date": "2026-11-29T23:59:00+05:30",
       "deadline": "2026-11-29T23:59:00+05:30",
