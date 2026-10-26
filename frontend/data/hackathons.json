@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-26T11:58:05.733373+00:00",
-  "total_count": 789,
+  "last_synced_at": "2026-10-26T18:20:01.345652+00:00",
+  "total_count": 793,
   "hackathons": [
     {
       "source": "Unstop",
@@ -10593,6 +10593,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/srujana-ai-2026-hackathon-biorad-medisys-private-limited-1778599",
+      "title": "Srujana AI 2026 Hackathon",
+      "organizer": "Biorad Medisys Private Limited",
+      "mode": "Offline",
+      "venue_address": "Biorad Medisys Private Limited, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adf462148ed3_screenshot_2026-08-17_171709.png",
+      "start_date": null,
+      "end_date": "2026-10-28T11:59:00+05:30",
+      "deadline": "2026-10-28T11:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/code-yudh-battle-of-codes-chandigarh-university-cu-ajitgarh-punjab-1762892",
       "title": "Code Yudh - Battle of Codes",
       "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
@@ -12531,6 +12550,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/noor-2k26-manav-rachna-university-faridabad-1774268",
+      "title": "Noor 2k26 ",
+      "organizer": "Manav Rachna University (MRU), Faridabad",
+      "mode": "Offline",
+      "venue_address": "Manav Rachna University (MRU), Faridabad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adb92d672056_noor_hackathon_logo_2.png",
+      "start_date": null,
+      "end_date": "2026-11-06T00:00:00+05:30",
+      "deadline": "2026-11-06T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codersinpune-hackathon-hackwithpune-1768758",
       "title": "CodersInPune Hackathon - HackWIthPune",
       "organizer": "HackWithPune",
@@ -12740,6 +12778,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacksprint-30-karpagam-academy-of-higher-education-1778597",
+      "title": "Hacksprint 3.0",
+      "organizer": "Karpagam Academy of Higher Education",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adf521b38e8c_screenshot_2026-10-26_184342.png",
+      "start_date": null,
+      "end_date": "2026-11-09T00:00:00+05:30",
+      "deadline": "2026-11-09T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codequest-quiz-india-2026-wecodecoders-1767731",
       "title": "CodeQuest Quiz India 2026",
       "organizer": "WeCodeCoders",
@@ -12937,6 +12994,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ad247f7e920d_organisation_image-eAdMsqkHu71513233157XEJLEYFxnC.png",
+      "start_date": null,
+      "end_date": "2026-11-13T00:00:00+05:30",
+      "deadline": "2026-11-13T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/bug-bounty-multiverse-wars-competition-hackosquadctf-1775867",
+      "title": "Bug Bounty: Multiverse Wars Competition",
+      "organizer": "Hackosquad",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6addad85c1447_bug_bounty_multiverse_wars.jpg",
       "start_date": null,
       "end_date": "2026-11-13T00:00:00+05:30",
       "deadline": "2026-11-13T00:00:00+05:30",
