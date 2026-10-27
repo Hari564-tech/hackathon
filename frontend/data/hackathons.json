@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-27T17:07:11.923111+00:00",
-  "total_count": 795,
+  "last_synced_at": "2026-10-27T21:38:56.380838+00:00",
+  "total_count": 799,
   "hackathons": [
     {
       "source": "Unstop",
@@ -10764,6 +10764,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/lumina26-hackathon-ieee-student-branch-jiit-noida-1780917",
+      "title": "Lumina'26 Hackathon",
+      "organizer": "IEEE Student Branch JIIT, Noida",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae0a3f0d6ac2_9ec5b590-05bd-401a-bf96-3072d35c3ed7.jpg",
+      "start_date": null,
+      "end_date": "2026-10-29T12:00:00+05:30",
+      "deadline": "2026-10-29T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/conv-cup-26-fifa-of-bots-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanbad-1759901",
       "title": "Conv_Cup '26: FIFA of Bots",
       "organizer": "Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad",
@@ -14185,6 +14204,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacknpitch-e-summit26-jadavpur-university-jadavpur-university-kolkata-1780735",
+      "title": "Hack<N>Pitch",
+      "organizer": "Jadavpur University (JU), Kolkata",
+      "mode": "Offline",
+      "venue_address": "Jadavpur University (JU), Kolkata, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae084ce5822b_hnp_dark.jpg",
+      "start_date": null,
+      "end_date": "2026-11-21T19:01:00+05:30",
+      "deadline": "2026-11-21T19:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/bits2wave-bms-institute-of-technology-and-management-bmsitm-bangalore-1761893",
       "title": "Bits2Wave",
       "organizer": "BMS Institute of Technology and Management (BMSITM), Bangalore",
@@ -14736,6 +14774,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/k-hacks-40-anna-university-au-chennai-1772496",
+      "title": "K Hacks 4.0",
+      "organizer": "Anna University (AU), Chennai",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae0a6b7a4da8_University.jpeg",
+      "start_date": null,
+      "end_date": "2026-12-19T14:00:00+05:30",
+      "deadline": "2026-12-19T14:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackday-20-decodep-community-1773120",
       "title": "Hackday 2.0",
       "organizer": "Decodep Community",
@@ -14822,6 +14879,25 @@
       "start_date": null,
       "end_date": "2026-12-31T12:01:00+05:30",
       "deadline": "2026-12-31T12:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/shaastra-aerial-robotics-challenge-iit-madras-1781087",
+      "title": "Shaastra Aerial Robotics Challenge",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Madras, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae0f8005e18f_iitmlogo120.png",
+      "start_date": null,
+      "end_date": "2027-01-06T18:01:00+05:30",
+      "deadline": "2027-01-06T18:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
