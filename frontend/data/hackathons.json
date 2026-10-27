@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-26T18:20:01.345652+00:00",
-  "total_count": 793,
+  "last_synced_at": "2026-10-27T03:05:44.563990+00:00",
+  "total_count": 794,
   "hackathons": [
     {
       "source": "Unstop",
@@ -12864,6 +12864,25 @@
       "start_date": null,
       "end_date": "2026-11-10T00:00:00+05:30",
       "deadline": "2026-11-10T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/bug-bounty-oronzo-llp-1778754",
+      "title": "Bug Bounty",
+      "organizer": "Oronzo LLP",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adf76cd9f20f_fcube_bug_bounty_corrected_logos_qr_1_jpg.jpeg",
+      "start_date": null,
+      "end_date": "2026-11-10T21:48:00+05:30",
+      "deadline": "2026-11-10T21:48:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
