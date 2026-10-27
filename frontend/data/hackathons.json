@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-27T03:05:44.563990+00:00",
-  "total_count": 794,
+  "last_synced_at": "2026-10-27T11:20:03.863084+00:00",
+  "total_count": 795,
   "hackathons": [
     {
       "source": "Unstop",
@@ -11372,25 +11372,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/hackcelestia-international-hackathon-banasthali-vidyapith-bu-jaipur-1775961",
-      "title": "HackCelestia — International Hackathon",
-      "organizer": "Banasthali Vidyapith (BU), Jaipur",
-      "mode": "Offline",
-      "venue_address": "Banasthali Vidyapith (BU), Jaipur, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6addbf627d8e1_images_1.jpg",
-      "start_date": null,
-      "end_date": "2026-10-31T00:00:00+05:30",
-      "deadline": "2026-10-31T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/semicon-hackathon-explore-innovate-build-with-semiconductors-sarcathon-2026-iit-bombay-1744747",
       "title": "SemiCon Hackathon - Explore, Innovate & Build with Semiconductors | IIT Bombay",
       "organizer": "Indian Institute of Technology (IIT), Bombay",
@@ -12778,16 +12759,16 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/hacksprint-30-karpagam-academy-of-higher-education-1778597",
-      "title": "Hacksprint 3.0",
-      "organizer": "Karpagam Academy of Higher Education",
+      "source_url": "https://unstop.com/hackathons/hackathons/bug-bounty-oronzo-llp-1778754",
+      "title": "Bug Bounty",
+      "organizer": "Oronzo LLP",
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adf521b38e8c_screenshot_2026-10-26_184342.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adf76cd9f20f_fcube_bug_bounty_corrected_logos_qr_1_jpg.jpeg",
       "start_date": null,
-      "end_date": "2026-11-09T00:00:00+05:30",
-      "deadline": "2026-11-09T00:00:00+05:30",
+      "end_date": "2026-11-08T23:59:00+05:30",
+      "deadline": "2026-11-08T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -12873,25 +12854,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/bug-bounty-oronzo-llp-1778754",
-      "title": "Bug Bounty",
-      "organizer": "Oronzo LLP",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adf76cd9f20f_fcube_bug_bounty_corrected_logos_qr_1_jpg.jpeg",
-      "start_date": null,
-      "end_date": "2026-11-10T21:48:00+05:30",
-      "deadline": "2026-11-10T21:48:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/herhack-echelon-institute-of-technology-1767590",
       "title": "HerHack",
       "organizer": "ECHELON INSTITUTE OF TECHNOLOGY",
@@ -12902,6 +12864,25 @@
       "start_date": null,
       "end_date": "2026-11-10T23:59:00+05:30",
       "deadline": "2026-11-10T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackcelestia-international-hackathon-banasthali-vidyapith-bu-jaipur-1775961",
+      "title": "HackCelestia — International Hackathon",
+      "organizer": "Banasthali Vidyapith (BU), Jaipur",
+      "mode": "Offline",
+      "venue_address": "Banasthali Vidyapith (BU), Jaipur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6addbf627d8e1_images_1.jpg",
+      "start_date": null,
+      "end_date": "2026-11-11T13:58:00+05:30",
+      "deadline": "2026-11-11T13:58:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -14242,6 +14223,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/orbix-48-hour-global-open-innovation-hackathon-makers-need-more-mnm-1780048",
+      "title": "Orbix - 48-Hour Global Open Innovation Hackathon",
+      "organizer": "Makers Need More (MnM)",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae051a931798_organisation_image-Y8YicioQhc385845441OjE1zfmnqL.png",
+      "start_date": null,
+      "end_date": "2026-11-22T17:00:00+05:30",
+      "deadline": "2026-11-22T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/wh-versehack-writers-haven-1770609",
       "title": "WH Versehack",
       "organizer": "Writers Haven",
@@ -14784,6 +14784,25 @@
       "start_date": null,
       "end_date": "2026-12-25T23:59:00+05:30",
       "deadline": "2026-12-25T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacksprint-30-karpagam-academy-of-higher-education-1778597",
+      "title": "Hacksprint 3.0",
+      "organizer": "Karpagam Academy of Higher Education",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adf521b38e8c_screenshot_2026-10-26_184342.png",
+      "start_date": null,
+      "end_date": "2026-12-28T23:59:05+05:30",
+      "deadline": "2026-12-28T23:59:05+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
