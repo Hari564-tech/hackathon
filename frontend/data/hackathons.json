@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-28T11:53:39.322525+00:00",
-  "total_count": 802,
+  "last_synced_at": "2026-10-28T17:42:48.203616+00:00",
+  "total_count": 805,
   "hackathons": [
     {
       "source": "Unstop",
@@ -11828,6 +11828,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/product-verse-hackathon-product-space-1782516",
+      "title": "Product Verse Hackathon",
+      "organizer": "Product Space",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae1e1ba8065b_screenshot_2026-10-28_171503.png",
+      "start_date": null,
+      "end_date": "2026-10-31T23:59:00+05:30",
+      "deadline": "2026-10-31T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/sea-of-secrets-ctf-hackitup-1764913",
       "title": "Sea of Secrets CTF",
       "organizer": "HackitUp",
@@ -13443,6 +13462,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hexwartz-sharda-university-agra-1778042",
+      "title": "HexWartz",
+      "organizer": "Sharda University Agra ",
+      "mode": "Offline",
+      "venue_address": "Sharda University Agra , India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adf1af34d452_1430a927-7a7d-427c-83b0-0d5f2fac909c_1.png",
+      "start_date": null,
+      "end_date": "2026-11-14T16:00:00+05:30",
+      "deadline": "2026-11-14T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/robo-race-techkriti27-techkriti-1764445",
       "title": "Robo Race | TECHKRITI | IIT KANPUR",
       "organizer": "Techkriti",
@@ -14679,25 +14717,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/neurohack-2027-iit-madras-1781449",
-      "title": "Neurohack 2027",
-      "organizer": "Indian Institute of Technology (IIT), Madras",
-      "mode": "Offline",
-      "venue_address": "Indian Institute of Technology (IIT), Madras, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae176bc04c55_iitmlogo120.png",
-      "start_date": null,
-      "end_date": "2026-12-04T00:00:00+05:30",
-      "deadline": "2026-12-04T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacktopia-pune-2026-jspm-rajarshi-shahu-college-of-engineering-tathawade-pimpri-chinchwad-maharashtra-1774876",
       "title": "Hacktopia Pune 2026",
       "organizer": "JSPM Rajarshi Shahu College of Engineering, Tathawade, Pimpri-Chinchwad, Maharashtra",
@@ -14945,6 +14964,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/neurohack-2027-iit-madras-1781449",
+      "title": "NeuroHack",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Madras, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae2301038c60_iitmlogo120.png",
+      "start_date": null,
+      "end_date": "2027-01-06T13:01:00+05:30",
+      "deadline": "2027-01-06T13:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/shaastra-aerial-robotics-challenge-iit-madras-1781087",
       "title": "Shaastra Aerial Robotics Challenge",
       "organizer": "Indian Institute of Technology (IIT), Madras",
@@ -14955,6 +14993,25 @@
       "start_date": null,
       "end_date": "2027-01-06T18:01:00+05:30",
       "deadline": "2027-01-06T18:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/shaastra-programming-contest-2027-iit-madras-1782685",
+      "title": "Shaastra Programming Contest 2027",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae205d51b40a_iitmlogo120.png",
+      "start_date": null,
+      "end_date": "2027-01-09T19:25:00+05:30",
+      "deadline": "2027-01-09T19:25:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
