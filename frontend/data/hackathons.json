@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-28T03:18:20.106991+00:00",
-  "total_count": 799,
+  "last_synced_at": "2026-10-28T11:53:39.322525+00:00",
+  "total_count": 802,
   "hackathons": [
     {
       "source": "Unstop",
@@ -10593,25 +10593,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/srujana-ai-2026-hackathon-biorad-medisys-private-limited-1778599",
-      "title": "Srujana AI 2026 Hackathon",
-      "organizer": "Biorad Medisys Private Limited",
-      "mode": "Offline",
-      "venue_address": "Biorad Medisys Private Limited, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adf462148ed3_screenshot_2026-08-17_171709.png",
-      "start_date": null,
-      "end_date": "2026-10-28T11:59:00+05:30",
-      "deadline": "2026-10-28T11:59:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/code-yudh-battle-of-codes-chandigarh-university-cu-ajitgarh-punjab-1762892",
       "title": "Code Yudh - Battle of Codes",
       "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
@@ -10831,6 +10812,25 @@
       "start_date": null,
       "end_date": "2026-10-29T17:01:00+05:30",
       "deadline": "2026-10-29T17:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/srujana-ai-2026-hackathon-biorad-medisys-private-limited-1778599",
+      "title": "Srujana AI 2026 Hackathon",
+      "organizer": "Biorad Medisys Private Limited",
+      "mode": "Offline",
+      "venue_address": "Biorad Medisys Private Limited, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adf462148ed3_screenshot_2026-08-17_171709.png",
+      "start_date": null,
+      "end_date": "2026-10-29T18:00:00+05:30",
+      "deadline": "2026-10-29T18:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -12949,6 +12949,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vidyutspanda-hardware-hackathon-dayananda-sagar-university-bengaluru-karnataka-1780955",
+      "title": "Vidyutspanda - Hardware Hackathon",
+      "organizer": "Dayananda Sagar University, Bengaluru, Karnataka",
+      "mode": "Offline",
+      "venue_address": "Dayananda Sagar University, Bengaluru, Karnataka, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae0e7e19ea39_vidyutspanda_round_logo_under_1mb.png",
+      "start_date": null,
+      "end_date": "2026-11-12T00:00:00+05:30",
+      "deadline": "2026-11-12T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/the-liars-chatroom-international-institute-of-information-technology-iiit-bangalore-1762783",
       "title": "The Liar's Chatroom",
       "organizer": "International Institute of Information Technology (IIIT), Bangalore",
@@ -14267,7 +14286,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae051a931798_organisation_image-Y8YicioQhc385845441OjE1zfmnqL.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae1dc5941777_organisation_image-Y8YicioQhc385845441OjE1zfmnqL.png",
       "start_date": null,
       "end_date": "2026-11-22T17:00:00+05:30",
       "deadline": "2026-11-22T17:00:00+05:30",
@@ -14660,6 +14679,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/neurohack-2027-iit-madras-1781449",
+      "title": "Neurohack 2027",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Madras, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae176bc04c55_iitmlogo120.png",
+      "start_date": null,
+      "end_date": "2026-12-04T00:00:00+05:30",
+      "deadline": "2026-12-04T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacktopia-pune-2026-jspm-rajarshi-shahu-college-of-engineering-tathawade-pimpri-chinchwad-maharashtra-1774876",
       "title": "Hacktopia Pune 2026",
       "organizer": "JSPM Rajarshi Shahu College of Engineering, Tathawade, Pimpri-Chinchwad, Maharashtra",
@@ -14780,7 +14818,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae0a6b7a4da8_University.jpeg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae1a79c173fd_University.jpeg",
       "start_date": null,
       "end_date": "2026-12-19T14:00:00+05:30",
       "deadline": "2026-12-19T14:00:00+05:30",
@@ -14879,6 +14917,25 @@
       "start_date": null,
       "end_date": "2026-12-31T12:01:00+05:30",
       "deadline": "2026-12-31T12:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/pixels-to-prognosis-iit-madras-1781358",
+      "title": "Pixels To Prognosis",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae1977d6a103_iitmlogo120.png",
+      "start_date": null,
+      "end_date": "2027-01-04T18:01:00+05:30",
+      "deadline": "2027-01-04T18:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
