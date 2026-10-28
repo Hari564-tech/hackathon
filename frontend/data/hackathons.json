@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-28T17:42:48.203616+00:00",
-  "total_count": 805,
+  "last_synced_at": "2026-10-28T22:03:00.755995+00:00",
+  "total_count": 807,
   "hackathons": [
     {
       "source": "Unstop",
@@ -12911,6 +12911,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codehive-community-duel-night-code-hive-1782942",
+      "title": "CodeHive Community Duel Night",
+      "organizer": "Code Hive",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae22e9f214a7_codehive_duel_night_1.png",
+      "start_date": null,
+      "end_date": "2026-11-11T00:00:00+05:30",
+      "deadline": "2026-11-11T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackcelestia-international-hackathon-banasthali-vidyapith-bu-jaipur-1775961",
       "title": "HackCelestia — International Hackathon",
       "organizer": "Banasthali Vidyapith (BU), Jaipur",
@@ -14765,6 +14784,25 @@
       "start_date": null,
       "end_date": "2026-12-09T23:59:55+05:30",
       "deadline": "2026-12-09T23:59:55+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/reverse-coding-x-iit-madras-1782949",
+      "title": "Reverse Coding X",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Madras, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae24e54d9fcf_iitmlogo120.png",
+      "start_date": null,
+      "end_date": "2026-12-12T00:00:00+05:30",
+      "deadline": "2026-12-12T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
