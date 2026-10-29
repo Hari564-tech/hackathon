@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-29T03:42:39.487793+00:00",
-  "total_count": 807,
+  "last_synced_at": "2026-10-29T12:01:30.159497+00:00",
+  "total_count": 812,
   "hackathons": [
     {
       "source": "Unstop",
@@ -12113,6 +12113,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/forge-26-indias-biggest-gen-ai-buildathon-nxtwave-launchpad-1783707",
+      "title": "Forge '26 – India's Biggest Gen AI Buildathon",
+      "organizer": "NxtWave Launchpad",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae30f9b2b183_forge26_unstop_logo.png",
+      "start_date": null,
+      "end_date": "2026-11-01T18:00:00+05:30",
+      "deadline": "2026-11-01T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ride-hack-26-jaypee-institute-of-information-technology-jiit-noida-1755652",
       "title": "Ride Hack-26",
       "organizer": "Jaypee Institute of Information Technology (JIIT), Noida",
@@ -12892,6 +12911,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/agentx-20-hackqube-1783256",
+      "title": "AGENTX 2.0",
+      "organizer": "HackQube",
+      "mode": "Offline",
+      "venue_address": "HackQube, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae26d74d940d_1787315608503.png",
+      "start_date": null,
+      "end_date": "2026-11-10T00:00:00+05:30",
+      "deadline": "2026-11-10T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/herhack-echelon-institute-of-technology-1767590",
       "title": "HerHack",
       "organizer": "ECHELON INSTITUTE OF TECHNOLOGY",
@@ -13491,6 +13529,25 @@
       "start_date": null,
       "end_date": "2026-11-14T16:00:00+05:30",
       "deadline": "2026-11-14T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/webclone-mania-nit-rourkela-1783135",
+      "title": "WebClone Mania",
+      "organizer": "National Institute of Technology (NIT), Rourkela",
+      "mode": "Offline",
+      "venue_address": "National Institute of Technology (NIT), Rourkela, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae24f775dc13_innovision_2026_insta_template_jpg.jpeg",
+      "start_date": null,
+      "end_date": "2026-11-14T17:00:00+05:30",
+      "deadline": "2026-11-14T17:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -14299,6 +14356,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codenova-india-2026-national-hackathon-wecodecoders-1783775",
+      "title": "CodeNova India 2026 - National Hackathon",
+      "organizer": "WeCodeCoders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae317340241f_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "start_date": null,
+      "end_date": "2026-11-22T10:03:54+05:30",
+      "deadline": "2026-11-22T10:03:54+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/bits2wave-bms-institute-of-technology-and-management-bmsitm-bangalore-1761893",
       "title": "Bits2Wave",
       "organizer": "BMS Institute of Technology and Management (BMSITM), Bangalore",
@@ -14442,6 +14518,25 @@
       "start_date": null,
       "end_date": "2026-11-25T18:33:00+05:30",
       "deadline": "2026-11-25T18:33:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codezen-india-2026-national-hackathon-wecodecoders-1783835",
+      "title": "CodeZen India 2026 - National Hackathon",
+      "organizer": "WeCodeCoders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae31c90a743e_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "start_date": null,
+      "end_date": "2026-11-26T10:01:02+05:30",
+      "deadline": "2026-11-26T10:01:02+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -15008,7 +15103,7 @@
       "mode": "Offline",
       "venue_address": "Indian Institute of Technology (IIT), Madras, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae2301038c60_iitmlogo120.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae2ec8da6f09_iitmlogo120.png",
       "start_date": null,
       "end_date": "2027-01-06T13:01:00+05:30",
       "deadline": "2027-01-06T13:01:00+05:30",
