@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-29T12:01:30.159497+00:00",
-  "total_count": 812,
+  "last_synced_at": "2026-10-29T22:14:11.167849+00:00",
+  "total_count": 818,
   "hackathons": [
     {
       "source": "Unstop",
@@ -12683,6 +12683,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cobot-ex-2026-inter-college-hackathon-b-s-abdur-rahman-crescent-institute-of-science-and-technology-chennai-t-1783202",
+      "title": "COBOT-EX 2026 | Inter-College Hackathon",
+      "organizer": "B. S. Abdur Rahman Crescent Institute of Science and Technology, Chennai, Tamil Nadu",
+      "mode": "Offline",
+      "venue_address": "B. S. Abdur Rahman Crescent Institute of Science and Technology, Chennai, Tamil Nadu, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae27cc01b944_cobot-ex_neon_cyberpunk_sentinel_1.png",
+      "start_date": null,
+      "end_date": "2026-11-07T12:00:00+05:30",
+      "deadline": "2026-11-07T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/celestia-hyprlan-1771647",
       "title": "Celestia",
       "organizer": "HyprLan",
@@ -13974,6 +13993,25 @@
       ]
     },
     {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/one-who-codes-2026-a-portfolio-challenge-acadable-1784554",
+      "title": "One Who Codes 2026 - A Portfolio Challenge",
+      "organizer": "Acadable",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae3817cf3a00_organisation_image-nJLPqoS6RC1796920697EdZNa2Eo7B.png",
+      "start_date": null,
+      "end_date": "2026-11-15T23:59:00+05:30",
+      "deadline": "2026-11-15T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
       "source": "Devpost",
       "source_url": "https://ethindia2026.devfolio.co",
       "title": "ETHIndia 2026",
@@ -14527,6 +14565,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cmr-hackfest-40-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-1782514",
+      "title": "CMR HACKFEST 4.0",
+      "organizer": "CMR College of Engineering and Technology (CMRCET), Hyderabad",
+      "mode": "Offline",
+      "venue_address": "CMR College of Engineering and Technology (CMRCET), Hyderabad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae32e6a79fcf_only_h4.png",
+      "start_date": null,
+      "end_date": "2026-11-25T23:59:00+05:30",
+      "deadline": "2026-11-25T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codezen-india-2026-national-hackathon-wecodecoders-1783835",
       "title": "CodeZen India 2026 - National Hackathon",
       "organizer": "WeCodeCoders",
@@ -14632,6 +14689,25 @@
       "start_date": null,
       "end_date": "2026-11-28T15:00:00+05:30",
       "deadline": "2026-11-28T15:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/algonex-10-maya-devi-university-1781078",
+      "title": "Algonex 1.0",
+      "organizer": "Maya devi university",
+      "mode": "Offline",
+      "venue_address": "Maya devi university, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae19eb1c8dc4_algonex-icon_1.png",
+      "start_date": null,
+      "end_date": "2026-11-28T18:00:00+05:30",
+      "deadline": "2026-11-28T18:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -14765,6 +14841,25 @@
       "start_date": null,
       "end_date": "2026-11-30T22:00:00+05:30",
       "deadline": "2026-11-30T22:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/health-hackathon-30-vit-bhopal-university-1784631",
+      "title": "Health Hackathon 3.0",
+      "organizer": "VIT Bhopal University ",
+      "mode": "Offline",
+      "venue_address": "VIT Bhopal University , India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae3942b424b8_hackfav.png",
+      "start_date": null,
+      "end_date": "2026-11-30T23:59:00+05:30",
+      "deadline": "2026-11-30T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -14936,6 +15031,25 @@
       "start_date": null,
       "end_date": "2026-12-15T17:02:00+05:30",
       "deadline": "2026-12-15T17:02:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/rack-it-up-2026-48-hour-online-hackathon-by-rackem-karma-enterprises-1777639",
+      "title": "Rack It Up 2026: 48-Hour Online Hackathon by Rack'Em",
+      "organizer": "Karma Enterprises",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adf953095123_rackitup-unstop-logo.png",
+      "start_date": null,
+      "end_date": "2026-12-15T18:00:00+05:30",
+      "deadline": "2026-12-15T18:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
