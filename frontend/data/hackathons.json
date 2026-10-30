@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-30T17:31:06.446338+00:00",
-  "total_count": 818,
+  "last_synced_at": "2026-10-30T21:49:58.542014+00:00",
+  "total_count": 823,
   "hackathons": [
     {
       "source": "Unstop",
@@ -13519,6 +13519,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/tatusta-thakur-college-of-engineering-and-technology-tcet-mumbai-1785430",
+      "title": "Tatusta",
+      "organizer": "Thakur College of Engineering and Technology (TCET), Mumbai",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae4e2ab38f93_",
+      "start_date": null,
+      "end_date": "2026-11-14T13:08:00+05:30",
+      "deadline": "2026-11-14T13:08:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/devhack-2026-devhost-2026-sahyadri-open-source-community-1759829",
       "title": "DevHack 2026 ",
       "organizer": "Sahyadri Open Source Community",
@@ -13529,6 +13548,25 @@
       "start_date": null,
       "end_date": "2026-11-14T14:30:00+05:30",
       "deadline": "2026-11-14T14:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/innovate-online-hackathon-aveeranex-opc-private-limited-1783838",
+      "title": "Innovate - Online Hackathon",
+      "organizer": "Aveeranex (OPC) Private Limited",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae4ddf6c7316_organisation_image-A02bnQHYt01297553325Z7CX20EKZG.png",
+      "start_date": null,
+      "end_date": "2026-11-14T14:52:00+05:30",
+      "deadline": "2026-11-14T14:52:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -13918,6 +13956,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackday-trishulx-1784666",
+      "title": "Hackday",
+      "organizer": "TrishulX",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae3a69a21435_media-generation-hackday-logo-final-c1-0-836d29c6-35f0-4699-ab9f-333ca34793d9.webp",
+      "start_date": null,
+      "end_date": "2026-11-15T17:00:00+05:30",
+      "deadline": "2026-11-15T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/threws-odyssey-2026-threws-the-research-world-1766434",
       "title": "Threws Odyssey 2026",
       "organizer": "Threws - The Research World",
@@ -14119,6 +14176,25 @@
       "start_date": null,
       "end_date": "2026-11-18T00:00:24+05:30",
       "deadline": "2026-11-18T00:00:24+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/madlab-the-ultimate-innovation-hackathon-shri-chinai-college-of-commerce-economics-1785416",
+      "title": "Madlab - The Ultimate Innovation Hackathon",
+      "organizer": "Shri Chinai College of Commerce & Economics",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae43d8ee1f21_d33a7eb1-9a80-45fe-90bd-1ba6accd0976.png",
+      "start_date": null,
+      "end_date": "2026-11-18T12:25:00+05:30",
+      "deadline": "2026-11-18T12:25:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -14566,7 +14642,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/cmr-hackfest-40-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-1782514",
-      "title": "CMR HACKFEST 4.0",
+      "title": "CMR Hackfest 4.0",
       "organizer": "CMR College of Engineering and Technology (CMRCET), Hyderabad",
       "mode": "Offline",
       "venue_address": "CMR College of Engineering and Technology (CMRCET), Hyderabad, India",
@@ -15202,6 +15278,25 @@
       "start_date": null,
       "end_date": "2027-01-04T18:01:00+05:30",
       "deadline": "2027-01-04T18:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/shaastra-2027-iit-madras-1784543",
+      "title": "SHAASTRA 2027",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Madras, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae4eb3f654ec_iitmlogo120.png",
+      "start_date": null,
+      "end_date": "2027-01-05T18:01:00+05:30",
+      "deadline": "2027-01-05T18:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
