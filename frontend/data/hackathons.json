@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-31T11:29:00.004518+00:00",
-  "total_count": 826,
+  "last_synced_at": "2026-10-31T16:36:04.548536+00:00",
+  "total_count": 827,
   "hackathons": [
     {
       "source": "Unstop",
@@ -15297,6 +15297,25 @@
       "start_date": null,
       "end_date": "2026-12-31T12:01:00+05:30",
       "deadline": "2026-12-31T12:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/rovermaggedon-iit-madras-1783515",
+      "title": "Rovermaggedon",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Madras, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae5cad4cceca_images.png",
+      "start_date": null,
+      "end_date": "2027-01-04T17:00:00+05:30",
+      "deadline": "2027-01-04T17:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
