@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-31T03:28:58.028857+00:00",
-  "total_count": 823,
+  "last_synced_at": "2026-10-31T11:29:00.004518+00:00",
+  "total_count": 826,
   "hackathons": [
     {
       "source": "Unstop",
@@ -11695,6 +11695,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ml-codeathon-10-ksrangasamy-college-of-technology-college-thiruchengode-tamil-nadu-1786140",
+      "title": "ML Codeathon 1.0",
+      "organizer": "K.S.Rangasamy College of Technology College, Thiruchengode, Tamil Nadu",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae4a9f966bae_K.S.Rangasamy-College-of-Technology_logo.jpg",
+      "start_date": null,
+      "end_date": "2026-10-31T22:00:00+05:30",
+      "deadline": "2026-10-31T22:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/agentic-ai-hackathon-sarcathon-2026-iit-bombay-1743750",
       "title": "Agentic AI Hackathon",
       "organizer": "Indian Institute of Technology (IIT), Bombay",
@@ -13899,6 +13918,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-a-sol-50-international-institute-of-information-technology-iiit-naya-raipur-1786809",
+      "title": "Hack-a-Sol 5.0",
+      "organizer": "International Institute of Information Technology (IIIT), Naya Raipur",
+      "mode": "Offline",
+      "venue_address": "International Institute of Information Technology (IIIT), Naya Raipur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae56e15236d8_untitled_design_10_1.png",
+      "start_date": null,
+      "end_date": "2026-11-15T09:58:00+05:30",
+      "deadline": "2026-11-15T09:58:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codenexus-india-2026-national-hackathon-wecodecoders-1764747",
       "title": "CodeNexus India 2026 - National Hackathon",
       "organizer": "WeCodeCoders",
@@ -15392,6 +15430,25 @@
       "start_date": null,
       "end_date": "2027-01-16T14:00:00+05:30",
       "deadline": "2027-01-16T14:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/technova-2027-burhani-college-mumbai-1786992",
+      "title": "Technova 2027",
+      "organizer": "Burhani College, Mumbai",
+      "mode": "Offline",
+      "venue_address": "Burhani College, Mumbai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae583ee7dffd_whatsapp_image_2026-10-31_at_11_18_41_am.jpeg",
+      "start_date": null,
+      "end_date": "2027-01-22T23:59:00+05:30",
+      "deadline": "2027-01-22T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
