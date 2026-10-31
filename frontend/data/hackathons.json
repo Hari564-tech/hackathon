@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-10-31T16:36:04.548536+00:00",
-  "total_count": 827,
+  "last_synced_at": "2026-10-31T20:50:02.886365+00:00",
+  "total_count": 828,
   "hackathons": [
     {
       "source": "Unstop",
@@ -12835,6 +12835,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-shift-2026-infotechiezz-1786387",
+      "title": "CODE SHIFT 2026",
+      "organizer": "InfoTechiezz",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae62f1d00f6a_organisation_image-BqpxA7KmrT1171984697i8XedOGgQc.png",
+      "start_date": null,
+      "end_date": "2026-11-08T23:00:00+05:30",
+      "deadline": "2026-11-08T23:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/low-level-hackathon-synergy-26-international-institute-of-information-technology-iiit-bangalore-1762854",
       "title": "Low-Level Hackathon",
       "organizer": "International Institute of Information Technology (IIIT), Bangalore",
@@ -13918,25 +13937,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/hack-a-sol-50-international-institute-of-information-technology-iiit-naya-raipur-1786809",
-      "title": "Hack-a-Sol 5.0",
-      "organizer": "International Institute of Information Technology (IIIT), Naya Raipur",
-      "mode": "Offline",
-      "venue_address": "International Institute of Information Technology (IIIT), Naya Raipur, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae56e15236d8_untitled_design_10_1.png",
-      "start_date": null,
-      "end_date": "2026-11-15T09:58:00+05:30",
-      "deadline": "2026-11-15T09:58:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codenexus-india-2026-national-hackathon-wecodecoders-1764747",
       "title": "CodeNexus India 2026 - National Hackathon",
       "organizer": "WeCodeCoders",
@@ -14124,6 +14124,25 @@
         "Solidity",
         "Zero Knowledge",
         "DeFi"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-a-sol-50-international-institute-of-information-technology-iiit-naya-raipur-1786809",
+      "title": "Hack-a-Sol 5.0",
+      "organizer": "International Institute of Information Technology (IIIT), Naya Raipur",
+      "mode": "Offline",
+      "venue_address": "International Institute of Information Technology (IIIT), Naya Raipur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae56e15236d8_untitled_design_10_1.png",
+      "start_date": null,
+      "end_date": "2026-11-16T02:16:00+05:30",
+      "deadline": "2026-11-16T02:16:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
       ]
     },
     {
