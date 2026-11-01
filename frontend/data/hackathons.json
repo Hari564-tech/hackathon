@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-01T12:24:33.378166+00:00",
-  "total_count": 830,
+  "last_synced_at": "2026-11-01T21:31:39.903235+00:00",
+  "total_count": 832,
   "hackathons": [
     {
       "source": "Unstop",
@@ -12860,7 +12860,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae62f1d00f6a_organisation_image-BqpxA7KmrT1171984697i8XedOGgQc.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae73f9bb69b4_organisation_image-BqpxA7KmrT1171984697i8XedOGgQc.png",
       "start_date": null,
       "end_date": "2026-11-08T23:00:00+05:30",
       "deadline": "2026-11-08T23:00:00+05:30",
@@ -13221,7 +13221,7 @@
       "mode": "Offline",
       "venue_address": "Kalindi College (KC), University of Delhi (DU), Delhi, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae639467268f_whatsapp_image_2026-03-23_at_10_39_08_pm.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae744a9c8f4b_whatsapp_image_2026-11-01_at_6_50_39_pm.jpeg",
       "start_date": null,
       "end_date": "2026-11-13T16:00:00+05:30",
       "deadline": "2026-11-13T16:00:00+05:30",
@@ -14233,6 +14233,25 @@
       "start_date": null,
       "end_date": "2026-11-16T19:14:51+05:30",
       "deadline": "2026-11-16T19:14:51+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/project-lastmile-analytics-case-challenge-xavier-school-of-management-xlri-1789982",
+      "title": "Project Last Mile: Analytics Case Challenge",
+      "organizer": "Xavier School of Management (XLRI)",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae781f3755c9_Xavier_School_of_Management__XLRI__logo.png",
+      "start_date": null,
+      "end_date": "2026-11-16T21:52:00+05:30",
+      "deadline": "2026-11-16T21:52:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -15392,6 +15411,25 @@
       "start_date": null,
       "end_date": "2027-01-04T18:01:00+05:30",
       "deadline": "2027-01-04T18:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ctf-capture-the-flag-iit-madras-1782683",
+      "title": "CTF - Capture The Flag",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae5a35b13900_shaastra_logo_2.png",
+      "start_date": null,
+      "end_date": "2027-01-05T15:47:00+05:30",
+      "deadline": "2027-01-05T15:47:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
