@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-02T03:40:24.350575+00:00",
-  "total_count": 832,
+  "last_synced_at": "2026-11-02T14:21:01.565081+00:00",
+  "total_count": 833,
   "hackathons": [
     {
       "source": "Unstop",
@@ -15240,6 +15240,25 @@
       "start_date": null,
       "end_date": "2026-12-15T18:00:00+05:30",
       "deadline": "2026-12-15T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/cognition-ai-hackathon-techtonics-sri-guru-gobind-singh-college-of-commerce-sggscc-new-delhi-1790269",
+      "title": "Cognition- AI Hackathon",
+      "organizer": "Sri Guru Gobind Singh College of Commerce (SGGSCC), New Delhi",
+      "mode": "Offline",
+      "venue_address": "Sri Guru Gobind Singh College of Commerce (SGGSCC), New Delhi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae86fbfb7ca4_images.jpeg",
+      "start_date": null,
+      "end_date": "2026-12-17T14:00:13+05:30",
+      "deadline": "2026-12-17T14:00:13+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
