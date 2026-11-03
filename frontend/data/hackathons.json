@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-03T13:20:47.872087+00:00",
-  "total_count": 847,
+  "last_synced_at": "2026-11-03T22:43:53.876652+00:00",
+  "total_count": 851,
   "hackathons": [
     {
       "source": "Unstop",
@@ -14000,7 +14000,7 @@
       "mode": "Offline",
       "venue_address": "Infrasity.com, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae9c68886506_organisation_image-fxJKFxvlqx611025401wIc84PwioY.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aea13c7c6427_organisation_image-fxJKFxvlqx611025401wIc84PwioY.png",
       "start_date": null,
       "end_date": "2026-11-14T20:00:00+05:30",
       "deadline": "2026-11-14T20:00:00+05:30",
@@ -14375,25 +14375,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/queryquest-sql-problem-solving-challenge-the-national-institute-of-engineering-karnataka-1793112",
-      "title": "Queryquest: SQL Problem-Solving Challenge",
-      "organizer": "The National Institute of Engineering, Karnataka",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae9cc10128ed_nie.jpeg",
-      "start_date": null,
-      "end_date": "2026-11-17T00:00:00+05:30",
-      "deadline": "2026-11-17T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hack-paradise-kaushalya-20-chhattisgarh-swami-vivekanand-technical-university-csvtu-bhilai-chhattisgarh-1793030",
       "title": "Hack Paradise",
       "organizer": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai, Chhattisgarh",
@@ -14419,7 +14400,7 @@
       "mode": "Offline",
       "venue_address": "Keshav Mahavidyalaya (KMV), University of Delhi (DU), Delhi, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae9bdd1e813c_images.jpeg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aea2551a7fb3_images.jpeg",
       "start_date": null,
       "end_date": "2026-11-17T17:30:00+05:30",
       "deadline": "2026-11-17T17:30:00+05:30",
@@ -14651,6 +14632,25 @@
       "start_date": null,
       "end_date": "2026-11-20T23:59:00+05:30",
       "deadline": "2026-11-20T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/queryquest-sql-problem-solving-challenge-the-national-institute-of-engineering-karnataka-1793112",
+      "title": "Queryquest: SQL Problem-Solving Challenge",
+      "organizer": "The National Institute of Engineering, Karnataka",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae9e55866d3a_nie.jpeg",
+      "start_date": null,
+      "end_date": "2026-11-21T10:00:00+05:30",
+      "deadline": "2026-11-21T10:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -15211,6 +15211,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/404-hackathon-hax-baby-1793392",
+      "title": "404 Hackathon",
+      "organizer": "haX baby",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae9d9855d06e_7b431805-0cd1-4a87-b0cc-faf6eedbcf39.jpg",
+      "start_date": null,
+      "end_date": "2026-11-30T17:17:00+05:30",
+      "deadline": "2026-11-30T17:17:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codeclash-the-november-nexus-2026-lets-code-community-1775207",
       "title": "CodeClash: The November Nexus 2026",
       "organizer": "Lets Code Community",
@@ -15237,6 +15256,25 @@
       "venue_address": "VIT Bhopal University , India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae3942b424b8_hackfav.png",
+      "start_date": null,
+      "end_date": "2026-11-30T23:59:00+05:30",
+      "deadline": "2026-11-30T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vit-bhopal-university-to-host-health-hackathon-30-in-january-2027-vit-bhopal-1781454",
+      "title": "VIT Bhopal University to Host Health Hackathon 3.0 in January 2027",
+      "organizer": "VIT BHOPAL ",
+      "mode": "Offline",
+      "venue_address": "VIT BHOPAL , India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae194d9ba583_unstop.png",
       "start_date": null,
       "end_date": "2026-11-30T23:59:00+05:30",
       "deadline": "2026-11-30T23:59:00+05:30",
@@ -15363,13 +15401,32 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/doomforge-vellore-institute-of-technology-vit-chennai-1793341",
+      "title": "DoomForge",
+      "organizer": "Vellore Institute of Technology (VIT), Chennai",
+      "mode": "Offline",
+      "venue_address": "Vellore Institute of Technology (VIT), Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aea1b5c57504_download__10_.png",
+      "start_date": null,
+      "end_date": "2026-12-06T23:59:00+05:30",
+      "deadline": "2026-12-06T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/agentic-x-20-ai-robotics-hackathon-woxsen-university-hyderabad-1779479",
       "title": "AGENTIC X 2.0 – AI & Robotics Hackathon",
       "organizer": "Woxsen University, Hyderabad",
       "mode": "Offline",
       "venue_address": "Woxsen University, Hyderabad, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae9caf6245df_org_logo.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aea066f2044d_org_logo.png",
       "start_date": null,
       "end_date": "2026-12-09T18:00:00+05:30",
       "deadline": "2026-12-09T18:00:00+05:30",
@@ -15458,6 +15515,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codecrafters-india-2026-national-hackathon-hackwithpune-1792826",
+      "title": "CodeCrafters India 2026 - National Hackathon",
+      "organizer": "HackWithPune",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aea19cead79c_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
+      "start_date": null,
+      "end_date": "2026-12-14T22:08:33+05:30",
+      "deadline": "2026-12-14T22:08:33+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/samadhan-2026-national-social-innovation-challenge-upay-underprivileged-advancements-by-youth-1724048",
       "title": "Samadhan 2026( National Social Innovation Challenge)",
       "organizer": "UPAY (Underprivileged Advancements by Youth)",
@@ -15502,7 +15578,7 @@
       "mode": "Offline",
       "venue_address": "Sri Guru Gobind Singh College of Commerce (SGGSCC), New Delhi, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae86fbfb7ca4_images.jpeg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae9f3433edd2_images.jpeg",
       "start_date": null,
       "end_date": "2026-12-17T14:00:13+05:30",
       "deadline": "2026-12-17T14:00:13+05:30",
@@ -15825,7 +15901,7 @@
       "mode": "Offline",
       "venue_address": "Goa Buildathon, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae9b438e6371_organisation_image-Gb8Ann6No9197487207269uE95XlgB.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae9f1f8e99ba_organisation_image-Gb8Ann6No9197487207269uE95XlgB.png",
       "start_date": null,
       "end_date": "2027-01-17T16:25:00+05:30",
       "deadline": "2027-01-17T16:25:00+05:30",
