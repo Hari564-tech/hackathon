@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-04T13:32:26.058516+00:00",
-  "total_count": 852,
+  "last_synced_at": "2026-11-04T23:01:50.932180+00:00",
+  "total_count": 856,
   "hackathons": [
     {
       "source": "Unstop",
@@ -12968,6 +12968,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/software-track-nits-hacks-90-national-institute-of-technology-nit-silchar-1794955",
+      "title": "Software Track – NITS Hacks 9.0",
+      "organizer": "National Institute of Technology (NIT), Silchar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeb61a62255f_frame_3.png",
+      "start_date": null,
+      "end_date": "2026-11-09T11:00:00+05:30",
+      "deadline": "2026-11-09T11:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/operation-ward-zero-wooble-software-private-limited-1776892",
       "title": "Operation Ward Zero",
       "organizer": "Wooble Software Private Limited",
@@ -13044,6 +13063,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/db2hack-2026-build-ai-applications-on-ibm-db2-gl-bajaj-group-of-institutions-mathura-uttar-pradesh-1795047",
+      "title": "Db2Hack 2026 | Build AI Applications on IBM Db2 ",
+      "organizer": "GL Bajaj Group of Institutions, Mathura, Uttar Pradesh",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeb5e1f65396_db2hack-logo.png",
+      "start_date": null,
+      "end_date": "2026-11-10T17:00:00+05:30",
+      "deadline": "2026-11-10T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/herhack-echelon-institute-of-technology-1767590",
       "title": "HerHack",
       "organizer": "ECHELON INSTITUTE OF TECHNOLOGY",
@@ -13073,6 +13111,25 @@
       "start_date": null,
       "end_date": "2026-11-11T00:00:00+05:30",
       "deadline": "2026-11-11T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/coding-track-nits-hacks-90-national-institute-of-technology-nit-silchar-1795122",
+      "title": "Coding Track - NITS Hacks 9.0",
+      "organizer": "National Institute of Technology (NIT), Silchar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeb6538b9c1c_frame_3.png",
+      "start_date": null,
+      "end_date": "2026-11-11T12:00:00+05:30",
+      "deadline": "2026-11-11T12:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -13767,12 +13824,12 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/infrashift-infrasitycom-1792835",
-      "title": "INFRASHIFT",
+      "title": "INFRASHIFT Hackathon",
       "organizer": "Infrasity.com",
       "mode": "Offline",
       "venue_address": "Infrasity.com, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeb249d7d6c6_organisation_image-fxJKFxvlqx611025401wIc84PwioY.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeb43b38f361_organisation_image-fxJKFxvlqx611025401wIc84PwioY.png",
       "start_date": null,
       "end_date": "2026-11-14T18:00:00+05:30",
       "deadline": "2026-11-14T18:00:00+05:30",
@@ -14400,7 +14457,7 @@
       "mode": "Offline",
       "venue_address": "Keshav Mahavidyalaya (KMV), University of Delhi (DU), Delhi, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aea2551a7fb3_images.jpeg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeb599d7c1bd_logo_blitz.jpg",
       "start_date": null,
       "end_date": "2026-11-17T17:30:00+05:30",
       "deadline": "2026-11-17T17:30:00+05:30",
@@ -14423,6 +14480,25 @@
       "start_date": null,
       "end_date": "2026-11-17T22:01:00+05:30",
       "deadline": "2026-11-17T22:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/13th-protocol-an-ai-hackathon-2026-voyager-coding-club-1794890",
+      "title": "13th Protocol: An AI Hackathon 2026",
+      "organizer": "KCC Institute of Management and Technology, Greater Noida",
+      "mode": "Offline",
+      "venue_address": "KCC Institute of Management and Technology, Greater Noida, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeb876d98ed5_logo_cube.png",
+      "start_date": null,
+      "end_date": "2026-11-18T00:00:00+05:30",
+      "deadline": "2026-11-18T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -15521,7 +15597,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeae69a10afa_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeb8e9924854_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
       "start_date": null,
       "end_date": "2026-12-14T22:08:33+05:30",
       "deadline": "2026-12-14T22:08:33+05:30",
@@ -15578,7 +15654,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeb252482fcf_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeb8e831106f_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
       "start_date": null,
       "end_date": "2026-12-17T00:00:27+05:30",
       "deadline": "2026-12-17T00:00:27+05:30",
