@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-04T04:08:56.703263+00:00",
-  "total_count": 851,
+  "last_synced_at": "2026-11-04T13:32:26.058516+00:00",
+  "total_count": 852,
   "hackathons": [
     {
       "source": "Unstop",
@@ -13766,6 +13766,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/infrashift-infrasitycom-1792835",
+      "title": "INFRASHIFT",
+      "organizer": "Infrasity.com",
+      "mode": "Offline",
+      "venue_address": "Infrasity.com, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeb249d7d6c6_organisation_image-fxJKFxvlqx611025401wIc84PwioY.png",
+      "start_date": null,
+      "end_date": "2026-11-14T18:00:00+05:30",
+      "deadline": "2026-11-14T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/robo-race-techkriti27-techkriti-1764445",
       "title": "Robo Race | TECHKRITI | IIT KANPUR",
       "organizer": "Techkriti",
@@ -13985,25 +14004,6 @@
       "start_date": null,
       "end_date": "2026-11-14T19:17:51+05:30",
       "deadline": "2026-11-14T19:17:51+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/infrashift-infrasitycom-1792835",
-      "title": "INFRA//SHIFT",
-      "organizer": "Infrasity.com",
-      "mode": "Offline",
-      "venue_address": "Infrasity.com, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aea13c7c6427_organisation_image-fxJKFxvlqx611025401wIc84PwioY.png",
-      "start_date": null,
-      "end_date": "2026-11-14T20:00:00+05:30",
-      "deadline": "2026-11-14T20:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -15407,7 +15407,7 @@
       "mode": "Offline",
       "venue_address": "Vellore Institute of Technology (VIT), Chennai, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aea1b5c57504_download__10_.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeaed31a1ea4_whatsapp_image_2026-10-06_at_09_50_38.jpeg",
       "start_date": null,
       "end_date": "2026-12-06T23:59:00+05:30",
       "deadline": "2026-12-06T23:59:00+05:30",
@@ -15521,7 +15521,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aea19cead79c_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeae69a10afa_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
       "start_date": null,
       "end_date": "2026-12-14T22:08:33+05:30",
       "deadline": "2026-12-14T22:08:33+05:30",
@@ -15563,6 +15563,25 @@
       "start_date": null,
       "end_date": "2026-12-15T18:00:00+05:30",
       "deadline": "2026-12-15T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codeelitepune-hack-with-pune-hackwithpune-1794522",
+      "title": "CodeElitePune - Hack With Pune",
+      "organizer": "HackWithPune",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeb252482fcf_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
+      "start_date": null,
+      "end_date": "2026-12-17T00:00:27+05:30",
+      "deadline": "2026-12-17T00:00:27+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
