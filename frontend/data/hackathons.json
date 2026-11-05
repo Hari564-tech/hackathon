@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-05T13:46:39.049094+00:00",
-  "total_count": 862,
+  "last_synced_at": "2026-11-05T23:04:20.443364+00:00",
+  "total_count": 867,
   "hackathons": [
     {
       "source": "Unstop",
@@ -13045,15 +13045,15 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/db2hack-2026-build-ai-applications-on-ibm-db2-gl-bajaj-group-of-institutions-mathura-uttar-pradesh-1795047",
-      "title": "Db2Hack 2026 | Build AI Applications on IBM Db2 ",
+      "title": "IBM Db2Hack 2026 | Build AI Applications on IBM Db2 ",
       "organizer": "GL Bajaj Group of Institutions, Mathura, Uttar Pradesh",
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeb5e1f65396_db2hack-logo.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aecc80493513_unstop-logo-1x1-800x800.png",
       "start_date": null,
-      "end_date": "2026-11-10T17:00:00+05:30",
-      "deadline": "2026-11-10T17:00:00+05:30",
+      "end_date": "2026-11-10T19:00:00+05:30",
+      "deadline": "2026-11-10T19:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -14527,6 +14527,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/remote-robotics-hackathon-pes-university-pesu-bengaluru-1795134",
+      "title": "Remote Robotics Hackathon",
+      "organizer": "PES University (PESU), Bengaluru",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aec900b0b151_PESU.png",
+      "start_date": null,
+      "end_date": "2026-11-18T00:00:00+05:30",
+      "deadline": "2026-11-18T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/innovathon-20-at-ju-university-of-jammu-jammu-1762935",
       "title": "Innovathon 2.0 @ JU",
       "organizer": "University of Jammu, Jammu",
@@ -15002,6 +15021,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vytron26-droidecks-1786652",
+      "title": "VYTRON'26",
+      "organizer": "Droidecks",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeb80e76959e_logo.png",
+      "start_date": null,
+      "end_date": "2026-11-25T00:00:00+05:30",
+      "deadline": "2026-11-25T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/vibe-forge-nims-university-nu-jaipur-1772221",
       "title": "Vibe Forge",
       "organizer": "Nims University (NU), Jaipur",
@@ -15050,6 +15088,25 @@
       "start_date": null,
       "end_date": "2026-11-25T23:59:00+05:30",
       "deadline": "2026-11-25T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/nexathon-school-of-computers-ips-academy-indore-1795775",
+      "title": "Nexathon : Next Gen Hackathon",
+      "organizer": "SCHOOL OF COMPUTERS , IPS ACADEMY , INDORE",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aec40fd413a6_13_bracket_x_1x.png",
+      "start_date": null,
+      "end_date": "2026-11-26T00:00:00+05:30",
+      "deadline": "2026-11-26T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -15294,6 +15351,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6a8c5d2835449_logo1.png",
+      "start_date": null,
+      "end_date": "2026-11-30T00:00:00+05:30",
+      "deadline": "2026-11-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/flare-hoollow-1797543",
+      "title": "Flare",
+      "organizer": "Hoollow",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeccfb1387e7_untitled_design_2.png",
       "start_date": null,
       "end_date": "2026-11-30T00:00:00+05:30",
       "deadline": "2026-11-30T00:00:00+05:30",
@@ -16015,7 +16091,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aec84806ef51_organisation_image-WiPBZNe8XE19077187qBSU91vDAB.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aecad9627b23_organisation_image-WiPBZNe8XE19077187qBSU91vDAB.png",
       "start_date": null,
       "end_date": "2027-01-06T13:33:00+05:30",
       "deadline": "2027-01-06T13:33:00+05:30",
@@ -16133,6 +16209,25 @@
       "start_date": null,
       "end_date": "2027-01-22T23:59:00+05:30",
       "deadline": "2027-01-22T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/central-india-hackathon-40-suryodaya-college-of-engineering-technology-nagpur-1788753",
+      "title": "Central India Hackathon 4.0",
+      "organizer": "Suryodaya College of Engineering & Technology, Nagpur",
+      "mode": "Offline",
+      "venue_address": "Suryodaya College of Engineering & Technology, Nagpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae8854107f35_c_h.png",
+      "start_date": null,
+      "end_date": "2027-01-23T17:00:00+05:30",
+      "deadline": "2027-01-23T17:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
