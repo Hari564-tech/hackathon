@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-04T23:01:50.932180+00:00",
-  "total_count": 856,
+  "last_synced_at": "2026-11-05T04:29:11.655678+00:00",
+  "total_count": 857,
   "hackathons": [
     {
       "source": "Unstop",
@@ -14974,6 +14974,25 @@
       "start_date": null,
       "end_date": "2026-11-25T00:00:00+05:30",
       "deadline": "2026-11-25T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vibe-forge-nims-university-nu-jaipur-1772221",
+      "title": "Vibe Forge",
+      "organizer": "Nims University (NU), Jaipur",
+      "mode": "Offline",
+      "venue_address": "Nims University (NU), Jaipur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad5db3e1b735_untitled_design.png",
+      "start_date": null,
+      "end_date": "2026-11-25T10:30:00+05:30",
+      "deadline": "2026-11-25T10:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
