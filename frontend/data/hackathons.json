@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-05T04:29:11.655678+00:00",
-  "total_count": 857,
+  "last_synced_at": "2026-11-05T13:46:39.049094+00:00",
+  "total_count": 862,
   "hackathons": [
     {
       "source": "Unstop",
@@ -12968,25 +12968,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/software-track-nits-hacks-90-national-institute-of-technology-nit-silchar-1794955",
-      "title": "Software Track – NITS Hacks 9.0",
-      "organizer": "National Institute of Technology (NIT), Silchar",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeb61a62255f_frame_3.png",
-      "start_date": null,
-      "end_date": "2026-11-09T11:00:00+05:30",
-      "deadline": "2026-11-09T11:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/operation-ward-zero-wooble-software-private-limited-1776892",
       "title": "Operation Ward Zero",
       "organizer": "Wooble Software Private Limited",
@@ -13111,6 +13092,25 @@
       "start_date": null,
       "end_date": "2026-11-11T00:00:00+05:30",
       "deadline": "2026-11-11T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/software-track-nits-hacks-90-national-institute-of-technology-nit-silchar-1794955",
+      "title": "Software Track – NITS Hacks 9.0",
+      "organizer": "National Institute of Technology (NIT), Silchar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeb61a62255f_frame_3.png",
+      "start_date": null,
+      "end_date": "2026-11-11T12:00:00+05:30",
+      "deadline": "2026-11-11T12:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -13833,6 +13833,25 @@
       "start_date": null,
       "end_date": "2026-11-14T18:00:00+05:30",
       "deadline": "2026-11-14T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/technothon-national-institute-of-technology-nit-agartala-1797032",
+      "title": "Technothon",
+      "organizer": "National Institute of Technology (NIT), Agartala",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aec85ade5ae1_NIT_agartala.png",
+      "start_date": null,
+      "end_date": "2026-11-14T18:35:43+05:30",
+      "deadline": "2026-11-14T18:35:43+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -15382,6 +15401,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/vyom-national-level-hackathon-cum-project-competition-government-college-of-engineering-geca-aurangabad-1793796",
+      "title": "VYOM - National Level Hackathon Cum Project Competition",
+      "organizer": "Government College of Engineering (GECA), Aurangabad",
+      "mode": "Offline",
+      "venue_address": "Government College of Engineering (GECA), Aurangabad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aea36449a85f_official_logo_vyom_edition-01-1mb.jpeg",
+      "start_date": null,
+      "end_date": "2026-12-01T00:00:00+05:30",
+      "deadline": "2026-12-01T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hack-era-20-erazone-1771785",
       "title": "Hack Era 2.0",
       "organizer": "Erazone",
@@ -15506,6 +15544,44 @@
       "start_date": null,
       "end_date": "2026-12-06T23:59:00+05:30",
       "deadline": "2026-12-06T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/innovate-hackathon-2026-devharbour-1792025",
+      "title": "INNOVATE INDIA - Hackathon 2026",
+      "organizer": "DevHarbour",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae96e30b401f_148357.jpg",
+      "start_date": null,
+      "end_date": "2026-12-06T23:59:00+05:30",
+      "deadline": "2026-12-06T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/crp-superr-selector-season-2-help-shape-rajasthan-royals-ipl-2027-auction-strategy-rajasthan-royals-1792758",
+      "title": "SupeRR Selector Season 2: Help Shape Rajasthan Royals' IPL 2027 Auction Strategy",
+      "organizer": "Rajasthan Royals",
+      "mode": "Offline",
+      "venue_address": "Rajasthan Royals, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aea0891a3270_competition_logo_150x150.png",
+      "start_date": null,
+      "end_date": "2026-12-07T21:50:01+05:30",
+      "deadline": "2026-12-07T21:50:01+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -15924,6 +16000,25 @@
       "start_date": null,
       "end_date": "2027-01-06T13:01:00+05:30",
       "deadline": "2027-01-06T13:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-code-vibes-hackathon-20-the-code-vibes-1794889",
+      "title": "The Code Vibes Hackathon 2.0",
+      "organizer": "THE CODE VIBES",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aec84806ef51_organisation_image-WiPBZNe8XE19077187qBSU91vDAB.png",
+      "start_date": null,
+      "end_date": "2027-01-06T13:33:00+05:30",
+      "deadline": "2027-01-06T13:33:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
