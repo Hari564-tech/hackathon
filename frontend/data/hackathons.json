@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-06T13:30:18.664858+00:00",
-  "total_count": 870,
+  "last_synced_at": "2026-11-06T22:35:15.293819+00:00",
+  "total_count": 871,
   "hackathons": [
     {
       "source": "Unstop",
@@ -13234,6 +13234,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/logic-bumble-coding-debugging-challenge-army-institute-of-technology-ait-pune-1798516",
+      "title": "Logic Bumble – Coding & Debugging Challenge",
+      "organizer": "Army Institute of Technology (AIT), Pune",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aee1b32d92ed_",
+      "start_date": null,
+      "end_date": "2026-11-12T00:00:00+05:30",
+      "deadline": "2026-11-12T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/the-liars-chatroom-international-institute-of-information-technology-iiit-bangalore-1762783",
       "title": "The Liar's Chatroom",
       "organizer": "International Institute of Information Technology (IIIT), Bangalore",
@@ -13738,25 +13757,6 @@
       "start_date": null,
       "end_date": "2026-11-14T10:01:00+05:30",
       "deadline": "2026-11-14T10:01:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/logic-bumble-coding-debugging-challenge-army-institute-of-technology-ait-pune-1798516",
-      "title": "Logic Bumble – Coding & Debugging Challenge",
-      "organizer": "Army Institute of Technology (AIT), Pune",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aedb7d5dc6c0_",
-      "start_date": null,
-      "end_date": "2026-11-14T11:00:00+05:30",
-      "deadline": "2026-11-14T11:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -15389,6 +15389,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeccfb1387e7_untitled_design_2.png",
+      "start_date": null,
+      "end_date": "2026-11-30T00:00:00+05:30",
+      "deadline": "2026-11-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-dia-2026-lovely-professional-university-lpu-punjab-1798702",
+      "title": "CodeDia 2026",
+      "organizer": "Lovely Professional University (LPU), Punjab",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aedd870682a8_glowing_purple_diwali_diya.jpg",
       "start_date": null,
       "end_date": "2026-11-30T00:00:00+05:30",
       "deadline": "2026-11-30T00:00:00+05:30",
