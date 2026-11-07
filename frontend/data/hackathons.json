@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-07T03:54:39.603773+00:00",
-  "total_count": 871,
+  "last_synced_at": "2026-11-07T12:10:46.912178+00:00",
+  "total_count": 890,
   "hackathons": [
     {
       "source": "Unstop",
@@ -14127,6 +14127,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-builder-hackathon-product-space-1799509",
+      "title": "AI Builder Hackathon",
+      "organizer": "Product Space",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aee80b10812a_ai-builder-hackathon-under-1mb.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T23:59:00+05:30",
+      "deadline": "2026-11-14T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-product-buildathon-product-space-1799475",
+      "title": "AI Product Buildathon",
+      "organizer": "Product Space",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aee7a825c478_ai-product-buildathon-under-1mb.jpg",
+      "start_date": null,
+      "end_date": "2026-11-14T23:59:00+05:30",
+      "deadline": "2026-11-14T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/students-of-global-impact-international-foundation-for-sustainable-peace-and-development-1751032",
       "title": "Students of Global Impact",
       "organizer": "International Foundation for Sustainable Peace and Development",
@@ -14546,6 +14584,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/goblet-of-codes-kaushalya-20-chhattisgarh-swami-vivekanand-technical-university-csvtu-bhilai-chhattisgarh-1798470",
+      "title": "Goblet of Codes",
+      "organizer": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai, Chhattisgarh",
+      "mode": "Offline",
+      "venue_address": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai, Chhattisgarh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aed8400e191b_cp_750x750.png",
+      "start_date": null,
+      "end_date": "2026-11-17T23:59:00+05:30",
+      "deadline": "2026-11-17T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/13th-protocol-an-ai-hackathon-2026-voyager-coding-club-1794890",
       "title": "13th Protocol: An AI Hackathon 2026",
       "organizer": "KCC Institute of Management and Technology, Greater Noida",
@@ -14793,6 +14850,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/expanding-horizons-80-consultancy-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799776",
+      "title": "Expanding Horizons 8.0 Consultancy",
+      "organizer": "Motilal Nehru National Institute of Technology",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeecf3b00aae_",
+      "start_date": null,
+      "end_date": "2026-11-21T00:00:00+05:30",
+      "deadline": "2026-11-21T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/expanding-horizons-80-software-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799767",
+      "title": "Expanding Horizons 8.0 Software",
+      "organizer": "Motilal Nehru National Institute of Technology",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeebf54b36a0_",
+      "start_date": null,
+      "end_date": "2026-11-21T00:00:00+05:30",
+      "deadline": "2026-11-21T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/queryquest-sql-problem-solving-challenge-the-national-institute-of-engineering-karnataka-1793112",
       "title": "Queryquest: SQL Problem-Solving Challenge",
       "organizer": "The National Institute of Engineering, Karnataka",
@@ -14803,6 +14898,25 @@
       "start_date": null,
       "end_date": "2026-11-21T10:00:00+05:30",
       "deadline": "2026-11-21T10:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/expanding-horizons-80-ece-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799778",
+      "title": "Expanding Horizons 8.0  ECE",
+      "organizer": "Motilal Nehru National Institute of Technology",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeecf692034f_",
+      "start_date": null,
+      "end_date": "2026-11-21T11:24:22+05:30",
+      "deadline": "2026-11-21T11:24:22+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -14907,6 +15021,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/expanding-horizons-80-ee-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799780",
+      "title": "Expanding Horizons 8.0  EE",
+      "organizer": "Motilal Nehru National Institute of Technology",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeecfb257998_",
+      "start_date": null,
+      "end_date": "2026-11-21T22:50:35+05:30",
+      "deadline": "2026-11-21T22:50:35+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codenova-india-2026-national-hackathon-wecodecoders-1783775",
       "title": "CodeNova India 2026 - National Hackathon",
       "organizer": "WeCodeCoders",
@@ -14917,6 +15050,25 @@
       "start_date": null,
       "end_date": "2026-11-22T10:03:54+05:30",
       "deadline": "2026-11-22T10:03:54+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/expanding-horizons-80-civil-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799782",
+      "title": "Expanding Horizons 8.0  CIVIL",
+      "organizer": "Motilal Nehru National Institute of Technology",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeed0681a49f_",
+      "start_date": null,
+      "end_date": "2026-11-22T10:18:36+05:30",
+      "deadline": "2026-11-22T10:18:36+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -14983,6 +15135,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/expanding-horizons-80-mechanical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799788",
+      "title": "Expanding Horizons 8.0  Mechanical",
+      "organizer": "Motilal Nehru National Institute of Technology",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeec4d390f1b_",
+      "start_date": null,
+      "end_date": "2026-11-22T21:54:43+05:30",
+      "deadline": "2026-11-22T21:54:43+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/wh-versehack-writers-haven-1770609",
       "title": "WH Versehack",
       "organizer": "Writers Haven",
@@ -15012,6 +15183,44 @@
       "start_date": null,
       "end_date": "2026-11-23T00:00:00+05:30",
       "deadline": "2026-11-23T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/expanding-horizons-80-biotech-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799790",
+      "title": "Expanding Horizons 8.0   BIOTECH",
+      "organizer": "Motilal Nehru National Institute of Technology",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeec06e0b911_",
+      "start_date": null,
+      "end_date": "2026-11-23T09:33:04+05:30",
+      "deadline": "2026-11-23T09:33:04+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/expanding-horizons-80-chemical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799791",
+      "title": "Expanding Horizons 8.0 Chemical",
+      "organizer": "Motilal Nehru National Institute of Technology",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeec5109ec4d_",
+      "start_date": null,
+      "end_date": "2026-11-23T21:12:24+05:30",
+      "deadline": "2026-11-23T21:12:24+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -15240,6 +15449,25 @@
       "start_date": null,
       "end_date": "2026-11-28T15:00:00+05:30",
       "deadline": "2026-11-28T15:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-vibeathon-2026-promptwars-echo-engineers-echo-engineers-1799092",
+      "title": "AI Vibeathon 2026 | PromptWars × Echo Engineers",
+      "organizer": "ECHO ENGINEERS",
+      "mode": "Offline",
+      "venue_address": "ECHO ENGINEERS, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aedf7bb9934f_logoecho.png",
+      "start_date": null,
+      "end_date": "2026-11-28T17:27:00+05:30",
+      "deadline": "2026-11-28T17:27:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -16370,6 +16598,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/overclock-agnel-charities-fr-c-rodrigues-institute-of-technology-vashi-navi-mumbai-1798677",
+      "title": "Overclock",
+      "organizer": "Agnel Charities Fr. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai",
+      "mode": "Offline",
+      "venue_address": "Agnel Charities Fr. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aedb93a279f9_fcritlogo.png",
+      "start_date": null,
+      "end_date": "2027-01-30T07:00:00+05:30",
+      "deadline": "2027-01-30T07:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/the-arcticathon-bidaya-1759619",
       "title": "The Arcticathon ",
       "organizer": "Bidaya",
@@ -16551,6 +16798,120 @@
       "start_date": null,
       "end_date": "2027-02-15T20:00:00+05:30",
       "deadline": "2027-02-15T20:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/incpetrix-30-faculty-of-engineering-and-technology-jain-deemed-to-be-university-1794479",
+      "title": "Incpetrix 3.0",
+      "organizer": "Faculty of Engineering and Technology, Jain Deemed to be University",
+      "mode": "Offline",
+      "venue_address": "Faculty of Engineering and Technology, Jain Deemed to be University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeaf3bb4c84d_tech_council_white_logo.png",
+      "start_date": null,
+      "end_date": "2027-02-20T20:00:00+05:30",
+      "deadline": "2027-02-20T20:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/solidworks-solutions-2k27-army-institute-of-technology-pune-1799800",
+      "title": "Solidworks",
+      "organizer": "Army Institute of technology, Pune",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeec67a57696_ait_solutions.jpg",
+      "start_date": null,
+      "end_date": "2027-03-04T19:00:00+05:30",
+      "deadline": "2027-03-04T19:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/sql-mania-solutions-2k27-army-institute-of-technology-pune-1799761",
+      "title": "SQL Mania",
+      "organizer": "Army Institute of technology, Pune",
+      "mode": "Offline",
+      "venue_address": "Army Institute of technology, Pune, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeeb4752a07c_ait_solutions.jpg",
+      "start_date": null,
+      "end_date": "2027-03-05T12:00:00+05:30",
+      "deadline": "2027-03-05T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ethon-solutions-2k27-army-institute-of-technology-pune-1799758",
+      "title": "Ethon",
+      "organizer": "Army Institute of technology, Pune",
+      "mode": "Offline",
+      "venue_address": "Army Institute of technology, Pune, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeeb354259fd_ait_solutions.jpg",
+      "start_date": null,
+      "end_date": "2027-03-05T14:00:00+05:30",
+      "deadline": "2027-03-05T14:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/crackhunt-solutions-2k27-army-institute-of-technology-pune-1799765",
+      "title": "Crackhunt",
+      "organizer": "Army Institute of technology, Pune",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeeb9ac05580_solutions_logo.jpg",
+      "start_date": null,
+      "end_date": "2027-03-05T17:15:00+05:30",
+      "deadline": "2027-03-05T17:15:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/project-jupyter-solutions-2k27-army-institute-of-technology-pune-1799762",
+      "title": "Project Jupyter",
+      "organizer": "Army Institute of technology, Pune",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeeb7b44f2f2_solutions_logo.jpg",
+      "start_date": null,
+      "end_date": "2027-03-10T12:00:00+05:30",
+      "deadline": "2027-03-10T12:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
