@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-07T21:15:52.246871+00:00",
-  "total_count": 895,
+  "last_synced_at": "2026-11-08T03:39:11.923166+00:00",
+  "total_count": 896,
   "hackathons": [
     {
       "source": "Unstop",
@@ -15468,6 +15468,25 @@
       "start_date": null,
       "end_date": "2026-11-28T07:00:00+05:30",
       "deadline": "2026-11-28T07:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/decodex-26-enter-the-mission-decode-the-unknown-bms-institute-of-technology-and-management-bmsitm-bangalore-1794529",
+      "title": "DecodeX '26 - Enter the Mission. Decode the Unknown",
+      "organizer": "BMS Institute of Technology and Management (BMSITM), Bangalore",
+      "mode": "Offline",
+      "venue_address": "BMS Institute of Technology and Management (BMSITM), Bangalore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeeaee7bdd9b_icon1.png",
+      "start_date": null,
+      "end_date": "2026-11-28T09:00:00+05:30",
+      "deadline": "2026-11-28T09:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
