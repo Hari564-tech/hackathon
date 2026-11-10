@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-10T01:00:20.535223+00:00",
-  "total_count": 910,
+  "last_synced_at": "2026-11-10T14:01:11.523287+00:00",
+  "total_count": 914,
   "hackathons": [
     {
       "source": "Unstop",
@@ -13082,25 +13082,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/hacksphere-build-and-learn-aayam-xi-national-institute-of-technology-nit-agartala-1800147",
-      "title": "HackSphere - Build and learn (Aayam XI)",
-      "organizer": "National Institute of Technology (NIT), Agartala",
-      "mode": "Offline",
-      "venue_address": "National Institute of Technology (NIT), Agartala, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aef523403392_NIT_agartala.png",
-      "start_date": null,
-      "end_date": "2026-11-10T23:59:00+05:30",
-      "deadline": "2026-11-10T23:59:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codehive-community-duel-night-code-hive-1782942",
       "title": "CodeHive Community Duel Night",
       "organizer": "Code Hive",
@@ -13168,6 +13149,25 @@
       "start_date": null,
       "end_date": "2026-11-11T13:58:00+05:30",
       "deadline": "2026-11-11T13:58:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacksphere-build-and-learn-aayam-xi-national-institute-of-technology-nit-agartala-1800147",
+      "title": "HackSphere - Build and learn (Aayam XI)",
+      "organizer": "National Institute of Technology (NIT), Agartala",
+      "mode": "Offline",
+      "venue_address": "National Institute of Technology (NIT), Agartala, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aef523403392_NIT_agartala.png",
+      "start_date": null,
+      "end_date": "2026-11-11T23:59:00+05:30",
+      "deadline": "2026-11-11T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -14203,25 +14203,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/nextgen-ai-hackathon-product-space-1800891",
-      "title": "NextGen AI Hackathon",
-      "organizer": "Product Space",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aefc482dc026_nextgen_ai_hackathon.jpg",
-      "start_date": null,
-      "end_date": "2026-11-14T23:59:00+05:30",
-      "deadline": "2026-11-14T23:59:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/students-of-global-impact-international-foundation-for-sustainable-peace-and-development-1751032",
       "title": "Students of Global Impact",
       "organizer": "International Foundation for Sustainable Peace and Development",
@@ -14632,6 +14613,25 @@
       "start_date": null,
       "end_date": "2026-11-17T00:00:00+05:30",
       "deadline": "2026-11-17T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/buildsprint-workelate-1794884",
+      "title": "BuildSprint",
+      "organizer": "Workelate",
+      "mode": "Offline",
+      "venue_address": "Workelate, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af2bad3d78e2_organisation_image-oh04baFXpb1690565291AsGn4AFJXK.png",
+      "start_date": null,
+      "end_date": "2026-11-17T11:50:48+05:30",
+      "deadline": "2026-11-17T11:50:48+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -15183,6 +15183,25 @@
       "start_date": null,
       "end_date": "2026-11-21T22:50:35+05:30",
       "deadline": "2026-11-21T22:50:35+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/nextgen-ai-hackathon-product-space-1800891",
+      "title": "NextGen AI Hackathon",
+      "organizer": "Product Space",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aefc482dc026_nextgen_ai_hackathon.jpg",
+      "start_date": null,
+      "end_date": "2026-11-21T23:59:00+05:30",
+      "deadline": "2026-11-21T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -15800,6 +15819,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-to-cart-ai-x-e-commerce-hackathon-kartai-x-codexcelerate-kartai-1803912",
+      "title": "Code to Cart: AI x E-commerce Hackathon | KartAI X CodeXcelerate",
+      "organizer": "KartAI",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af2e6b7a9acd_organisation_image-YsMxXqAIL2422692372gJfDCTmjzt.png",
+      "start_date": null,
+      "end_date": "2026-11-29T23:59:00+05:30",
+      "deadline": "2026-11-29T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacknexus-mastermind-research-technologies-1746846",
       "title": "Hacknexus",
       "organizer": "MASTERMIND RESEARCH TECHNOLOGIES",
@@ -16370,6 +16408,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hacksmart-20-geek-room-1799091",
+      "title": "Hacksmart 2.0",
+      "organizer": "Geek Room",
+      "mode": "Offline",
+      "venue_address": "Geek Room, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aee4841388f2_hacksmart-2-logo-1000x1000.png",
+      "start_date": null,
+      "end_date": "2026-12-15T23:59:00+05:30",
+      "deadline": "2026-12-15T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codeelitepune-hack-with-pune-hackwithpune-1794522",
       "title": "CodeElitePune - Hack With Pune",
       "organizer": "HackWithPune",
@@ -16408,25 +16465,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/ideathon-futurex-innovating-for-global-challenges-skill2career-1803074",
-      "title": "IDEATHON- FutureX: Innovating for Global Challenges",
-      "organizer": "Skill2Career",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af1e2f753bec_logo.png",
-      "start_date": null,
-      "end_date": "2026-12-18T00:00:00+05:30",
-      "deadline": "2026-12-18T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/srujan-2026-15-lakh-mega-hackathon-in-association-with-lt-bk-birla-college-1768041",
       "title": "Srujan 2026 - 1.5 Lakh Mega Hackathon In association with L&T Edutech - Online Round is Free, No Rs 1200 Charged in it",
       "organizer": "Bk birla College",
@@ -16446,6 +16484,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackkumbh-2026-tech-for-humanity-yeshwantrao-chavan-college-of-engineering-ycce-nagpur-1800629",
+      "title": "HackKumbh 2026 : Tech For Humanity",
+      "organizer": "Yeshwantrao Chavan College of Engineering (YCCE), Nagpur",
+      "mode": "Offline",
+      "venue_address": "Yeshwantrao Chavan College of Engineering (YCCE), Nagpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aef5bf2da0db_whatsapp_image_2026-11-07_at_22_40_53.jpeg",
+      "start_date": null,
+      "end_date": "2026-12-19T10:00:00+05:30",
+      "deadline": "2026-12-19T10:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/k-hacks-40-anna-university-au-chennai-1772496",
       "title": "K Hacks 4.0",
       "organizer": "Anna University (AU), Chennai",
@@ -16456,6 +16513,25 @@
       "start_date": null,
       "end_date": "2026-12-19T14:00:00+05:30",
       "deadline": "2026-12-19T14:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ideathon-futurex-innovating-for-global-challenges-skill2career-1803074",
+      "title": "IDEATHON- FutureX: Innovating for Global Challenges",
+      "organizer": "Skill2Career",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af1e2f753bec_logo.png",
+      "start_date": null,
+      "end_date": "2026-12-19T17:15:00+05:30",
+      "deadline": "2026-12-19T17:15:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -17231,7 +17307,7 @@
       "mode": "Offline",
       "venue_address": "Army Institute of Technology (AIT), Pune, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af01714789b4_",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af1a4e14c17f_solution_2k26.webp",
       "start_date": null,
       "end_date": "2027-03-06T12:00:00+05:30",
       "deadline": "2027-03-06T12:00:00+05:30",
