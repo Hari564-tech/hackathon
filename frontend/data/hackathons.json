@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-09T14:48:15.097216+00:00",
-  "total_count": 909,
+  "last_synced_at": "2026-11-10T01:00:20.535223+00:00",
+  "total_count": 910,
   "hackathons": [
     {
       "source": "Unstop",
@@ -16376,7 +16376,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af0b374cf2e2_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af194d99aedb_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
       "start_date": null,
       "end_date": "2026-12-17T00:00:27+05:30",
       "deadline": "2026-12-17T00:00:27+05:30",
@@ -16399,6 +16399,25 @@
       "start_date": null,
       "end_date": "2026-12-17T14:00:13+05:30",
       "deadline": "2026-12-17T14:00:13+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ideathon-futurex-innovating-for-global-challenges-skill2career-1803074",
+      "title": "IDEATHON- FutureX: Innovating for Global Challenges",
+      "organizer": "Skill2Career",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af1e2f753bec_logo.png",
+      "start_date": null,
+      "end_date": "2026-12-18T00:00:00+05:30",
+      "deadline": "2026-12-18T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -17117,7 +17136,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af1c5cfb7f33_",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af1f78086ba9_solution_2k26.webp",
       "start_date": null,
       "end_date": "2027-03-01T00:00:00+05:30",
       "deadline": "2027-03-01T00:00:00+05:30",
