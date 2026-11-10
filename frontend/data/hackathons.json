@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-10T14:01:11.523287+00:00",
-  "total_count": 914,
+  "last_synced_at": "2026-11-10T22:41:02.950924+00:00",
+  "total_count": 915,
   "hackathons": [
     {
       "source": "Unstop",
@@ -16427,6 +16427,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-forge-hoollow-1787722",
+      "title": "The Forge",
+      "organizer": "Hoollow",
+      "mode": "Offline",
+      "venue_address": "Hoollow, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae60c81edaaa_untitled_design_2.png",
+      "start_date": null,
+      "end_date": "2026-12-16T20:39:00+05:30",
+      "deadline": "2026-12-16T20:39:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codeelitepune-hack-with-pune-hackwithpune-1794522",
       "title": "CodeElitePune - Hack With Pune",
       "organizer": "HackWithPune",
@@ -17188,12 +17207,12 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/incpetrix-30-faculty-of-engineering-and-technology-jain-deemed-to-be-university-1794479",
-      "title": "Incpetrix 3.0",
+      "title": "Inceptrix 3.0",
       "organizer": "Faculty of Engineering and Technology, Jain Deemed to be University",
       "mode": "Offline",
       "venue_address": "Faculty of Engineering and Technology, Jain Deemed to be University, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeaf3bb4c84d_tech_council_white_logo.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af2edb262e0d_inceptrix_3_0_posters_4.png",
       "start_date": null,
       "end_date": "2027-02-20T20:00:00+05:30",
       "deadline": "2027-02-20T20:00:00+05:30",
