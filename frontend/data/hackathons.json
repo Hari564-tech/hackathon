@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-11T13:18:32.894842+00:00",
-  "total_count": 915,
+  "last_synced_at": "2026-11-11T23:54:01.182709+00:00",
+  "total_count": 916,
   "hackathons": [
     {
       "source": "Unstop",
@@ -14609,7 +14609,7 @@
       "mode": "Offline",
       "venue_address": "Workelate, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af2bad3d78e2_organisation_image-oh04baFXpb1690565291AsGn4AFJXK.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af46ff81565c_organisation_image-oh04baFXpb1690565291AsGn4AFJXK.png",
       "start_date": null,
       "end_date": "2026-11-17T11:50:48+05:30",
       "deadline": "2026-11-17T11:50:48+05:30",
@@ -15041,7 +15041,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/inter-college-coding-competition-2026-college-of-engineering-and-managementkolaghat-1801814",
-      "title": "Inter-College Coding Competition 2026 | Java & Python | ₹10,000 in Cash Prizes+ Free Lunch ",
+      "title": "Inter-College Coding Competition 2026 | Java & Python",
       "organizer": "College Of Engineering And Management,Kolaghat",
       "mode": "Offline",
       "venue_address": "College Of Engineering And Management,Kolaghat, India",
@@ -16133,6 +16133,25 @@
       "start_date": null,
       "end_date": "2026-12-06T00:00:00+05:30",
       "deadline": "2026-12-06T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/android-ignition-ganeshi-lal-bajaj-institute-of-technology-and-management-glbitm-greater-noida-1805946",
+      "title": "Android Ignition",
+      "organizer": "Ganeshi Lal Bajaj Institute Of Technology And Management (GLBITM), Greater Noida",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af480df9078d_android_engineering_hackathon_under_1mb.jpg",
+      "start_date": null,
+      "end_date": "2026-12-06T21:00:00+05:30",
+      "deadline": "2026-12-06T21:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
