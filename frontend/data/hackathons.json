@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-11-11T03:57:06.642651+00:00",
+  "last_synced_at": "2026-11-11T13:18:32.894842+00:00",
   "total_count": 915,
   "hackathons": [
     {
@@ -14489,25 +14489,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/rewired-tech-hackathon-road-to-milky-way-bangalore-masters-union-school-of-business-1802400",
-      "title": "Rewired (Tech Hackathon)",
-      "organizer": "Masters Union School of Business",
-      "mode": "Offline",
-      "venue_address": "Masters Union School of Business, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af176eb8ed71_6ad9a907923d5_milky-way-unstop-profile.png",
-      "start_date": null,
-      "end_date": "2026-11-16T00:00:00+05:30",
-      "deadline": "2026-11-16T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hack-a-sol-50-international-institute-of-information-technology-iiit-naya-raipur-1786809",
       "title": "Hack-a-Sol 5.0",
       "organizer": "International Institute of Information Technology (IIIT), Naya Raipur",
@@ -14784,6 +14765,25 @@
       "start_date": null,
       "end_date": "2026-11-18T18:00:00+05:30",
       "deadline": "2026-11-18T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/rewired-tech-hackathon-road-to-milky-way-bangalore-masters-union-school-of-business-1802400",
+      "title": "Rewired (Tech Hackathon)",
+      "organizer": "Masters Union School of Business",
+      "mode": "Offline",
+      "venue_address": "Masters Union School of Business, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af176eb8ed71_6ad9a907923d5_milky-way-unstop-profile.png",
+      "start_date": null,
+      "end_date": "2026-11-18T23:59:00+05:30",
+      "deadline": "2026-11-18T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
