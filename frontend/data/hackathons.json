@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-11T23:54:01.182709+00:00",
-  "total_count": 916,
+  "last_synced_at": "2026-11-12T05:05:44.644693+00:00",
+  "total_count": 918,
   "hackathons": [
     {
       "source": "Unstop",
@@ -16389,6 +16389,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/defy27-vellore-institute-of-technology-vit-chennai-1806122",
+      "title": "Defy'27",
+      "organizer": "Vellore Institute of Technology (VIT), Chennai",
+      "mode": "Offline",
+      "venue_address": "Vellore Institute of Technology (VIT), Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af4c3e632fd9_02_event-backsplash_300x300_4x.png",
+      "start_date": null,
+      "end_date": "2026-12-14T23:59:00+05:30",
+      "deadline": "2026-12-14T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/samadhan-2026-national-social-innovation-challenge-upay-underprivileged-advancements-by-youth-1724048",
       "title": "Samadhan 2026( National Social Innovation Challenge)",
       "organizer": "UPAY (Underprivileged Advancements by Youth)",
@@ -17045,6 +17064,25 @@
       "start_date": null,
       "end_date": "2027-01-31T00:00:00+05:30",
       "deadline": "2027-01-31T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/rabinjathon-prime-1-rabinja-squad-1761846",
+      "title": "Rabinjathon: Prime 1",
+      "organizer": "Rabinja Squad",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ab7563b4c1ec_rabinjathon.jpeg",
+      "start_date": null,
+      "end_date": "2027-02-05T00:00:00+05:30",
+      "deadline": "2027-02-05T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
