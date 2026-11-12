@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-12T05:05:44.644693+00:00",
-  "total_count": 918,
+  "last_synced_at": "2026-11-12T14:21:42.622929+00:00",
+  "total_count": 920,
   "hackathons": [
     {
       "source": "Unstop",
@@ -14260,6 +14260,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/buildsprint-workelate-1794884",
+      "title": "BuildSprint",
+      "organizer": "Workelate",
+      "mode": "Offline",
+      "venue_address": "Workelate, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af5a2e05d12a_organisation_image-oh04baFXpb1690565291AsGn4AFJXK.png",
+      "start_date": null,
+      "end_date": "2026-11-15T11:50:48+05:30",
+      "deadline": "2026-11-15T11:50:48+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/game-of-codes-national-institute-of-technology-nit-agartala-1797379",
       "title": "Game of Codes",
       "organizer": "National Institute of Technology (NIT), Agartala",
@@ -14594,25 +14613,6 @@
       "start_date": null,
       "end_date": "2026-11-17T00:00:00+05:30",
       "deadline": "2026-11-17T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/buildsprint-workelate-1794884",
-      "title": "BuildSprint",
-      "organizer": "Workelate",
-      "mode": "Offline",
-      "venue_address": "Workelate, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af46ff81565c_organisation_image-oh04baFXpb1690565291AsGn4AFJXK.png",
-      "start_date": null,
-      "end_date": "2026-11-17T11:50:48+05:30",
-      "deadline": "2026-11-17T11:50:48+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -15211,6 +15211,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/data-sprint-20-anveshan-nie-1807080",
+      "title": "Data Sprint 2.0",
+      "organizer": "Anveshan NIE",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af5b1f72902f_organisation_image-dmYKqwWtJH1006321632ubQLhYpANX.png",
+      "start_date": null,
+      "end_date": "2026-11-22T00:00:00+05:30",
+      "deadline": "2026-11-22T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codenova-india-2026-national-hackathon-wecodecoders-1783775",
       "title": "CodeNova India 2026 - National Hackathon",
       "organizer": "WeCodeCoders",
@@ -15582,6 +15601,25 @@
       "start_date": null,
       "end_date": "2026-11-27T11:00:00+05:30",
       "deadline": "2026-11-27T11:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984",
+      "title": "QuikCPQ AI Innovation Challenge 2027",
+      "organizer": "Quik CPQ Solutions LLP",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af5b3371896f_organisation_image-3P98rTmkKi90433698450bnqf733e.png",
+      "start_date": null,
+      "end_date": "2026-11-27T17:28:00+05:30",
+      "deadline": "2026-11-27T17:28:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -16490,7 +16528,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af194d99aedb_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af59ceeeeba9_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
       "start_date": null,
       "end_date": "2026-12-17T00:00:27+05:30",
       "deadline": "2026-12-17T00:00:27+05:30",
