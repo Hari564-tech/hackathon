@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-13T13:41:53.438729+00:00",
-  "total_count": 925,
+  "last_synced_at": "2026-11-13T23:04:12.807340+00:00",
+  "total_count": 927,
   "hackathons": [
     {
       "source": "Unstop",
@@ -17016,6 +17016,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/lighthouse-hackathon-chandigarh-university-cu-ajitgarh-punjab-1809486",
+      "title": "LightHouse - Hackathon",
+      "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af73fe7c29ab_osmium_faceted_gem_logo.png",
+      "start_date": null,
+      "end_date": "2027-01-10T22:26:00+05:30",
+      "deadline": "2027-01-10T22:26:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/the-forge-hoollow-1787722",
       "title": "The Forge",
       "organizer": "Hoollow",
@@ -17178,6 +17197,25 @@
       "start_date": null,
       "end_date": "2027-01-30T07:00:00+05:30",
       "deadline": "2027-01-30T07:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackz26-computer-science-and-engineering-association-csea-ceg-anna-university-1776729",
+      "title": "HackZ'26",
+      "organizer": "College of Engineering (CEG), Guindy,  Anna University",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af731910260a_images_63.png",
+      "start_date": null,
+      "end_date": "2027-01-30T12:00:00+05:30",
+      "deadline": "2027-01-30T12:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
