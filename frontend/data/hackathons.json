@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-14T04:17:44.717215+00:00",
-  "total_count": 927,
+  "last_synced_at": "2026-11-14T12:46:01.068825+00:00",
+  "total_count": 929,
   "hackathons": [
     {
       "source": "Unstop",
@@ -14869,25 +14869,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/promptwars-x-aith-dr-ambedkar-institute-of-technology-for-divyangjan-1807596",
-      "title": "PromptWars X AITH Kanpur ",
-      "organizer": "Dr. Ambedkar Institute of Technology for Divyangjan",
-      "mode": "Offline",
-      "venue_address": "Dr. Ambedkar Institute of Technology for Divyangjan, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af5f428d5205_1000359922.jpg",
-      "start_date": null,
-      "end_date": "2026-11-20T00:00:00+05:30",
-      "deadline": "2026-11-20T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codeodyssey-26-jecrc-university-jecrcu-vidhani-jaipur-rajasthan-1772647",
       "title": "CodeOdyssey '26",
       "organizer": "JECRC University (JECRCU), Vidhani, Jaipur, Rajasthan",
@@ -15439,6 +15420,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/promptwars-x-aith-dr-ambedkar-institute-of-technology-for-divyangjan-1807596",
+      "title": "PromptWars X AITH Kanpur ",
+      "organizer": "Dr. Ambedkar Institute of Technology for Divyangjan",
+      "mode": "Offline",
+      "venue_address": "Dr. Ambedkar Institute of Technology for Divyangjan, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af5f428d5205_1000359922.jpg",
+      "start_date": null,
+      "end_date": "2026-11-23T17:00:00+05:30",
+      "deadline": "2026-11-23T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/expanding-horizons-80-chemical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799791",
       "title": "Expanding Horizons 8.0 Chemical",
       "organizer": "Motilal Nehru National Institute of Technology",
@@ -15734,6 +15734,25 @@
       "start_date": null,
       "end_date": "2026-11-28T11:00:00+05:30",
       "deadline": "2026-11-28T11:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackignite-10-24-hours-national-level-hackathon-jain-college-of-engineering-technology-hubballi-1801378",
+      "title": "Hackignite 1.0 – 24 Hours National Level Hackathon",
+      "organizer": "Jain College of Engineering & Technology, Hubballi",
+      "mode": "Offline",
+      "venue_address": "Jain College of Engineering & Technology, Hubballi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af0525a55786_whatsapp_image_2026-11-08_at_3_56_24_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-11-28T12:00:00+05:30",
+      "deadline": "2026-11-28T12:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -16389,25 +16408,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287",
-      "title": "Seed Hackathon 2026",
-      "organizer": "SEED Global Education Services Private Limited",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68ef3e6e9bdc9_seed_final_logos-02_2_optimized.png",
-      "start_date": null,
-      "end_date": "2026-12-09T12:00:40+05:30",
-      "deadline": "2026-12-09T12:00:40+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/agentic-x-20-ai-robotics-hackathon-woxsen-university-hyderabad-1779479",
       "title": "AGENTIC X 2.0 – AI & Robotics Hackathon",
       "organizer": "Woxsen University, Hyderabad",
@@ -16769,6 +16769,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287",
+      "title": "Seed Hackathon 2026",
+      "organizer": "SEED Global Education Services Private Limited",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68ef3e6e9bdc9_seed_final_logos-02_2_optimized.png",
+      "start_date": null,
+      "end_date": "2026-12-22T23:59:40+05:30",
+      "deadline": "2026-12-22T23:59:40+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codequest-national-tech-hackathon-2026-dotrepo-1771441",
       "title": "CodeQuest: National Tech Hackathon 2026",
       "organizer": "DotRepo",
@@ -16779,6 +16798,25 @@
       "start_date": null,
       "end_date": "2026-12-25T23:59:00+05:30",
       "deadline": "2026-12-25T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/mantrastra-techsrijan-27-madan-mohan-malaviya-university-of-technology-1810554",
+      "title": "Mantrastra",
+      "organizer": "Madan Mohan Malaviya University of Technology",
+      "mode": "Offline",
+      "venue_address": "Madan Mohan Malaviya University of Technology, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af839ce4dcd4_1-800kb.jpeg",
+      "start_date": null,
+      "end_date": "2026-12-26T19:30:00+05:30",
+      "deadline": "2026-12-26T19:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
