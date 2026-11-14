@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-14T12:46:01.068825+00:00",
-  "total_count": 929,
+  "last_synced_at": "2026-11-14T21:50:58.762386+00:00",
+  "total_count": 932,
   "hackathons": [
     {
       "source": "Unstop",
@@ -15591,6 +15591,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/configure-2026-a-mobility-hackathon-zeliot-pvt-ltd-1811085",
+      "title": "Configure 2026: A Mobility Hackathon",
+      "organizer": "Zeliot Pvt Ltd",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af8b7e94abac_organisation_image-8delIWOor1412971031BeJhiUqL01.png",
+      "start_date": null,
+      "end_date": "2026-11-26T00:00:00+05:30",
+      "deadline": "2026-11-26T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codezen-india-2026-national-hackathon-wecodecoders-1783835",
       "title": "CodeZen India 2026 - National Hackathon",
       "organizer": "WeCodeCoders",
@@ -15734,25 +15753,6 @@
       "start_date": null,
       "end_date": "2026-11-28T11:00:00+05:30",
       "deadline": "2026-11-28T11:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/hackignite-10-24-hours-national-level-hackathon-jain-college-of-engineering-technology-hubballi-1801378",
-      "title": "Hackignite 1.0 – 24 Hours National Level Hackathon",
-      "organizer": "Jain College of Engineering & Technology, Hubballi",
-      "mode": "Offline",
-      "venue_address": "Jain College of Engineering & Technology, Hubballi, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af0525a55786_whatsapp_image_2026-11-08_at_3_56_24_pm.jpeg",
-      "start_date": null,
-      "end_date": "2026-11-28T12:00:00+05:30",
-      "deadline": "2026-11-28T12:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -15981,6 +15981,25 @@
       "start_date": null,
       "end_date": "2026-11-30T00:00:00+05:30",
       "deadline": "2026-11-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackignite-10-24-hours-national-level-hackathon-jain-college-of-engineering-technology-hubballi-1801378",
+      "title": "Hackignite 1.0 – 24 Hours National Level Hackathon",
+      "organizer": "Jain College of Engineering & Technology, Hubballi",
+      "mode": "Offline",
+      "venue_address": "Jain College of Engineering & Technology, Hubballi, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af0525a55786_whatsapp_image_2026-11-08_at_3_56_24_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-11-30T06:30:00+05:30",
+      "deadline": "2026-11-30T06:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -16845,6 +16864,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codered26-bms-insitute-of-technology-and-management-1810268",
+      "title": "CODERED'26",
+      "organizer": "BMS Insitute of Technology and Management",
+      "mode": "Offline",
+      "venue_address": "BMS Insitute of Technology and Management, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af803971d78c_codered_26_logo.png",
+      "start_date": null,
+      "end_date": "2026-12-29T16:30:00+05:30",
+      "deadline": "2026-12-29T16:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/newyear-x-thon-2k27-brainwaves-1763561",
       "title": "NewYear X Thon 2K27",
       "organizer": "Brainwaves",
@@ -16988,6 +17026,25 @@
       "start_date": null,
       "end_date": "2027-01-06T18:01:00+05:30",
       "deadline": "2027-01-06T18:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codathon-1-global-coding-contest-iit-bombay-1811016",
+      "title": "Codathon:  #1 Global Coding Contest",
+      "organizer": "Indian Institute of Technology (IIT), Bombay",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af8a3fa38707_forge_ship_neon_tech_emblem.webp",
+      "start_date": null,
+      "end_date": "2027-01-09T11:01:00+05:30",
+      "deadline": "2027-01-09T11:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
