@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-15T04:01:46.055411+00:00",
-  "total_count": 932,
+  "last_synced_at": "2026-11-15T13:14:02.025403+00:00",
+  "total_count": 933,
   "hackathons": [
     {
       "source": "Unstop",
@@ -15838,6 +15838,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/the-algo-trading-innovation-challenge-iit-bombay-1811240",
+      "title": "The Algo Trading Innovation Challenge",
+      "organizer": "Indian Institute of Technology (IIT), Bombay",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Bombay, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af999ec665f7_",
+      "start_date": null,
+      "end_date": "2026-11-29T00:00:00+05:30",
+      "deadline": "2026-11-29T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/out-of-bounds-web-game-development-hackathon-code-variant-1773229",
       "title": "Out of Bounds - Web Game Development Hackathon",
       "organizer": "Code Variant",
@@ -17036,7 +17055,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codathon-1-global-coding-contest-iit-bombay-1811016",
-      "title": "Codathon:  #1 Global Coding Contest",
+      "title": "Codathon | #1 Global Coding Contest",
       "organizer": "Indian Institute of Technology (IIT), Bombay",
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
