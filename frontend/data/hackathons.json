@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-15T13:14:02.025403+00:00",
-  "total_count": 933,
+  "last_synced_at": "2026-11-15T22:19:52.179227+00:00",
+  "total_count": 934,
   "hackathons": [
     {
       "source": "Unstop",
@@ -16833,6 +16833,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ad43d937226b_dotrepo-3.png",
+      "start_date": null,
+      "end_date": "2026-12-25T23:59:00+05:30",
+      "deadline": "2026-12-25T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/elubuild-edulinkup-1811493",
+      "title": "ELU Build",
+      "organizer": "EduLinkUp",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af950768a425_elubuild_logo.png",
       "start_date": null,
       "end_date": "2026-12-25T23:59:00+05:30",
       "deadline": "2026-12-25T23:59:00+05:30",
