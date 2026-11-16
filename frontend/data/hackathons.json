@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-11-16T04:01:39.714316+00:00",
+  "last_synced_at": "2026-11-16T14:23:50.402341+00:00",
   "total_count": 934,
   "hackathons": [
     {
@@ -15597,7 +15597,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af8b7e94abac_organisation_image-8delIWOor1412971031BeJhiUqL01.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6afa96eacbce6_organisation_image-8delIWOor1412971031BeJhiUqL01.png",
       "start_date": null,
       "end_date": "2026-11-26T00:00:00+05:30",
       "deadline": "2026-11-26T00:00:00+05:30",
@@ -17152,9 +17152,9 @@
       "source_url": "https://unstop.com/hackathons/hackathons/lighthouse-hackathon-chandigarh-university-cu-ajitgarh-punjab-1809486",
       "title": "LightHouse - Hackathon",
       "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
+      "mode": "Offline",
+      "venue_address": "Chandigarh University (CU), Ajitgarh, Punjab, India",
+      "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af73fe7c29ab_osmium_faceted_gem_logo.png",
       "start_date": null,
       "end_date": "2027-01-10T22:26:00+05:30",
