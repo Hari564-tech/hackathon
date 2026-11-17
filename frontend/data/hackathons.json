@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-17T01:21:01.644359+00:00",
-  "total_count": 936,
+  "last_synced_at": "2026-11-17T15:16:14.600509+00:00",
+  "total_count": 940,
   "hackathons": [
     {
       "source": "Unstop",
@@ -14812,6 +14812,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/srujana-ai-2026-hackathon-batch-3-biorad-medisys-private-limited-1794480",
+      "title": "Srujana AI 2026 Hackathon (Batch 3)",
+      "organizer": "Biorad Medisys Private Limited",
+      "mode": "Offline",
+      "venue_address": "Biorad Medisys Private Limited, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeaf0c1f1132_screenshot_2026-08-17_171709.png",
+      "start_date": null,
+      "end_date": "2026-11-19T00:00:00+05:30",
+      "deadline": "2026-11-19T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/prompt-to-product-acharya-institute-of-technology-1771961",
       "title": "Prompt to Product",
       "organizer": "Acharya Institute of Technology",
@@ -15597,7 +15616,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6afa96eacbce6_organisation_image-8delIWOor1412971031BeJhiUqL01.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6afc613644e3a_organisation_image-8delIWOor1412971031BeJhiUqL01.png",
       "start_date": null,
       "end_date": "2026-11-26T00:00:00+05:30",
       "deadline": "2026-11-26T00:00:00+05:30",
@@ -16503,6 +16522,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ctf-cicada-2026-birla-institute-of-technology-mesra-ranchi-1814002",
+      "title": "CTF Cicada 2026",
+      "organizer": "Birla Institute of Technology, Mesra, Ranchi",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afc15557e800_images_2026-11-17t142016_757.jpeg",
+      "start_date": null,
+      "end_date": "2026-12-10T12:00:00+05:30",
+      "deadline": "2026-12-10T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/reverse-coding-x-iit-madras-1782949",
       "title": "Reverse Coding X",
       "organizer": "Indian Institute of Technology (IIT), Madras",
@@ -16532,6 +16570,25 @@
       "start_date": null,
       "end_date": "2026-12-12T12:00:00+05:30",
       "deadline": "2026-12-12T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/opencode-2026-opencode-indian-institute-of-information-technology-iiit-allahabad-1811349",
+      "title": "OpenCode 2026",
+      "organizer": "Indian Institute of Information Technology (IIIT), Allahabad",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6afc4d5f7008e_IIIT_allahabad_logo.png",
+      "start_date": null,
+      "end_date": "2026-12-13T23:00:00+05:30",
+      "deadline": "2026-12-13T23:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -17235,6 +17292,25 @@
       "start_date": null,
       "end_date": "2027-01-17T16:25:00+05:30",
       "deadline": "2027-01-17T16:25:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-relay-50-indian-institute-of-technology-iit-bhubaneswar-1810370",
+      "title": "Code Relay 5.0",
+      "organizer": "Indian Institute of Technology (IIT), Bhubaneswar",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Bhubaneswar, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af9f2e5503f1_iitb_bhubaneswar_logo.png",
+      "start_date": null,
+      "end_date": "2027-01-17T23:59:00+05:30",
+      "deadline": "2027-01-17T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
