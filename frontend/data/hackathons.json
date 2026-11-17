@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-16T14:23:50.402341+00:00",
-  "total_count": 934,
+  "last_synced_at": "2026-11-17T01:21:01.644359+00:00",
+  "total_count": 936,
   "hackathons": [
     {
       "source": "Unstop",
@@ -15844,7 +15844,7 @@
       "mode": "Offline",
       "venue_address": "Indian Institute of Technology (IIT), Bombay, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6af999ec665f7_",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6afba0f51b1ac_",
       "start_date": null,
       "end_date": "2026-11-29T00:00:00+05:30",
       "deadline": "2026-11-29T00:00:00+05:30",
@@ -16304,6 +16304,25 @@
       "start_date": null,
       "end_date": "2026-12-06T00:00:00+05:30",
       "deadline": "2026-12-06T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/spectrum-10-24-hour-national-level-hackathon-guru-nanak-dev-engineering-college-bidar-1812368",
+      "title": "Spectrum 1.0 – 24 Hour National Level Hackathon",
+      "organizer": "Guru Nanak Dev Engineering College Bidar",
+      "mode": "Offline",
+      "venue_address": "Guru Nanak Dev Engineering College Bidar, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af9f344293b6_1000139412.jpg",
+      "start_date": null,
+      "end_date": "2026-12-06T09:02:46+05:30",
+      "deadline": "2026-12-06T09:02:46+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -17273,6 +17292,25 @@
       "start_date": null,
       "end_date": "2027-01-23T18:00:00+05:30",
       "deadline": "2027-01-23T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/agri-tech-hackathon-2027-24-hours-to-hack-the-harvest-k-j-somaiya-college-of-engineering-kjsce-vidyavihar-1792152",
+      "title": "Agri-Tech Hackathon 2027: 24 Hours to Hack the Harvest",
+      "organizer": "K. J. Somaiya College of Engineering (KJSCE), Vidyavihar",
+      "mode": "Offline",
+      "venue_address": "K. J. Somaiya College of Engineering (KJSCE), Vidyavihar, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae8ee93e4b4f_ecesa_logo.png",
+      "start_date": null,
+      "end_date": "2027-01-23T23:59:00+05:30",
+      "deadline": "2027-01-23T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
