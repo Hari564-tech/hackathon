@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-18T00:17:02.510703+00:00",
-  "total_count": 941,
+  "last_synced_at": "2026-11-18T14:52:27.115652+00:00",
+  "total_count": 946,
   "hackathons": [
     {
       "source": "Unstop",
@@ -15819,6 +15819,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/silicon-sprint-2026-nitk-surathkal-1814263",
+      "title": "Silicon Sprint 2026",
+      "organizer": "National Institute of Technology Karnataka (NITK), Surathkal",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afb3793b62b8_883700fe-3a4e-4219-a55f-39c5822617d7.png",
+      "start_date": null,
+      "end_date": "2026-11-28T17:00:00+05:30",
+      "deadline": "2026-11-28T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/algonex-10-maya-devi-university-1781078",
       "title": "Algonex 1.0",
       "organizer": "Maya devi university",
@@ -15829,6 +15848,25 @@
       "start_date": null,
       "end_date": "2026-11-28T18:00:00+05:30",
       "deadline": "2026-11-28T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/wie-code-2k26-siddaganga-institute-of-technology-sit-tumkur-1817696",
+      "title": "Wie Code 2K26",
+      "organizer": "Siddaganga Institute of Technology (SIT), Tumkur",
+      "mode": "Offline",
+      "venue_address": "Siddaganga Institute of Technology (SIT), Tumkur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afd672de0c30_uploadedmanual-69044e5eeeef2_8334f6b4-4cdc-40dd-950d-1cc39b833c75.webp",
+      "start_date": null,
+      "end_date": "2026-11-28T20:00:00+05:30",
+      "deadline": "2026-11-28T20:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -16294,6 +16332,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/promptwars-x-quad-bengaluru-quad-ai-school-of-technology-management-1817389",
+      "title": "PromptWars x Quad Bengaluru",
+      "organizer": "Quad AI School of Technology & Management",
+      "mode": "Offline",
+      "venue_address": "Quad AI School of Technology & Management, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afd32f931477_file_1.jpg",
+      "start_date": null,
+      "end_date": "2026-12-04T12:30:00+05:30",
+      "deadline": "2026-12-04T12:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/zenith26-mlr-institute-of-technology-mlrit-hyderabad-1790028",
       "title": "Zenith'26",
       "organizer": "MLR Institute Of Technology (MLRIT), Hyderabad",
@@ -16503,6 +16560,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-kaushal-hackathon-2026-indian-institute-of-information-technology-iiit-lucknow-1817798",
+      "title": "AI Kaushal Hackathon 2026",
+      "organizer": "Indian Institute of Information Technology (IIIT), Lucknow",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Information Technology (IIIT), Lucknow, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afd7bb69c188_final_logo_iiitl.png",
+      "start_date": null,
+      "end_date": "2026-12-09T19:00:00+05:30",
+      "deadline": "2026-12-09T19:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/code-quest-guru-nanak-dev-university-regional-campus-gurdaspur-punjab-1769089",
       "title": "Code Quest",
       "organizer": "Guru Nanak Dev University, Regional Campus, Gurdaspur, Punjab",
@@ -16570,6 +16646,25 @@
       "start_date": null,
       "end_date": "2026-12-12T12:00:00+05:30",
       "deadline": "2026-12-12T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codeunited-india-national-hackathon-hackwithpune-1817749",
+      "title": "CodeUnited India - National Hackathon",
+      "organizer": "HackWithPune",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6afdad2538d13_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
+      "start_date": null,
+      "end_date": "2026-12-13T10:00:00+05:30",
+      "deadline": "2026-12-13T10:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -16959,25 +17054,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/silicon-sprint-2026-nitk-surathkal-1814263",
-      "title": "Silicon Sprint 2026",
-      "organizer": "National Institute of Technology Karnataka (NITK), Surathkal",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afb3793b62b8_883700fe-3a4e-4219-a55f-39c5822617d7.png",
-      "start_date": null,
-      "end_date": "2026-12-28T17:00:00+05:30",
-      "deadline": "2026-12-28T17:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacksprint-30-karpagam-academy-of-higher-education-1778597",
       "title": "Hacksprint 3.0",
       "organizer": "Karpagam Academy of Higher Education",
@@ -17254,6 +17330,25 @@
       "start_date": null,
       "end_date": "2027-01-10T22:26:00+05:30",
       "deadline": "2027-01-10T22:26:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-uttar-pradesh-2026-riwa-creatives-1817499",
+      "title": "Hack Uttar Pradesh 2026",
+      "organizer": "Riwa Creatives",
+      "mode": "Offline",
+      "venue_address": "Riwa Creatives, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6afd49cb76f8b_organisation_image-azjlhIh9Gv900226896WDV8h4dnCy.png",
+      "start_date": null,
+      "end_date": "2027-01-11T18:31:00+05:30",
+      "deadline": "2027-01-11T18:31:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
