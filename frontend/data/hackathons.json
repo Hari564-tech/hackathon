@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-17T15:16:14.600509+00:00",
-  "total_count": 940,
+  "last_synced_at": "2026-11-18T00:17:02.510703+00:00",
+  "total_count": 941,
   "hackathons": [
     {
       "source": "Unstop",
@@ -16585,7 +16585,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6afc4d5f7008e_IIIT_allahabad_logo.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afc8845877ea_opencode_bg_white.jpeg",
       "start_date": null,
       "end_date": "2026-12-13T23:00:00+05:30",
       "deadline": "2026-12-13T23:00:00+05:30",
@@ -16950,6 +16950,25 @@
       "start_date": null,
       "end_date": "2026-12-26T19:30:00+05:30",
       "deadline": "2026-12-26T19:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/silicon-sprint-2026-nitk-surathkal-1814263",
+      "title": "Silicon Sprint 2026",
+      "organizer": "National Institute of Technology Karnataka (NITK), Surathkal",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afb3793b62b8_883700fe-3a4e-4219-a55f-39c5822617d7.png",
+      "start_date": null,
+      "end_date": "2026-12-28T17:00:00+05:30",
+      "deadline": "2026-12-28T17:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
