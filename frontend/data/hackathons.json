@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-19T05:16:11.279159+00:00",
-  "total_count": 949,
+  "last_synced_at": "2026-11-19T14:58:17.028262+00:00",
+  "total_count": 958,
   "hackathons": [
     {
       "source": "Unstop",
@@ -14850,6 +14850,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/innovate-x-poornima-institute-of-engineering-technology-piet-jaipur-1818980",
+      "title": "INNOVATE X",
+      "organizer": "Poornima Institute of Engineering & Technology (PIET), Jaipur",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afe90187cdc0_1001580154.png",
+      "start_date": null,
+      "end_date": "2026-11-19T22:00:00+05:30",
+      "deadline": "2026-11-19T22:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codetitans-india-2026-national-hackathon-wecodecoders-1766190",
       "title": "CodeTitans India 2026 - National Hackathon",
       "organizer": "WeCodeCoders",
@@ -15477,6 +15496,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/code-fort-2027-chandigarh-university-cu-ajitgarh-punjab-1817736",
+      "title": "Code Fort 2027",
+      "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
+      "mode": "Offline",
+      "venue_address": "Chandigarh University (CU), Ajitgarh, Punjab, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6afe949bb3744_Screenshot_2023-12-13_at_12.37.47_PM.png",
+      "start_date": null,
+      "end_date": "2026-11-24T00:01:00+05:30",
+      "deadline": "2026-11-24T00:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/startupathon-founders-league-persist-ventures-1766843",
       "title": "Startupathon Founders League",
       "organizer": "Persist Ventures",
@@ -16066,6 +16104,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/campus-to-cloud-hackathon-iit-bombay-1818968",
+      "title": "Campus to Cloud Hackathon",
+      "organizer": "Indian Institute of Technology (IIT), Bombay",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6afec8c250739_",
+      "start_date": null,
+      "end_date": "2026-11-30T00:00:00+05:30",
+      "deadline": "2026-11-30T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/anveshak-open-world-object-detection-for-remote-sensing-iit-bombay-1818894",
+      "title": "Anveshak: Open-World Object Detection for Remote Sensing",
+      "organizer": "Indian Institute of Technology (IIT), Bombay",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Bombay, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6afeb96e9d03a_",
+      "start_date": null,
+      "end_date": "2026-11-30T00:01:00+05:30",
+      "deadline": "2026-11-30T00:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackignite-10-24-hours-national-level-hackathon-jain-college-of-engineering-technology-hubballi-1801378",
       "title": "Hackignite 1.0 – 24 Hours National Level Hackathon",
       "organizer": "Jain College of Engineering & Technology, Hubballi",
@@ -16560,6 +16636,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/prompt-war-syntax-squad-padmabhooshan-vasantdada-patil-institute-of-technology-pvpit-pune-1818490",
+      "title": "Prompt War & Syntax Squad ",
+      "organizer": "Padmabhooshan Vasantdada Patil Institute of Technology (PVPIT), Pune",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afdfd65a78a2_screenshot_2026-11-19_at_12_27_22_am_copy.png",
+      "start_date": null,
+      "end_date": "2026-12-09T13:30:00+05:30",
+      "deadline": "2026-12-09T13:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/agentic-x-20-ai-robotics-hackathon-woxsen-university-hyderabad-1779479",
       "title": "AGENTIC X 2.0 – AI & Robotics Hackathon",
       "organizer": "Woxsen University, Hyderabad",
@@ -16665,6 +16760,25 @@
       "start_date": null,
       "end_date": "2026-12-12T12:00:00+05:30",
       "deadline": "2026-12-12T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codewarriors-india-2026-national-hackathon-buildx-1817737",
+      "title": "CodeWarriors India 2026 - National Hackathon",
+      "organizer": "BuildX",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af6316c7c2c7_buildx-logo-concept-1.png",
+      "start_date": null,
+      "end_date": "2026-12-13T09:50:44+05:30",
+      "deadline": "2026-12-13T09:50:44+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -16855,6 +16969,25 @@
       "start_date": null,
       "end_date": "2026-12-17T14:00:13+05:30",
       "deadline": "2026-12-17T14:00:13+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/truefoundry-forge-a-thon-techfest-iit-bombay-2026-27-techfest-iit-bombay-1819296",
+      "title": "TrueFoundry Forge-a-thon | Techfest, IIT Bombay 2026-27",
+      "organizer": "Indian Institute of Technology (IIT), Bombay",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Bombay, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aff08deea312_",
+      "start_date": null,
+      "end_date": "2026-12-18T23:59:00+05:30",
+      "deadline": "2026-12-18T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -17358,6 +17491,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/nurn-2026-national-innovation-technology-challenge-pranveer-singh-institute-of-technology-psit-kanpur-1817757",
+      "title": "Nurn 2026 – National Innovation & Technology Challenge",
+      "organizer": "Pranveer Singh Institute of Technology (PSIT), Kanpur",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afef4a17e184_1000219213.jpg",
+      "start_date": null,
+      "end_date": "2027-01-10T15:44:00+05:30",
+      "deadline": "2027-01-10T15:44:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/lighthouse-hackathon-chandigarh-university-cu-ajitgarh-punjab-1809486",
       "title": "LightHouse - Hackathon",
       "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
@@ -17634,6 +17786,25 @@
       "start_date": null,
       "end_date": "2027-01-31T00:00:00+05:30",
       "deadline": "2027-01-31T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/incursion-2027-24-hour-national-level-hackathon-dr-dy-patil-institute-of-technology-1806016",
+      "title": "Incursion 2027 24-Hour National Level Hackathon",
+      "organizer": "Dr. DY Patil Institute of Technology",
+      "mode": "Offline",
+      "venue_address": "Dr. DY Patil Institute of Technology, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af1e977a6ed7_incursion-logo.webp",
+      "start_date": null,
+      "end_date": "2027-01-31T09:00:04+05:30",
+      "deadline": "2027-01-31T09:00:04+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
