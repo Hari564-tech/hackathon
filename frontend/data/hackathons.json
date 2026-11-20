@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-20T00:04:10.952165+00:00",
-  "total_count": 960,
+  "last_synced_at": "2026-11-20T14:40:31.615959+00:00",
+  "total_count": 964,
   "hackathons": [
     {
       "source": "Unstop",
@@ -16769,6 +16769,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/merry-shipmas-bengaluru-christmas-ai-hackathon-nerdconf-1820028",
+      "title": "Merry Shipmas Bengaluru: Christmas AI Hackathon ",
+      "organizer": "NERDCONF",
+      "mode": "Offline",
+      "venue_address": "NERDCONF, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aff5b8e0be87_ms-bangalore-600.jpg",
+      "start_date": null,
+      "end_date": "2026-12-12T00:00:00+05:30",
+      "deadline": "2026-12-12T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ai-buildfest-2026-frontend-arena-1774417",
       "title": "AI BuildFest 2026",
       "organizer": "Frontend Arena",
@@ -17263,6 +17282,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/rajasthan-police-hackathon-2026-rajasthan-police-rajasathana-palsa-1818639",
+      "title": "Rajasthan Police Hackathon 2026",
+      "organizer": "Rajasthan Police (राजस्थान पुलिस)",
+      "mode": "Offline",
+      "venue_address": "Rajasthan Police (राजस्थान पुलिस), India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6affead397af9_download__15_.jpg",
+      "start_date": null,
+      "end_date": "2026-12-29T16:00:00+05:30",
+      "deadline": "2026-12-29T16:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codered26-bms-insitute-of-technology-and-management-1810268",
       "title": "CODERED'26",
       "organizer": "BMS Insitute of Technology and Management",
@@ -17273,6 +17311,25 @@
       "start_date": null,
       "end_date": "2026-12-29T16:30:00+05:30",
       "deadline": "2026-12-29T16:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/buildfest-2026-learnix-labs-1814814",
+      "title": "Buildfest 2026",
+      "organizer": "Learnix Labs",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afbdc143cecd_rounded-image_1.png",
+      "start_date": null,
+      "end_date": "2026-12-30T17:46:00+05:30",
+      "deadline": "2026-12-30T17:46:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -17843,6 +17900,25 @@
       "start_date": null,
       "end_date": "2027-01-31T09:00:04+05:30",
       "deadline": "2027-01-31T09:00:04+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/refract-10-hackathon-university-of-engineering-and-management-kolkata-1817240",
+      "title": "REFRACT 1.0 Hackathon",
+      "organizer": "University Of Engineering And Management, Kolkata ",
+      "mode": "Offline",
+      "venue_address": "University Of Engineering And Management, Kolkata , India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afd243789c20_refract_small_logo_with_bg_black.png",
+      "start_date": null,
+      "end_date": "2027-01-31T15:00:00+05:30",
+      "deadline": "2027-01-31T15:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
