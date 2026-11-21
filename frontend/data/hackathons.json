@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-21T13:57:11.312409+00:00",
-  "total_count": 971,
+  "last_synced_at": "2026-11-21T22:38:17.720896+00:00",
+  "total_count": 977,
   "hackathons": [
     {
       "source": "Unstop",
@@ -16028,6 +16028,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-powered-career-development-hackathon-unsaidtalks-education-1821954",
+      "title": "AI-Powered Career Development Hackathon",
+      "organizer": "UnsaidTalks Education",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0139b08c08e_ut_square_logo_1.png",
+      "start_date": null,
+      "end_date": "2026-11-29T20:30:00+05:30",
+      "deadline": "2026-11-29T20:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/out-of-bounds-web-game-development-hackathon-code-variant-1773229",
       "title": "Out of Bounds - Web Game Development Hackathon",
       "organizer": "Code Variant",
@@ -16465,6 +16484,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/operation-blackout-react-2026-rv-college-of-engineering-rvce-bangalore-1818820",
+      "title": "Operation Blackout",
+      "organizer": "R.V. College of Engineering (RVCE), Bangalore",
+      "mode": "Offline",
+      "venue_address": "R.V. College of Engineering (RVCE), Bangalore, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afe7a567a9a4_c547bd80-0d0b-49c3-a6ed-4b9eb00e9a0c.png",
+      "start_date": null,
+      "end_date": "2026-12-01T23:59:00+05:30",
+      "deadline": "2026-12-01T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/capture-the-flag-ctf-ignitron-2k26-gm-university-davanagere-1791574",
       "title": "Capture The Flag (CTF)",
       "organizer": "GM University Davanagere",
@@ -16522,6 +16560,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/promptwars-x-quad-patna-quad-ai-school-of-technology-management-1821984",
+      "title": "PromptWars x Quad Patna",
+      "organizer": "Quad AI School of Technology & Management",
+      "mode": "Offline",
+      "venue_address": "Quad AI School of Technology & Management, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b01357dcfed3_file_1.jpg",
+      "start_date": null,
+      "end_date": "2026-12-04T13:00:00+05:30",
+      "deadline": "2026-12-04T13:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/zenith26-mlr-institute-of-technology-mlrit-hyderabad-1790028",
       "title": "Zenith'26",
       "organizer": "MLR Institute Of Technology (MLRIT), Hyderabad",
@@ -16532,6 +16589,44 @@
       "start_date": null,
       "end_date": "2026-12-04T13:30:42+05:30",
       "deadline": "2026-12-04T13:30:42+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/mogoj-dholai-kernel-10-department-of-information-technology-jadavpur-university-1822588",
+      "title": "Mogoj Dholai",
+      "organizer": "Department of Information Technology, Jadavpur University",
+      "mode": "Offline",
+      "venue_address": "Department of Information Technology, Jadavpur University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b01e124f4194_organisation_image-nwHViswrbk101038566M3xsTPmPi9.png",
+      "start_date": null,
+      "end_date": "2026-12-05T00:00:00+05:30",
+      "deadline": "2026-12-05T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hojohborolo-kernel-10-department-of-information-technology-jadavpur-university-1822587",
+      "title": "Hojohborolo",
+      "organizer": "Department of Information Technology, Jadavpur University",
+      "mode": "Offline",
+      "venue_address": "Department of Information Technology, Jadavpur University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b01e0bcb590a_organisation_image-nwHViswrbk101038566M3xsTPmPi9.png",
+      "start_date": null,
+      "end_date": "2026-12-05T00:00:00+05:30",
+      "deadline": "2026-12-05T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -16851,7 +16946,7 @@
       "mode": "Offline",
       "venue_address": "NERDCONF, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aff5b8e0be87_ms-bangalore-600.jpg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b01fecd8c854_unstop-logo-pressstart.jpg",
       "start_date": null,
       "end_date": "2026-12-12T00:00:00+05:30",
       "deadline": "2026-12-12T00:00:00+05:30",
@@ -16874,6 +16969,25 @@
       "start_date": null,
       "end_date": "2026-12-12T12:00:00+05:30",
       "deadline": "2026-12-12T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/data-nilaam-kernel-10-department-of-information-technology-jadavpur-university-1822546",
+      "title": "Data Nilaam",
+      "organizer": "Department of Information Technology, Jadavpur University",
+      "mode": "Offline",
+      "venue_address": "Department of Information Technology, Jadavpur University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b01e022e34fb_organisation_image-nwHViswrbk101038566M3xsTPmPi9.png",
+      "start_date": null,
+      "end_date": "2026-12-12T21:00:00+05:30",
+      "deadline": "2026-12-12T21:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
