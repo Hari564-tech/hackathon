@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-21T04:57:53.315674+00:00",
-  "total_count": 964,
+  "last_synced_at": "2026-11-21T13:57:11.312409+00:00",
+  "total_count": 971,
   "hackathons": [
     {
       "source": "Unstop",
@@ -15363,6 +15363,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/promptwars-techverse-solutions-1822078",
+      "title": "Promptwars ",
+      "organizer": "TechVerse Solutions",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b0182c94b891_organisation_image-s1R6y36xEq354993506U66hW0Er0s.png",
+      "start_date": null,
+      "end_date": "2026-11-22T17:00:00+05:30",
+      "deadline": "2026-11-22T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/expanding-horizons-80-mechanical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799788",
       "title": "Expanding Horizons 8.0  Mechanical",
       "organizer": "Motilal Nehru National Institute of Technology",
@@ -15439,6 +15458,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/buildathon-ai-hackathon-dr-mgr-institute-of-education-and-research-institute-1815227",
+      "title": "Buildathon: AI Hackathon",
+      "organizer": "Dr MGR Institute of Education and Research Institute",
+      "mode": "Offline",
+      "venue_address": "Dr MGR Institute of Education and Research Institute, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afbe4c234170_screenshot_2026-11-17_105305.png",
+      "start_date": null,
+      "end_date": "2026-11-23T00:00:00+05:30",
+      "deadline": "2026-11-23T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/expanding-horizons-80-biotech-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799790",
       "title": "Expanding Horizons 8.0   BIOTECH",
       "organizer": "Motilal Nehru National Institute of Technology",
@@ -15468,6 +15506,25 @@
       "start_date": null,
       "end_date": "2026-11-23T17:00:00+05:30",
       "deadline": "2026-11-23T17:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/einohacks-altairx-tech-1820882",
+      "title": "EinoHacks",
+      "organizer": "AltairX Tech",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b003fef09be0_image_1.jpg",
+      "start_date": null,
+      "end_date": "2026-11-23T18:01:00+05:30",
+      "deadline": "2026-11-23T18:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -16655,6 +16712,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/protothon-2k26-hindustan-institute-of-technology-and-science-hits-chennai-1814983",
+      "title": "Protothon 2K26",
+      "organizer": "Hindustan Institute of Technology and Science (HITS), Chennai",
+      "mode": "Offline",
+      "venue_address": "Hindustan Institute of Technology and Science (HITS), Chennai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b00085bcb2fc_19003.png",
+      "start_date": null,
+      "end_date": "2026-12-09T13:00:00+05:30",
+      "deadline": "2026-12-09T13:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/prompt-war-syntax-squad-padmabhooshan-vasantdada-patil-institute-of-technology-pvpit-pune-1818490",
       "title": "Prompt War & Syntax Squad ",
       "organizer": "Padmabhooshan Vasantdada Patil Institute of Technology (PVPIT), Pune",
@@ -16966,6 +17042,25 @@
       "venue_address": "Geek Room, India",
       "city": "India",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aee4841388f2_hacksmart-2-logo-1000x1000.png",
+      "start_date": null,
+      "end_date": "2026-12-15T23:59:00+05:30",
+      "deadline": "2026-12-15T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/thincovation-2026-thincovation-2026-mdi-1821962",
+      "title": "ThinCovation 2026",
+      "organizer": "Management Development Institute (MDI), Gurgaon",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b0130ab86439_management-development-institute.jpg",
       "start_date": null,
       "end_date": "2026-12-15T23:59:00+05:30",
       "deadline": "2026-12-15T23:59:00+05:30",
@@ -17311,6 +17406,25 @@
       "start_date": null,
       "end_date": "2026-12-29T16:30:00+05:30",
       "deadline": "2026-12-29T16:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/bioforge-2026-interdisciplinary-healthcare-innovation-hackathon-dayananda-sagar-college-of-engineering-dsce-b-1819682",
+      "title": "BIOFORGE 2026 – Interdisciplinary Healthcare Innovation Hackathon",
+      "organizer": "Dayananda Sagar College of Engineering (DSCE), Bengaluru",
+      "mode": "Offline",
+      "venue_address": "Dayananda Sagar College of Engineering (DSCE), Bengaluru, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afeeaed96383_bioforge_biotech_hackathon_poster.png",
+      "start_date": null,
+      "end_date": "2026-12-30T09:00:00+05:30",
+      "deadline": "2026-12-30T09:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -18280,6 +18394,25 @@
       "start_date": null,
       "end_date": "2027-03-06T15:00:00+05:30",
       "deadline": "2027-03-06T15:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/tauras-by-revat-crypto-trading-hackathon-prove-your-edge-then-trade-it-live-revat-crypto-fund-1820715",
+      "title": "Tauras by Revat: Crypto Trading Hackathon | Prove Your Edge, Then Trade It Live",
+      "organizer": "Revat Crypto Fund",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afd9b4651da5_tauras.png",
+      "start_date": null,
+      "end_date": "2027-03-09T12:06:52+05:30",
+      "deadline": "2027-03-09T12:06:52+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
