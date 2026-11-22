@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-22T04:19:25.789619+00:00",
-  "total_count": 977,
+  "last_synced_at": "2026-11-22T13:50:35.226423+00:00",
+  "total_count": 982,
   "hackathons": [
     {
       "source": "Unstop",
@@ -15743,6 +15743,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/iit-bombay-physical-ai-hackathon-iit-bombay-1822209",
+      "title": "IIT Bombay Physical AI Hackathon",
+      "organizer": "Indian Institute of Technology (IIT), Bombay",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Bombay, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b02e2254b2bf_",
+      "start_date": null,
+      "end_date": "2026-11-26T23:59:00+05:30",
+      "deadline": "2026-11-26T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/the-devforge-hackathon-scaler-school-of-technology-bengaluru-karnataka-1765465",
       "title": "The DevForge - Hackathon",
       "organizer": "Scaler School of Technology, Bengaluru, Karnataka",
@@ -16693,6 +16712,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/elucode-9-edulinkup-1822884",
+      "title": "ELUCode - 9",
+      "organizer": "EduLinkUp",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeb7b49da2b3_untitled_design_2.png",
+      "start_date": null,
+      "end_date": "2026-12-06T21:00:31+05:30",
+      "deadline": "2026-12-06T21:00:31+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/homingo-hack-days-online-ai-hackathon-homingo-1769121",
       "title": "Homingo Hack Days: Online AI Hackathon",
       "organizer": "Homingo",
@@ -16978,25 +17016,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/data-nilaam-kernel-10-department-of-information-technology-jadavpur-university-1822546",
-      "title": "Data Nilaam",
-      "organizer": "Department of Information Technology, Jadavpur University",
-      "mode": "Offline",
-      "venue_address": "Department of Information Technology, Jadavpur University, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b01e022e34fb_organisation_image-nwHViswrbk101038566M3xsTPmPi9.png",
-      "start_date": null,
-      "end_date": "2026-12-12T21:00:00+05:30",
-      "deadline": "2026-12-12T21:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codewarriors-india-2026-national-hackathon-buildx-1817737",
       "title": "CodeWarriors India 2026 - National Hackathon",
       "organizer": "BuildX",
@@ -17174,7 +17193,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b0130ab86439_management-development-institute.jpg",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b02b3f11cf58_management-development-institute.jpg",
       "start_date": null,
       "end_date": "2026-12-15T23:59:00+05:30",
       "deadline": "2026-12-15T23:59:00+05:30",
@@ -17216,6 +17235,25 @@
       "start_date": null,
       "end_date": "2026-12-17T14:00:13+05:30",
       "deadline": "2026-12-17T14:00:13+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/data-nilaam-kernel-10-department-of-information-technology-jadavpur-university-1822546",
+      "title": "Data Nilaam",
+      "organizer": "Department of Information Technology, Jadavpur University",
+      "mode": "Offline",
+      "venue_address": "Department of Information Technology, Jadavpur University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b02e9be0ba78_organisation_image-nwHViswrbk101038566M3xsTPmPi9.png",
+      "start_date": null,
+      "end_date": "2026-12-18T20:00:00+05:30",
+      "deadline": "2026-12-18T20:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -17453,6 +17491,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/claude-build-challenge-2026-sage-university-bhopal-1821912",
+      "title": "Claude Build Challenge 2026",
+      "organizer": "SAGE University Bhopal",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0121731df43_1000892242.webp",
+      "start_date": null,
+      "end_date": "2026-12-25T23:59:00+05:30",
+      "deadline": "2026-12-25T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/aws-winter-league-2026-rajiv-gandhi-university-of-knowledge-technologies-rgukt-nuzvid-1820870",
+      "title": "AWS Winter League 2026",
+      "organizer": "Rajiv Gandhi University of Knowledge Technologies (RGUKT), Nuzvid",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b029dcd26fb2_aws-logo-logo-png-transparent.png",
+      "start_date": null,
+      "end_date": "2026-12-25T23:59:00+05:30",
+      "deadline": "2026-12-25T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/mantrastra-techsrijan-27-madan-mohan-malaviya-university-of-technology-1810554",
       "title": "Mantrastra",
       "organizer": "Madan Mohan Malaviya University of Technology",
@@ -17549,7 +17625,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/buildfest-2026-learnix-labs-1814814",
-      "title": "Buildfest 2026",
+      "title": "BUILDFEST 2026 – National Student Hackathon",
       "organizer": "Learnix Labs",
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
@@ -17938,6 +18014,25 @@
       "start_date": null,
       "end_date": "2027-01-17T23:59:00+05:30",
       "deadline": "2027-01-17T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-2027-saveetha-university-1823379",
+      "title": "Hack 2027",
+      "organizer": "Saveetha University",
+      "mode": "Offline",
+      "venue_address": "Saveetha University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0281dcc23a6_hack2027_logo.jpg",
+      "start_date": null,
+      "end_date": "2027-01-20T00:35:29+05:30",
+      "deadline": "2027-01-20T00:35:29+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
