@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-11-22T13:50:35.226423+00:00",
+  "last_synced_at": "2026-11-22T23:01:08.601234+00:00",
   "total_count": 982,
   "hackathons": [
     {
@@ -16617,25 +16617,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/mogoj-dholai-kernel-10-department-of-information-technology-jadavpur-university-1822588",
-      "title": "Mogoj Dholai",
-      "organizer": "Department of Information Technology, Jadavpur University",
-      "mode": "Offline",
-      "venue_address": "Department of Information Technology, Jadavpur University, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b01e124f4194_organisation_image-nwHViswrbk101038566M3xsTPmPi9.png",
-      "start_date": null,
-      "end_date": "2026-12-05T00:00:00+05:30",
-      "deadline": "2026-12-05T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hojohborolo-kernel-10-department-of-information-technology-jadavpur-university-1822587",
       "title": "Hojohborolo",
       "organizer": "Department of Information Technology, Jadavpur University",
@@ -17415,6 +17396,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/mogoj-dholai-kernel-10-department-of-information-technology-jadavpur-university-1822588",
+      "title": "Mogoj Dholai",
+      "organizer": "Department of Information Technology, Jadavpur University",
+      "mode": "Offline",
+      "venue_address": "Department of Information Technology, Jadavpur University, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b030c618f112_organisation_image-nwHViswrbk101038566M3xsTPmPi9.png",
+      "start_date": null,
+      "end_date": "2026-12-20T14:00:00+05:30",
+      "deadline": "2026-12-20T14:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ai-vibeathon-2026-24-hour-ai-hackathon-dotrepo-1789431",
       "title": "AI Vibeathon 2026: 24-Hour AI Hackathon",
       "organizer": "DotRepo",
@@ -17548,6 +17548,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/buildfest-2026-learnix-labs-1814814",
+      "title": "BUILDFEST 2026 – National Student Hackathon",
+      "organizer": "Learnix Labs",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afbdc143cecd_rounded-image_1.png",
+      "start_date": null,
+      "end_date": "2026-12-28T21:00:00+05:30",
+      "deadline": "2026-12-28T21:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacksprint-30-karpagam-academy-of-higher-education-1778597",
       "title": "Hacksprint 3.0",
       "organizer": "Karpagam Academy of Higher Education",
@@ -17615,25 +17634,6 @@
       "start_date": null,
       "end_date": "2026-12-30T09:00:00+05:30",
       "deadline": "2026-12-30T09:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/buildfest-2026-learnix-labs-1814814",
-      "title": "BUILDFEST 2026 – National Student Hackathon",
-      "organizer": "Learnix Labs",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afbdc143cecd_rounded-image_1.png",
-      "start_date": null,
-      "end_date": "2026-12-30T17:46:00+05:30",
-      "deadline": "2026-12-30T17:46:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
