@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-23T04:57:08.632495+00:00",
-  "total_count": 982,
+  "last_synced_at": "2026-11-23T16:57:11.000455+00:00",
+  "total_count": 994,
   "hackathons": [
     {
       "source": "Unstop",
@@ -16389,6 +16389,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ideathon-idea-to-prototyping-challenge-iit-bombay-1823841",
+      "title": "Ideathon: Idea to Prototyping Challenge",
+      "organizer": "Indian Institute of Technology (IIT), Bombay",
+      "mode": "Offline",
+      "venue_address": "Indian Institute of Technology (IIT), Bombay, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b03df8e1cfae_",
+      "start_date": null,
+      "end_date": "2026-11-30T23:59:00+05:30",
+      "deadline": "2026-11-30T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/vyom-national-level-hackathon-cum-project-competition-government-college-of-engineering-geca-aurangabad-1793796",
       "title": "VYOM - National Level Hackathon Cum Project Competition",
       "organizer": "Government College of Engineering (GECA), Aurangabad",
@@ -16693,6 +16712,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/agentx-ai-academia-1824377",
+      "title": "AgentX",
+      "organizer": "AI Academia",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b03fd3939b25_organisation_image-zQQsmNFAOa2124196662fguUvfcM0R.png",
+      "start_date": null,
+      "end_date": "2026-12-06T22:00:00+05:30",
+      "deadline": "2026-12-06T22:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/homingo-hack-days-online-ai-hackathon-homingo-1769121",
       "title": "Homingo Hack Days: Online AI Hackathon",
       "organizer": "Homingo",
@@ -16883,6 +16921,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codeencoders-india-2026-national-hackathon-wecodecoders-1823739",
+      "title": "CodeEncoders India 2026 — National Hackathon",
+      "organizer": "WeCodeCoders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b042862e1438_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "start_date": null,
+      "end_date": "2026-12-09T22:00:31+05:30",
+      "deadline": "2026-12-09T22:00:31+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/code-quest-guru-nanak-dev-university-regional-campus-gurdaspur-punjab-1769089",
       "title": "Code Quest",
       "organizer": "Guru Nanak Dev University, Regional Campus, Gurdaspur, Punjab",
@@ -16912,6 +16969,44 @@
       "start_date": null,
       "end_date": "2026-12-10T12:00:00+05:30",
       "deadline": "2026-12-10T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/india-ai-open-2026-free-ai-talent-contest-for-students-and-engineers-acciojob-1820502",
+      "title": "India AI Open 2026: Free AI Talent Contest for Students and Engineers",
+      "organizer": "AccioJob",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b03de890eca2_india_ai_open_square_logo_1080x1080.jpg",
+      "start_date": null,
+      "end_date": "2026-12-11T23:59:00+05:30",
+      "deadline": "2026-12-11T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/adaptics-open-innovation-hackathon-makers-need-more-mnm-1823604",
+      "title": "Adaptics - Open Innovation Hackathon",
+      "organizer": "Makers Need More (MnM)",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b02fc807f53f_logo.png",
+      "start_date": null,
+      "end_date": "2026-12-11T23:59:00+05:30",
+      "deadline": "2026-12-11T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -16969,6 +17064,25 @@
       "start_date": null,
       "end_date": "2026-12-12T12:00:00+05:30",
       "deadline": "2026-12-12T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/kite-winter-innovation-expedition-national-level-innovation-challenge-ks-rangasamy-college-of-technology-ksrc-1820425",
+      "title": "KITE Winter Innovation Expedition – National-Level Innovation Challenge",
+      "organizer": "K.S. Rangasamy College Of Technology (KSRCT), Namakkal",
+      "mode": "Offline",
+      "venue_address": "K.S. Rangasamy College Of Technology (KSRCT), Namakkal, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6affd36d25bf0_whatsapp_image_2026-11-11_at_2_17_13_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-12-12T20:30:00+05:30",
+      "deadline": "2026-12-12T20:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -17064,6 +17178,44 @@
       "start_date": null,
       "end_date": "2026-12-14T22:08:33+05:30",
       "deadline": "2026-12-14T22:08:33+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/starlight-arena-ai-red-teaming-competition-starlight-arena-parsewave-ai-1824394",
+      "title": "Starlight Arena - AI Red Teaming Competition",
+      "organizer": "Parsewave AI",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b03f2e84a02c_starlight-arena-icon.png",
+      "start_date": null,
+      "end_date": "2026-12-14T23:00:00+05:30",
+      "deadline": "2026-12-14T23:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/agentic-arena-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1820895",
+      "title": "Agentic Arena",
+      "organizer": "St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur",
+      "mode": "Offline",
+      "venue_address": "St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b03e158a90a0_agent_hackdown_logo-removebg-preview.jpg",
+      "start_date": null,
+      "end_date": "2026-12-14T23:59:20+05:30",
+      "deadline": "2026-12-14T23:59:20+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -17197,6 +17349,25 @@
       "start_date": null,
       "end_date": "2026-12-17T14:00:13+05:30",
       "deadline": "2026-12-17T14:00:13+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codathon-vortex-140-institute-of-chemical-technology-mumbai-1800622",
+      "title": "Codathon",
+      "organizer": "Institute of chemical technology, Mumbai",
+      "mode": "Offline",
+      "venue_address": "Institute of chemical technology, Mumbai, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aef54549b857_logo.jpeg",
+      "start_date": null,
+      "end_date": "2026-12-18T00:00:00+05:30",
+      "deadline": "2026-12-18T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -17358,6 +17529,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-the-hardware-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1820851",
+      "title": "Hack The Hardware",
+      "organizer": "St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur",
+      "mode": "Offline",
+      "venue_address": "St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6af9fc3d9b20c_whatsapp_image_2026-10-25_at_11_57_46.jpeg",
+      "start_date": null,
+      "end_date": "2026-12-20T11:00:00+05:30",
+      "deadline": "2026-12-20T11:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/apex-ctf-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1820854",
+      "title": "Apex CTF",
+      "organizer": "St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b00785e33bf5_65245bd9-c4d7-4237-8c2a-50cb7e7d1f0c.jpg",
+      "start_date": null,
+      "end_date": "2026-12-20T11:00:04+05:30",
+      "deadline": "2026-12-20T11:00:04+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/singularity-20-kc-college-of-engineering-and-management-studies-and-research-1755564",
       "title": "Singularity 2.0",
       "organizer": "KC College of Engineering and Management Studies and Research",
@@ -17387,6 +17596,25 @@
       "start_date": null,
       "end_date": "2026-12-20T14:00:00+05:30",
       "deadline": "2026-12-20T14:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackathon-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1820868",
+      "title": "Hackathon",
+      "organizer": "St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afac16ca1914_whatsapp_image_2026-11-16_at_9_39_57_am.jpeg",
+      "start_date": null,
+      "end_date": "2026-12-20T14:00:42+05:30",
+      "deadline": "2026-12-20T14:00:42+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
