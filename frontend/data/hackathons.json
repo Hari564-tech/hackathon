@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-11-22T23:01:08.601234+00:00",
+  "last_synced_at": "2026-11-23T04:57:08.632495+00:00",
   "total_count": 982,
   "hackathons": [
     {
@@ -15458,25 +15458,6 @@
     },
     {
       "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/buildathon-ai-hackathon-dr-mgr-institute-of-education-and-research-institute-1815227",
-      "title": "Buildathon: AI Hackathon",
-      "organizer": "Dr MGR Institute of Education and Research Institute",
-      "mode": "Offline",
-      "venue_address": "Dr MGR Institute of Education and Research Institute, India",
-      "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afbe4c234170_screenshot_2026-11-17_105305.png",
-      "start_date": null,
-      "end_date": "2026-11-23T00:00:00+05:30",
-      "deadline": "2026-11-23T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/expanding-horizons-80-biotech-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799790",
       "title": "Expanding Horizons 8.0   BIOTECH",
       "organizer": "Motilal Nehru National Institute of Technology",
@@ -17444,6 +17425,25 @@
       "start_date": null,
       "end_date": "2026-12-22T23:59:40+05:30",
       "deadline": "2026-12-22T23:59:40+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/buildathon-ai-hackathon-dr-mgr-institute-of-education-and-research-institute-1815227",
+      "title": "Buildathon: AI Hackathon",
+      "organizer": "Dr MGR Institute of Education and Research Institute",
+      "mode": "Offline",
+      "venue_address": "Dr MGR Institute of Education and Research Institute, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afbe4c234170_screenshot_2026-11-17_105305.png",
+      "start_date": null,
+      "end_date": "2026-12-24T11:59:00+05:30",
+      "deadline": "2026-12-24T11:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
