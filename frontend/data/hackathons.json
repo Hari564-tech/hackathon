@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-25T01:47:08.016657+00:00",
-  "total_count": 1002,
+  "last_synced_at": "2026-11-25T16:33:35.486440+00:00",
+  "total_count": 1010,
   "hackathons": [
     {
       "source": "Unstop",
@@ -16636,6 +16636,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/logithon-2026-softlink-global-ltd-1827287",
+      "title": "LogiTHON 2026",
+      "organizer": "Softlink Global Ltd",
+      "mode": "Offline",
+      "venue_address": "Softlink Global Ltd, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0675e047af3_logithon_logo_200x200.png",
+      "start_date": null,
+      "end_date": "2026-12-04T23:59:24+05:30",
+      "deadline": "2026-12-04T23:59:24+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hojohborolo-kernel-10-department-of-information-technology-jadavpur-university-1822587",
       "title": "Hojohborolo",
       "organizer": "Department of Information Technology, Jadavpur University",
@@ -16978,6 +16997,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hack-for-good-open-innovation-hackathon-ibs-hyderabad-1828382",
+      "title": "Hack for Good: Open Innovation Hackathon",
+      "organizer": "ICFAI Business School (IBS), Hyderabad",
+      "mode": "Offline",
+      "venue_address": "ICFAI Business School (IBS), Hyderabad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b06febaaad62_",
+      "start_date": null,
+      "end_date": "2026-12-09T22:30:00+05:30",
+      "deadline": "2026-12-09T22:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/code-quest-guru-nanak-dev-university-regional-campus-gurdaspur-punjab-1769089",
       "title": "Code Quest",
       "organizer": "Guru Nanak Dev University, Regional Campus, Gurdaspur, Punjab",
@@ -17007,6 +17045,25 @@
       "start_date": null,
       "end_date": "2026-12-10T12:00:00+05:30",
       "deadline": "2026-12-10T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/utopia-stock-exchange-icfai-business-school-ibs-pune-1827808",
+      "title": "Utopia Stock Exchange",
+      "organizer": "ICFAI Business School (IBS), Pune",
+      "mode": "Offline",
+      "venue_address": "ICFAI Business School (IBS), Pune, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0697ee17d54_utopia_stock_exchange_unstop_logo_1024.png",
+      "start_date": null,
+      "end_date": "2026-12-10T23:59:00+05:30",
+      "deadline": "2026-12-10T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -17263,6 +17320,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/enigma-20-24-hour-inter-college-hackathon-riet-jaipur-rajasthan-institute-of-engineering-and-technology-jaipu-1826269",
+      "title": "Enigma 2.0 – 24-Hour National level Hackathon | Riet Jaipur",
+      "organizer": "Rajasthan institute of engineering and technology, Jaipur ",
+      "mode": "Offline",
+      "venue_address": "Rajasthan institute of engineering and technology, Jaipur , India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0549b3c3cce_whatsapp_image_2026-11-24_at_1_53_49_pm.jpeg",
+      "start_date": null,
+      "end_date": "2026-12-15T14:27:00+05:30",
+      "deadline": "2026-12-15T14:27:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/samadhan-2026-national-social-innovation-challenge-upay-underprivileged-advancements-by-youth-1724048",
       "title": "Samadhan 2026( National Social Innovation Challenge)",
       "organizer": "UPAY (Underprivileged Advancements by Youth)",
@@ -17346,6 +17422,25 @@
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
       "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b02b3f11cf58_management-development-institute.jpg",
+      "start_date": null,
+      "end_date": "2026-12-15T23:59:00+05:30",
+      "deadline": "2026-12-15T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/comemor-contributor-challenge-comemor-1825938",
+      "title": "CoMemor Contributor Challenge",
+      "organizer": "CoMemor",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0532d62baf7_logo_maker_project_11_november_2026_at_17_52_21-2_1.png",
       "start_date": null,
       "end_date": "2026-12-15T23:59:00+05:30",
       "deadline": "2026-12-15T23:59:00+05:30",
@@ -17909,6 +18004,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/codepulse-48-national-hackathon-wecodecoders-1827866",
+      "title": "CodePulse 48 - National Hackathon",
+      "organizer": "WeCodeCoders",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b06e969bd4bd_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "start_date": null,
+      "end_date": "2026-12-29T10:00:51+05:30",
+      "deadline": "2026-12-29T10:00:51+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/rajasthan-police-hackathon-2026-rajasthan-police-rajasathana-palsa-1818639",
       "title": "Rajasthan Police Hackathon 2026",
       "organizer": "Rajasthan Police (राजस्थान पुलिस)",
@@ -17976,6 +18090,25 @@
       "start_date": null,
       "end_date": "2026-12-31T12:01:00+05:30",
       "deadline": "2026-12-31T12:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/nexora-ai-national-ai-innovation-hackathon-2026-psit-college-of-engineering-psitcoe-kanpur-uttar-pradesh-1812323",
+      "title": "Nexora AI – National AI & Innovation Hackathon 2026",
+      "organizer": "PSIT College of Engineering (PSITcoe), Kanpur, Uttar Pradesh",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b043e690555b_1000219140.jpg",
+      "start_date": null,
+      "end_date": "2026-12-31T14:47:00+05:30",
+      "deadline": "2026-12-31T14:47:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -18337,6 +18470,25 @@
       "start_date": null,
       "end_date": "2027-01-16T14:00:00+05:30",
       "deadline": "2027-01-16T14:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/univion-chronos-de-novo-sieeds-1826867",
+      "title": "UNIVION: CHRONOS DE NOVO",
+      "organizer": "SIEEDS",
+      "mode": "Offline",
+      "venue_address": "SIEEDS, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b06dd2e2ee6c_seeids.png",
+      "start_date": null,
+      "end_date": "2027-01-16T19:30:00+05:30",
+      "deadline": "2027-01-16T19:30:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
