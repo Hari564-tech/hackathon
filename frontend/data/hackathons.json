@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-24T16:46:14.015200+00:00",
-  "total_count": 1000,
+  "last_synced_at": "2026-11-25T01:47:08.016657+00:00",
+  "total_count": 1002,
   "hackathons": [
     {
       "source": "Unstop",
@@ -16414,7 +16414,7 @@
       "mode": "Offline",
       "venue_address": "Indian Institute of Technology (IIT), Bombay, India",
       "city": "India",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b03df8e1cfae_",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b05e589697bf_",
       "start_date": null,
       "end_date": "2026-11-30T23:59:00+05:30",
       "deadline": "2026-11-30T23:59:00+05:30",
@@ -16965,7 +16965,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b042862e1438_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b05cfbcd272d_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
       "start_date": null,
       "end_date": "2026-12-09T22:00:31+05:30",
       "deadline": "2026-12-09T22:00:31+05:30",
@@ -17140,6 +17140,25 @@
       "start_date": null,
       "end_date": "2026-12-13T10:00:00+05:30",
       "deadline": "2026-12-13T10:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/zenith2k26-mlr-institute-of-technology-mlrit-hyderabad-1826211",
+      "title": "Zenith'2k26",
+      "organizer": "MLR Institute Of Technology (MLRIT), Hyderabad",
+      "mode": "Offline",
+      "venue_address": "MLR Institute Of Technology (MLRIT), Hyderabad, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae78a38e7d65_unstop_luma_wp_dp.png",
+      "start_date": null,
+      "end_date": "2026-12-13T13:30:42+05:30",
+      "deadline": "2026-12-13T13:30:42+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -18546,6 +18565,25 @@
       "start_date": null,
       "end_date": "2027-01-31T00:00:00+05:30",
       "deadline": "2027-01-31T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-codestorm-2026-proton-solutions-1826401",
+      "title": "AI CodeStorm 2026 ",
+      "organizer": "Proton Solutions",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b05b7c3afc03_organisation_image-Ssr2NnP6I21587053532oOzg9TtQQ9.png",
+      "start_date": null,
+      "end_date": "2027-01-31T00:01:00+05:30",
+      "deadline": "2027-01-31T00:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
