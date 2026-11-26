@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-25T16:33:35.486440+00:00",
-  "total_count": 1010,
+  "last_synced_at": "2026-11-26T01:22:41.023046+00:00",
+  "total_count": 1012,
   "hackathons": [
     {
       "source": "Unstop",
@@ -17073,6 +17073,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/snow-code-stampers-1828497",
+      "title": "Snow Code",
+      "organizer": "STAMPERS",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0728aa580e2_unnamed_2.png",
+      "start_date": null,
+      "end_date": "2026-12-11T00:00:00+05:30",
+      "deadline": "2026-12-11T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/adaptics-open-innovation-hackathon-makers-need-more-mnm-1823604",
       "title": "Adaptics - Open Innovation Hackathon",
       "organizer": "Makers Need More (MnM)",
@@ -18669,6 +18688,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/finance-next-hackathon-2026-proton-solutions-1827472",
+      "title": "Finance Next Hackathon 2026",
+      "organizer": "Proton Solutions",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b06c31b5eff7_organisation_image-Ssr2NnP6I21587053532oOzg9TtQQ9.png",
+      "start_date": null,
+      "end_date": "2027-01-30T00:01:00+05:30",
+      "deadline": "2027-01-30T00:01:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/overclock-agnel-charities-fr-c-rodrigues-institute-of-technology-vashi-navi-mumbai-1798677",
       "title": "Overclock",
       "organizer": "Agnel Charities Fr. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai",
@@ -18732,7 +18770,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b05b7c3afc03_organisation_image-Ssr2NnP6I21587053532oOzg9TtQQ9.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b071187380b6_organisation_image-Ssr2NnP6I21587053532oOzg9TtQQ9.png",
       "start_date": null,
       "end_date": "2027-01-31T00:01:00+05:30",
       "deadline": "2027-01-31T00:01:00+05:30",
