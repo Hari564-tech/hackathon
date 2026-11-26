@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-26T01:22:41.023046+00:00",
-  "total_count": 1012,
+  "last_synced_at": "2026-11-26T16:05:53.412102+00:00",
+  "total_count": 1018,
   "hackathons": [
     {
       "source": "Unstop",
@@ -16009,6 +16009,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/imagine-the-impossible-the-game-design-challenge-kalindi-college-kc-university-of-delhi-du-delhi-1826953",
+      "title": "Imagine the Impossible: The Game Design Challenge ",
+      "organizer": "Kalindi College (KC), University of Delhi (DU), Delhi",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b05bd30c7b1c_imagine_the_impossible_gaming_challenge_optimized_1000.png",
+      "start_date": null,
+      "end_date": "2026-11-28T21:00:00+05:30",
+      "deadline": "2026-11-28T21:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/pinaka-ctf-national-forensic-sciences-university-chennai-1763976",
       "title": "Pinaka CTF",
       "organizer": "National Forensic Sciences University, Chennai",
@@ -16674,6 +16693,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/promptwars-x-nexora-promptwars-x-nexora-nexora-navyug-1817824",
+      "title": "PromptWars x NEXORA ",
+      "organizer": "NEXORA Navyug",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afd92c2dcb9f_1000021672.jpg",
+      "start_date": null,
+      "end_date": "2026-12-05T23:59:00+05:30",
+      "deadline": "2026-12-05T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hacktopia-pune-2026-jspm-rajarshi-shahu-college-of-engineering-tathawade-pimpri-chinchwad-maharashtra-1774876",
       "title": "Hacktopia Pune 2026",
       "organizer": "JSPM Rajarshi Shahu College of Engineering, Tathawade, Pimpri-Chinchwad, Maharashtra",
@@ -17035,6 +17073,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/agentic-ai-hackathon-2026-proton-solutions-1828890",
+      "title": "Agentic AI Hackathon 2026",
+      "organizer": "Proton Solutions",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b0847571bb40_organisation_image-Ssr2NnP6I21587053532oOzg9TtQQ9.png",
+      "start_date": null,
+      "end_date": "2026-12-10T00:00:00+05:30",
+      "deadline": "2026-12-10T00:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/ctf-cicada-2026-birla-institute-of-technology-mesra-ranchi-1814002",
       "title": "CTF Cicada 2026",
       "organizer": "Birla Institute of Technology, Mesra, Ranchi",
@@ -17178,6 +17235,25 @@
       "start_date": null,
       "end_date": "2026-12-12T20:30:00+05:30",
       "deadline": "2026-12-12T20:30:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackday-dec-trishulx-1828678",
+      "title": "Hackday Dec",
+      "organizer": "TrishulX",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0788531b24b_hackday-dec-logo.png",
+      "start_date": null,
+      "end_date": "2026-12-12T21:00:47+05:30",
+      "deadline": "2026-12-12T21:00:47+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -17843,6 +17919,25 @@
       "start_date": null,
       "end_date": "2026-12-24T11:59:00+05:30",
       "deadline": "2026-12-24T11:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/hackxcraft-6-house-house-based-coding-challenge-e-summit26-lnct-group-of-colleges-bhopal-madhya-pradesh-1825414",
+      "title": "HackxCraft – 6-House House-Based Coding Challenge",
+      "organizer": "LNCT Group of Colleges, Bhopal, Madhya Pradesh",
+      "mode": "Offline",
+      "venue_address": "LNCT Group of Colleges, Bhopal, Madhya Pradesh, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b048ee276095_logo.jpeg",
+      "start_date": null,
+      "end_date": "2026-12-24T17:01:00+05:30",
+      "deadline": "2026-12-24T17:01:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -19211,6 +19306,25 @@
       "start_date": null,
       "end_date": "2027-03-10T12:00:00+05:30",
       "deadline": "2027-03-10T12:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/protocol-zero-boot-hack-ctf-centre-for-cybersecurity-trust-and-reliability-iit-madras-cystar-1798676",
+      "title": "Protocol Zero: Boot | Hack | CTF",
+      "organizer": "Centre for Cybersecurity, Trust and Reliability, IIT Madras (CyStar)",
+      "mode": "Offline",
+      "venue_address": "Centre for Cybersecurity, Trust and Reliability, IIT Madras (CyStar), India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b07e95dc1739_organisation_image-o5y5mIN1Za1614479982gMjO50yXgg.png",
+      "start_date": null,
+      "end_date": "2027-03-13T00:00:00+05:30",
+      "deadline": "2027-03-13T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
