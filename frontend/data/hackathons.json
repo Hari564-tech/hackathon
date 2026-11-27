@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-26T16:05:53.412102+00:00",
-  "total_count": 1018,
+  "last_synced_at": "2026-11-27T01:20:47.071935+00:00",
+  "total_count": 1022,
   "hackathons": [
     {
       "source": "Unstop",
@@ -16655,6 +16655,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/novatrix-2026-altairx-tech-1829639",
+      "title": "Novatrix 2026",
+      "organizer": "AltairX Tech",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0851f9636eb_neon_novatrix_2026_hackathon_poster-modified_1.png",
+      "start_date": null,
+      "end_date": "2026-12-04T18:00:00+05:30",
+      "deadline": "2026-12-04T18:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/logithon-2026-softlink-global-ltd-1827287",
       "title": "LogiTHON 2026",
       "organizer": "Softlink Global Ltd",
@@ -16684,25 +16703,6 @@
       "start_date": null,
       "end_date": "2026-12-05T00:00:00+05:30",
       "deadline": "2026-12-05T00:00:00+05:30",
-      "prize_pool": "₹1,50,000",
-      "tags": [
-        "College Fest",
-        "Coding",
-        "Engineering"
-      ]
-    },
-    {
-      "source": "Unstop",
-      "source_url": "https://unstop.com/hackathons/hackathons/promptwars-x-nexora-promptwars-x-nexora-nexora-navyug-1817824",
-      "title": "PromptWars x NEXORA ",
-      "organizer": "NEXORA Navyug",
-      "mode": "Online",
-      "venue_address": "Virtual (Unstop Platform)",
-      "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afd92c2dcb9f_1000021672.jpg",
-      "start_date": null,
-      "end_date": "2026-12-05T23:59:00+05:30",
-      "deadline": "2026-12-05T23:59:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -17263,6 +17263,44 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/dry-run-dsa-challenge-ibs-hyderabad-1829921",
+      "title": "Dry Run: DSA Challenge",
+      "organizer": "ICFAI Business School (IBS), Hyderabad",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b0887ec652b9_",
+      "start_date": null,
+      "end_date": "2026-12-12T22:00:00+05:30",
+      "deadline": "2026-12-12T22:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/promptwars-x-nexora-promptwars-x-nexora-nexora-navyug-1817824",
+      "title": "PromptWars x NEXORA ",
+      "organizer": "NEXORA Navyug",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afd92c2dcb9f_1000021672.jpg",
+      "start_date": null,
+      "end_date": "2026-12-12T23:59:00+05:30",
+      "deadline": "2026-12-12T23:59:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/codewarriors-india-2026-national-hackathon-buildx-1817737",
       "title": "CodeWarriors India 2026 - National Hackathon",
       "organizer": "BuildX",
@@ -17330,6 +17368,25 @@
       "start_date": null,
       "end_date": "2026-12-13T23:00:00+05:30",
       "deadline": "2026-12-13T23:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/ai-agent-development-enhancement-hackathon-proton-solutions-1829674",
+      "title": "AI Agent Development & Enhancement Hackathon",
+      "organizer": "Proton Solutions",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b087c4317a69_organisation_image-Ssr2NnP6I21587053532oOzg9TtQQ9.png",
+      "start_date": null,
+      "end_date": "2026-12-14T00:00:00+05:30",
+      "deadline": "2026-12-14T00:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
@@ -17929,7 +17986,7 @@
     {
       "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/hackxcraft-6-house-house-based-coding-challenge-e-summit26-lnct-group-of-colleges-bhopal-madhya-pradesh-1825414",
-      "title": "HackxCraft – 6-House House-Based Coding Challenge",
+      "title": "HackxCraft – A 6 hour coding challenge",
       "organizer": "LNCT Group of Colleges, Bhopal, Madhya Pradesh",
       "mode": "Offline",
       "venue_address": "LNCT Group of Colleges, Bhopal, Madhya Pradesh, India",
@@ -18907,6 +18964,25 @@
       "start_date": null,
       "end_date": "2027-01-31T15:00:00+05:30",
       "deadline": "2027-01-31T15:00:00+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/tech-eximius-30-tech-circle-1829321",
+      "title": "Tech Eximius 3.0",
+      "organizer": "Tech Circle",
+      "mode": "Offline",
+      "venue_address": "Tech Circle, India",
+      "city": "India",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b08895f3e703_organisation_image-wOwEL5HJTX847848486kuYI1A6XAi.png",
+      "start_date": null,
+      "end_date": "2027-02-03T18:00:00+05:30",
+      "deadline": "2027-02-03T18:00:00+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
