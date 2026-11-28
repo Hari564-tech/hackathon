@@ -1,6 +1,6 @@
 {
-  "last_synced_at": "2026-11-27T15:53:54.889369+00:00",
-  "total_count": 1027,
+  "last_synced_at": "2026-11-28T00:53:57.860812+00:00",
+  "total_count": 1032,
   "hackathons": [
     {
       "source": "Unstop",
@@ -18561,7 +18561,7 @@
       "mode": "Online",
       "venue_address": "Virtual (Unstop Platform)",
       "city": "Online",
-      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b095f68bef4b_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b09e2fd512b5_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
       "start_date": null,
       "end_date": "2027-01-07T10:00:00+05:30",
       "deadline": "2027-01-07T10:00:00+05:30",
@@ -19201,6 +19201,25 @@
     },
     {
       "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/craft-n-code-punjab-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iiit-1831394",
+      "title": "Craft N Code (Punjab)",
+      "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7c962bc8992_20260729_010736.png",
+      "start_date": null,
+      "end_date": "2027-02-06T16:00:13+05:30",
+      "deadline": "2027-02-06T16:00:13+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
       "source_url": "https://unstop.com/hackathons/hackathons/craft-n-code-odisha-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iiit-1773246",
       "title": "Craft N Code Odisha",
       "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
@@ -19211,6 +19230,82 @@
       "start_date": null,
       "end_date": "2027-02-06T16:00:16+05:30",
       "deadline": "2027-02-06T16:00:16+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/craft-n-code-bihar-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iiit--1831393",
+      "title": "Craft N Code (Bihar)",
+      "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7c962bc8992_20260729_010736.png",
+      "start_date": null,
+      "end_date": "2027-02-06T16:00:17+05:30",
+      "deadline": "2027-02-06T16:00:17+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/craft-n-code-jharkhand-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-i-1831390",
+      "title": "Craft N Code (Jharkhand)",
+      "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7c962bc8992_20260729_010736.png",
+      "start_date": null,
+      "end_date": "2027-02-06T16:00:24+05:30",
+      "deadline": "2027-02-06T16:00:24+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/craft-n-code-madhya-pradesh-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technol-1831389",
+      "title": "Craft N Code (Madhya Pradesh)",
+      "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7c962bc8992_20260729_010736.png",
+      "start_date": null,
+      "end_date": "2027-02-06T16:00:45+05:30",
+      "deadline": "2027-02-06T16:00:45+05:30",
+      "prize_pool": "₹1,50,000",
+      "tags": [
+        "College Fest",
+        "Coding",
+        "Engineering"
+      ]
+    },
+    {
+      "source": "Unstop",
+      "source_url": "https://unstop.com/hackathons/hackathons/craft-n-code-andhra-pradesh-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technol-1831381",
+      "title": "Craft N Code (Andhra Pradesh)",
+      "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+      "mode": "Online",
+      "venue_address": "Virtual (Unstop Platform)",
+      "city": "Online",
+      "banner_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6a7c962bc8992_20260729_010736.png",
+      "start_date": null,
+      "end_date": "2027-02-06T16:00:53+05:30",
+      "deadline": "2027-02-06T16:00:53+05:30",
       "prize_pool": "₹1,50,000",
       "tags": [
         "College Fest",
